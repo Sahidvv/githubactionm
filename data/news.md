@@ -43,3 +43,9 @@ https://hipertextual.com/tecnologia/chatgpt-anuncios-publicidad-openai/
 La empresa británica YASA ha triplicado el anterior récord de densidad energética de un motor eléctrico para automóvil, lo que supone una revolución para el sector.
 https://computerhoy.20minutos.es/movilidad/motor-electrico-yasa-nuevo-referente-ingenieros-densidad-42-kw-kg-1478351
 🗓️ 2025-08-14 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-14T23:08:41.852Z
+📰 OpenAI lanza ChatGPT Go: la forma secreta de usar GPT-5 por menos de 5 euros
+OpenAI lanza en silencio ChatGPT Go, un nuevo plan de suscripción económico que ofrece GPT-5 por 5 dólares al mes, aunque de momento solo está disponible en ciertas regiones.
+https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-go-forma-secreta-usar-gpt-5-menos-5-euros-1478343
+🗓️ 2025-08-14 • 🏷️ computerhoy.20minutos.es
