@@ -1,0 +1,27 @@
+[
+  {
+    "word": "leverage",
+    "meaning": "use something to maximum advantage",
+    "example": "I leveraged past code to ship faster."
+  },
+  {
+    "word": "trade-off",
+    "meaning": "a balance between two desirable but incompatible features",
+    "example": "We chose speed over accuracy as a trade-off."
+  },
+  {
+    "word": "scalable",
+    "meaning": "able to grow without losing performance",
+    "example": "We designed a scalable API from day one."
+  },
+  {
+    "word": "insight",
+    "meaning": "an accurate and deep understanding",
+    "example": "User interviews gave us key insights."
+  },
+  {
+    "word": "resilient",
+    "meaning": "able to recover quickly from difficulties",
+    "example": "The system is resilient to network failures."
+  }
+]

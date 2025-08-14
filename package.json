@@ -1,0 +1,10 @@
+{
+  "name": "daily-open-source-learning",
+  "version": "1.0.0",
+  "description": "Daily useful commits: English word, AI tip, and coding prompt.",
+  "type": "module",
+  "scripts": {
+    "daily": "node scripts/update.cjs"
+  },
+  "license": "MIT"
+}

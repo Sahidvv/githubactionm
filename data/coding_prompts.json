@@ -1,0 +1,7 @@
+[
+  "Escribe una función que aplane arrays anidados arbitrariamente.",
+  "Implementa un *debounce* y *throttle* puros en JavaScript.",
+  "Crea una mini API REST con Node que exponga `/health` y `/time`.",
+  "Convierte texto a *slug* cuidando acentos y caracteres especiales.",
+  "Escribe tests para una función `sum` usando solo `assert` nativo."
+]

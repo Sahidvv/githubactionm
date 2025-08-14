@@ -1,0 +1,7 @@
+[
+  "Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.",
+  "Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.",
+  "Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).",
+  "Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.",
+  "Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo."
+]
