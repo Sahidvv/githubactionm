@@ -2,7 +2,7 @@ name: daily-learning-commit
 
 on:
   schedule:
-        - cron: "0 13,19,1 * * *"
+    - cron: "0 13,19,1 * * *"  # 08:00, 14:00, 20:00 Lima (UTC-5)
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,9 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,7 +23,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Run updater
+      - name: Run updater (learning + news + Telegram)
         run: node scripts/update.cjs
 
       - name: Commit changes (if any)
@@ -29,7 +32,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "chore(daily): update learning log"
+            git commit -m "chore(run): learning log & news update"
             git push
           else
             echo "No changes to commit."

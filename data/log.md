@@ -30,3 +30,13 @@ _Eg:_ We designed a scalable API from day one.
 **Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
 
 ---
+## 2025-08-14
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+---
