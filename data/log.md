@@ -20,3 +20,13 @@ _Eg:_ We chose speed over accuracy as a trade-off.
 **Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
 
 ---
+## 2025-08-14
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+---
