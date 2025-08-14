@@ -18,7 +18,7 @@ Todo se guarda en [`data/log.md`](data/log.md) y se actualiza automáticamente c
 
 ## Ejecutar localmente
 ```bash
-node scripts/update.js
+node scripts/update.cjs
 git add .
 git commit -m "chore(daily): update log"
 ```

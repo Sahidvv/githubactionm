@@ -21,7 +21,7 @@ jobs:
           node-version: "20"
 
       - name: Run updater
-        run: node scripts/update.js
+        run: node scripts/update.cjs
 
       - name: Commit changes (if any)
         run: |
