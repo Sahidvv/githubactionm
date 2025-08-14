@@ -49,3 +49,9 @@ https://computerhoy.20minutos.es/movilidad/motor-electrico-yasa-nuevo-referente-
 OpenAI lanza en silencio ChatGPT Go, un nuevo plan de suscripción económico que ofrece GPT-5 por 5 dólares al mes, aunque de momento solo está disponible en ciertas regiones.
 https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-go-forma-secreta-usar-gpt-5-menos-5-euros-1478343
 🗓️ 2025-08-14 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-14T23:13:13.171Z
+📰 Microsoft adelanta cómo será el próximo Windows 12: más voz, más IA y menos clics
+Microsoft desvela pistas sobre cómo será la próxima gran versión de Windows, en concreto, dejando de lado el teclado y el ratón y apostando más por la voz y, evidentemente, la inteligencia artificial.
+https://computerhoy.20minutos.es/tecnologia/microsoft-adelanta-como-sera-proximo-windows-12-voz-ia-menos-clics-1478342
+🗓️ 2025-08-14 • 🏷️ computerhoy.20minutos.es
