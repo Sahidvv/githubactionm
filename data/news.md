@@ -73,3 +73,9 @@ https://elpais.com/tecnologia/2025-08-15/veronica-alvarez-matematica-los-algorit
 Un conocido insider asegura que Call of Duty: Black Ops 7 llegará el 14 de noviembre de este año. Es una fecha que tiene sentido, y resulta perfectamente creíble, aunque de momento no tiene confirmación oficial, así que no podemos darla com…
 https://www.muycomputer.com/2025/08/15/call-of-duty-black-ops-7-se-lanza-el-14-de-noviembre-no-llegara-a-nintendo-switch-2/
 🗓️ 2025-08-15 • 🏷️ muycomputer.com
+
+### 2025-08-15T14:06:12.059Z
+📰 Un jubilado de 75 años pide el divorcio a su mujer tras enamorarse de una joven generada con IA
+La inteligencia artificial ya está rompiendo matrimonios en China, incluso con décadas de antigüedad. La IA detecta carencias afectivas, y se aprovecha de ellas.
+https://computerhoy.20minutos.es/tecnologia/jubilado-75-anos-pide-divorcio-mujer-enamorarse-joven-generada-ia-1478424
+🗓️ 2025-08-15 • 🏷️ computerhoy.20minutos.es
