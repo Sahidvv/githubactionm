@@ -67,3 +67,9 @@ https://hipertextual.com/internet/navegador-web-openai-chatgpt-agente-autonomo-i
 La joven investigadora ha sido galardonada por la Fundación BBVA por su aporte en el desarrollo de modelos estadísticos para aplicar algoritmos en ámbitos tan diversos como anticipar picos en la red eléctrica, la ciberseguridad o en la medi…
 https://elpais.com/tecnologia/2025-08-15/veronica-alvarez-matematica-los-algoritmos-son-herramientas-que-nos-ayudan-a-tomar-decisiones-no-vienen-a-reemplazarnos.html
 🗓️ 2025-08-15 • 🏷️ elpais.com
+
+### 2025-08-15T13:30:51.078Z
+📰 Call of Duty: Black Ops 7 se lanza el 14 de noviembre, no llegará a Nintendo Switch 2
+Un conocido insider asegura que Call of Duty: Black Ops 7 llegará el 14 de noviembre de este año. Es una fecha que tiene sentido, y resulta perfectamente creíble, aunque de momento no tiene confirmación oficial, así que no podemos darla com…
+https://www.muycomputer.com/2025/08/15/call-of-duty-black-ops-7-se-lanza-el-14-de-noviembre-no-llegara-a-nintendo-switch-2/
+🗓️ 2025-08-15 • 🏷️ muycomputer.com
