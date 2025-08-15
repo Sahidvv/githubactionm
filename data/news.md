@@ -61,3 +61,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-adelanta-como-sera-proximo
 Una nueva filtración ha revelado más detalles sobre el rumoreado navegador de OpenAI. Según la información, la compañía usará el modo Agente de ChatGPT para acceder a la web y ejecutar tareas sin interacción de un humano. OpenAI quiere revo…
 https://hipertextual.com/internet/navegador-web-openai-chatgpt-agente-autonomo-ia/
 🗓️ 2025-08-15 • 🏷️ hipertextual.com
+
+### 2025-08-15T04:45:32.469Z
+📰 Verónica Álvarez, matemática: “Los algoritmos son herramientas que nos ayudan a tomar decisiones, no vienen a reemplazarnos”
+La joven investigadora ha sido galardonada por la Fundación BBVA por su aporte en el desarrollo de modelos estadísticos para aplicar algoritmos en ámbitos tan diversos como anticipar picos en la red eléctrica, la ciberseguridad o en la medi…
+https://elpais.com/tecnologia/2025-08-15/veronica-alvarez-matematica-los-algoritmos-son-herramientas-que-nos-ayudan-a-tomar-decisiones-no-vienen-a-reemplazarnos.html
+🗓️ 2025-08-15 • 🏷️ elpais.com
