@@ -40,3 +40,19 @@ _Eg:_ User interviews gave us key insights.
 **Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
 
 ---
+## 2025-08-15
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El navegador web de OpenAI usará a ChatGPT para pensar y actuar por ti
+Una nueva filtración ha revelado más detalles sobre el rumoreado navegador de OpenAI. Según la información, la compañía usará el modo Agente de ChatGPT para acceder a la web y ejecutar tareas sin interacción de un humano. OpenAI quiere revo…
+https://hipertextual.com/internet/navegador-web-openai-chatgpt-agente-autonomo-ia/
+🗓️ 2025-08-15 • 🏷️ hipertextual.com
+
+---

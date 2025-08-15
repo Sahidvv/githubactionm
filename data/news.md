@@ -55,3 +55,9 @@ https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-go-forma-secret
 Microsoft desvela pistas sobre cómo será la próxima gran versión de Windows, en concreto, dejando de lado el teclado y el ratón y apostando más por la voz y, evidentemente, la inteligencia artificial.
 https://computerhoy.20minutos.es/tecnologia/microsoft-adelanta-como-sera-proximo-windows-12-voz-ia-menos-clics-1478342
 🗓️ 2025-08-14 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-15T02:51:05.716Z
+📰 El navegador web de OpenAI usará a ChatGPT para pensar y actuar por ti
+Una nueva filtración ha revelado más detalles sobre el rumoreado navegador de OpenAI. Según la información, la compañía usará el modo Agente de ChatGPT para acceder a la web y ejecutar tareas sin interacción de un humano. OpenAI quiere revo…
+https://hipertextual.com/internet/navegador-web-openai-chatgpt-agente-autonomo-ia/
+🗓️ 2025-08-15 • 🏷️ hipertextual.com
