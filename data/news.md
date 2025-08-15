@@ -79,3 +79,9 @@ https://www.muycomputer.com/2025/08/15/call-of-duty-black-ops-7-se-lanza-el-14-d
 La inteligencia artificial ya está rompiendo matrimonios en China, incluso con décadas de antigüedad. La IA detecta carencias afectivas, y se aprovecha de ellas.
 https://computerhoy.20minutos.es/tecnologia/jubilado-75-anos-pide-divorcio-mujer-enamorarse-joven-generada-ia-1478424
 🗓️ 2025-08-15 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-15T19:15:58.382Z
+📰 ChatGPT podría llenarse de anuncios: OpenAI no descarta monetizar su IA con publicidad
+OpenAI no descarta mostrar anuncios en ChatGPT en el futuro, y, si bien las suscripciones siguen haciendo crecer al servicio, quieren explorar nuevas vías de ingresos.
+https://computerhoy.20minutos.es/tecnologia/chatgpt-podria-llenarse-anuncios-openai-no-descarta-monetizar-ia-publicidad-1478471
+🗓️ 2025-08-15 • 🏷️ computerhoy.20minutos.es
