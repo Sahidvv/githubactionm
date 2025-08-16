@@ -91,3 +91,9 @@ https://computerhoy.20minutos.es/tecnologia/chatgpt-podria-llenarse-anuncios-ope
 LibreOffice mantiene su ofensiva contra Microsoft y sus prácticas de negocio. A unas semanas de acusar al gigante tecnológico de usar Office para bloquear la competencia, los creadores del software libre vuelven a la carga. La fundación TDF…
 https://hipertextual.com/software/libreoffice-acusa-microsoft-wps-bloquear-formato-odf/
 🗓️ 2025-08-15 • 🏷️ hipertextual.com
+
+### 2025-08-16T13:27:06.694Z
+📰 Apple Watch Series 11 y Ultra 3 traerán más sensores, rediseño y mayor eficiencia en 2026
+El próximo Apple Watch Series 11 y el Ultra 3 traerían tres cambios clave para su lanzamiento en 2026: más sensores, cambios en el diseño exterior y mejoras significativas en eficiencia energética.
+https://computerhoy.20minutos.es/dispositivos/apple-watch-series-11-ultra-3-traeran-sensores-rediseno-mayor-eficiencia-2026-1478541
+🗓️ 2025-08-16 • 🏷️ computerhoy.20minutos.es
