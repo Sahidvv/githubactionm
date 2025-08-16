@@ -97,3 +97,9 @@ https://hipertextual.com/software/libreoffice-acusa-microsoft-wps-bloquear-forma
 El próximo Apple Watch Series 11 y el Ultra 3 traerían tres cambios clave para su lanzamiento en 2026: más sensores, cambios en el diseño exterior y mejoras significativas en eficiencia energética.
 https://computerhoy.20minutos.es/dispositivos/apple-watch-series-11-ultra-3-traeran-sensores-rediseno-mayor-eficiencia-2026-1478541
 🗓️ 2025-08-16 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-16T19:15:10.068Z
+📰 Google prepara un foro para gamers integrado en la Play Store
+Google estaría desarrollando un foro comunitario integrado en la Play Store, donde los gamers podrán compartir consejos, hacer preguntas y participar en debates relacionados con los juegos.
+https://computerhoy.20minutos.es/tecnologia/google-prepara-foro-gamers-integrado-play-store-1478555
+🗓️ 2025-08-16 • 🏷️ computerhoy.20minutos.es
