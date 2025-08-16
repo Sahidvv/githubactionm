@@ -56,3 +56,19 @@ https://hipertextual.com/internet/navegador-web-openai-chatgpt-agente-autonomo-i
 🗓️ 2025-08-15 • 🏷️ hipertextual.com
 
 ---
+## 2025-08-16
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 LibreOffice acusa a Microsoft, WPS y OnlyOffice de bloquear tu libertad digital
+LibreOffice mantiene su ofensiva contra Microsoft y sus prácticas de negocio. A unas semanas de acusar al gigante tecnológico de usar Office para bloquear la competencia, los creadores del software libre vuelven a la carga. La fundación TDF…
+https://hipertextual.com/software/libreoffice-acusa-microsoft-wps-bloquear-formato-odf/
+🗓️ 2025-08-15 • 🏷️ hipertextual.com
+
+---

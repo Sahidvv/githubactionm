@@ -85,3 +85,9 @@ https://computerhoy.20minutos.es/tecnologia/jubilado-75-anos-pide-divorcio-mujer
 OpenAI no descarta mostrar anuncios en ChatGPT en el futuro, y, si bien las suscripciones siguen haciendo crecer al servicio, quieren explorar nuevas vías de ingresos.
 https://computerhoy.20minutos.es/tecnologia/chatgpt-podria-llenarse-anuncios-openai-no-descarta-monetizar-ia-publicidad-1478471
 🗓️ 2025-08-15 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-16T02:43:01.281Z
+📰 LibreOffice acusa a Microsoft, WPS y OnlyOffice de bloquear tu libertad digital
+LibreOffice mantiene su ofensiva contra Microsoft y sus prácticas de negocio. A unas semanas de acusar al gigante tecnológico de usar Office para bloquear la competencia, los creadores del software libre vuelven a la carga. La fundación TDF…
+https://hipertextual.com/software/libreoffice-acusa-microsoft-wps-bloquear-formato-odf/
+🗓️ 2025-08-15 • 🏷️ hipertextual.com
