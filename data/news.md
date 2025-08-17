@@ -103,3 +103,9 @@ https://computerhoy.20minutos.es/dispositivos/apple-watch-series-11-ultra-3-trae
 Google estaría desarrollando un foro comunitario integrado en la Play Store, donde los gamers podrán compartir consejos, hacer preguntas y participar en debates relacionados con los juegos.
 https://computerhoy.20minutos.es/tecnologia/google-prepara-foro-gamers-integrado-play-store-1478555
 🗓️ 2025-08-16 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-17T02:54:55.846Z
+📰 Qué hay detrás de la avalancha de críticas al nuevo ChatGPT por borde
+El foco en la personalidad de GPT-5 evidencia que esta nueva IA, presentada a bombo y platillo la semana pasada tras años de desarrolllo, no ha supuesto el gran salto que OpenAI prometíaLa 'comprensión potemkin': el motivo por el que las in…
+https://www.eldiario.es/tecnologia/hay-detras-avalancha-criticas-nuevo-chatgpt-borde_1_12532061.html
+🗓️ 2025-08-16 • 🏷️ eldiario.es

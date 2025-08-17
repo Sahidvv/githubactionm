@@ -72,3 +72,19 @@ https://hipertextual.com/software/libreoffice-acusa-microsoft-wps-bloquear-forma
 🗓️ 2025-08-15 • 🏷️ hipertextual.com
 
 ---
+## 2025-08-17
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Qué hay detrás de la avalancha de críticas al nuevo ChatGPT por borde
+El foco en la personalidad de GPT-5 evidencia que esta nueva IA, presentada a bombo y platillo la semana pasada tras años de desarrolllo, no ha supuesto el gran salto que OpenAI prometíaLa 'comprensión potemkin': el motivo por el que las in…
+https://www.eldiario.es/tecnologia/hay-detras-avalancha-criticas-nuevo-chatgpt-borde_1_12532061.html
+🗓️ 2025-08-16 • 🏷️ eldiario.es
+
+---
