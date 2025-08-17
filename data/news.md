@@ -109,3 +109,9 @@ https://computerhoy.20minutos.es/tecnologia/google-prepara-foro-gamers-integrado
 El foco en la personalidad de GPT-5 evidencia que esta nueva IA, presentada a bombo y platillo la semana pasada tras años de desarrolllo, no ha supuesto el gran salto que OpenAI prometíaLa 'comprensión potemkin': el motivo por el que las in…
 https://www.eldiario.es/tecnologia/hay-detras-avalancha-criticas-nuevo-chatgpt-borde_1_12532061.html
 🗓️ 2025-08-16 • 🏷️ eldiario.es
+
+### 2025-08-17T13:28:12.374Z
+📰 Firefox deja de funcionar en algunas versiones antiguas de Windows 10… pero es solo un error
+Firefox 143 falla en versiones antiguas de Windows 10 debido a un error en la compilación Nightly, y Mozilla ha tenido que intervenir para aclarar lo que está pasando.
+https://computerhoy.20minutos.es/tecnologia/firefox-deja-funcionar-algunas-versiones-antiguas-windows-10-pero-solo-error-1478591
+🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
