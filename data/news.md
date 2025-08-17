@@ -115,3 +115,9 @@ https://www.eldiario.es/tecnologia/hay-detras-avalancha-criticas-nuevo-chatgpt-b
 Firefox 143 falla en versiones antiguas de Windows 10 debido a un error en la compilación Nightly, y Mozilla ha tenido que intervenir para aclarar lo que está pasando.
 https://computerhoy.20minutos.es/tecnologia/firefox-deja-funcionar-algunas-versiones-antiguas-windows-10-pero-solo-error-1478591
 🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-17T19:15:28.400Z
+📰 Chrome en peligro: OpenAI está desarrollando un navegador con IA basado en Chromium, para sustituir a Google
+El futuro de las páginas web, y de Internet, está a punto de cambiar, con los navegadores con IA que Perplexity y OpenAI ya están preparando.
+https://computerhoy.20minutos.es/tecnologia/chrome-peligro-openai-desarrollando-navegador-ia-basado-chromium-1478611
+🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
