@@ -127,3 +127,9 @@ https://computerhoy.20minutos.es/tecnologia/chrome-peligro-openai-desarrollando-
 La marca Suzuki ha puesto a la venta un nuevo producto en Japón, y no es un coche ni una moto, ni siquiera un patinete eléctrico, aunque está teniendo un gran éxito.
 https://computerhoy.20minutos.es/movilidad/nuevo-producto-fabricante-coches-motos-suzuki-salsa-curry-1478626
 🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-18T13:35:49.908Z
+📰 El riesgo de que la superinteligencia artificial extinga a la humanidad ya es del 25%, dicen los expertos
+Muchos expertos no solo consideran que ChatGPT y demás herramientas similares pueden ser una amenaza, sino que ya han puesto fecha a la catástrofe: 2030.
+https://computerhoy.20minutos.es/tecnologia/riesgo-superinteligencia-artificial-extinga-humanidad-ya-25-dicen-expertos-1478673
+🗓️ 2025-08-18 • 🏷️ computerhoy.20minutos.es
