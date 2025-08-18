@@ -121,3 +121,9 @@ https://computerhoy.20minutos.es/tecnologia/firefox-deja-funcionar-algunas-versi
 El futuro de las páginas web, y de Internet, está a punto de cambiar, con los navegadores con IA que Perplexity y OpenAI ya están preparando.
 https://computerhoy.20minutos.es/tecnologia/chrome-peligro-openai-desarrollando-navegador-ia-basado-chromium-1478611
 🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-18T02:58:15.159Z
+📰 No te vas a creer cuál es el nuevo producto del fabricante de coches y motos Suzuki, pero tiene todo el sentido
+La marca Suzuki ha puesto a la venta un nuevo producto en Japón, y no es un coche ni una moto, ni siquiera un patinete eléctrico, aunque está teniendo un gran éxito.
+https://computerhoy.20minutos.es/movilidad/nuevo-producto-fabricante-coches-motos-suzuki-salsa-curry-1478626
+🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es

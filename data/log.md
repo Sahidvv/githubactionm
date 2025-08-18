@@ -88,3 +88,19 @@ https://www.eldiario.es/tecnologia/hay-detras-avalancha-criticas-nuevo-chatgpt-b
 🗓️ 2025-08-16 • 🏷️ eldiario.es
 
 ---
+## 2025-08-18
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 No te vas a creer cuál es el nuevo producto del fabricante de coches y motos Suzuki, pero tiene todo el sentido
+La marca Suzuki ha puesto a la venta un nuevo producto en Japón, y no es un coche ni una moto, ni siquiera un patinete eléctrico, aunque está teniendo un gran éxito.
+https://computerhoy.20minutos.es/movilidad/nuevo-producto-fabricante-coches-motos-suzuki-salsa-curry-1478626
+🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
+
+---
