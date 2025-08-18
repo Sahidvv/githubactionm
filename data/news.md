@@ -133,3 +133,9 @@ https://computerhoy.20minutos.es/movilidad/nuevo-producto-fabricante-coches-moto
 Muchos expertos no solo consideran que ChatGPT y demás herramientas similares pueden ser una amenaza, sino que ya han puesto fecha a la catástrofe: 2030.
 https://computerhoy.20minutos.es/tecnologia/riesgo-superinteligencia-artificial-extinga-humanidad-ya-25-dicen-expertos-1478673
 🗓️ 2025-08-18 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-18T19:17:24.306Z
+📰 Estados Unidos analiza comprar una parte de Intel y convertirse en su principal accionista
+La novela entre Intel y el gobierno de Estados Unidos que lidera Donald Trump estaría a punto de escribir un nuevo capítulo. Según reporta Bloomberg, la Casa Blanca se encuentra actualmente en tratativas para obtener una participación en la…
+https://hipertextual.com/economia-empresas/estados-unidos-analiza-comprar-10-por-ciento-intel/
+🗓️ 2025-08-18 • 🏷️ hipertextual.com
