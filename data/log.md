@@ -104,3 +104,19 @@ https://computerhoy.20minutos.es/movilidad/nuevo-producto-fabricante-coches-moto
 🗓️ 2025-08-17 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-19
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Este CEO despidió al 80% de sus empleados por ser anti IA: "Fue una decisión extremadamente difícil"
+Eric Vaughan, director ejecutivo de IgniteTech, convirtió la inteligencia artificial en una prioridad. Con ese objetivo, impulsó jornadas de trabajo dedicadas exclusivamente a proyectos basados en IA.
+https://computerhoy.20minutos.es/tecnologia/ceo-despidio-80-empleados-ser-anti-ia-fue-decision-extremadamente-dificil-1478840
+🗓️ 2025-08-19 • 🏷️ computerhoy.20minutos.es
+
+---

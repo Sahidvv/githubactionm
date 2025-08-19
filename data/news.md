@@ -139,3 +139,9 @@ https://computerhoy.20minutos.es/tecnologia/riesgo-superinteligencia-artificial-
 La novela entre Intel y el gobierno de Estados Unidos que lidera Donald Trump estaría a punto de escribir un nuevo capítulo. Según reporta Bloomberg, la Casa Blanca se encuentra actualmente en tratativas para obtener una participación en la…
 https://hipertextual.com/economia-empresas/estados-unidos-analiza-comprar-10-por-ciento-intel/
 🗓️ 2025-08-18 • 🏷️ hipertextual.com
+
+### 2025-08-19T02:40:50.839Z
+📰 Este CEO despidió al 80% de sus empleados por ser anti IA: "Fue una decisión extremadamente difícil"
+Eric Vaughan, director ejecutivo de IgniteTech, convirtió la inteligencia artificial en una prioridad. Con ese objetivo, impulsó jornadas de trabajo dedicadas exclusivamente a proyectos basados en IA.
+https://computerhoy.20minutos.es/tecnologia/ceo-despidio-80-empleados-ser-anti-ia-fue-decision-extremadamente-dificil-1478840
+🗓️ 2025-08-19 • 🏷️ computerhoy.20minutos.es
