@@ -151,3 +151,9 @@ https://computerhoy.20minutos.es/tecnologia/ceo-despidio-80-empleados-ser-anti-i
 Después de varios meses de incertidumbre, Apple puede respirar con tranquilidad. Reino Unido ha reculado y finalmente no le exigirá que implemente una puerta trasera en iCloud para espiar a sus usuarios. Así lo confirmó Tulsi Gabbard, la di…
 https://hipertextual.com/privacidad/apple-icloud-puerta-trasera-reino-unido/
 🗓️ 2025-08-19 • 🏷️ hipertextual.com
+
+### 2025-08-19T19:15:34.003Z
+📰 Tu iPhone ahora te avisará antes de quedarse sin batería gracias a iOS 26
+La Beta 7 de iOS 26, que ya está disponible, incluye la interesantísima función Adaptive Power, diseñada para extender la vida de la batería ajustando de forma sutil el rendimiento del dispositivo.
+https://computerhoy.20minutos.es/tecnologia/iphone-ahora-te-avisara-antes-quedarse-bateria-gracias-ios-26-1479046
+🗓️ 2025-08-19 • 🏷️ computerhoy.20minutos.es
