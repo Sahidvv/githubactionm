@@ -145,3 +145,9 @@ https://hipertextual.com/economia-empresas/estados-unidos-analiza-comprar-10-por
 Eric Vaughan, director ejecutivo de IgniteTech, convirtió la inteligencia artificial en una prioridad. Con ese objetivo, impulsó jornadas de trabajo dedicadas exclusivamente a proyectos basados en IA.
 https://computerhoy.20minutos.es/tecnologia/ceo-despidio-80-empleados-ser-anti-ia-fue-decision-extremadamente-dificil-1478840
 🗓️ 2025-08-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-19T13:30:01.554Z
+📰 Apple se salva del escándalo: Reino Unido no espiará a los usuarios de iCloud, y Tim Cook respira
+Después de varios meses de incertidumbre, Apple puede respirar con tranquilidad. Reino Unido ha reculado y finalmente no le exigirá que implemente una puerta trasera en iCloud para espiar a sus usuarios. Así lo confirmó Tulsi Gabbard, la di…
+https://hipertextual.com/privacidad/apple-icloud-puerta-trasera-reino-unido/
+🗓️ 2025-08-19 • 🏷️ hipertextual.com
