@@ -157,3 +157,9 @@ https://hipertextual.com/privacidad/apple-icloud-puerta-trasera-reino-unido/
 La Beta 7 de iOS 26, que ya está disponible, incluye la interesantísima función Adaptive Power, diseñada para extender la vida de la batería ajustando de forma sutil el rendimiento del dispositivo.
 https://computerhoy.20minutos.es/tecnologia/iphone-ahora-te-avisara-antes-quedarse-bateria-gracias-ios-26-1479046
 🗓️ 2025-08-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-20T02:38:49.412Z
+📰 ¿Microsoft da marcha atrás? Ordenadores sin TPM 2.0 comienzan a recibir la actualización a Windows 11, incluso si no son compatibles
+Varios usuarios reportan que ya pueden actualizar de Windows 10 a Windows 11 sin cumplir con TPM 2.0. Esto contradice los requisitos publicados por Microsoft, que siguen exigiendo el chip de seguridad.
+https://computerhoy.20minutos.es/tecnologia/microsoft-da-marcha-atras-ordenadores-tpm-20-comienzan-recibir-actualizacion-windows-11-incluso-no-son-compatibles-1479074
+🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es

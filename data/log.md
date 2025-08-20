@@ -120,3 +120,19 @@ https://computerhoy.20minutos.es/tecnologia/ceo-despidio-80-empleados-ser-anti-i
 🗓️ 2025-08-19 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-20
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ¿Microsoft da marcha atrás? Ordenadores sin TPM 2.0 comienzan a recibir la actualización a Windows 11, incluso si no son compatibles
+Varios usuarios reportan que ya pueden actualizar de Windows 10 a Windows 11 sin cumplir con TPM 2.0. Esto contradice los requisitos publicados por Microsoft, que siguen exigiendo el chip de seguridad.
+https://computerhoy.20minutos.es/tecnologia/microsoft-da-marcha-atras-ordenadores-tpm-20-comienzan-recibir-actualizacion-windows-11-incluso-no-son-compatibles-1479074
+🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
+
+---
