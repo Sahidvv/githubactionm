@@ -169,3 +169,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-da-marcha-atras-ordenadore
 Cada vez existen fraudes a través de Internet más sofisticados y personalizados, y los ciberdelincuentes se toman todo el tiempo del mundo para aplicarlos.
 https://computerhoy.20minutos.es/fintech/policia-nacional-advierte-estafas-ingenieria-social-ganan-confianza-durante-dias-meses-1479165
 🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-20T19:15:51.854Z
+📰 Carlos Pérez, mecánico, revela el mejor truco para evitar fugas en el aire acondicionado de tu coche: “Basta con cinco minutos”
+El aire acondicionado de tu coche podría tener una fuga o malos olores. El mejor mecánico de España 2024 recomienda que se eviten estas situaciones para ahorrar dinero.
+https://computerhoy.20minutos.es/movilidad/carlos-perez-mecanico-revela-mejor-truco-evitar-fugas-aire-acondicionado-coche-basta-cinco-minutos-1479278
+🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
