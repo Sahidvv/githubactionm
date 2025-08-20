@@ -163,3 +163,9 @@ https://computerhoy.20minutos.es/tecnologia/iphone-ahora-te-avisara-antes-quedar
 Varios usuarios reportan que ya pueden actualizar de Windows 10 a Windows 11 sin cumplir con TPM 2.0. Esto contradice los requisitos publicados por Microsoft, que siguen exigiendo el chip de seguridad.
 https://computerhoy.20minutos.es/tecnologia/microsoft-da-marcha-atras-ordenadores-tpm-20-comienzan-recibir-actualizacion-windows-11-incluso-no-son-compatibles-1479074
 🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-20T13:30:33.473Z
+📰 La Policía Nacional advierte de las estafas de ingeniería social: "Se ganan tu confianza durante días o meses"
+Cada vez existen fraudes a través de Internet más sofisticados y personalizados, y los ciberdelincuentes se toman todo el tiempo del mundo para aplicarlos.
+https://computerhoy.20minutos.es/fintech/policia-nacional-advierte-estafas-ingenieria-social-ganan-confianza-durante-dias-meses-1479165
+🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
