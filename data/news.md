@@ -181,3 +181,9 @@ https://computerhoy.20minutos.es/movilidad/carlos-perez-mecanico-revela-mejor-tr
 Las ciencias sociales serán claves en la era de la IA. Psicólogos, antropólogos, sociólogos y neurocientíficos están empezando a analizar datos desde una perspectiva humana.
 https://computerhoy.20minutos.es/tendencias/engel-fonseca-experto-ia-revela-carreras-mayor-futuro-tienen-ver-ciencias-sociales-razon-poderosa-1479300
 🗓️ 2025-08-21 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-21T13:29:59.100Z
+📰 El nuevo AI Mode de Google llega a Latinoamérica: en qué países está disponible y cómo usarlo
+El AI Mode de Google es una de las más grandes innovaciones que la compañía de Mountain View ha implementado en su buscador web. Como bien lo indica su nombre, lo que hace esta modalidad es sacar provecho de la inteligencia artificial de Ge…
+https://hipertextual.com/internet/ai-mode-google-latinoamerica-que-paises-como-usarlo/
+🗓️ 2025-08-21 • 🏷️ hipertextual.com
