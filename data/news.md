@@ -175,3 +175,9 @@ https://computerhoy.20minutos.es/fintech/policia-nacional-advierte-estafas-ingen
 El aire acondicionado de tu coche podría tener una fuga o malos olores. El mejor mecánico de España 2024 recomienda que se eviten estas situaciones para ahorrar dinero.
 https://computerhoy.20minutos.es/movilidad/carlos-perez-mecanico-revela-mejor-truco-evitar-fugas-aire-acondicionado-coche-basta-cinco-minutos-1479278
 🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-21T02:38:31.926Z
+📰 Engel Fonseca, experto en IA, revela las carreras con mayor futuro: "Tienen que ver con las ciencias sociales por una razón poderosa"
+Las ciencias sociales serán claves en la era de la IA. Psicólogos, antropólogos, sociólogos y neurocientíficos están empezando a analizar datos desde una perspectiva humana.
+https://computerhoy.20minutos.es/tendencias/engel-fonseca-experto-ia-revela-carreras-mayor-futuro-tienen-ver-ciencias-sociales-razon-poderosa-1479300
+🗓️ 2025-08-21 • 🏷️ computerhoy.20minutos.es

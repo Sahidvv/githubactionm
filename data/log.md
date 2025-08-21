@@ -136,3 +136,19 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-da-marcha-atras-ordenadore
 🗓️ 2025-08-20 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-21
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Engel Fonseca, experto en IA, revela las carreras con mayor futuro: "Tienen que ver con las ciencias sociales por una razón poderosa"
+Las ciencias sociales serán claves en la era de la IA. Psicólogos, antropólogos, sociólogos y neurocientíficos están empezando a analizar datos desde una perspectiva humana.
+https://computerhoy.20minutos.es/tendencias/engel-fonseca-experto-ia-revela-carreras-mayor-futuro-tienen-ver-ciencias-sociales-razon-poderosa-1479300
+🗓️ 2025-08-21 • 🏷️ computerhoy.20minutos.es
+
+---
