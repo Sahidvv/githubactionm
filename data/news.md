@@ -187,3 +187,9 @@ https://computerhoy.20minutos.es/tendencias/engel-fonseca-experto-ia-revela-carr
 El AI Mode de Google es una de las más grandes innovaciones que la compañía de Mountain View ha implementado en su buscador web. Como bien lo indica su nombre, lo que hace esta modalidad es sacar provecho de la inteligencia artificial de Ge…
 https://hipertextual.com/internet/ai-mode-google-latinoamerica-que-paises-como-usarlo/
 🗓️ 2025-08-21 • 🏷️ hipertextual.com
+
+### 2025-08-21T19:15:34.825Z
+📰 Microsoft recula: Copilot no podrá “espiar” tus reuniones de Teams (por ahora)
+La integración de Copilot en Microsoft Teams se ha topado con un obstáculo, pues los de Redmond han decidido frenar la implementación de una característica que prometía polémica. La compañía finalmente no permitirá que su inteligencia artif…
+https://hipertextual.com/internet/copilot-no-podra-espiar-reuniones-microsoft-teams/
+🗓️ 2025-08-21 • 🏷️ hipertextual.com
