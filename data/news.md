@@ -199,3 +199,9 @@ https://hipertextual.com/internet/copilot-no-podra-espiar-reuniones-microsoft-te
 Científicos españoles descubrieron cañones situados a 4.000 metros bajo el mar. El hallazgo ayuda a comprender cómo se han comportado las capas de hielo a lo largo de millones de años.
 https://computerhoy.20minutos.es/tendencias/hielo-antartida-esconde-misterio-332-canones-submarinos-podrian-cambiarlo-todo-1479504
 🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-22T13:28:54.171Z
+📰 El mayor competidor de DIGI TV y Movistar Plus+ les deja vía libre: perderá siete canales en septiembre
+Vodafone TV va a eliminar siete de los canales más populares de su plataforma el 1 de septiembre, los mayores beneficiados podrían ser Movistar Plus+ y DIGI TV.
+https://computerhoy.20minutos.es/entretenimiento/mayor-competidor-digi-tv-movistar-plus-deja-libre-perdera-siete-canales-septiembre-1479597
+🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
