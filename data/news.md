@@ -205,3 +205,9 @@ https://computerhoy.20minutos.es/tendencias/hielo-antartida-esconde-misterio-332
 Vodafone TV va a eliminar siete de los canales más populares de su plataforma el 1 de septiembre, los mayores beneficiados podrían ser Movistar Plus+ y DIGI TV.
 https://computerhoy.20minutos.es/entretenimiento/mayor-competidor-digi-tv-movistar-plus-deja-libre-perdera-siete-canales-septiembre-1479597
 🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-22T19:15:50.596Z
+📰 Malas noticias para los streamers: la última actualización de Windows 11 afecta a transmisiones en vivo
+La última actualización acumulativa para Windows 11 está causando problemas graves en la transmisión mediante NDI, generando reproducciones entrecortadas en los directos de los streams.
+https://computerhoy.20minutos.es/tecnologia/malas-noticias-streamers-ultima-actualizacion-windows-11-afecta-transmisiones-vivo-1479686
+🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
