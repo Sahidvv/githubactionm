@@ -193,3 +193,9 @@ https://hipertextual.com/internet/ai-mode-google-latinoamerica-que-paises-como-u
 La integración de Copilot en Microsoft Teams se ha topado con un obstáculo, pues los de Redmond han decidido frenar la implementación de una característica que prometía polémica. La compañía finalmente no permitirá que su inteligencia artif…
 https://hipertextual.com/internet/copilot-no-podra-espiar-reuniones-microsoft-teams/
 🗓️ 2025-08-21 • 🏷️ hipertextual.com
+
+### 2025-08-22T02:38:49.492Z
+📰 Bajo el hielo de la Antártida se esconde un misterio: 332 cañones submarinos que podrían cambiarlo todo
+Científicos españoles descubrieron cañones situados a 4.000 metros bajo el mar. El hallazgo ayuda a comprender cómo se han comportado las capas de hielo a lo largo de millones de años.
+https://computerhoy.20minutos.es/tendencias/hielo-antartida-esconde-misterio-332-canones-submarinos-podrian-cambiarlo-todo-1479504
+🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es

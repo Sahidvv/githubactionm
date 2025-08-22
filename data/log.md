@@ -152,3 +152,19 @@ https://computerhoy.20minutos.es/tendencias/engel-fonseca-experto-ia-revela-carr
 🗓️ 2025-08-21 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-22
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Bajo el hielo de la Antártida se esconde un misterio: 332 cañones submarinos que podrían cambiarlo todo
+Científicos españoles descubrieron cañones situados a 4.000 metros bajo el mar. El hallazgo ayuda a comprender cómo se han comportado las capas de hielo a lo largo de millones de años.
+https://computerhoy.20minutos.es/tendencias/hielo-antartida-esconde-misterio-332-canones-submarinos-podrian-cambiarlo-todo-1479504
+🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
+
+---
