@@ -217,3 +217,9 @@ https://computerhoy.20minutos.es/tecnologia/malas-noticias-streamers-ultima-actu
 A partir de octubre, la app de notas digitales pasará a modo solo lectura: podrás consultar tus notas antiguas, pero ya no será posible crear, editar ni sincronizar contenido.
 https://computerhoy.20minutos.es/tecnologia/microsoft-pone-fecha-caducidad-onenote-windows-10-como-migrar-datos-no-perderlos-1479709
 🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-23T13:24:52.917Z
+📰 Google Maps se va a rediseñar por completo: nuevas categorías, iconos y pantalla de búsqueda
+Google Maps está trabajando en una reorganización de su interfaz en Android, con menús agrupados, nuevos iconos y hasta tarjetas de lugares reubicadas, y podríamos verlo pronto.
+https://computerhoy.20minutos.es/moviles/google-maps-va-redisenar-completo-nuevas-categorias-iconos-pantalla-busqueda-1479762
+🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
