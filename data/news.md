@@ -223,3 +223,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-pone-fecha-caducidad-oneno
 Google Maps está trabajando en una reorganización de su interfaz en Android, con menús agrupados, nuevos iconos y hasta tarjetas de lugares reubicadas, y podríamos verlo pronto.
 https://computerhoy.20minutos.es/moviles/google-maps-va-redisenar-completo-nuevas-categorias-iconos-pantalla-busqueda-1479762
 🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-23T19:13:58.280Z
+📰 YouTube permite descargar vídeos a usuarios gratuitos pero con todas estas limitaciones
+YouTube permite a los usuarios gratuitos descargar vídeos para verlos sin conexión, aunque con bastantes limitaciones de calidad y de contenido.
+https://computerhoy.20minutos.es/moviles/youtube-permite-descargar-videos-usuarios-gratuitos-pero-todas-estas-limitaciones-1479787
+🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
