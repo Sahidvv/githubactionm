@@ -168,3 +168,19 @@ https://computerhoy.20minutos.es/tendencias/hielo-antartida-esconde-misterio-332
 🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-23
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Microsoft pone fecha de caducidad a OneNote para Windows 10: cómo migrar tus datos para no perderlos
+A partir de octubre, la app de notas digitales pasará a modo solo lectura: podrás consultar tus notas antiguas, pero ya no será posible crear, editar ni sincronizar contenido.
+https://computerhoy.20minutos.es/tecnologia/microsoft-pone-fecha-caducidad-onenote-windows-10-como-migrar-datos-no-perderlos-1479709
+🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
+
+---

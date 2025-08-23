@@ -211,3 +211,9 @@ https://computerhoy.20minutos.es/entretenimiento/mayor-competidor-digi-tv-movist
 La última actualización acumulativa para Windows 11 está causando problemas graves en la transmisión mediante NDI, generando reproducciones entrecortadas en los directos de los streams.
 https://computerhoy.20minutos.es/tecnologia/malas-noticias-streamers-ultima-actualizacion-windows-11-afecta-transmisiones-vivo-1479686
 🗓️ 2025-08-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-23T02:25:17.034Z
+📰 Microsoft pone fecha de caducidad a OneNote para Windows 10: cómo migrar tus datos para no perderlos
+A partir de octubre, la app de notas digitales pasará a modo solo lectura: podrás consultar tus notas antiguas, pero ya no será posible crear, editar ni sincronizar contenido.
+https://computerhoy.20minutos.es/tecnologia/microsoft-pone-fecha-caducidad-onenote-windows-10-como-migrar-datos-no-perderlos-1479709
+🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
