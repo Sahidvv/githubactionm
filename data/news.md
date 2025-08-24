@@ -241,3 +241,9 @@ https://computerhoy.20minutos.es/tecnologia/deepseek-desafia-gpt-5-modelo-v31-re
 Google Fotos añade la posibilidad de editar imágenes por voz, permitiendo corregir, mejorar y modificar fotos usando comandos hablados, y próximamente estará disponible para la mayoría de los dispositivos.
 https://computerhoy.20minutos.es/moviles/google-fotos-vuelve-inteligente-ahora-puedes-usar-voz-editar-fotos-1479831
 🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-24T19:15:06.342Z
+📰 La militarización de las escuelas en Estados Unidos: van a usar drones armados que disparan a atacantes en segundos
+Varias escuelas de Florida probarán el uso de drones armados que se enfrentarán a posibles atacantes, pero algunos creen que podrían empeorar más las cosas.
+https://computerhoy.20minutos.es/tecnologia/militarizacion-escuelas-estados-unidos-drones-armados-disparan-atacantes-segundos-1479846
+🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
