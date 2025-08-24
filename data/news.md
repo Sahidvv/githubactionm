@@ -235,3 +235,9 @@ https://computerhoy.20minutos.es/moviles/youtube-permite-descargar-videos-usuari
 DeepSeek, con su recientemente nuevo modelo v3.1, destaca por sus 685.000 millones de parámetros, y optimizados para eficiencia y velocidad.
 https://computerhoy.20minutos.es/tecnologia/deepseek-desafia-gpt-5-modelo-v31-reaviva-carrera-ia-ee-uu-china-1479790
 🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-24T13:25:33.292Z
+📰 Google Fotos se vuelve más inteligente: ahora puedes usar tu voz para editar fotos
+Google Fotos añade la posibilidad de editar imágenes por voz, permitiendo corregir, mejorar y modificar fotos usando comandos hablados, y próximamente estará disponible para la mayoría de los dispositivos.
+https://computerhoy.20minutos.es/moviles/google-fotos-vuelve-inteligente-ahora-puedes-usar-voz-editar-fotos-1479831
+🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
