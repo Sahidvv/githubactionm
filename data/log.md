@@ -184,3 +184,19 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-pone-fecha-caducidad-oneno
 🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-24
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 DeepSeek desafía a GPT-5 con su modelo v3.1 y reaviva la carrera IA entre EE. UU. y China
+DeepSeek, con su recientemente nuevo modelo v3.1, destaca por sus 685.000 millones de parámetros, y optimizados para eficiencia y velocidad.
+https://computerhoy.20minutos.es/tecnologia/deepseek-desafia-gpt-5-modelo-v31-reaviva-carrera-ia-ee-uu-china-1479790
+🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
+
+---
