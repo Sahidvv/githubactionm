@@ -200,3 +200,19 @@ https://computerhoy.20minutos.es/tecnologia/deepseek-desafia-gpt-5-modelo-v31-re
 🗓️ 2025-08-23 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-25
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Estados Unidos ya es dueña del 10% de Intel... con el dinero que la empresa ya tenía asignado en subvenciones
+El gobierno de Estados Unidos ha comprado el 9,9% de Intel por unos 8.900 millones de dólares, aunque aún no está claro si Trump tendrá realmente poder para decidir.
+https://computerhoy.20minutos.es/tecnologia/estados-unidos-compra-acciones-intel-dinero-subvenciones-1479848
+🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
+
+---

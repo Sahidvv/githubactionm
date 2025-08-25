@@ -247,3 +247,9 @@ https://computerhoy.20minutos.es/moviles/google-fotos-vuelve-inteligente-ahora-p
 Varias escuelas de Florida probarán el uso de drones armados que se enfrentarán a posibles atacantes, pero algunos creen que podrían empeorar más las cosas.
 https://computerhoy.20minutos.es/tecnologia/militarizacion-escuelas-estados-unidos-drones-armados-disparan-atacantes-segundos-1479846
 🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-25T02:44:33.518Z
+📰 Estados Unidos ya es dueña del 10% de Intel... con el dinero que la empresa ya tenía asignado en subvenciones
+El gobierno de Estados Unidos ha comprado el 9,9% de Intel por unos 8.900 millones de dólares, aunque aún no está claro si Trump tendrá realmente poder para decidir.
+https://computerhoy.20minutos.es/tecnologia/estados-unidos-compra-acciones-intel-dinero-subvenciones-1479848
+🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
