@@ -253,3 +253,9 @@ https://computerhoy.20minutos.es/tecnologia/militarizacion-escuelas-estados-unid
 El gobierno de Estados Unidos ha comprado el 9,9% de Intel por unos 8.900 millones de dólares, aunque aún no está claro si Trump tendrá realmente poder para decidir.
 https://computerhoy.20minutos.es/tecnologia/estados-unidos-compra-acciones-intel-dinero-subvenciones-1479848
 🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-25T13:30:32.946Z
+📰 Los coches eléctricos contaminan menos, ¿pero cuánto? Esta es la mejor comparativa realizada hasta el momento
+Hay bastante discusión sobre si realmente la contaminación por coches eléctricos es menor que la derivada de otros vehículos. Los detractores de la movilidad eléctrica señalan que hay que tener también en cuenta la fabricación y el desechad…
+https://hipertextual.com/ciencia/contaminacion-coches-electricos-calculadora/
+🗓️ 2025-08-25 • 🏷️ hipertextual.com
