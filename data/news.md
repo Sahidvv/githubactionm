@@ -259,3 +259,9 @@ https://computerhoy.20minutos.es/tecnologia/estados-unidos-compra-acciones-intel
 Hay bastante discusión sobre si realmente la contaminación por coches eléctricos es menor que la derivada de otros vehículos. Los detractores de la movilidad eléctrica señalan que hay que tener también en cuenta la fabricación y el desechad…
 https://hipertextual.com/ciencia/contaminacion-coches-electricos-calculadora/
 🗓️ 2025-08-25 • 🏷️ hipertextual.com
+
+### 2025-08-25T19:15:27.934Z
+📰 Alerta ACR, el "agujero negro para tu privacidad" de los televisores de Samsung, LG o Sony: desactívalo ahora mismo
+Aunque no lo parezca, tus datos pueden acabar en bases externas, venderse en la Dark Web o ser hackeados. El riesgo va desde publicidad invasiva hasta robo de identidad y fraude.
+https://computerhoy.20minutos.es/dispositivos/alerta-acr-agujero-negro-privacidad-televisores-samsung-lg-sony-desactivalo-ahora-mismo-1480019
+🗓️ 2025-08-25 • 🏷️ computerhoy.20minutos.es
