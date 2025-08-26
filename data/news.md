@@ -277,3 +277,9 @@ https://hipertextual.com/tecnologia/notebooklm-resumenes-video-espanol-google/
 Qualcomm acaba de dar un importante paso al frente para la expansión de su estrategia de hardware aplicado al ámbito empresarial, de la mano del Dragonwing Q-6690. Según la chipera de San Diego, se trata del primer chip móvil dedicado a dic…
 https://hipertextual.com/mobile/qualcomm-dragonwing-q-6690-chip-rfid-integrado/
 🗓️ 2025-08-26 • 🏷️ hipertextual.com
+
+### 2025-08-26T19:15:03.399Z
+📰 Esta secuela se tomó a broma una saga de terror mítica y ni Tarantino la comprendió: ahora es de culto y está en Prime Video
+En 1986, el célebre director de Poltergeist y El misterio de Salem's Lot, decidió volver a su franquicia más famosa... pero no lo hizo como todos esperaban.
+https://computerhoy.20minutos.es/entretenimiento/secuela-tomo-broma-saga-terror-mitica-ni-tarantino-comprendio-ahora-culto-prime-video-1480024
+🗓️ 2025-08-26 • 🏷️ computerhoy.20minutos.es
