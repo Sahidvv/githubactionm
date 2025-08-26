@@ -271,3 +271,9 @@ https://computerhoy.20minutos.es/dispositivos/alerta-acr-agujero-negro-privacida
 Una de las mejores funciones de NotebookLM ya está disponible en español. Google anunció una nueva actualización para resúmenes de video (Video Overviews), una herramienta que permite generar una presentación narrada a partir de un document…
 https://hipertextual.com/tecnologia/notebooklm-resumenes-video-espanol-google/
 🗓️ 2025-08-25 • 🏷️ hipertextual.com
+
+### 2025-08-26T13:32:34.417Z
+📰 Qualcomm Dragonwing Q6: así es el primer chip móvil de uso empresarial con RFID integrado
+Qualcomm acaba de dar un importante paso al frente para la expansión de su estrategia de hardware aplicado al ámbito empresarial, de la mano del Dragonwing Q-6690. Según la chipera de San Diego, se trata del primer chip móvil dedicado a dic…
+https://hipertextual.com/mobile/qualcomm-dragonwing-q-6690-chip-rfid-integrado/
+🗓️ 2025-08-26 • 🏷️ hipertextual.com
