@@ -265,3 +265,9 @@ https://hipertextual.com/ciencia/contaminacion-coches-electricos-calculadora/
 Aunque no lo parezca, tus datos pueden acabar en bases externas, venderse en la Dark Web o ser hackeados. El riesgo va desde publicidad invasiva hasta robo de identidad y fraude.
 https://computerhoy.20minutos.es/dispositivos/alerta-acr-agujero-negro-privacidad-televisores-samsung-lg-sony-desactivalo-ahora-mismo-1480019
 🗓️ 2025-08-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-26T02:40:08.030Z
+📰 La mejor función de NotebookLM ya está disponible en español y puedes usarla desde hoy
+Una de las mejores funciones de NotebookLM ya está disponible en español. Google anunció una nueva actualización para resúmenes de video (Video Overviews), una herramienta que permite generar una presentación narrada a partir de un document…
+https://hipertextual.com/tecnologia/notebooklm-resumenes-video-espanol-google/
+🗓️ 2025-08-25 • 🏷️ hipertextual.com

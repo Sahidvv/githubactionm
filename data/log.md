@@ -216,3 +216,19 @@ https://computerhoy.20minutos.es/tecnologia/estados-unidos-compra-acciones-intel
 🗓️ 2025-08-24 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-26
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 La mejor función de NotebookLM ya está disponible en español y puedes usarla desde hoy
+Una de las mejores funciones de NotebookLM ya está disponible en español. Google anunció una nueva actualización para resúmenes de video (Video Overviews), una herramienta que permite generar una presentación narrada a partir de un document…
+https://hipertextual.com/tecnologia/notebooklm-resumenes-video-espanol-google/
+🗓️ 2025-08-25 • 🏷️ hipertextual.com
+
+---
