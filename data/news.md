@@ -295,3 +295,9 @@ https://computerhoy.20minutos.es/tendencias/compra-estuche-camara-tienda-segunda
 El 27 de agosto de 1883, el volcán Krakatoa tembló con una fuerza devastadora. Su brutal erupción hizo desaparecer casi por completo la isla de Rakaya, en Indonesia, y le costó la vida a más de 36.000 personas. Algunas murieron directamente…
 https://hipertextual.com/ciencia/sonido-mas-fuerte-del-mundo-krakatoa/
 🗓️ 2025-08-27 • 🏷️ hipertextual.com
+
+### 2025-08-27T19:15:58.105Z
+📰 Más detalles de las nuevas gafas inteligentes Hypernova de Meta: hay una cosa que podría arruinar tu compra
+Las nuevas gafas inteligentes de Meta, conocidas internamente como HyperNova, van a llegar muy pronto, pero este dato concreto quizás haga que no te las compres.
+https://computerhoy.20minutos.es/dispositivos/detalles-nuevas-gafas-inteligentes-hypernova-meta-hay-cosa-podria-arruinar-compra-1480500
+🗓️ 2025-08-27 • 🏷️ computerhoy.20minutos.es
