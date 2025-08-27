@@ -232,3 +232,19 @@ https://hipertextual.com/tecnologia/notebooklm-resumenes-video-espanol-google/
 🗓️ 2025-08-25 • 🏷️ hipertextual.com
 
 ---
+## 2025-08-27
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Compra el estuche de una cámara en una tienda de segunda mano y alucina su interior: "Todavía no puedo creer que acabo de encontrar esto"
+El estuche de cuero de una cámara de segunda mano, comprado por 9 euros, contenía en su interior un dispositivo de la marca Leica, cuyo valor actual está valorado en poco más de 1.700 euros.
+https://computerhoy.20minutos.es/tendencias/compra-estuche-camara-tienda-segunda-mano-alucina-interior-todavia-no-puedo-creer-acabo-encontrar-1480293
+🗓️ 2025-08-27 • 🏷️ computerhoy.20minutos.es
+
+---

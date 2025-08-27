@@ -283,3 +283,9 @@ https://hipertextual.com/mobile/qualcomm-dragonwing-q-6690-chip-rfid-integrado/
 En 1986, el célebre director de Poltergeist y El misterio de Salem's Lot, decidió volver a su franquicia más famosa... pero no lo hizo como todos esperaban.
 https://computerhoy.20minutos.es/entretenimiento/secuela-tomo-broma-saga-terror-mitica-ni-tarantino-comprendio-ahora-culto-prime-video-1480024
 🗓️ 2025-08-26 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-27T02:25:29.868Z
+📰 Compra el estuche de una cámara en una tienda de segunda mano y alucina su interior: "Todavía no puedo creer que acabo de encontrar esto"
+El estuche de cuero de una cámara de segunda mano, comprado por 9 euros, contenía en su interior un dispositivo de la marca Leica, cuyo valor actual está valorado en poco más de 1.700 euros.
+https://computerhoy.20minutos.es/tendencias/compra-estuche-camara-tienda-segunda-mano-alucina-interior-todavia-no-puedo-creer-acabo-encontrar-1480293
+🗓️ 2025-08-27 • 🏷️ computerhoy.20minutos.es
