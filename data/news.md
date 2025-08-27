@@ -289,3 +289,9 @@ https://computerhoy.20minutos.es/entretenimiento/secuela-tomo-broma-saga-terror-
 El estuche de cuero de una cámara de segunda mano, comprado por 9 euros, contenía en su interior un dispositivo de la marca Leica, cuyo valor actual está valorado en poco más de 1.700 euros.
 https://computerhoy.20minutos.es/tendencias/compra-estuche-camara-tienda-segunda-mano-alucina-interior-todavia-no-puedo-creer-acabo-encontrar-1480293
 🗓️ 2025-08-27 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-27T13:28:19.742Z
+📰 142 años del sonido más fuerte de la historia de la humanidad: se escuchó a casi 5.000 kilómetros de distancia
+El 27 de agosto de 1883, el volcán Krakatoa tembló con una fuerza devastadora. Su brutal erupción hizo desaparecer casi por completo la isla de Rakaya, en Indonesia, y le costó la vida a más de 36.000 personas. Algunas murieron directamente…
+https://hipertextual.com/ciencia/sonido-mas-fuerte-del-mundo-krakatoa/
+🗓️ 2025-08-27 • 🏷️ hipertextual.com
