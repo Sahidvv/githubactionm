@@ -307,3 +307,9 @@ https://computerhoy.20minutos.es/dispositivos/detalles-nuevas-gafas-inteligentes
 Un nuevo ataque podría aprovecharse de las capacidades multimodales de Gemini y otros modelos de lenguaje para robar tus datos y compartirlos a un tercero. Investigadores han desarrollado un método que permite inyectar instrucciones ocultas…
 https://hipertextual.com/tecnologia/ataque-imagenes-gemini-robo-datos-ia/
 🗓️ 2025-08-27 • 🏷️ hipertextual.com
+
+### 2025-08-28T13:29:08.529Z
+📰 DIGI dificulta la vuelta de las vacaciones para muchos de sus clientes: “Trabajar con caídas permanentes de internet es otra cosa”
+La operadora low cost vuelve a enfadar a los clientes de cara a septiembre, siguen los fallos en las llamadas y continuas caídas de la conexión. Las redes sociales se llenar de nuevo de críticas.
+https://computerhoy.20minutos.es/entretenimiento/digi-dificulta-vuelta-vacaciones-muchos-clientes-trabajar-caidas-permanentes-internet-otra-cosa-1480557
+🗓️ 2025-08-28 • 🏷️ computerhoy.20minutos.es
