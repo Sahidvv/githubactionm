@@ -313,3 +313,9 @@ https://hipertextual.com/tecnologia/ataque-imagenes-gemini-robo-datos-ia/
 La operadora low cost vuelve a enfadar a los clientes de cara a septiembre, siguen los fallos en las llamadas y continuas caídas de la conexión. Las redes sociales se llenar de nuevo de críticas.
 https://computerhoy.20minutos.es/entretenimiento/digi-dificulta-vuelta-vacaciones-muchos-clientes-trabajar-caidas-permanentes-internet-otra-cosa-1480557
 🗓️ 2025-08-28 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-28T19:15:27.200Z
+📰 Filtran las posibles especificaciones de la PlayStation 6 portátil: más potente que Xbox ROG Ally X y la PS5
+Desvelan posible información sobre la futura PlayStation 6 portátil, que tendría una potencia superior a PlayStation 5 y a la Xbox ROG Ally X, siendo además retrocompatible con juegos de consolas anteriores.
+https://computerhoy.20minutos.es/gaming/filtran-posibles-especificaciones-playstation-6-portatil-potente-xbox-rog-ally-x-ps5-1480706
+🗓️ 2025-08-28 • 🏷️ computerhoy.20minutos.es
