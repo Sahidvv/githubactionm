@@ -248,3 +248,19 @@ https://computerhoy.20minutos.es/tendencias/compra-estuche-camara-tienda-segunda
 🗓️ 2025-08-27 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-28
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Un nuevo ataque con imágenes permite engañar a Gemini para que filtre tus datos
+Un nuevo ataque podría aprovecharse de las capacidades multimodales de Gemini y otros modelos de lenguaje para robar tus datos y compartirlos a un tercero. Investigadores han desarrollado un método que permite inyectar instrucciones ocultas…
+https://hipertextual.com/tecnologia/ataque-imagenes-gemini-robo-datos-ia/
+🗓️ 2025-08-27 • 🏷️ hipertextual.com
+
+---
