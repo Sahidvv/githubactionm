@@ -331,3 +331,9 @@ https://hipertextual.com/tecnologia/meta-lanzara-llama-4x-2025/
 La utilización de la inteligencia artificial en entornos médicos sigue generando cierta controversia. Y los especialistas intentan llegar a conclusiones con datos.
 https://computerhoy.20minutos.es/tecnologia/palo-chatgpt-estudio-revela-medicos-usan-ia-tienen-20-menos-acierto-1480754
 🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-29T19:14:25.380Z
+📰 Adiós a una función histórica de Windows: dejará de existir en febrero de 2026
+Microsoft anuncia la desaparición de la aplicación Planes Móviles, que será a principios de 2026, trasladando dicha gestión de planes a la Configuración de Windows y a la web de los operadores.
+https://computerhoy.20minutos.es/tecnologia/adios-funcion-historica-windows-dejara-existir-febrero-2026-1480903
+🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
