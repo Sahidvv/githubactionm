@@ -325,3 +325,9 @@ https://computerhoy.20minutos.es/gaming/filtran-posibles-especificaciones-playst
 Meta está puliendo los detalles para lanzar Llama 4.x antes de que termine el 2025. El modelo de código abierto, que en algún momento fue pilar en la estrategia de IA de la empresa, tendrá una nueva versión este mismo año. Mark Zuckerberg y…
 https://hipertextual.com/tecnologia/meta-lanzara-llama-4x-2025/
 🗓️ 2025-08-28 • 🏷️ hipertextual.com
+
+### 2025-08-29T13:27:08.652Z
+📰 Palo a ChatGPT: un estudio revela que los médicos que usan la IA tienen un 20% menos de acierto
+La utilización de la inteligencia artificial en entornos médicos sigue generando cierta controversia. Y los especialistas intentan llegar a conclusiones con datos.
+https://computerhoy.20minutos.es/tecnologia/palo-chatgpt-estudio-revela-medicos-usan-ia-tienen-20-menos-acierto-1480754
+🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
