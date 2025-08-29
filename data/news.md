@@ -319,3 +319,9 @@ https://computerhoy.20minutos.es/entretenimiento/digi-dificulta-vuelta-vacacione
 Desvelan posible información sobre la futura PlayStation 6 portátil, que tendría una potencia superior a PlayStation 5 y a la Xbox ROG Ally X, siendo además retrocompatible con juegos de consolas anteriores.
 https://computerhoy.20minutos.es/gaming/filtran-posibles-especificaciones-playstation-6-portatil-potente-xbox-rog-ally-x-ps5-1480706
 🗓️ 2025-08-28 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-29T02:25:36.004Z
+📰 Meta no se rinde: Llama 4.x llegará este año para competir con GPT-5 y Gemini
+Meta está puliendo los detalles para lanzar Llama 4.x antes de que termine el 2025. El modelo de código abierto, que en algún momento fue pilar en la estrategia de IA de la empresa, tendrá una nueva versión este mismo año. Mark Zuckerberg y…
+https://hipertextual.com/tecnologia/meta-lanzara-llama-4x-2025/
+🗓️ 2025-08-28 • 🏷️ hipertextual.com

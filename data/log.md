@@ -264,3 +264,19 @@ https://hipertextual.com/tecnologia/ataque-imagenes-gemini-robo-datos-ia/
 🗓️ 2025-08-27 • 🏷️ hipertextual.com
 
 ---
+## 2025-08-29
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Meta no se rinde: Llama 4.x llegará este año para competir con GPT-5 y Gemini
+Meta está puliendo los detalles para lanzar Llama 4.x antes de que termine el 2025. El modelo de código abierto, que en algún momento fue pilar en la estrategia de IA de la empresa, tendrá una nueva versión este mismo año. Mark Zuckerberg y…
+https://hipertextual.com/tecnologia/meta-lanzara-llama-4x-2025/
+🗓️ 2025-08-28 • 🏷️ hipertextual.com
+
+---
