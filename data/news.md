@@ -343,3 +343,9 @@ https://computerhoy.20minutos.es/tecnologia/adios-funcion-historica-windows-deja
 El amplificador de Xiaomi es asequible, fácil de instalar y mejora la cobertura WiFi en las habitaciones más alejadas del router. Soporta hasta 24 dispositivos y alcanza 300 Mbps de velocidad.
 https://computerhoy.20minutos.es/dispositivos/tienes-problemas-wifi-casa-deberias-comprar-gadget-poco-10-euros-lidl-1480918
 🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-30T13:22:26.016Z
+📰 LibreOffice 25.8.1 mejora la compatibilidad con archivos de Microsoft Office
+En la última versión, LibreOffice corrige un montón de errores y mejora también la compatibilidad con archivos, ofreciendo así una experiencia más estable al trabajar con documentos de Microsoft Office.
+https://computerhoy.20minutos.es/tecnologia/libreoffice-2581-mejora-compatibilidad-archivos-microsoft-office-1480971
+🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
