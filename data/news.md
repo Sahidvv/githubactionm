@@ -349,3 +349,9 @@ https://computerhoy.20minutos.es/dispositivos/tienes-problemas-wifi-casa-deberia
 En la última versión, LibreOffice corrige un montón de errores y mejora también la compatibilidad con archivos, ofreciendo así una experiencia más estable al trabajar con documentos de Microsoft Office.
 https://computerhoy.20minutos.es/tecnologia/libreoffice-2581-mejora-compatibilidad-archivos-microsoft-office-1480971
 🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-30T19:13:36.546Z
+📰 YouTube para Android TV estrena programa beta para que pruebes funciones inéditas antes que nadie
+Google expande su programa beta a la aplicación de YouTube en Android TV, permitiendo que los interesados prueben funciones inéditas y den retroalimentación sobre rendimiento y estabilidad.
+https://computerhoy.20minutos.es/tecnologia/youtube-android-tv-estrena-programa-beta-pruebes-funciones-ineditas-antes-nadie-1480990
+🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
