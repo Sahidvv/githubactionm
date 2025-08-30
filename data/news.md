@@ -337,3 +337,9 @@ https://computerhoy.20minutos.es/tecnologia/palo-chatgpt-estudio-revela-medicos-
 Microsoft anuncia la desaparición de la aplicación Planes Móviles, que será a principios de 2026, trasladando dicha gestión de planes a la Configuración de Windows y a la web de los operadores.
 https://computerhoy.20minutos.es/tecnologia/adios-funcion-historica-windows-dejara-existir-febrero-2026-1480903
 🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-30T02:19:50.104Z
+📰 Si tienes problemas con el WiFi en casa deberías comprar este gadget de poco más de 10 euros en Lidl
+El amplificador de Xiaomi es asequible, fácil de instalar y mejora la cobertura WiFi en las habitaciones más alejadas del router. Soporta hasta 24 dispositivos y alcanza 300 Mbps de velocidad.
+https://computerhoy.20minutos.es/dispositivos/tienes-problemas-wifi-casa-deberias-comprar-gadget-poco-10-euros-lidl-1480918
+🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es

@@ -280,3 +280,19 @@ https://hipertextual.com/tecnologia/meta-lanzara-llama-4x-2025/
 🗓️ 2025-08-28 • 🏷️ hipertextual.com
 
 ---
+## 2025-08-30
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Si tienes problemas con el WiFi en casa deberías comprar este gadget de poco más de 10 euros en Lidl
+El amplificador de Xiaomi es asequible, fácil de instalar y mejora la cobertura WiFi en las habitaciones más alejadas del router. Soporta hasta 24 dispositivos y alcanza 300 Mbps de velocidad.
+https://computerhoy.20minutos.es/dispositivos/tienes-problemas-wifi-casa-deberias-comprar-gadget-poco-10-euros-lidl-1480918
+🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
+
+---
