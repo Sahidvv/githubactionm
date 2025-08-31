@@ -296,3 +296,19 @@ https://computerhoy.20minutos.es/dispositivos/tienes-problemas-wifi-casa-deberia
 🗓️ 2025-08-29 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-08-31
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Estos son los nuevos atajos de teclado que van a llegar a Windows 11 y los vas a usar desde el primer día
+Windows 11 incorpora atajos de teclado únicos para escribir guiones largos y medios sin necesidad de códigos complicados, y llegarán con la futura versión 25H2.
+https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-atajos-teclado-van-llegar-windows-11-vas-usar-primer-dia-1480991
+🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
+
+---

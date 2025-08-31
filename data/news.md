@@ -355,3 +355,9 @@ https://computerhoy.20minutos.es/tecnologia/libreoffice-2581-mejora-compatibilid
 Google expande su programa beta a la aplicación de YouTube en Android TV, permitiendo que los interesados prueben funciones inéditas y den retroalimentación sobre rendimiento y estabilidad.
 https://computerhoy.20minutos.es/tecnologia/youtube-android-tv-estrena-programa-beta-pruebes-funciones-ineditas-antes-nadie-1480990
 🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-31T02:38:08.325Z
+📰 Estos son los nuevos atajos de teclado que van a llegar a Windows 11 y los vas a usar desde el primer día
+Windows 11 incorpora atajos de teclado únicos para escribir guiones largos y medios sin necesidad de códigos complicados, y llegarán con la futura versión 25H2.
+https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-atajos-teclado-van-llegar-windows-11-vas-usar-primer-dia-1480991
+🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
