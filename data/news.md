@@ -367,3 +367,9 @@ https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-atajos-teclado-van-
 ¿Quieres saber qué canales de la TDT en España realmente merece la pena ver este 2025? Aquí tienes la lista completa con todos los que no puedes perderte este año.
 https://computerhoy.20minutos.es/entretenimiento/canales-tdt-espana-estas-son-cadenas-television-actulizados-2025-1472951
 🗓️ 2025-08-31 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-31T19:14:10.822Z
+📰 Hollow Knight: Silksong apunta a menos de 20 euros
+Silksong es un nombre que lleva años flotando en la mente de los jugadores como una promesa aplazada. La secuela de uno de los títulos independientes más influyentes de la última década ha vivido rodeada de misterio, retrasos y expectación.…
+https://www.muycomputer.com/2025/08/31/hollow-knight-silksong-apunta-a-menos-de-20-euros/
+🗓️ 2025-08-31 • 🏷️ muycomputer.com
