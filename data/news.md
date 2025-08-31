@@ -361,3 +361,9 @@ https://computerhoy.20minutos.es/tecnologia/youtube-android-tv-estrena-programa-
 Windows 11 incorpora atajos de teclado únicos para escribir guiones largos y medios sin necesidad de códigos complicados, y llegarán con la futura versión 25H2.
 https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-atajos-teclado-van-llegar-windows-11-vas-usar-primer-dia-1480991
 🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
+
+### 2025-08-31T13:23:04.581Z
+📰 Canales de la TDT en España: estos son los canales de televisión actualizados que deberías ver en 2025
+¿Quieres saber qué canales de la TDT en España realmente merece la pena ver este 2025? Aquí tienes la lista completa con todos los que no puedes perderte este año.
+https://computerhoy.20minutos.es/entretenimiento/canales-tdt-espana-estas-son-cadenas-television-actulizados-2025-1472951
+🗓️ 2025-08-31 • 🏷️ computerhoy.20minutos.es
