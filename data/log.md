@@ -312,3 +312,19 @@ https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-atajos-teclado-van-
 🗓️ 2025-08-30 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-01
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Un ingeniero crea la Rueda USB, todo tipo de conectores en una sola placa para probar cables y conexiones
+Para un ingeniero de hardware o un taller de reparación de dispositivos, probar conectores o cables es una pesadilla, porque hay docenas. La solución es la Rueda USB.
+https://computerhoy.20minutos.es/tecnologia/ingeniero-crea-rueda-usb-todo-tipo-conectores-cables-1481060
+🗓️ 2025-08-31 • 🏷️ computerhoy.20minutos.es
+
+---

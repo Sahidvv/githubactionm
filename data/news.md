@@ -373,3 +373,9 @@ https://computerhoy.20minutos.es/entretenimiento/canales-tdt-espana-estas-son-ca
 Silksong es un nombre que lleva años flotando en la mente de los jugadores como una promesa aplazada. La secuela de uno de los títulos independientes más influyentes de la última década ha vivido rodeada de misterio, retrasos y expectación.…
 https://www.muycomputer.com/2025/08/31/hollow-knight-silksong-apunta-a-menos-de-20-euros/
 🗓️ 2025-08-31 • 🏷️ muycomputer.com
+
+### 2025-09-01T02:51:35.209Z
+📰 Un ingeniero crea la Rueda USB, todo tipo de conectores en una sola placa para probar cables y conexiones
+Para un ingeniero de hardware o un taller de reparación de dispositivos, probar conectores o cables es una pesadilla, porque hay docenas. La solución es la Rueda USB.
+https://computerhoy.20minutos.es/tecnologia/ingeniero-crea-rueda-usb-todo-tipo-conectores-cables-1481060
+🗓️ 2025-08-31 • 🏷️ computerhoy.20minutos.es
