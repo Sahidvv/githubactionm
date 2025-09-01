@@ -385,3 +385,9 @@ https://computerhoy.20minutos.es/tecnologia/ingeniero-crea-rueda-usb-todo-tipo-c
 China pretende diseñar una constelación de satélites con la que competir con la red de Starlink de Elon Musk, tiene tres megaproyectos activos. El país va a construir más de 38.000 satélites.
 https://computerhoy.20minutos.es/tecnologia/china-ha-dado-golpe-definitivo-elon-musk-prepara-tres-grandes-constelaciones-anti-starlink-38000-satelites-1481104
 🗓️ 2025-09-01 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-01T19:14:38.839Z
+📰 Xiaomi lanza una alerta mundial: 150.000 dispositivos vendidos de la marca tienen problemas de seguridad y debes devolverlos
+Xiaomi anuncia la retirada voluntaria de casi 150.000 unidades del modelo PB2030MI de 20.000 mAh por posibles riesgos de incendio, y la compañía está ofreciendo un reembolso, detallando los pasos para su devolución.
+https://computerhoy.20minutos.es/tecnologia/xiaomi-lanza-alerta-mundial-150000-dispositivos-vendidos-marca-tienen-problemas-seguridad-debes-devolverlos-1481270
+🗓️ 2025-09-01 • 🏷️ computerhoy.20minutos.es
