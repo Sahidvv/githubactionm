@@ -379,3 +379,9 @@ https://www.muycomputer.com/2025/08/31/hollow-knight-silksong-apunta-a-menos-de-
 Para un ingeniero de hardware o un taller de reparación de dispositivos, probar conectores o cables es una pesadilla, porque hay docenas. La solución es la Rueda USB.
 https://computerhoy.20minutos.es/tecnologia/ingeniero-crea-rueda-usb-todo-tipo-conectores-cables-1481060
 🗓️ 2025-08-31 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-01T13:28:55.828Z
+📰 China ha dado el golpe definitivo a Elon Musk: prepara tres grandes constelaciones anti Starlink con 38.000 satélites
+China pretende diseñar una constelación de satélites con la que competir con la red de Starlink de Elon Musk, tiene tres megaproyectos activos. El país va a construir más de 38.000 satélites.
+https://computerhoy.20minutos.es/tecnologia/china-ha-dado-golpe-definitivo-elon-musk-prepara-tres-grandes-constelaciones-anti-starlink-38000-satelites-1481104
+🗓️ 2025-09-01 • 🏷️ computerhoy.20minutos.es
