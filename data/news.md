@@ -403,3 +403,9 @@ https://hipertextual.com/apple/apple-macbook-air-11-macbook-pro-obsoletos-iphone
 Este lunes, los neozelandeses se despertaron con una curiosa sorpresa. Se habían ido a dormir el domingo pensando que su país cuenta con 5 millones de habitantes. Sin embargo, al despertarse por la mañana todo estaba lleno de carteles anunc…
 https://hipertextual.com/ciencia/nueva-zelanda-poblacion-animales-plantas/
 🗓️ 2025-09-02 • 🏷️ hipertextual.com
+
+### 2025-09-02T19:14:27.337Z
+📰 No es Conan, pero este clásico del cine fantástico de los 80, disponible en Prime Video, tiene listo su remake
+Durante los años 80 la espada y brujería gozó de una enorme popularidad, inspirando un sinfín de obras de serie B que intentaron sumarse al carro de los bárbaros.
+https://computerhoy.20minutos.es/entretenimiento/no-conan-pero-clasico-cine-fantastico-80-disponible-prime-video-tiene-listo-remake-1481240
+🗓️ 2025-09-02 • 🏷️ computerhoy.20minutos.es
