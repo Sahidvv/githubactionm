@@ -328,3 +328,19 @@ https://computerhoy.20minutos.es/tecnologia/ingeniero-crea-rueda-usb-todo-tipo-c
 🗓️ 2025-08-31 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-02
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Apple declara obsoleto uno de sus dispositivos más icónicos
+Como es habitual, Apple actualizó su lista de productos obsoletos con múltiples dispositivos. Esta categoría está destinada a aquellos que dejaron de venderse en tiendas desde hace más de 7 años y que ya no cuentan con soporte ni reparacion…
+https://hipertextual.com/apple/apple-macbook-air-11-macbook-pro-obsoletos-iphone-8-vintage/
+🗓️ 2025-09-01 • 🏷️ hipertextual.com
+
+---

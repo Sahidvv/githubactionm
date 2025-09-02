@@ -391,3 +391,9 @@ https://computerhoy.20minutos.es/tecnologia/china-ha-dado-golpe-definitivo-elon-
 Xiaomi anuncia la retirada voluntaria de casi 150.000 unidades del modelo PB2030MI de 20.000 mAh por posibles riesgos de incendio, y la compañía está ofreciendo un reembolso, detallando los pasos para su devolución.
 https://computerhoy.20minutos.es/tecnologia/xiaomi-lanza-alerta-mundial-150000-dispositivos-vendidos-marca-tienen-problemas-seguridad-debes-devolverlos-1481270
 🗓️ 2025-09-01 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-02T02:27:55.939Z
+📰 Apple declara obsoleto uno de sus dispositivos más icónicos
+Como es habitual, Apple actualizó su lista de productos obsoletos con múltiples dispositivos. Esta categoría está destinada a aquellos que dejaron de venderse en tiendas desde hace más de 7 años y que ya no cuentan con soporte ni reparacion…
+https://hipertextual.com/apple/apple-macbook-air-11-macbook-pro-obsoletos-iphone-8-vintage/
+🗓️ 2025-09-01 • 🏷️ hipertextual.com
