@@ -397,3 +397,9 @@ https://computerhoy.20minutos.es/tecnologia/xiaomi-lanza-alerta-mundial-150000-d
 Como es habitual, Apple actualizó su lista de productos obsoletos con múltiples dispositivos. Esta categoría está destinada a aquellos que dejaron de venderse en tiendas desde hace más de 7 años y que ya no cuentan con soporte ni reparacion…
 https://hipertextual.com/apple/apple-macbook-air-11-macbook-pro-obsoletos-iphone-8-vintage/
 🗓️ 2025-09-01 • 🏷️ hipertextual.com
+
+### 2025-09-02T13:29:41.963Z
+📰 Nueva Zelanda ha pasado de 5 millones a 695.000 millones de habitantes en un solo día: ¿qué ha pasado?
+Este lunes, los neozelandeses se despertaron con una curiosa sorpresa. Se habían ido a dormir el domingo pensando que su país cuenta con 5 millones de habitantes. Sin embargo, al despertarse por la mañana todo estaba lleno de carteles anunc…
+https://hipertextual.com/ciencia/nueva-zelanda-poblacion-animales-plantas/
+🗓️ 2025-09-02 • 🏷️ hipertextual.com
