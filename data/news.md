@@ -421,3 +421,9 @@ https://hipertextual.com/internet/google-chrome-juicio-antimonopolio/
 El sueño de Tom Cruise de hacer una película en el espacio exterior está cada vez más cerca de hacerse realidad. Hace ya varios años, el actor aseguró que salir de la Tierra sería el objetivo en uno de sus próximos proyectos, aún sin título…
 https://hipertextual.com/cine-television/tom-cruise-mas-cerca-que-nunca-de-hacer-una-pelicula-en-el-espacio/
 🗓️ 2025-09-03 • 🏷️ hipertextual.com
+
+### 2025-09-03T19:15:25.533Z
+📰 Gérard Feldzer (piloto), sobre el peligro para los aviones comerciales del bloqueo GPS a von der Leyen: “No vamos a perder ningún avión por esto”
+El experto Feldzer piensa que la intervención en los sistemas del avión de von der Leyen podría haber sido solo una advertencia y no es suficiente para causar una tragedia.
+https://computerhoy.20minutos.es/tecnologia/gerard-feldzer-piloto-peligro-aviones-comerciales-bloqueo-gps-von-der-leyen-no-vamos-perder-ningun-avion-1481696
+🗓️ 2025-09-03 • 🏷️ computerhoy.20minutos.es
