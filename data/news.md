@@ -409,3 +409,9 @@ https://hipertextual.com/ciencia/nueva-zelanda-poblacion-animales-plantas/
 Durante los años 80 la espada y brujería gozó de una enorme popularidad, inspirando un sinfín de obras de serie B que intentaron sumarse al carro de los bárbaros.
 https://computerhoy.20minutos.es/entretenimiento/no-conan-pero-clasico-cine-fantastico-80-disponible-prime-video-tiene-listo-remake-1481240
 🗓️ 2025-09-02 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-03T02:18:46.331Z
+📰 Ni Perplexity ni OpenAI: Chrome se queda con Google
+Google ha obtenido una importante victoria en el juicio antimonopolio que libra contra el gobierno de Estados Unidos. Tras meses de rumores y especulaciones, un juez rechazó la propuesta de forzar la venta del navegador Chrome. La decisión …
+https://hipertextual.com/internet/google-chrome-juicio-antimonopolio/
+🗓️ 2025-09-02 • 🏷️ hipertextual.com

@@ -344,3 +344,19 @@ https://hipertextual.com/apple/apple-macbook-air-11-macbook-pro-obsoletos-iphone
 🗓️ 2025-09-01 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-03
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Ni Perplexity ni OpenAI: Chrome se queda con Google
+Google ha obtenido una importante victoria en el juicio antimonopolio que libra contra el gobierno de Estados Unidos. Tras meses de rumores y especulaciones, un juez rechazó la propuesta de forzar la venta del navegador Chrome. La decisión …
+https://hipertextual.com/internet/google-chrome-juicio-antimonopolio/
+🗓️ 2025-09-02 • 🏷️ hipertextual.com
+
+---
