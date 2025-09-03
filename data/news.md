@@ -415,3 +415,9 @@ https://computerhoy.20minutos.es/entretenimiento/no-conan-pero-clasico-cine-fant
 Google ha obtenido una importante victoria en el juicio antimonopolio que libra contra el gobierno de Estados Unidos. Tras meses de rumores y especulaciones, un juez rechazó la propuesta de forzar la venta del navegador Chrome. La decisión …
 https://hipertextual.com/internet/google-chrome-juicio-antimonopolio/
 🗓️ 2025-09-02 • 🏷️ hipertextual.com
+
+### 2025-09-03T13:28:02.057Z
+📰 Tom Cruise, más cerca que nunca de hacer una película en el espacio: su director confirma cómo será el rodaje fuera de la Tierra
+El sueño de Tom Cruise de hacer una película en el espacio exterior está cada vez más cerca de hacerse realidad. Hace ya varios años, el actor aseguró que salir de la Tierra sería el objetivo en uno de sus próximos proyectos, aún sin título…
+https://hipertextual.com/cine-television/tom-cruise-mas-cerca-que-nunca-de-hacer-una-pelicula-en-el-espacio/
+🗓️ 2025-09-03 • 🏷️ hipertextual.com
