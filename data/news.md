@@ -439,3 +439,9 @@ https://computerhoy.20minutos.es/tecnologia/ucrania-palianytsia-dron-cohete-larg
 GeForce RTX 50 SUPER es el nombre con el que se conoce a las nuevas tarjetas gráficas que NVIDIA tiene previsto lanzar para «refrescar» su generación actual. Estas no introducirán cambios a nivel de arquitectura ni de proceso de fabricación…
 https://www.muycomputer.com/2025/09/04/geforce-rtx-50-super-frente-a-geforce-rtx-50-especificaciones-finales-rendimiento-fecha-de-lanzamiento-y-precio/
 🗓️ 2025-09-04 • 🏷️ muycomputer.com
+
+### 2025-09-04T19:14:28.698Z
+📰 Actualizas y pierdes apps: el nuevo bug en Windows 11 y 10 que desespera a miles de usuarios
+Microsoft confirma que una actualización del pasado mes está provocando fallos en Windows 11 al instalar ciertas aplicaciones, afectando a usuarios sin privilegios de administrador.
+https://computerhoy.20minutos.es/tecnologia/actualizas-pierdes-apps-nuevo-bug-windows-11-10-desespera-miles-usuarios-1481980
+🗓️ 2025-09-04 • 🏷️ computerhoy.20minutos.es
