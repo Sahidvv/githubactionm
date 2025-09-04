@@ -433,3 +433,9 @@ https://computerhoy.20minutos.es/tecnologia/gerard-feldzer-piloto-peligro-avione
 Ucrania ha revelado públicamente su nuevo dron a reacción capaz de realizar ataques autónomos a 650 kilómetros de distancia, en pleno territorio de Rusia.
 https://computerhoy.20minutos.es/tecnologia/ucrania-palianytsia-dron-cohete-largo-alcance-1481766
 🗓️ 2025-09-04 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-04T13:26:50.219Z
+📰 GeForce RTX 50 SUPER frente a GeForce RTX 50: especificaciones finales, rendimiento, fecha de lanzamiento y precio
+GeForce RTX 50 SUPER es el nombre con el que se conoce a las nuevas tarjetas gráficas que NVIDIA tiene previsto lanzar para «refrescar» su generación actual. Estas no introducirán cambios a nivel de arquitectura ni de proceso de fabricación…
+https://www.muycomputer.com/2025/09/04/geforce-rtx-50-super-frente-a-geforce-rtx-50-especificaciones-finales-rendimiento-fecha-de-lanzamiento-y-precio/
+🗓️ 2025-09-04 • 🏷️ muycomputer.com
