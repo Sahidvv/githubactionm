@@ -427,3 +427,9 @@ https://hipertextual.com/cine-television/tom-cruise-mas-cerca-que-nunca-de-hacer
 El experto Feldzer piensa que la intervención en los sistemas del avión de von der Leyen podría haber sido solo una advertencia y no es suficiente para causar una tragedia.
 https://computerhoy.20minutos.es/tecnologia/gerard-feldzer-piloto-peligro-aviones-comerciales-bloqueo-gps-von-der-leyen-no-vamos-perder-ningun-avion-1481696
 🗓️ 2025-09-03 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-04T02:19:08.063Z
+📰 Ucrania, su secreto mejor guardado: “Palianytsia”, un dron cohete de largo alcance
+Ucrania ha revelado públicamente su nuevo dron a reacción capaz de realizar ataques autónomos a 650 kilómetros de distancia, en pleno territorio de Rusia.
+https://computerhoy.20minutos.es/tecnologia/ucrania-palianytsia-dron-cohete-largo-alcance-1481766
+🗓️ 2025-09-04 • 🏷️ computerhoy.20minutos.es

@@ -360,3 +360,19 @@ https://hipertextual.com/internet/google-chrome-juicio-antimonopolio/
 🗓️ 2025-09-02 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-04
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Ucrania, su secreto mejor guardado: “Palianytsia”, un dron cohete de largo alcance
+Ucrania ha revelado públicamente su nuevo dron a reacción capaz de realizar ataques autónomos a 650 kilómetros de distancia, en pleno territorio de Rusia.
+https://computerhoy.20minutos.es/tecnologia/ucrania-palianytsia-dron-cohete-largo-alcance-1481766
+🗓️ 2025-09-04 • 🏷️ computerhoy.20minutos.es
+
+---
