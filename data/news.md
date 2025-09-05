@@ -451,3 +451,9 @@ https://computerhoy.20minutos.es/tecnologia/actualizas-pierdes-apps-nuevo-bug-wi
 Warner Bros. se suma a la lista de estudios que demandan a las empresas de IA. El gigante de Hollywood presentó una demanda contra Midjourney por infracción de derechos de autor. El estudio acusó a la compañía de entrenar sus modelos con ma…
 https://hipertextual.com/legal/warner-bros-demanda-midjourney-superman-batman/
 🗓️ 2025-09-04 • 🏷️ hipertextual.com
+
+### 2025-09-05T13:26:35.870Z
+📰 5 series estupendas de Netflix que puedes ver si te gustó &#8216;Miércoles&#8217; (&#8216;Wednesday&#8217;)
+La segunda temporada de Miércoles (Wednesday) ya se ha estrenado en Netflix y, con ella, la serie se despide momentáneamente de sus fans. La compañía renovó el proyecto protagonizado por Jenna Ortega para una tercera temporada, además de ma…
+https://hipertextual.com/cine-television/5-series-estupendas-de-netflix-parecidas-a-miercoles-wednesday/
+🗓️ 2025-09-05 • 🏷️ hipertextual.com
