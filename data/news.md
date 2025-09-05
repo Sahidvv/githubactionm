@@ -457,3 +457,9 @@ https://hipertextual.com/legal/warner-bros-demanda-midjourney-superman-batman/
 La segunda temporada de Miércoles (Wednesday) ya se ha estrenado en Netflix y, con ella, la serie se despide momentáneamente de sus fans. La compañía renovó el proyecto protagonizado por Jenna Ortega para una tercera temporada, además de ma…
 https://hipertextual.com/cine-television/5-series-estupendas-de-netflix-parecidas-a-miercoles-wednesday/
 🗓️ 2025-09-05 • 🏷️ hipertextual.com
+
+### 2025-09-05T19:14:48.616Z
+📰 ¿Aparece Deadpool en &#8216;Avengers: Doomsday&#8217;? Ryan Reynolds responde
+Con el rodaje de Avengers: Doomsday en marcha, la expectación del público por conocer detalles de la película es cada día mayor. Por ello, no sorprendió el revuelo que se generó cuando Ryan Reynolds publicó una foto del logo de Los Vengador…
+https://hipertextual.com/cine-television/aparece-deadpool-en-avengers-doomsday-ryan-reynolds-responde/
+🗓️ 2025-09-05 • 🏷️ hipertextual.com
