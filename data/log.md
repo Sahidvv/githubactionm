@@ -376,3 +376,19 @@ https://computerhoy.20minutos.es/tecnologia/ucrania-palianytsia-dron-cohete-larg
 🗓️ 2025-09-04 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-05
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Warner Bros demanda a Midjourney por copiar a Superman y otros personajes con ayuda de la IA
+Warner Bros. se suma a la lista de estudios que demandan a las empresas de IA. El gigante de Hollywood presentó una demanda contra Midjourney por infracción de derechos de autor. El estudio acusó a la compañía de entrenar sus modelos con ma…
+https://hipertextual.com/legal/warner-bros-demanda-midjourney-superman-batman/
+🗓️ 2025-09-04 • 🏷️ hipertextual.com
+
+---

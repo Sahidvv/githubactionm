@@ -445,3 +445,9 @@ https://www.muycomputer.com/2025/09/04/geforce-rtx-50-super-frente-a-geforce-rtx
 Microsoft confirma que una actualización del pasado mes está provocando fallos en Windows 11 al instalar ciertas aplicaciones, afectando a usuarios sin privilegios de administrador.
 https://computerhoy.20minutos.es/tecnologia/actualizas-pierdes-apps-nuevo-bug-windows-11-10-desespera-miles-usuarios-1481980
 🗓️ 2025-09-04 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-05T02:22:36.491Z
+📰 Warner Bros demanda a Midjourney por copiar a Superman y otros personajes con ayuda de la IA
+Warner Bros. se suma a la lista de estudios que demandan a las empresas de IA. El gigante de Hollywood presentó una demanda contra Midjourney por infracción de derechos de autor. El estudio acusó a la compañía de entrenar sus modelos con ma…
+https://hipertextual.com/legal/warner-bros-demanda-midjourney-superman-batman/
+🗓️ 2025-09-04 • 🏷️ hipertextual.com
