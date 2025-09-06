@@ -469,3 +469,9 @@ https://hipertextual.com/cine-television/aparece-deadpool-en-avengers-doomsday-r
 Microsoft ha lanzado una actualización para Windows 11 que agrega una nueva función para gestionar tus documentos. La compilación más reciente del canal Dev de Windows Insider llega cargada de novedades; sin embargo, existe una que podría t…
 https://hipertextual.com/software/windows-11-menu-flotante-clic-derecho/
 🗓️ 2025-09-05 • 🏷️ hipertextual.com
+
+### 2025-09-06T13:20:09.252Z
+📰 OpenAI prepara su primer chip de IA para 2026
+OpenAI estaría planeando lanzar su primer chip de IA en 2026 en colaboración con Broadcom, con el objetivo de reducir costes energéticos y competir en un mercado dominado por Nvidia.
+https://computerhoy.20minutos.es/tecnologia/openai-prepara-primer-chip-ia-2026-1482273
+🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
