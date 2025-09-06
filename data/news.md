@@ -475,3 +475,9 @@ https://hipertextual.com/software/windows-11-menu-flotante-clic-derecho/
 OpenAI estaría planeando lanzar su primer chip de IA en 2026 en colaboración con Broadcom, con el objetivo de reducir costes energéticos y competir en un mercado dominado por Nvidia.
 https://computerhoy.20minutos.es/tecnologia/openai-prepara-primer-chip-ia-2026-1482273
 🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-06T19:12:47.096Z
+📰 Telegram estrena música en perfiles, mini app de stickers y nuevos temas de regalos
+La última actualización de Telegram permite añadir música a tu perfil, elegir pestañas predeterminadas, crear stickers personalizados y añade nuevos temas de regalos coleccionables.
+https://computerhoy.20minutos.es/moviles/telegram-estrena-musica-perfiles-mini-app-stickers-nuevos-temas-regalos-1482294
+🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
