@@ -463,3 +463,9 @@ https://hipertextual.com/cine-television/5-series-estupendas-de-netflix-parecida
 Con el rodaje de Avengers: Doomsday en marcha, la expectación del público por conocer detalles de la película es cada día mayor. Por ello, no sorprendió el revuelo que se generó cuando Ryan Reynolds publicó una foto del logo de Los Vengador…
 https://hipertextual.com/cine-television/aparece-deadpool-en-avengers-doomsday-ryan-reynolds-responde/
 🗓️ 2025-09-05 • 🏷️ hipertextual.com
+
+### 2025-09-06T02:18:37.450Z
+📰 Windows 11 podría matar al clic derecho con esta nueva función
+Microsoft ha lanzado una actualización para Windows 11 que agrega una nueva función para gestionar tus documentos. La compilación más reciente del canal Dev de Windows Insider llega cargada de novedades; sin embargo, existe una que podría t…
+https://hipertextual.com/software/windows-11-menu-flotante-clic-derecho/
+🗓️ 2025-09-05 • 🏷️ hipertextual.com

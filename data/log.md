@@ -392,3 +392,19 @@ https://hipertextual.com/legal/warner-bros-demanda-midjourney-superman-batman/
 🗓️ 2025-09-04 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-06
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Windows 11 podría matar al clic derecho con esta nueva función
+Microsoft ha lanzado una actualización para Windows 11 que agrega una nueva función para gestionar tus documentos. La compilación más reciente del canal Dev de Windows Insider llega cargada de novedades; sin embargo, existe una que podría t…
+https://hipertextual.com/software/windows-11-menu-flotante-clic-derecho/
+🗓️ 2025-09-05 • 🏷️ hipertextual.com
+
+---
