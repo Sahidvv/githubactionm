@@ -481,3 +481,9 @@ https://computerhoy.20minutos.es/tecnologia/openai-prepara-primer-chip-ia-2026-1
 La última actualización de Telegram permite añadir música a tu perfil, elegir pestañas predeterminadas, crear stickers personalizados y añade nuevos temas de regalos coleccionables.
 https://computerhoy.20minutos.es/moviles/telegram-estrena-musica-perfiles-mini-app-stickers-nuevos-temas-regalos-1482294
 🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-07T02:26:11.236Z
+📰 Adiós a Project Online: Microsoft retira su versión web de gestión de proyectos
+Project Online, la versión web de su herramienta de gestión de proyectos, dejará de estar disponible el 30 de septiembre de 2026, y los usuarios deberán migrar a Planner.
+https://computerhoy.20minutos.es/tecnologia/adios-project-online-microsoft-retira-version-web-gestion-proyectos-1482296
+🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es

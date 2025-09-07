@@ -408,3 +408,19 @@ https://hipertextual.com/software/windows-11-menu-flotante-clic-derecho/
 🗓️ 2025-09-05 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-07
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Adiós a Project Online: Microsoft retira su versión web de gestión de proyectos
+Project Online, la versión web de su herramienta de gestión de proyectos, dejará de estar disponible el 30 de septiembre de 2026, y los usuarios deberán migrar a Planner.
+https://computerhoy.20minutos.es/tecnologia/adios-project-online-microsoft-retira-version-web-gestion-proyectos-1482296
+🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
+
+---
