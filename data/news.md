@@ -493,3 +493,9 @@ https://computerhoy.20minutos.es/tecnologia/adios-project-online-microsoft-retir
 Microsoft presenta nuevas políticas de gestión de actualizaciones de Windows 11, permitiendo a los administradores controlar mejor actualizaciones de calidad y no críticas en ordenadores de oficina.
 https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-nuevas-politicas-controlar-mejor-actualizaciones-windows-11-1482338
 🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-07T19:13:35.913Z
+📰 Microsoft libera el código del mítico Microsoft BASIC de 1978, creado por el mismísimo Bill Gates: "Yo inventé el comando WAIT"
+Ya puedes descargar el código fuente de Microsoft BASIC, el primer contacto con la programación para millones de personas, hace casi 50 años.
+https://computerhoy.20minutos.es/tecnologia/microsoft-libera-codigo-microsoft-basic-1978-creado-bill-gates-1482353
+🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
