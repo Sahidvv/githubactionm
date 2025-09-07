@@ -487,3 +487,9 @@ https://computerhoy.20minutos.es/moviles/telegram-estrena-musica-perfiles-mini-a
 Project Online, la versión web de su herramienta de gestión de proyectos, dejará de estar disponible el 30 de septiembre de 2026, y los usuarios deberán migrar a Planner.
 https://computerhoy.20minutos.es/tecnologia/adios-project-online-microsoft-retira-version-web-gestion-proyectos-1482296
 🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-07T13:20:53.418Z
+📰 Microsoft lanza nuevas políticas para controlar mejor las actualizaciones de Windows 11
+Microsoft presenta nuevas políticas de gestión de actualizaciones de Windows 11, permitiendo a los administradores controlar mejor actualizaciones de calidad y no críticas en ordenadores de oficina.
+https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-nuevas-politicas-controlar-mejor-actualizaciones-windows-11-1482338
+🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
