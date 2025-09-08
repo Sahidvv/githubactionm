@@ -511,3 +511,9 @@ https://computerhoy.20minutos.es/ciencia/primer-parque-hibrido-solar-eolico-espa
 La actualización a One UI 8 y Android 16 está a punto de llegar a una gran cantidad de móviles de Samsung. Una nueva filtración ha revelado cuándo llegará la nueva versión del software a más de 60 dispositivos de la marca coreana. Y la buen…
 https://hipertextual.com/mobile/filtrada-fecha-actualizacion-one-ui-8-android-16-samsung/
 🗓️ 2025-09-08 • 🏷️ hipertextual.com
+
+### 2025-09-08T19:15:10.623Z
+📰 La DGT lo confirma: multas de hasta 100 euros por cometer este error tan común al echar gasolina al coche
+La DGT recuerda que repostar sin cumplir las normas de seguridad puede acabar en una infracción de hasta 100 euros, y estas reglas tienen el objetivo de evitar riesgos.
+https://computerhoy.20minutos.es/movilidad/dgt-confirma-multas-100-euros-cometer-error-tan-comun-echar-gasolina-coche-1482547
+🗓️ 2025-09-08 • 🏷️ computerhoy.20minutos.es
