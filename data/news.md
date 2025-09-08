@@ -499,3 +499,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-nuevas-politicas-con
 Ya puedes descargar el código fuente de Microsoft BASIC, el primer contacto con la programación para millones de personas, hace casi 50 años.
 https://computerhoy.20minutos.es/tecnologia/microsoft-libera-codigo-microsoft-basic-1978-creado-bill-gates-1482353
 🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-08T02:27:47.641Z
+📰 El primer parque híbrido solar y eólico de España funciona tan bien, que ha aumentado su producción un 60%
+Si combinamos la energía eólica y solar en un mismo lugar, se consigue una generación eléctrica más estable, como ocurre en el parque híbrido Cruz de Hierro, en Ávila.
+https://computerhoy.20minutos.es/ciencia/primer-parque-hibrido-solar-eolico-espana-aumentado-produccion-1482359
+🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es

@@ -424,3 +424,19 @@ https://computerhoy.20minutos.es/tecnologia/adios-project-online-microsoft-retir
 🗓️ 2025-09-06 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-08
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El primer parque híbrido solar y eólico de España funciona tan bien, que ha aumentado su producción un 60%
+Si combinamos la energía eólica y solar en un mismo lugar, se consigue una generación eléctrica más estable, como ocurre en el parque híbrido Cruz de Hierro, en Ávila.
+https://computerhoy.20minutos.es/ciencia/primer-parque-hibrido-solar-eolico-espana-aumentado-produccion-1482359
+🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
+
+---
