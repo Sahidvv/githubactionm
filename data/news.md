@@ -505,3 +505,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-libera-codigo-microsoft-ba
 Si combinamos la energía eólica y solar en un mismo lugar, se consigue una generación eléctrica más estable, como ocurre en el parque híbrido Cruz de Hierro, en Ávila.
 https://computerhoy.20minutos.es/ciencia/primer-parque-hibrido-solar-eolico-espana-aumentado-produccion-1482359
 🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-08T13:30:07.148Z
+📰 ¿Cuándo llega One UI 8 a tu móvil? Se filtra la fecha de actualización de 60 modelos de Samsung
+La actualización a One UI 8 y Android 16 está a punto de llegar a una gran cantidad de móviles de Samsung. Una nueva filtración ha revelado cuándo llegará la nueva versión del software a más de 60 dispositivos de la marca coreana. Y la buen…
+https://hipertextual.com/mobile/filtrada-fecha-actualizacion-one-ui-8-android-16-samsung/
+🗓️ 2025-09-08 • 🏷️ hipertextual.com
