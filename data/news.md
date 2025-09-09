@@ -517,3 +517,9 @@ https://hipertextual.com/mobile/filtrada-fecha-actualizacion-one-ui-8-android-16
 La DGT recuerda que repostar sin cumplir las normas de seguridad puede acabar en una infracción de hasta 100 euros, y estas reglas tienen el objetivo de evitar riesgos.
 https://computerhoy.20minutos.es/movilidad/dgt-confirma-multas-100-euros-cometer-error-tan-comun-echar-gasolina-coche-1482547
 🗓️ 2025-09-08 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-09T02:24:19.683Z
+📰 Adiós paneles solares, estas ventanas transparentes pueden producir energía solar sin que nadie se entere
+Científicos han logrado desarrollar capas de cristal líquido colestérico que convierten el vidrio de las ventanas en superficies activas capaces de generar electricidad de forma sostenible.
+https://computerhoy.20minutos.es/tecnologia/adios-paneles-solares-estas-ventanas-transparentes-pueden-producir-energia-solar-nadie-entere-1482570
+🗓️ 2025-09-09 • 🏷️ computerhoy.20minutos.es

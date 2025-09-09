@@ -440,3 +440,19 @@ https://computerhoy.20minutos.es/ciencia/primer-parque-hibrido-solar-eolico-espa
 🗓️ 2025-09-07 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-09
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Adiós paneles solares, estas ventanas transparentes pueden producir energía solar sin que nadie se entere
+Científicos han logrado desarrollar capas de cristal líquido colestérico que convierten el vidrio de las ventanas en superficies activas capaces de generar electricidad de forma sostenible.
+https://computerhoy.20minutos.es/tecnologia/adios-paneles-solares-estas-ventanas-transparentes-pueden-producir-energia-solar-nadie-entere-1482570
+🗓️ 2025-09-09 • 🏷️ computerhoy.20minutos.es
+
+---
