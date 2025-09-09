@@ -523,3 +523,9 @@ https://computerhoy.20minutos.es/movilidad/dgt-confirma-multas-100-euros-cometer
 Científicos han logrado desarrollar capas de cristal líquido colestérico que convierten el vidrio de las ventanas en superficies activas capaces de generar electricidad de forma sostenible.
 https://computerhoy.20minutos.es/tecnologia/adios-paneles-solares-estas-ventanas-transparentes-pueden-producir-energia-solar-nadie-entere-1482570
 🗓️ 2025-09-09 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-09T13:31:30.538Z
+📰 Microsoft y LG unen fuerzas para convertir tu coche en una Xbox
+Jugar tus videojuegos favoritos directamente desde las pantallas del coche ya no es algo utópico. Esta tendencia lleva varios años ganando fuerza y acaba de sumar a dos gigantes del sector tecnológico: Microsoft y LG. Ambas se han aliado pa…
+https://hipertextual.com/videojuegos/xbox-cloud-gaming-coches-lg/
+🗓️ 2025-09-09 • 🏷️ hipertextual.com
