@@ -541,3 +541,9 @@ https://computerhoy.20minutos.es/moviles/estos-son-precios-fecha-lanzamiento-esp
 Microsoft liberó una actualización para Windows 10 que corrige fallos y habilita nuevas funciones en el sistema operativo. El parche, disponible a través de Windows Update, no solo pone fin al molesto error que mostraba mensajes aleatorios …
 https://hipertextual.com/software/windows-10-actualizacion-gratis-soporte-microsoft/
 🗓️ 2025-09-09 • 🏷️ hipertextual.com
+
+### 2025-09-10T13:26:55.270Z
+📰 ¡Por fin! El audio sin pérdida llegó a Spotify tras años de promesas (y sin pagar más)
+Se demoró una eternidad, pero el audio sin pérdida o Lossless al fin está disponible en Spotify. Después de años de espera y promesas, la plataforma de streaming ha anunciado la introducción oficial de la nueva calidad de audio, que desde h…
+https://hipertextual.com/musica/spotify-lossless-audio-sin-perdida/
+🗓️ 2025-09-10 • 🏷️ hipertextual.com
