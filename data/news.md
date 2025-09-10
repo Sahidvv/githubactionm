@@ -535,3 +535,9 @@ https://hipertextual.com/videojuegos/xbox-cloud-gaming-coches-lg/
 Con los nuevos iPhone 17, Apple Watch y AirPods Pro 3 ya presentados, queda lo más importante, que es conocer sus precios oficiales y la fecha de lanzamiento en España.
 https://computerhoy.20minutos.es/moviles/estos-son-precios-fecha-lanzamiento-espana-iphone-17-apple-watch-11-watch-3-watch-ultra-3-airpods-pro-3-1482692
 🗓️ 2025-09-09 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-10T02:19:12.868Z
+📰 Windows 10 recibe una de sus últimas actualizaciones antes de quedarse sin soporte
+Microsoft liberó una actualización para Windows 10 que corrige fallos y habilita nuevas funciones en el sistema operativo. El parche, disponible a través de Windows Update, no solo pone fin al molesto error que mostraba mensajes aleatorios …
+https://hipertextual.com/software/windows-10-actualizacion-gratis-soporte-microsoft/
+🗓️ 2025-09-09 • 🏷️ hipertextual.com

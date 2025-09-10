@@ -456,3 +456,19 @@ https://computerhoy.20minutos.es/tecnologia/adios-paneles-solares-estas-ventanas
 🗓️ 2025-09-09 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-10
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Windows 10 recibe una de sus últimas actualizaciones antes de quedarse sin soporte
+Microsoft liberó una actualización para Windows 10 que corrige fallos y habilita nuevas funciones en el sistema operativo. El parche, disponible a través de Windows Update, no solo pone fin al molesto error que mostraba mensajes aleatorios …
+https://hipertextual.com/software/windows-10-actualizacion-gratis-soporte-microsoft/
+🗓️ 2025-09-09 • 🏷️ hipertextual.com
+
+---
