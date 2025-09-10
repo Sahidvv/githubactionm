@@ -547,3 +547,9 @@ https://hipertextual.com/software/windows-10-actualizacion-gratis-soporte-micros
 Se demoró una eternidad, pero el audio sin pérdida o Lossless al fin está disponible en Spotify. Después de años de espera y promesas, la plataforma de streaming ha anunciado la introducción oficial de la nueva calidad de audio, que desde h…
 https://hipertextual.com/musica/spotify-lossless-audio-sin-perdida/
 🗓️ 2025-09-10 • 🏷️ hipertextual.com
+
+### 2025-09-10T19:15:16.473Z
+📰 El faraónico proyecto que unirá Europa con África a través de España: 30.000 millones para crear el túnel submarino más largo de la Tierra
+España y Marruecos han reactivado, después de más de 14 años en pausa, los estudios para construir un túnel ferroviario de 60 kilómetros, 28 de ellos bajo el Estrecho de Gibraltar.
+https://computerhoy.20minutos.es/tecnologia/faraonico-proyecto-unira-europa-africa-traves-espana-30000-millones-crear-tunel-submarino-largo-tierra-1482990
+🗓️ 2025-09-10 • 🏷️ computerhoy.20minutos.es
