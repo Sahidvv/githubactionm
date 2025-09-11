@@ -472,3 +472,19 @@ https://hipertextual.com/software/windows-10-actualizacion-gratis-soporte-micros
 🗓️ 2025-09-09 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-11
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Por qué Apple abandona el titanio y se pasa al aluminio en los nuevos iPhone 17 Pro si es un material menos resistente?
+Apple deja atrás el titanio estrenado en 2023 con los iPhone 15 Pro y regresa al aluminio en los nuevos iPhone 17 Pro y Pro Max, una decisión que tiene una explicación lógica.
+https://computerhoy.20minutos.es/moviles/apple-abandona-titanio-pasa-aluminio-nuevos-iphone-17-pro-material-menos-resistente-1483031
+🗓️ 2025-09-10 • 🏷️ computerhoy.20minutos.es
+
+---

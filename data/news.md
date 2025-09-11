@@ -553,3 +553,9 @@ https://hipertextual.com/musica/spotify-lossless-audio-sin-perdida/
 España y Marruecos han reactivado, después de más de 14 años en pausa, los estudios para construir un túnel ferroviario de 60 kilómetros, 28 de ellos bajo el Estrecho de Gibraltar.
 https://computerhoy.20minutos.es/tecnologia/faraonico-proyecto-unira-europa-africa-traves-espana-30000-millones-crear-tunel-submarino-largo-tierra-1482990
 🗓️ 2025-09-10 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-11T02:23:10.585Z
+📰 ¿Por qué Apple abandona el titanio y se pasa al aluminio en los nuevos iPhone 17 Pro si es un material menos resistente?
+Apple deja atrás el titanio estrenado en 2023 con los iPhone 15 Pro y regresa al aluminio en los nuevos iPhone 17 Pro y Pro Max, una decisión que tiene una explicación lógica.
+https://computerhoy.20minutos.es/moviles/apple-abandona-titanio-pasa-aluminio-nuevos-iphone-17-pro-material-menos-resistente-1483031
+🗓️ 2025-09-10 • 🏷️ computerhoy.20minutos.es
