@@ -559,3 +559,9 @@ https://computerhoy.20minutos.es/tecnologia/faraonico-proyecto-unira-europa-afri
 Apple deja atrás el titanio estrenado en 2023 con los iPhone 15 Pro y regresa al aluminio en los nuevos iPhone 17 Pro y Pro Max, una decisión que tiene una explicación lógica.
 https://computerhoy.20minutos.es/moviles/apple-abandona-titanio-pasa-aluminio-nuevos-iphone-17-pro-material-menos-resistente-1483031
 🗓️ 2025-09-10 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-11T13:23:45.337Z
+📰 Qué es HDMI CEC: para qué sirve una de las conexiones más poderosas y menos conocidas de tu Smart TV
+El puerto HDMI CEC puede parecer una conexión más, pero es mucho más útil de lo que imaginas: permite aprovechar al máximo tu Smart TV y todos los dispositivos conectados.
+https://computerhoy.20minutos.es/tv/puerto-conexion-hdmi-cec-sirve-como-usarlo-smart-tv-1381950
+🗓️ 2025-09-11 • 🏷️ computerhoy.20minutos.es
