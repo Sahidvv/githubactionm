@@ -565,3 +565,9 @@ https://computerhoy.20minutos.es/moviles/apple-abandona-titanio-pasa-aluminio-nu
 El puerto HDMI CEC puede parecer una conexión más, pero es mucho más útil de lo que imaginas: permite aprovechar al máximo tu Smart TV y todos los dispositivos conectados.
 https://computerhoy.20minutos.es/tv/puerto-conexion-hdmi-cec-sirve-como-usarlo-smart-tv-1381950
 🗓️ 2025-09-11 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-11T19:13:40.454Z
+📰 Prime Video tiene la película de Michael Caine con mejores críticas: es totalmente de culto
+Da igual el portal de cine especializado que mires: siempre hay una película de intriga que tiene las notas más altas, y que está considerada de culto incluso hoy.
+https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-michael-caine-mejores-criticas-totalmente-culto-1482949
+🗓️ 2025-09-11 • 🏷️ computerhoy.20minutos.es
