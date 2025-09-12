@@ -583,3 +583,9 @@ https://hipertextual.com/mobile/galaxy-s26-pro-exynos-2600-vs-snapdragon/
 El abrazo perfecto tiene mucha ciencia. De hecho, en 2021 se publicó un estudio dirigido a analizar sus características. Existen características que hacen que un abrazo sea más agradable que otras. Sin embargo, cuando se han estudiado norma…
 https://hipertextual.com/ciencia/abrazo-pareja-o-amigos/
 🗓️ 2025-09-12 • 🏷️ hipertextual.com
+
+### 2025-09-12T19:14:38.929Z
+📰 Adiós Waze, esta es la nueva app GPS que los conductores prefieren ahora para evitar los radares de velocidad
+Waze parece que se está quedando atrás después de competir con Google Maps durante mucho tiempo. Las estadísticas confirman que ya hay una app favorita para los conductores.
+https://computerhoy.20minutos.es/moviles/adios-waze-nueva-app-gps-conductores-prefieren-ahora-evitar-radares-velocidad-1483428
+🗓️ 2025-09-12 • 🏷️ computerhoy.20minutos.es
