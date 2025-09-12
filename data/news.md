@@ -577,3 +577,9 @@ https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-mich
 El Galaxy S26 será uno de los lanzamientos más importantes para Samsung en esta década. La gama alta es uno de los segmentos más competidos y la surcoreana sabe que debe ofrecer un móvil potente y con buenas funciones. Mientras los últimos …
 https://hipertextual.com/mobile/galaxy-s26-pro-exynos-2600-vs-snapdragon/
 🗓️ 2025-09-12 • 🏷️ hipertextual.com
+
+### 2025-09-12T13:25:49.714Z
+📰 ¿Quieres saber si le gustas a esa persona? Fíjate en sus abrazos
+El abrazo perfecto tiene mucha ciencia. De hecho, en 2021 se publicó un estudio dirigido a analizar sus características. Existen características que hacen que un abrazo sea más agradable que otras. Sin embargo, cuando se han estudiado norma…
+https://hipertextual.com/ciencia/abrazo-pareja-o-amigos/
+🗓️ 2025-09-12 • 🏷️ hipertextual.com
