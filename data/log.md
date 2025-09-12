@@ -488,3 +488,19 @@ https://computerhoy.20minutos.es/moviles/apple-abandona-titanio-pasa-aluminio-nu
 🗓️ 2025-09-10 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-12
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 El Galaxy S26 podría traer de vuelta lo que nadie quería
+El Galaxy S26 será uno de los lanzamientos más importantes para Samsung en esta década. La gama alta es uno de los segmentos más competidos y la surcoreana sabe que debe ofrecer un móvil potente y con buenas funciones. Mientras los últimos …
+https://hipertextual.com/mobile/galaxy-s26-pro-exynos-2600-vs-snapdragon/
+🗓️ 2025-09-12 • 🏷️ hipertextual.com
+
+---

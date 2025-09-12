@@ -571,3 +571,9 @@ https://computerhoy.20minutos.es/tv/puerto-conexion-hdmi-cec-sirve-como-usarlo-s
 Da igual el portal de cine especializado que mires: siempre hay una película de intriga que tiene las notas más altas, y que está considerada de culto incluso hoy.
 https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-michael-caine-mejores-criticas-totalmente-culto-1482949
 🗓️ 2025-09-11 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-12T02:18:37.794Z
+📰 El Galaxy S26 podría traer de vuelta lo que nadie quería
+El Galaxy S26 será uno de los lanzamientos más importantes para Samsung en esta década. La gama alta es uno de los segmentos más competidos y la surcoreana sabe que debe ofrecer un móvil potente y con buenas funciones. Mientras los últimos …
+https://hipertextual.com/mobile/galaxy-s26-pro-exynos-2600-vs-snapdragon/
+🗓️ 2025-09-12 • 🏷️ hipertextual.com
