@@ -504,3 +504,19 @@ https://hipertextual.com/mobile/galaxy-s26-pro-exynos-2600-vs-snapdragon/
 🗓️ 2025-09-12 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-13
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Esta cinta de casete hecha de ADN puede almacenar todas las canciones jamás grabadas
+Un solo casete es capaz de guardar hasta 36 petabytes de datos, el equivalente a más de 3.000 millones de canciones, superando a cualquier unidad de almacenamiento actual.
+https://computerhoy.20minutos.es/ciencia/cinta-casete-hecha-adn-puede-almacenar-todas-canciones-jamas-grabadas-1483444
+🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
+
+---

@@ -589,3 +589,9 @@ https://hipertextual.com/ciencia/abrazo-pareja-o-amigos/
 Waze parece que se está quedando atrás después de competir con Google Maps durante mucho tiempo. Las estadísticas confirman que ya hay una app favorita para los conductores.
 https://computerhoy.20minutos.es/moviles/adios-waze-nueva-app-gps-conductores-prefieren-ahora-evitar-radares-velocidad-1483428
 🗓️ 2025-09-12 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-13T02:13:22.669Z
+📰 Esta cinta de casete hecha de ADN puede almacenar todas las canciones jamás grabadas
+Un solo casete es capaz de guardar hasta 36 petabytes de datos, el equivalente a más de 3.000 millones de canciones, superando a cualquier unidad de almacenamiento actual.
+https://computerhoy.20minutos.es/ciencia/cinta-casete-hecha-adn-puede-almacenar-todas-canciones-jamas-grabadas-1483444
+🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
