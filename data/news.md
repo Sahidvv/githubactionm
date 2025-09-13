@@ -595,3 +595,9 @@ https://computerhoy.20minutos.es/moviles/adios-waze-nueva-app-gps-conductores-pr
 Un solo casete es capaz de guardar hasta 36 petabytes de datos, el equivalente a más de 3.000 millones de canciones, superando a cualquier unidad de almacenamiento actual.
 https://computerhoy.20minutos.es/ciencia/cinta-casete-hecha-adn-puede-almacenar-todas-canciones-jamas-grabadas-1483444
 🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-13T13:19:44.656Z
+📰 Trucos del ratón en Windows que me gustaría haber conocido antes, ya no puedo vivir sin ellos
+No solo tienes las funciones básicas del clic derecho e izquierdo. Hay trucos en Windows con este periférico que te van a servir de para ahorrar tiempo y navegar mejor.
+https://computerhoy.20minutos.es/windows/trucos-raton-windows-me-gustaria-haber-conocido-antes-ya-no-puedo-vivir-ellos-1478478
+🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
