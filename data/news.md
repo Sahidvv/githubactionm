@@ -601,3 +601,9 @@ https://computerhoy.20minutos.es/ciencia/cinta-casete-hecha-adn-puede-almacenar-
 No solo tienes las funciones básicas del clic derecho e izquierdo. Hay trucos en Windows con este periférico que te van a servir de para ahorrar tiempo y navegar mejor.
 https://computerhoy.20minutos.es/windows/trucos-raton-windows-me-gustaria-haber-conocido-antes-ya-no-puedo-vivir-ellos-1478478
 🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-13T19:12:35.784Z
+📰 WhatsApp facilita encontrar GIFs con nueva interfaz que vas a usar desde el primer día
+WhatsApp mejora el teclado de GIFs en dispositivos iOS con un diseño de tres columnas, mostrando más animaciones a la vez y facilitando la navegación.
+https://computerhoy.20minutos.es/moviles/whatsapp-facilita-encontrar-gifs-nueva-interfaz-vas-usar-primer-dia-1483537
+🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
