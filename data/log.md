@@ -520,3 +520,19 @@ https://computerhoy.20minutos.es/ciencia/cinta-casete-hecha-adn-puede-almacenar-
 🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-14
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Chrome podría verificar tu correo directamente en el navegador sin abrir el email
+Este nuevo protocolo permitiría verificar nuestro correo electrónico directamente en el navegador, sin enlaces ni códigos, haciendo el proceso más rápido y seguro.
+https://computerhoy.20minutos.es/tecnologia/chrome-podria-verificar-correo-directamente-navegador-abrir-email-1483542
+🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
+
+---

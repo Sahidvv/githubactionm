@@ -607,3 +607,9 @@ https://computerhoy.20minutos.es/windows/trucos-raton-windows-me-gustaria-haber-
 WhatsApp mejora el teclado de GIFs en dispositivos iOS con un diseño de tres columnas, mostrando más animaciones a la vez y facilitando la navegación.
 https://computerhoy.20minutos.es/moviles/whatsapp-facilita-encontrar-gifs-nueva-interfaz-vas-usar-primer-dia-1483537
 🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-14T02:26:05.140Z
+📰 Chrome podría verificar tu correo directamente en el navegador sin abrir el email
+Este nuevo protocolo permitiría verificar nuestro correo electrónico directamente en el navegador, sin enlaces ni códigos, haciendo el proceso más rápido y seguro.
+https://computerhoy.20minutos.es/tecnologia/chrome-podria-verificar-correo-directamente-navegador-abrir-email-1483542
+🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
