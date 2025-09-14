@@ -613,3 +613,9 @@ https://computerhoy.20minutos.es/moviles/whatsapp-facilita-encontrar-gifs-nueva-
 Este nuevo protocolo permitiría verificar nuestro correo electrónico directamente en el navegador, sin enlaces ni códigos, haciendo el proceso más rápido y seguro.
 https://computerhoy.20minutos.es/tecnologia/chrome-podria-verificar-correo-directamente-navegador-abrir-email-1483542
 🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-14T13:19:09.088Z
+📰 WhatsApp introduce hilos de conversación para seguir mejor las respuestas
+WhatsApp prueba los mensajes en hilos en su última beta para Android, organizando las respuestas debajo del mensaje original para chats más claros y fáciles de seguir.
+https://computerhoy.20minutos.es/moviles/whatsapp-introduce-hilos-conversacion-seguir-mejor-respuestas-1483583
+🗓️ 2025-09-14 • 🏷️ computerhoy.20minutos.es
