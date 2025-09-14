@@ -619,3 +619,9 @@ https://computerhoy.20minutos.es/tecnologia/chrome-podria-verificar-correo-direc
 WhatsApp prueba los mensajes en hilos en su última beta para Android, organizando las respuestas debajo del mensaje original para chats más claros y fáciles de seguir.
 https://computerhoy.20minutos.es/moviles/whatsapp-introduce-hilos-conversacion-seguir-mejor-respuestas-1483583
 🗓️ 2025-09-14 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-14T19:12:52.885Z
+📰 La traducción en vivo de los AirPods Pro 3 no llega a Europa
+Hubo un tiempo en que la ciencia ficción nos hizo soñar con una criatura imposible: el Babel Fish de La guía del autoestopista galáctico, un pequeño ser que, al introducirse en el oído, nos permitía comprender cualquier idioma hablado en el…
+https://www.muycomputer.com/2025/09/14/la-traduccion-en-vivo-de-los-airpods-pro-3-no-llega-a-europa/
+🗓️ 2025-09-14 • 🏷️ muycomputer.com
