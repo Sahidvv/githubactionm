@@ -631,3 +631,9 @@ https://www.muycomputer.com/2025/09/14/la-traduccion-en-vivo-de-los-airpods-pro-
 En un mundo dominado por las grandes compañías tecnológicas, llamarte Mark Zuckerberg es una pesadilla, cuando no eres el CEO de Meta. No tienes derecho a una identidad.
 https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-denuncia-mark-zuckerberg-banearle-redes-sociales-meta-1483616
 🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-15T13:27:23.766Z
+📰 Tres razones para ver ‘La larga marcha’, la mejor adaptación de Stephen King del año
+La larga marcha, la nueva adaptación de Stephen King dirigida por Francis Lawrence, tiene el reto de explorar en una premisa poco original. La de un juego mortal, cuyo premio parece ser el mayor aliciente para arriesgarse a morir o, en el p…
+https://hipertextual.com/cine-television/tres-razones-para-ver-la-larga-marcha-la-mejor-adaptacion-de-stephen-king-del-ano/
+🗓️ 2025-09-15 • 🏷️ hipertextual.com
