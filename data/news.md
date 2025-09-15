@@ -625,3 +625,9 @@ https://computerhoy.20minutos.es/moviles/whatsapp-introduce-hilos-conversacion-s
 Hubo un tiempo en que la ciencia ficción nos hizo soñar con una criatura imposible: el Babel Fish de La guía del autoestopista galáctico, un pequeño ser que, al introducirse en el oído, nos permitía comprender cualquier idioma hablado en el…
 https://www.muycomputer.com/2025/09/14/la-traduccion-en-vivo-de-los-airpods-pro-3-no-llega-a-europa/
 🗓️ 2025-09-14 • 🏷️ muycomputer.com
+
+### 2025-09-15T02:38:34.230Z
+📰 Mark Zuckerberg denuncia a Mark Zuckerberg por banearle en las redes sociales de Meta y convertir su vida en una pesadilla
+En un mundo dominado por las grandes compañías tecnológicas, llamarte Mark Zuckerberg es una pesadilla, cuando no eres el CEO de Meta. No tienes derecho a una identidad.
+https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-denuncia-mark-zuckerberg-banearle-redes-sociales-meta-1483616
+🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es

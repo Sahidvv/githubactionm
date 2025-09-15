@@ -536,3 +536,19 @@ https://computerhoy.20minutos.es/tecnologia/chrome-podria-verificar-correo-direc
 🗓️ 2025-09-13 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-15
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Mark Zuckerberg denuncia a Mark Zuckerberg por banearle en las redes sociales de Meta y convertir su vida en una pesadilla
+En un mundo dominado por las grandes compañías tecnológicas, llamarte Mark Zuckerberg es una pesadilla, cuando no eres el CEO de Meta. No tienes derecho a una identidad.
+https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-denuncia-mark-zuckerberg-banearle-redes-sociales-meta-1483616
+🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
+
+---
