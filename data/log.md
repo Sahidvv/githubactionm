@@ -552,3 +552,19 @@ https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-denuncia-mark-zucker
 🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-16
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Qué significa la extraña pegatina roja que ha anunciado la DGT, y que será obligatoria en algunos vehículos
+La Dirección General de Tráfico ha anunciado las nuevas pegatinas tecnológicas, presentes en vehículos muy concretos, pero que cada vez van a ser más comunes.
+https://computerhoy.20minutos.es/movilidad/pegatina-roja-ha-anunciado-dgt-sera-obligatoria-coches-autonomos-1483841
+🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
+
+---

@@ -643,3 +643,9 @@ https://hipertextual.com/cine-television/tres-razones-para-ver-la-larga-marcha-l
 El horno ofrece una alternativa asequible y compacta para disfrutar en casa de pizzas al estilo napolitano gracias a su capacidad de alcanzar altas temperaturas y a las herramientas que incorpora.
 https://computerhoy.20minutos.es/dispositivos/ya-oficial-adios-pizza-domicilio-gadget-ultrabarato-lidl-podras-hacerlas-casa-estilo-napolitano-menos-2-minutos-1483811
 🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-16T02:19:52.388Z
+📰 Qué significa la extraña pegatina roja que ha anunciado la DGT, y que será obligatoria en algunos vehículos
+La Dirección General de Tráfico ha anunciado las nuevas pegatinas tecnológicas, presentes en vehículos muy concretos, pero que cada vez van a ser más comunes.
+https://computerhoy.20minutos.es/movilidad/pegatina-roja-ha-anunciado-dgt-sera-obligatoria-coches-autonomos-1483841
+🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
