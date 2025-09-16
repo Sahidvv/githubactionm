@@ -655,3 +655,9 @@ https://computerhoy.20minutos.es/movilidad/pegatina-roja-ha-anunciado-dgt-sera-o
 Robert Redford, uno de los actores y directores más legendarios de Hollywood, ha muerto a los 89 años. Según reporta Variety, desde el entorno del intérprete confirmaron que su fallecimiento se produjo en su residencia en Provo, en las mont…
 https://hipertextual.com/cine-television/ha-muerto-robert-redford/
 🗓️ 2025-09-16 • 🏷️ hipertextual.com
+
+### 2025-09-16T19:15:19.972Z
+📰 Acaba de llegar a Prime Video: la adaptación de Stephen King que nadie recuerda, pero merece mucho la pena
+En 2002, una miniserie escrita por el autor de It o El resplandor se convirtió en un éxito, que recibió críticas muy divididas por parte de los espectadores.
+https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-adaptacion-stephen-king-nadie-recuerda-pero-merece-mucho-pena-1483793
+🗓️ 2025-09-16 • 🏷️ computerhoy.20minutos.es
