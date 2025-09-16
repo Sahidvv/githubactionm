@@ -649,3 +649,9 @@ https://computerhoy.20minutos.es/dispositivos/ya-oficial-adios-pizza-domicilio-g
 La Dirección General de Tráfico ha anunciado las nuevas pegatinas tecnológicas, presentes en vehículos muy concretos, pero que cada vez van a ser más comunes.
 https://computerhoy.20minutos.es/movilidad/pegatina-roja-ha-anunciado-dgt-sera-obligatoria-coches-autonomos-1483841
 🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-16T13:28:48.195Z
+📰 Ha muerto Robert Redford a los 89 años
+Robert Redford, uno de los actores y directores más legendarios de Hollywood, ha muerto a los 89 años. Según reporta Variety, desde el entorno del intérprete confirmaron que su fallecimiento se produjo en su residencia en Provo, en las mont…
+https://hipertextual.com/cine-television/ha-muerto-robert-redford/
+🗓️ 2025-09-16 • 🏷️ hipertextual.com
