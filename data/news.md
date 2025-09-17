@@ -673,3 +673,9 @@ https://computerhoy.20minutos.es/tecnologia/como-reaccionar-ataque-drones-polici
 Sirat de Oliver Laxe, ya es oficialmente la película que representará a España en los próximos premios Oscar de la Academia. Un reconocimiento más que merecido para la producción, que sorprendió desde su paso por la Sección Oficial del Fest…
 https://hipertextual.com/cine-television/donde-ver-sirat-la-pelicula-espanola-que-ira-a-los-oscars-2026/
 🗓️ 2025-09-17 • 🏷️ hipertextual.com
+
+### 2025-09-17T19:14:59.444Z
+📰 5 películas de Prime Video que no sabías que eran remakes
+Aunque mucha gente se queje de que hoy en día solo se hacen adaptaciones de clásicos, la plataforma de Amazon demuestra que no es algo ni mucho menos nuevo.
+https://computerhoy.20minutos.es/entretenimiento/peliculas-prime-video-no-sabias-eran-remakes-1484060
+🗓️ 2025-09-17 • 🏷️ computerhoy.20minutos.es
