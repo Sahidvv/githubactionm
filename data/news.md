@@ -661,3 +661,9 @@ https://hipertextual.com/cine-television/ha-muerto-robert-redford/
 En 2002, una miniserie escrita por el autor de It o El resplandor se convirtió en un éxito, que recibió críticas muy divididas por parte de los espectadores.
 https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-adaptacion-stephen-king-nadie-recuerda-pero-merece-mucho-pena-1483793
 🗓️ 2025-09-16 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-17T02:19:31.878Z
+📰 ¿Cómo reaccionar a un ataque con drones? Policías de Europa advierten del peligro y la importancia de la “regla de las dos paredes”
+Policía de Polonia advierte que los ataques de drones podrían suceder en cualquier momento. Estos son los pasos que debes seguir para no convertirte en un objetivo.
+https://computerhoy.20minutos.es/tecnologia/como-reaccionar-ataque-drones-policias-europa-advierten-peligro-importancia-regla-dos-paredes-1484049
+🗓️ 2025-09-16 • 🏷️ computerhoy.20minutos.es

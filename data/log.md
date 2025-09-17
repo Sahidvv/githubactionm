@@ -568,3 +568,19 @@ https://computerhoy.20minutos.es/movilidad/pegatina-roja-ha-anunciado-dgt-sera-o
 🗓️ 2025-09-15 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-17
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 ¿Cómo reaccionar a un ataque con drones? Policías de Europa advierten del peligro y la importancia de la “regla de las dos paredes”
+Policía de Polonia advierte que los ataques de drones podrían suceder en cualquier momento. Estos son los pasos que debes seguir para no convertirte en un objetivo.
+https://computerhoy.20minutos.es/tecnologia/como-reaccionar-ataque-drones-policias-europa-advierten-peligro-importancia-regla-dos-paredes-1484049
+🗓️ 2025-09-16 • 🏷️ computerhoy.20minutos.es
+
+---
