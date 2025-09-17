@@ -667,3 +667,9 @@ https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-adapta
 Policía de Polonia advierte que los ataques de drones podrían suceder en cualquier momento. Estos son los pasos que debes seguir para no convertirte en un objetivo.
 https://computerhoy.20minutos.es/tecnologia/como-reaccionar-ataque-drones-policias-europa-advierten-peligro-importancia-regla-dos-paredes-1484049
 🗓️ 2025-09-16 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-17T13:27:23.315Z
+📰 Dónde ver ‘Sirat’, la película española que irá a los Oscars 2026
+Sirat de Oliver Laxe, ya es oficialmente la película que representará a España en los próximos premios Oscar de la Academia. Un reconocimiento más que merecido para la producción, que sorprendió desde su paso por la Sección Oficial del Fest…
+https://hipertextual.com/cine-television/donde-ver-sirat-la-pelicula-espanola-que-ira-a-los-oscars-2026/
+🗓️ 2025-09-17 • 🏷️ hipertextual.com
