@@ -691,3 +691,9 @@ https://hipertextual.com/tecnologia/nuevas-meta-ray-ban-display-principales-cara
 Por increíble que parezca, NVIDIA e Intel se aliarán para desarrollar nuevos chips x86 para consumidores y centros de datos. El gigante verde anunció una inversión de 5.000 millones de dólares en la chipera de Santa Clara como parte de esta…
 https://hipertextual.com/hardware/nvidia-intel-alianza-x86/
 🗓️ 2025-09-18 • 🏷️ hipertextual.com
+
+### 2025-09-18T19:15:42.409Z
+📰 Esta película de Prime Video es un remake de un clasicazo de la ciencia ficción, pero también una locura de los 80
+El mítico director de La matanza de Texas o Poltergeist decidió trabajar con Cannon Films para realizar una película fantástica totalmente disparatada.
+https://computerhoy.20minutos.es/entretenimiento/pelicula-prime-video-remake-clasicazo-ciencia-ficcion-pero-tambien-locura-80-1484183
+🗓️ 2025-09-18 • 🏷️ computerhoy.20minutos.es
