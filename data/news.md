@@ -685,3 +685,9 @@ https://computerhoy.20minutos.es/entretenimiento/peliculas-prime-video-no-sabias
 Las expectativas estaban muy altas y Meta ha cumplido con creces. La firma de Mark Zuckerberg finalmente ha presentado las Meta Ray-Ban Display, sus nuevas gafas con pantalla integrada en el cristal y control por gestos vía electromiografía…
 https://hipertextual.com/tecnologia/nuevas-meta-ray-ban-display-principales-caracteristicas-y-precio/
 🗓️ 2025-09-18 • 🏷️ hipertextual.com
+
+### 2025-09-18T13:27:32.138Z
+📰 NVIDIA e Intel se alían para desarrollar nuevos chips x86: el infierno se congela
+Por increíble que parezca, NVIDIA e Intel se aliarán para desarrollar nuevos chips x86 para consumidores y centros de datos. El gigante verde anunció una inversión de 5.000 millones de dólares en la chipera de Santa Clara como parte de esta…
+https://hipertextual.com/hardware/nvidia-intel-alianza-x86/
+🗓️ 2025-09-18 • 🏷️ hipertextual.com
