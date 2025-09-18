@@ -584,3 +584,19 @@ https://computerhoy.20minutos.es/tecnologia/como-reaccionar-ataque-drones-polici
 🗓️ 2025-09-16 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-18
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Las Meta Ray-Ban Display son una auténtica revolución: así son las nuevas gafas con pantalla y control neuronal
+Las expectativas estaban muy altas y Meta ha cumplido con creces. La firma de Mark Zuckerberg finalmente ha presentado las Meta Ray-Ban Display, sus nuevas gafas con pantalla integrada en el cristal y control por gestos vía electromiografía…
+https://hipertextual.com/tecnologia/nuevas-meta-ray-ban-display-principales-caracteristicas-y-precio/
+🗓️ 2025-09-18 • 🏷️ hipertextual.com
+
+---

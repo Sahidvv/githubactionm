@@ -679,3 +679,9 @@ https://hipertextual.com/cine-television/donde-ver-sirat-la-pelicula-espanola-qu
 Aunque mucha gente se queje de que hoy en día solo se hacen adaptaciones de clásicos, la plataforma de Amazon demuestra que no es algo ni mucho menos nuevo.
 https://computerhoy.20minutos.es/entretenimiento/peliculas-prime-video-no-sabias-eran-remakes-1484060
 🗓️ 2025-09-17 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-18T02:19:51.056Z
+📰 Las Meta Ray-Ban Display son una auténtica revolución: así son las nuevas gafas con pantalla y control neuronal
+Las expectativas estaban muy altas y Meta ha cumplido con creces. La firma de Mark Zuckerberg finalmente ha presentado las Meta Ray-Ban Display, sus nuevas gafas con pantalla integrada en el cristal y control por gestos vía electromiografía…
+https://hipertextual.com/tecnologia/nuevas-meta-ray-ban-display-principales-caracteristicas-y-precio/
+🗓️ 2025-09-18 • 🏷️ hipertextual.com
