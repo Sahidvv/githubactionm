@@ -709,3 +709,9 @@ https://hipertextual.com/tecnologia/meta-sdk-ray-ban-gafas-inteligentes/
 El ejército de Ucrania ha interceptado el dron ruso más letal hasta la fecha, han descubierto que hasta 50 piezas provienen de países occidentales.
 https://computerhoy.20minutos.es/tecnologia/ucrania-ha-desmontado-pieza-pieza-dron-ruso-inmune-guerra-electronica-sorpresa-ha-sido-enorme-1484528
 🗓️ 2025-09-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-19T19:14:46.767Z
+📰 No solo Meta: OpenAI ya desarrolla unas gafas con IA diseñadas por Jony Ive
+Meta no es la única que trabaja en gafas inteligentes con IA. A unos días de la presentación de las nuevas Meta Ray-Ban Display, un nuevo contrincante podría entrar a escena. Según los rumores, OpenAI estaría trabajando en unas gafas inteli…
+https://hipertextual.com/tecnologia/openai-jony-ive-gafas-ia-altavoz-inteligente-homepod/
+🗓️ 2025-09-19 • 🏷️ hipertextual.com
