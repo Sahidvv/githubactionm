@@ -703,3 +703,9 @@ https://computerhoy.20minutos.es/entretenimiento/pelicula-prime-video-remake-cla
 A unas horas de presentar sus nuevos modelos de gafas inteligentes, Meta anunció que lanzará un kit para desarrolladores. Conocido como Meta Wearables Devices Access Toolkit, esta suite de herramientas permitirá crear experiencias móviles p…
 https://hipertextual.com/tecnologia/meta-sdk-ray-ban-gafas-inteligentes/
 🗓️ 2025-09-19 • 🏷️ hipertextual.com
+
+### 2025-09-19T13:27:58.226Z
+📰 Ucrania ha desmontado pieza a pieza el dron ruso inmune a la guerra electrónica, la sorpresa ha sido enorme
+El ejército de Ucrania ha interceptado el dron ruso más letal hasta la fecha, han descubierto que hasta 50 piezas provienen de países occidentales.
+https://computerhoy.20minutos.es/tecnologia/ucrania-ha-desmontado-pieza-pieza-dron-ruso-inmune-guerra-electronica-sorpresa-ha-sido-enorme-1484528
+🗓️ 2025-09-19 • 🏷️ computerhoy.20minutos.es
