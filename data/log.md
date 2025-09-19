@@ -600,3 +600,19 @@ https://hipertextual.com/tecnologia/nuevas-meta-ray-ban-display-principales-cara
 🗓️ 2025-09-18 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-19
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Meta abre sus gafas inteligentes: cualquiera podrá crear apps para las Ray-Ban Meta y las nuevas Ray-Ban Display
+A unas horas de presentar sus nuevos modelos de gafas inteligentes, Meta anunció que lanzará un kit para desarrolladores. Conocido como Meta Wearables Devices Access Toolkit, esta suite de herramientas permitirá crear experiencias móviles p…
+https://hipertextual.com/tecnologia/meta-sdk-ray-ban-gafas-inteligentes/
+🗓️ 2025-09-19 • 🏷️ hipertextual.com
+
+---

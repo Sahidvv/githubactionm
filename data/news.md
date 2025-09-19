@@ -697,3 +697,9 @@ https://hipertextual.com/hardware/nvidia-intel-alianza-x86/
 El mítico director de La matanza de Texas o Poltergeist decidió trabajar con Cannon Films para realizar una película fantástica totalmente disparatada.
 https://computerhoy.20minutos.es/entretenimiento/pelicula-prime-video-remake-clasicazo-ciencia-ficcion-pero-tambien-locura-80-1484183
 🗓️ 2025-09-18 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-19T02:23:35.954Z
+📰 Meta abre sus gafas inteligentes: cualquiera podrá crear apps para las Ray-Ban Meta y las nuevas Ray-Ban Display
+A unas horas de presentar sus nuevos modelos de gafas inteligentes, Meta anunció que lanzará un kit para desarrolladores. Conocido como Meta Wearables Devices Access Toolkit, esta suite de herramientas permitirá crear experiencias móviles p…
+https://hipertextual.com/tecnologia/meta-sdk-ray-ban-gafas-inteligentes/
+🗓️ 2025-09-19 • 🏷️ hipertextual.com
