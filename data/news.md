@@ -727,3 +727,9 @@ https://computerhoy.20minutos.es/tecnologia/temor-gamers-linux-compatibilidad-pe
 Los cibercriminales están utilizando dispositivos portátiles que actúan como torres de telefonía móvil, capaces de enviar hasta 100.000 SMS por hora con enlaces peligrosos.
 https://computerhoy.20minutos.es/ciberseguridad/estafadores-usan-torres-falsas-telefonia-enviar-100000-sms-infectar-movil-1484692
 🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-20T19:12:25.969Z
+📰 Firefox 143 llega con Copilot y nuevas funciones de privacidad
+Mozilla lanza Firefox 143 con Copilot en la barra lateral, sitios web fijables como apps, mayor protección de privacidad y nuevas funciones de accesibilidad y multimedia.
+https://computerhoy.20minutos.es/tecnologia/firefox-143-llega-copilot-nuevas-funciones-privacidad-1484715
+🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
