@@ -715,3 +715,9 @@ https://computerhoy.20minutos.es/tecnologia/ucrania-ha-desmontado-pieza-pieza-dr
 Meta no es la única que trabaja en gafas inteligentes con IA. A unos días de la presentación de las nuevas Meta Ray-Ban Display, un nuevo contrincante podría entrar a escena. Según los rumores, OpenAI estaría trabajando en unas gafas inteli…
 https://hipertextual.com/tecnologia/openai-jony-ive-gafas-ia-altavoz-inteligente-homepod/
 🗓️ 2025-09-19 • 🏷️ hipertextual.com
+
+### 2025-09-20T02:17:38.338Z
+📰 El temor de los gamers hacia Linux es la compatibilidad, pero Windows 11 sigue teniendo menos rendimiento
+El gran miedo de los jugadores hacia Linux es la compatibilidad de los juegos y el software, pero en la práctica el rendimiento suele ser igual o incluso superior al de Windows 11.
+https://computerhoy.20minutos.es/tecnologia/temor-gamers-linux-compatibilidad-pero-windows-11-sigue-teniendo-menos-rendimiento-1484635
+🗓️ 2025-09-19 • 🏷️ computerhoy.20minutos.es

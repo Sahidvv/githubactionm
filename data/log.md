@@ -616,3 +616,19 @@ https://hipertextual.com/tecnologia/meta-sdk-ray-ban-gafas-inteligentes/
 🗓️ 2025-09-19 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-20
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 El temor de los gamers hacia Linux es la compatibilidad, pero Windows 11 sigue teniendo menos rendimiento
+El gran miedo de los jugadores hacia Linux es la compatibilidad de los juegos y el software, pero en la práctica el rendimiento suele ser igual o incluso superior al de Windows 11.
+https://computerhoy.20minutos.es/tecnologia/temor-gamers-linux-compatibilidad-pero-windows-11-sigue-teniendo-menos-rendimiento-1484635
+🗓️ 2025-09-19 • 🏷️ computerhoy.20minutos.es
+
+---
