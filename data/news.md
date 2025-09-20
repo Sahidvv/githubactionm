@@ -721,3 +721,9 @@ https://hipertextual.com/tecnologia/openai-jony-ive-gafas-ia-altavoz-inteligente
 El gran miedo de los jugadores hacia Linux es la compatibilidad de los juegos y el software, pero en la práctica el rendimiento suele ser igual o incluso superior al de Windows 11.
 https://computerhoy.20minutos.es/tecnologia/temor-gamers-linux-compatibilidad-pero-windows-11-sigue-teniendo-menos-rendimiento-1484635
 🗓️ 2025-09-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-20T13:22:04.918Z
+📰 Estafadores usan torres falsas de telefonía para enviar 100.000 SMS para infectar tu móvil
+Los cibercriminales están utilizando dispositivos portátiles que actúan como torres de telefonía móvil, capaces de enviar hasta 100.000 SMS por hora con enlaces peligrosos.
+https://computerhoy.20minutos.es/ciberseguridad/estafadores-usan-torres-falsas-telefonia-enviar-100000-sms-infectar-movil-1484692
+🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
