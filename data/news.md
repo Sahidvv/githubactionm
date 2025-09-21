@@ -745,3 +745,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-enfrenta-edge-chrome-bing-
 Microsoft pide a los usuarios que colaboren para mejorar Windows 11, incluyendo funciones como tamaño de carpetas en el explorador de archivos, mejor multitarea y animaciones más fluidas.
 https://computerhoy.20minutos.es/tecnologia/falta-windows-11-microsoft-quiere-digas-1484763
 🗓️ 2025-09-21 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-21T19:13:39.091Z
+📰 Cómo afecta a los aeropuertos españoles el ciberataque al software de embarque de varios aeropuertos europeos
+El software MUSE de la empresa Collins Aerospace ha sido hackeado, provocando colas y retrasos en casi todos los aeropuertos europeos, durante el fin de semana.
+https://computerhoy.20minutos.es/ciberseguridad/como-afecta-aeropuertos-espanoles-ciberataque-software-embarque-aeropuertos-europeos-1484781
+🗓️ 2025-09-21 • 🏷️ computerhoy.20minutos.es
