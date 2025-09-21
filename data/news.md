@@ -733,3 +733,9 @@ https://computerhoy.20minutos.es/ciberseguridad/estafadores-usan-torres-falsas-t
 Mozilla lanza Firefox 143 con Copilot en la barra lateral, sitios web fijables como apps, mayor protección de privacidad y nuevas funciones de accesibilidad y multimedia.
 https://computerhoy.20minutos.es/tecnologia/firefox-143-llega-copilot-nuevas-funciones-privacidad-1484715
 🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-21T02:38:56.222Z
+📰 Microsoft enfrenta a Edge y Chrome en Bing: descubre quién gana la batalla de navegadores
+Microsoft utiliza Bing para comparar Edge con Chrome en Windows 11, mostrando una tabla que posiciona a Edge como ganador y destaca sus ventajas frente a Chrome.
+https://computerhoy.20minutos.es/tecnologia/microsoft-enfrenta-edge-chrome-bing-descubre-quien-gana-batalla-navegadores-1484716
+🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es

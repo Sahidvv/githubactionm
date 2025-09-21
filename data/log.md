@@ -632,3 +632,19 @@ https://computerhoy.20minutos.es/tecnologia/temor-gamers-linux-compatibilidad-pe
 🗓️ 2025-09-19 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-21
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Microsoft enfrenta a Edge y Chrome en Bing: descubre quién gana la batalla de navegadores
+Microsoft utiliza Bing para comparar Edge con Chrome en Windows 11, mostrando una tabla que posiciona a Edge como ganador y destaca sus ventajas frente a Chrome.
+https://computerhoy.20minutos.es/tecnologia/microsoft-enfrenta-edge-chrome-bing-descubre-quien-gana-batalla-navegadores-1484716
+🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
+
+---
