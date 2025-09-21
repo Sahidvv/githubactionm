@@ -739,3 +739,9 @@ https://computerhoy.20minutos.es/tecnologia/firefox-143-llega-copilot-nuevas-fun
 Microsoft utiliza Bing para comparar Edge con Chrome en Windows 11, mostrando una tabla que posiciona a Edge como ganador y destaca sus ventajas frente a Chrome.
 https://computerhoy.20minutos.es/tecnologia/microsoft-enfrenta-edge-chrome-bing-descubre-quien-gana-batalla-navegadores-1484716
 🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-21T13:21:41.782Z
+📰 ¿Qué le falta a Windows 11? Microsoft quiere que se lo digas
+Microsoft pide a los usuarios que colaboren para mejorar Windows 11, incluyendo funciones como tamaño de carpetas en el explorador de archivos, mejor multitarea y animaciones más fluidas.
+https://computerhoy.20minutos.es/tecnologia/falta-windows-11-microsoft-quiere-digas-1484763
+🗓️ 2025-09-21 • 🏷️ computerhoy.20minutos.es
