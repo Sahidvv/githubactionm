@@ -751,3 +751,9 @@ https://computerhoy.20minutos.es/tecnologia/falta-windows-11-microsoft-quiere-di
 El software MUSE de la empresa Collins Aerospace ha sido hackeado, provocando colas y retrasos en casi todos los aeropuertos europeos, durante el fin de semana.
 https://computerhoy.20minutos.es/ciberseguridad/como-afecta-aeropuertos-espanoles-ciberataque-software-embarque-aeropuertos-europeos-1484781
 🗓️ 2025-09-21 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-22T02:39:11.432Z
+📰 Un zoo de China prohíbe mostrar vídeos a los chimpancés con el móvil, por temor a que afecte a su vista y estado de ánimo
+Cuesta entender por qué la gente insiste en enseñar vídeos a los simios encerrados en un zoo, pero ha llegado a un punto en el que han tenido que prohibirlo.
+https://computerhoy.20minutos.es/tendencias/zoo-china-prohibe-mostrar-videos-chimpances-movil-temor-afecte-vista-estado-animo-1484793
+🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es

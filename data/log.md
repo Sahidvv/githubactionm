@@ -648,3 +648,19 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-enfrenta-edge-chrome-bing-
 🗓️ 2025-09-20 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-22
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Un zoo de China prohíbe mostrar vídeos a los chimpancés con el móvil, por temor a que afecte a su vista y estado de ánimo
+Cuesta entender por qué la gente insiste en enseñar vídeos a los simios encerrados en un zoo, pero ha llegado a un punto en el que han tenido que prohibirlo.
+https://computerhoy.20minutos.es/tendencias/zoo-china-prohibe-mostrar-videos-chimpances-movil-temor-afecte-vista-estado-animo-1484793
+🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
+
+---
