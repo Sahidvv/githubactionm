@@ -763,3 +763,9 @@ https://computerhoy.20minutos.es/tendencias/zoo-china-prohibe-mostrar-videos-chi
 El navegador de Google compite con el de Microsoft en cuanto a rendimiento. No tienes que instalar nada si tienes Windows y además no exige tanto consumo de recursos.
 https://computerhoy.20minutos.es/windows/mejores-navegadores-web-ya-tienes-instalado-pc-carga-rapido-chrome-consume-menos-memoria-ram-1484863
 🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-22T19:15:20.949Z
+📰 Ya puedes descargar las ISO de Windows 11 25H2 antes de su lanzamiento oficial
+Windows 11 25H2 ya cuenta con imágenes ISO en los servidores de Microsoft, y su despliegue oficial parece inminente. Esta actualización marcará un nuevo paso en la evolución de Windows 11.
+https://computerhoy.20minutos.es/tecnologia/ya-puedes-descargar-iso-windows-11-25h2-antes-lanzamiento-oficial-1484942
+🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
