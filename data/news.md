@@ -757,3 +757,9 @@ https://computerhoy.20minutos.es/ciberseguridad/como-afecta-aeropuertos-espanole
 Cuesta entender por qué la gente insiste en enseñar vídeos a los simios encerrados en un zoo, pero ha llegado a un punto en el que han tenido que prohibirlo.
 https://computerhoy.20minutos.es/tendencias/zoo-china-prohibe-mostrar-videos-chimpances-movil-temor-afecte-vista-estado-animo-1484793
 🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-22T13:28:37.688Z
+📰 Es uno de los mejores navegadores web y ya lo tienes instalado en tu PC: “Carga más rápido que Chrome y consume menos memoria RAM”
+El navegador de Google compite con el de Microsoft en cuanto a rendimiento. No tienes que instalar nada si tienes Windows y además no exige tanto consumo de recursos.
+https://computerhoy.20minutos.es/windows/mejores-navegadores-web-ya-tienes-instalado-pc-carga-rapido-chrome-consume-menos-memoria-ram-1484863
+🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
