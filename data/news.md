@@ -775,3 +775,9 @@ https://computerhoy.20minutos.es/tecnologia/ya-puedes-descargar-iso-windows-11-2
 Meta quiere revitalizar las apps de citas con ayuda de la IA. El gigante tecnológico anunció que integrará un asistente impulsado por Meta AI en Facebook Parejas, la plataforma de citas gratuita de la app de Facebook. La compañía cree que e…
 https://hipertextual.com/tecnologia/meta-ai-facebook-parejas-citas/
 🗓️ 2025-09-22 • 🏷️ hipertextual.com
+
+### 2025-09-23T13:28:33.800Z
+📰 Alerta programadores: se aproximan enormes cambios en Python, llegan muchas curvas
+Python 3.14 llegará en octubre y trae consigo muchísimas novedades para facilitar el trabajo de los desarrolladores que usen este lenguaje de programación.
+https://computerhoy.20minutos.es/tecnologia/alerta-programadores-aproximan-enormes-cambios-python-llegan-muchas-curvas-1485030
+🗓️ 2025-09-23 • 🏷️ computerhoy.20minutos.es
