@@ -769,3 +769,9 @@ https://computerhoy.20minutos.es/windows/mejores-navegadores-web-ya-tienes-insta
 Windows 11 25H2 ya cuenta con imágenes ISO en los servidores de Microsoft, y su despliegue oficial parece inminente. Esta actualización marcará un nuevo paso en la evolución de Windows 11.
 https://computerhoy.20minutos.es/tecnologia/ya-puedes-descargar-iso-windows-11-25h2-antes-lanzamiento-oficial-1484942
 🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-23T02:20:28.587Z
+📰 Lo nuevo de Facebook usará la IA para ayudarte a encontrar la pareja ideal
+Meta quiere revitalizar las apps de citas con ayuda de la IA. El gigante tecnológico anunció que integrará un asistente impulsado por Meta AI en Facebook Parejas, la plataforma de citas gratuita de la app de Facebook. La compañía cree que e…
+https://hipertextual.com/tecnologia/meta-ai-facebook-parejas-citas/
+🗓️ 2025-09-22 • 🏷️ hipertextual.com

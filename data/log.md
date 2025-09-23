@@ -664,3 +664,19 @@ https://computerhoy.20minutos.es/tendencias/zoo-china-prohibe-mostrar-videos-chi
 🗓️ 2025-09-22 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-23
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Lo nuevo de Facebook usará la IA para ayudarte a encontrar la pareja ideal
+Meta quiere revitalizar las apps de citas con ayuda de la IA. El gigante tecnológico anunció que integrará un asistente impulsado por Meta AI en Facebook Parejas, la plataforma de citas gratuita de la app de Facebook. La compañía cree que e…
+https://hipertextual.com/tecnologia/meta-ai-facebook-parejas-citas/
+🗓️ 2025-09-22 • 🏷️ hipertextual.com
+
+---
