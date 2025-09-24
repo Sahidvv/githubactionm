@@ -793,3 +793,9 @@ https://computerhoy.20minutos.es/entretenimiento/cine-series-clasicos-nuevo-cana
 Hasta ahora, Google elegía el contenido que podías ver en Discover, pero una actualización te permite seguir a los medios y creadores de contenido que desees.
 https://computerhoy.20minutos.es/moviles/como-configurar-google-discover-movil-no-perderte-noticia-computerhoycom-1485117
 🗓️ 2025-09-23 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-24T13:28:36.476Z
+📰 No te compres todavía el iPhone 17: aquí tienes varios motivos por los que compensa irte a una versión anterior (y mucho más barata)
+Acaban de salir los nuevos iPhone (iPhone 17, iPhone 17 Pro y el iPhone Air) y seguramente sientas el impulso de comprarte uno nuevo. Sin embargo, aunque resulte tentador, es el mejor momento para hacerte con un iPhone anterior, que compart…
+https://hipertextual.com/patrocinado/no-te-compres-iphone-17/
+🗓️ 2025-09-24 • 🏷️ hipertextual.com
