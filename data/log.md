@@ -680,3 +680,19 @@ https://hipertextual.com/tecnologia/meta-ai-facebook-parejas-citas/
 🗓️ 2025-09-22 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-24
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Cómo configurar Google Discover en tu móvil para no perderte una sola noticia de Computerhoy.com
+Hasta ahora, Google elegía el contenido que podías ver en Discover, pero una actualización te permite seguir a los medios y creadores de contenido que desees.
+https://computerhoy.20minutos.es/moviles/como-configurar-google-discover-movil-no-perderte-noticia-computerhoycom-1485117
+🗓️ 2025-09-23 • 🏷️ computerhoy.20minutos.es
+
+---

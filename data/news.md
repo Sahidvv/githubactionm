@@ -787,3 +787,9 @@ https://computerhoy.20minutos.es/tecnologia/alerta-programadores-aproximan-enorm
 Movistar Plus+ refuerza su catálogo gratuito de canales de televisión, ofreciendo cine, series clásicas y estrenos recientes, junto con una variada programación que merece la pena explorar.
 https://computerhoy.20minutos.es/entretenimiento/cine-series-clasicos-nuevo-canal-gratis-movistar-plus-todos-clientes-1485098
 🗓️ 2025-09-23 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-24T02:21:40.472Z
+📰 Cómo configurar Google Discover en tu móvil para no perderte una sola noticia de Computerhoy.com
+Hasta ahora, Google elegía el contenido que podías ver en Discover, pero una actualización te permite seguir a los medios y creadores de contenido que desees.
+https://computerhoy.20minutos.es/moviles/como-configurar-google-discover-movil-no-perderte-noticia-computerhoycom-1485117
+🗓️ 2025-09-23 • 🏷️ computerhoy.20minutos.es
