@@ -799,3 +799,9 @@ https://computerhoy.20minutos.es/moviles/como-configurar-google-discover-movil-n
 Acaban de salir los nuevos iPhone (iPhone 17, iPhone 17 Pro y el iPhone Air) y seguramente sientas el impulso de comprarte uno nuevo. Sin embargo, aunque resulte tentador, es el mejor momento para hacerte con un iPhone anterior, que compart…
 https://hipertextual.com/patrocinado/no-te-compres-iphone-17/
 🗓️ 2025-09-24 • 🏷️ hipertextual.com
+
+### 2025-09-24T19:15:34.557Z
+📰 WhatsApp estrena traducción automática de mensajes en iOS y Android: así funciona
+Con esta actualización WhatsApp da un paso importante para mejorar la comunicación global, permitiendo que los usuarios entiendan cualquier mensaje sin salir de la aplicación.
+https://computerhoy.20minutos.es/moviles/whatsapp-estrena-traduccion-automatica-mensajes-ios-android-funciona-1485226
+🗓️ 2025-09-24 • 🏷️ computerhoy.20minutos.es
