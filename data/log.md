@@ -696,3 +696,19 @@ https://computerhoy.20minutos.es/moviles/como-configurar-google-discover-movil-n
 🗓️ 2025-09-23 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-25
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 YouTube al fin elimina una de las mayores molestias cuando termina un vídeo
+Ha costado años, pero al fin YouTube va a eliminar una de las cosas más irritantes que tiene, y que los fans llevan años clamando para que desaparezca.
+https://computerhoy.20minutos.es/entretenimiento/youtube-elimina-mayores-molestias-cuando-termina-video-1485240
+🗓️ 2025-09-25 • 🏷️ computerhoy.20minutos.es
+
+---

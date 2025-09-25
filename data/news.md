@@ -805,3 +805,9 @@ https://hipertextual.com/patrocinado/no-te-compres-iphone-17/
 Con esta actualización WhatsApp da un paso importante para mejorar la comunicación global, permitiendo que los usuarios entiendan cualquier mensaje sin salir de la aplicación.
 https://computerhoy.20minutos.es/moviles/whatsapp-estrena-traduccion-automatica-mensajes-ios-android-funciona-1485226
 🗓️ 2025-09-24 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-25T02:23:31.315Z
+📰 YouTube al fin elimina una de las mayores molestias cuando termina un vídeo
+Ha costado años, pero al fin YouTube va a eliminar una de las cosas más irritantes que tiene, y que los fans llevan años clamando para que desaparezca.
+https://computerhoy.20minutos.es/entretenimiento/youtube-elimina-mayores-molestias-cuando-termina-video-1485240
+🗓️ 2025-09-25 • 🏷️ computerhoy.20minutos.es
