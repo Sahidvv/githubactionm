@@ -817,3 +817,9 @@ https://computerhoy.20minutos.es/entretenimiento/youtube-elimina-mayores-molesti
 James Cameron acaba de lanzar el nuevo tráiler de Avatar 3: Fuego y ceniza. La tercera entrega de la saga llegará a los cines a finales de año con la firme intención de reventar una vez más la taquilla mundial. Sus dos predecesoras son las …
 https://hipertextual.com/cine-television/sorprendente-trailer-avatar-3-fuego-y-ceniza-temibles-navi-de-fuego/
 🗓️ 2025-09-25 • 🏷️ hipertextual.com
+
+### 2025-09-25T19:15:37.556Z
+📰 Roger McNamee, experto en inversión, advierte sobre la IA: "No todo el mundo saldrá ganando"
+Según los especialistas, incluso grandes gigantes tecnológicos como Google, Microsoft, Meta u OpenAI podrían acabar por tener problemas en el futuro.
+https://computerhoy.20minutos.es/tecnologia/roger-mcnamee-experto-inversion-advierte-ia-no-todo-mundo-saldra-ganando-1485251
+🗓️ 2025-09-25 • 🏷️ computerhoy.20minutos.es
