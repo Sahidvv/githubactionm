@@ -811,3 +811,9 @@ https://computerhoy.20minutos.es/moviles/whatsapp-estrena-traduccion-automatica-
 Ha costado años, pero al fin YouTube va a eliminar una de las cosas más irritantes que tiene, y que los fans llevan años clamando para que desaparezca.
 https://computerhoy.20minutos.es/entretenimiento/youtube-elimina-mayores-molestias-cuando-termina-video-1485240
 🗓️ 2025-09-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-25T13:29:15.918Z
+📰 Mira el sorprendente tráiler de &#8216;Avatar 3: Fuego y Ceniza&#8217; con los temibles Na&#8217;vi de fuego
+James Cameron acaba de lanzar el nuevo tráiler de Avatar 3: Fuego y ceniza. La tercera entrega de la saga llegará a los cines a finales de año con la firme intención de reventar una vez más la taquilla mundial. Sus dos predecesoras son las …
+https://hipertextual.com/cine-television/sorprendente-trailer-avatar-3-fuego-y-ceniza-temibles-navi-de-fuego/
+🗓️ 2025-09-25 • 🏷️ hipertextual.com
