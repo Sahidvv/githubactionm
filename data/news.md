@@ -823,3 +823,9 @@ https://hipertextual.com/cine-television/sorprendente-trailer-avatar-3-fuego-y-c
 Según los especialistas, incluso grandes gigantes tecnológicos como Google, Microsoft, Meta u OpenAI podrían acabar por tener problemas en el futuro.
 https://computerhoy.20minutos.es/tecnologia/roger-mcnamee-experto-inversion-advierte-ia-no-todo-mundo-saldra-ganando-1485251
 🗓️ 2025-09-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-26T02:22:37.377Z
+📰 Donald Trump firma acuerdo para salvar TikTok, pero China tiene la última palabra
+Donald Trump firmó una orden ejecutiva que aprueba el acuerdo para mantener TikTok operando en Estados Unidos. El mandatario dio el visto bueno para crear una empresa conjunta que gestione la popular plataforma de videos en ese país. La ope…
+https://hipertextual.com/economia-empresas/donald-trump-tiktok-eeuu-acuerdo-china/
+🗓️ 2025-09-25 • 🏷️ hipertextual.com

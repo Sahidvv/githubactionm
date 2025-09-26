@@ -712,3 +712,19 @@ https://computerhoy.20minutos.es/entretenimiento/youtube-elimina-mayores-molesti
 🗓️ 2025-09-25 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-26
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Donald Trump firma acuerdo para salvar TikTok, pero China tiene la última palabra
+Donald Trump firmó una orden ejecutiva que aprueba el acuerdo para mantener TikTok operando en Estados Unidos. El mandatario dio el visto bueno para crear una empresa conjunta que gestione la popular plataforma de videos en ese país. La ope…
+https://hipertextual.com/economia-empresas/donald-trump-tiktok-eeuu-acuerdo-china/
+🗓️ 2025-09-25 • 🏷️ hipertextual.com
+
+---
