@@ -835,3 +835,9 @@ https://hipertextual.com/economia-empresas/donald-trump-tiktok-eeuu-acuerdo-chin
 La película de Guardianes de la Noche (Kimetsu no Yaiba): La Fortaleza Infinita (en Latinoamérica Demon Slayer: Castillo Infinito) ha arrasado por completo en su paso por cines. La cinta, secuela de la cuarta temporada del aclamado anime, l…
 https://hipertextual.com/cine-television/cuando-se-estrena-guardianes-de-la-noche-demon-slayer-castillo-infinito-parte-2/
 🗓️ 2025-09-26 • 🏷️ hipertextual.com
+
+### 2025-09-26T19:14:30.890Z
+📰 No solo es Apple: Google le declara la guerra a Europa por la DMA
+A poco más de un día de que Apple explotara contra Europa y la Ley de Mercados Digitales (DMA), un nuevo aliado aparece en escena. Google siguió los pasos de Cupertino y expuso los efectos negativos de una ley que, según la empresa, empeora…
+https://hipertextual.com/economia-empresas/no-solo-es-apple-google-le-declara-la-guerra-a-europa-por-la-dma/
+🗓️ 2025-09-26 • 🏷️ hipertextual.com
