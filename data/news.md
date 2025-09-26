@@ -829,3 +829,9 @@ https://computerhoy.20minutos.es/tecnologia/roger-mcnamee-experto-inversion-advi
 Donald Trump firmó una orden ejecutiva que aprueba el acuerdo para mantener TikTok operando en Estados Unidos. El mandatario dio el visto bueno para crear una empresa conjunta que gestione la popular plataforma de videos en ese país. La ope…
 https://hipertextual.com/economia-empresas/donald-trump-tiktok-eeuu-acuerdo-china/
 🗓️ 2025-09-25 • 🏷️ hipertextual.com
+
+### 2025-09-26T13:27:49.658Z
+📰 ¿Cuándo se estrena &#8216;Guardianes de la Noche (Demon Slayer): Castillo Infinito&#8217; Parte 2?
+La película de Guardianes de la Noche (Kimetsu no Yaiba): La Fortaleza Infinita (en Latinoamérica Demon Slayer: Castillo Infinito) ha arrasado por completo en su paso por cines. La cinta, secuela de la cuarta temporada del aclamado anime, l…
+https://hipertextual.com/cine-television/cuando-se-estrena-guardianes-de-la-noche-demon-slayer-castillo-infinito-parte-2/
+🗓️ 2025-09-26 • 🏷️ hipertextual.com
