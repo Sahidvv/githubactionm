@@ -728,3 +728,19 @@ https://hipertextual.com/economia-empresas/donald-trump-tiktok-eeuu-acuerdo-chin
 🗓️ 2025-09-25 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-27
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 &#8216;La red social 2&#8217; tiene título oficial y fecha de estreno, y confirma a su nuevo Mark Zuckerberg
+La secuela de La red social, de Aaron Sorkin, ya tiene título oficial y fecha de estreno, y ha confirmado a los principales integrantes de su elenco. Sony Pictures anunció que el filme se llamara The Social Reckoning y que se enfocará en la…
+https://hipertextual.com/cine-television/la-red-social-the-social-reckoning-jeremy-strong/
+🗓️ 2025-09-26 • 🏷️ hipertextual.com
+
+---

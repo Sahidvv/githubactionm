@@ -841,3 +841,9 @@ https://hipertextual.com/cine-television/cuando-se-estrena-guardianes-de-la-noch
 A poco más de un día de que Apple explotara contra Europa y la Ley de Mercados Digitales (DMA), un nuevo aliado aparece en escena. Google siguió los pasos de Cupertino y expuso los efectos negativos de una ley que, según la empresa, empeora…
 https://hipertextual.com/economia-empresas/no-solo-es-apple-google-le-declara-la-guerra-a-europa-por-la-dma/
 🗓️ 2025-09-26 • 🏷️ hipertextual.com
+
+### 2025-09-27T02:17:10.232Z
+📰 &#8216;La red social 2&#8217; tiene título oficial y fecha de estreno, y confirma a su nuevo Mark Zuckerberg
+La secuela de La red social, de Aaron Sorkin, ya tiene título oficial y fecha de estreno, y ha confirmado a los principales integrantes de su elenco. Sony Pictures anunció que el filme se llamara The Social Reckoning y que se enfocará en la…
+https://hipertextual.com/cine-television/la-red-social-the-social-reckoning-jeremy-strong/
+🗓️ 2025-09-26 • 🏷️ hipertextual.com
