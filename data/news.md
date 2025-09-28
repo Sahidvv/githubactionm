@@ -871,3 +871,9 @@ https://computerhoy.20minutos.es/tecnologia/chrome-bloqueara-videos-pip-capturas
 Evita problemas con tu móvil: cargarlo desde el puerto USB del ordenador no solo reduce la velocidad de carga, sino que puede afectar seriamente a tu Android o iPhone.
 https://computerhoy.20minutos.es/moviles/error-cada-dia-cargar-telefono-movil-darte-cuenta-estas-destrozando-bateria-1481533
 🗓️ 2025-09-28 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-28T19:13:12.238Z
+📰 Rodney Brooks, experto en robótica y fundador de iRobot, avisa a los que invierten en robots humanoides: "Estáis tirando el dinero"
+Uno de los mayores especialistas en robótica del mundo, cree que los robots de aspecto humano viven en una burbuja que no tardará en estallar, y explica las razones.
+https://computerhoy.20minutos.es/tecnologia/rodney-brooks-experto-robotica-fundador-irobot-avisa-invierten-robots-humanoides-1485529
+🗓️ 2025-09-28 • 🏷️ computerhoy.20minutos.es
