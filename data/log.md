@@ -744,3 +744,19 @@ https://hipertextual.com/cine-television/la-red-social-the-social-reckoning-jere
 🗓️ 2025-09-26 • 🏷️ hipertextual.com
 
 ---
+## 2025-09-28
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Chrome bloqueará videos PiP en capturas de pantalla para proteger la privacidad
+Chrome bloqueará videos PiP en capturas de pantalla para proteger la privacidad de los usuarios, siguiendo la tendencia de mayor control tras la polémica de Windows Recall.
+https://computerhoy.20minutos.es/tecnologia/chrome-bloqueara-videos-pip-capturas-pantalla-proteger-privacidad-1485502
+🗓️ 2025-09-27 • 🏷️ computerhoy.20minutos.es
+
+---

@@ -859,3 +859,9 @@ https://computerhoy.20minutos.es/tecnologia/zorin-os-18-quiere-ser-windows-alter
 Con dispositivos ilimitados bajo una misma cuenta, Surfshark se convierte en la solución definitiva para proteger identidad, privacidad y navegación segura al mejor precio.
 https://computerhoy.20minutos.es/recomendados/antivirus-vpn-ip-ti-solo-surfshark-saca-manga-cuenta-familiar-1485470
 🗓️ 2025-09-27 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-28T02:39:28.004Z
+📰 Chrome bloqueará videos PiP en capturas de pantalla para proteger la privacidad
+Chrome bloqueará videos PiP en capturas de pantalla para proteger la privacidad de los usuarios, siguiendo la tendencia de mayor control tras la polémica de Windows Recall.
+https://computerhoy.20minutos.es/tecnologia/chrome-bloqueara-videos-pip-capturas-pantalla-proteger-privacidad-1485502
+🗓️ 2025-09-27 • 🏷️ computerhoy.20minutos.es
