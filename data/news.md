@@ -865,3 +865,9 @@ https://computerhoy.20minutos.es/recomendados/antivirus-vpn-ip-ti-solo-surfshark
 Chrome bloqueará videos PiP en capturas de pantalla para proteger la privacidad de los usuarios, siguiendo la tendencia de mayor control tras la polémica de Windows Recall.
 https://computerhoy.20minutos.es/tecnologia/chrome-bloqueara-videos-pip-capturas-pantalla-proteger-privacidad-1485502
 🗓️ 2025-09-27 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-28T13:21:30.296Z
+📰 Lo haces todos los días al cargar tu teléfono móvil y sin darte cuenta estás destrozando la batería
+Evita problemas con tu móvil: cargarlo desde el puerto USB del ordenador no solo reduce la velocidad de carga, sino que puede afectar seriamente a tu Android o iPhone.
+https://computerhoy.20minutos.es/moviles/error-cada-dia-cargar-telefono-movil-darte-cuenta-estas-destrozando-bateria-1481533
+🗓️ 2025-09-28 • 🏷️ computerhoy.20minutos.es
