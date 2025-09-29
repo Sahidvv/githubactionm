@@ -877,3 +877,9 @@ https://computerhoy.20minutos.es/moviles/error-cada-dia-cargar-telefono-movil-da
 Uno de los mayores especialistas en robótica del mundo, cree que los robots de aspecto humano viven en una burbuja que no tardará en estallar, y explica las razones.
 https://computerhoy.20minutos.es/tecnologia/rodney-brooks-experto-robotica-fundador-irobot-avisa-invierten-robots-humanoides-1485529
 🗓️ 2025-09-28 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-29T02:25:12.381Z
+📰 El docudrama que cuenta la trágica historia del hombre que perdió 8.000 Bitcoins en un vertedero, ya tiene fecha de estreno
+James Howells lleva 12 años persiguiendo un tesoro de 750 millones de euros que perdió, y no piensa rendirse, por eso va a contar su historia en un documental.
+https://computerhoy.20minutos.es/fintech/docudrama-cuenta-tragica-historia-hombre-perdio-8000-bitcoins-vertedero-ya-tiene-fecha-estreno-1485533
+🗓️ 2025-09-29 • 🏷️ computerhoy.20minutos.es

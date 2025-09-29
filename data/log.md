@@ -760,3 +760,19 @@ https://computerhoy.20minutos.es/tecnologia/chrome-bloqueara-videos-pip-capturas
 🗓️ 2025-09-27 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-29
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El docudrama que cuenta la trágica historia del hombre que perdió 8.000 Bitcoins en un vertedero, ya tiene fecha de estreno
+James Howells lleva 12 años persiguiendo un tesoro de 750 millones de euros que perdió, y no piensa rendirse, por eso va a contar su historia en un documental.
+https://computerhoy.20minutos.es/fintech/docudrama-cuenta-tragica-historia-hombre-perdio-8000-bitcoins-vertedero-ya-tiene-fecha-estreno-1485533
+🗓️ 2025-09-29 • 🏷️ computerhoy.20minutos.es
+
+---
