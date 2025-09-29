@@ -889,3 +889,9 @@ https://computerhoy.20minutos.es/fintech/docudrama-cuenta-tragica-historia-hombr
 Después de varios teasers, CMF ha lanzado formalmente los nuevos Headphone Pro. Los primeros auriculares de diadema de la marca llegan con prestaciones muy interesantes y con un precio que se encuentra bastante por debajo de lo que podíamos…
 https://hipertextual.com/tecnologia/nuevos-cmf-headphone-pro-caracteristicas-y-precio/
 🗓️ 2025-09-29 • 🏷️ hipertextual.com
+
+### 2025-09-29T19:15:29.288Z
+📰 Así es el thriller coreano más inquietante de Movistar Plus+: fue un gran fenómeno en su país
+Aunque no contó con la popularidad en Occidente de Parásitos o El juego del calamar, se convirtió en todo un fenómenos de taquilla en su país de origen.
+https://computerhoy.20minutos.es/entretenimiento/thriller-coreano-inquietante-movistar-plus-fue-gran-fenomeno-pais-1485536
+🗓️ 2025-09-29 • 🏷️ computerhoy.20minutos.es
