@@ -883,3 +883,9 @@ https://computerhoy.20minutos.es/tecnologia/rodney-brooks-experto-robotica-funda
 James Howells lleva 12 años persiguiendo un tesoro de 750 millones de euros que perdió, y no piensa rendirse, por eso va a contar su historia en un documental.
 https://computerhoy.20minutos.es/fintech/docudrama-cuenta-tragica-historia-hombre-perdio-8000-bitcoins-vertedero-ya-tiene-fecha-estreno-1485533
 🗓️ 2025-09-29 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-29T13:29:05.728Z
+📰 CMF lanza los Headphone Pro, sus primeros auriculares de diadema con ANC, hasta 100 horas de batería y un precio de risa
+Después de varios teasers, CMF ha lanzado formalmente los nuevos Headphone Pro. Los primeros auriculares de diadema de la marca llegan con prestaciones muy interesantes y con un precio que se encuentra bastante por debajo de lo que podíamos…
+https://hipertextual.com/tecnologia/nuevos-cmf-headphone-pro-caracteristicas-y-precio/
+🗓️ 2025-09-29 • 🏷️ hipertextual.com
