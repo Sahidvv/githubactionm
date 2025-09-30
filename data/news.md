@@ -901,3 +901,9 @@ https://computerhoy.20minutos.es/entretenimiento/thriller-coreano-inquietante-mo
 OpenAI estaría desarrollando una aplicación de videos para competir con TikTok. Un reporte afirma que la empresa de inteligencia artificial ya prueba un clon de Instagram que tiene potencial para convertirse en un hit. A diferencia de las o…
 https://hipertextual.com/inteligencia-artificial/openai-app-video-sora-2-tiktok/
 🗓️ 2025-09-30 • 🏷️ hipertextual.com
+
+### 2025-09-30T13:28:58.273Z
+📰 Cambios en la cúpula de Spotify: Daniel Ek, su fundador, deja el cargo de CEO
+Daniel Ek, fundador y CEO de Spotify, anunció que abandonará su cargo a comienzos del próximo año. La decisión forma parte de una "evolución" en el liderazgo de la plataforma de streaming y, si bien todavía falta la aprobación final de los …
+https://hipertextual.com/economia-empresas/daniel-ek-deja-su-cargo-ceo-spotify/
+🗓️ 2025-09-30 • 🏷️ hipertextual.com
