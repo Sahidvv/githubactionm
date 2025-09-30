@@ -907,3 +907,9 @@ https://hipertextual.com/inteligencia-artificial/openai-app-video-sora-2-tiktok/
 Daniel Ek, fundador y CEO de Spotify, anunció que abandonará su cargo a comienzos del próximo año. La decisión forma parte de una "evolución" en el liderazgo de la plataforma de streaming y, si bien todavía falta la aprobación final de los …
 https://hipertextual.com/economia-empresas/daniel-ek-deja-su-cargo-ceo-spotify/
 🗓️ 2025-09-30 • 🏷️ hipertextual.com
+
+### 2025-09-30T19:14:52.819Z
+📰 Palo a Microsoft, revive un PC con Windows 7 para que ejecute Steam y jugar a Hollow Knight: Silksong: “Si alguien lo necesita, lo haré en Windows XP”
+Windows 11 no va a ser tu única opción después del 14 de octubre. Las versiones antiguas del sistema operativo todavía tienen compatibilidad con apps actuales como Steam.
+https://computerhoy.20minutos.es/windows/palo-microsoft-revive-pc-windows-7-ejecute-steam-jugar-hollow-knight-silksong-alguien-necesita-hare-windows-xp-1485783
+🗓️ 2025-09-30 • 🏷️ computerhoy.20minutos.es
