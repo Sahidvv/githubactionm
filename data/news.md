@@ -895,3 +895,9 @@ https://hipertextual.com/tecnologia/nuevos-cmf-headphone-pro-caracteristicas-y-p
 Aunque no contó con la popularidad en Occidente de Parásitos o El juego del calamar, se convirtió en todo un fenómenos de taquilla en su país de origen.
 https://computerhoy.20minutos.es/entretenimiento/thriller-coreano-inquietante-movistar-plus-fue-gran-fenomeno-pais-1485536
 🗓️ 2025-09-29 • 🏷️ computerhoy.20minutos.es
+
+### 2025-09-30T02:20:18.478Z
+📰 OpenAI está por lanzar una app de videos para competir con TikTok
+OpenAI estaría desarrollando una aplicación de videos para competir con TikTok. Un reporte afirma que la empresa de inteligencia artificial ya prueba un clon de Instagram que tiene potencial para convertirse en un hit. A diferencia de las o…
+https://hipertextual.com/inteligencia-artificial/openai-app-video-sora-2-tiktok/
+🗓️ 2025-09-30 • 🏷️ hipertextual.com

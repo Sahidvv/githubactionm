@@ -776,3 +776,19 @@ https://computerhoy.20minutos.es/fintech/docudrama-cuenta-tragica-historia-hombr
 🗓️ 2025-09-29 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-09-30
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 OpenAI está por lanzar una app de videos para competir con TikTok
+OpenAI estaría desarrollando una aplicación de videos para competir con TikTok. Un reporte afirma que la empresa de inteligencia artificial ya prueba un clon de Instagram que tiene potencial para convertirse en un hit. A diferencia de las o…
+https://hipertextual.com/inteligencia-artificial/openai-app-video-sora-2-tiktok/
+🗓️ 2025-09-30 • 🏷️ hipertextual.com
+
+---
