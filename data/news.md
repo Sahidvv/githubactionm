@@ -925,3 +925,9 @@ https://hipertextual.com/tecnologia/fire-tv-stick-4k-sideloading-vega-os/
 A partir de este miércoles, el ecosistema Google Home tiene un nuevo (y esperado) socio: Gemini. La inteligencia artificial sucede al archiconocido asistente de Google, en fase de desaparición, y promete mejorar de manera significativa la e…
 https://hipertextual.com/tecnologia/google-home-gemini-suscripcion/
 🗓️ 2025-10-01 • 🏷️ hipertextual.com
+
+### 2025-10-01T19:14:56.599Z
+📰 Acaba de llegar a Netflix: una película de acción remake de un clásico de la historia del cine que adora Stephen King
+Ya existió otra versión de este film original de los años 50, que además es célebre por ser la obra cinematográfica favorita del mismísimo escritor Stephen King.
+https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-netflix-pelicula-accion-remake-clasico-historia-cine-adora-stephen-king-1485804
+🗓️ 2025-10-01 • 🏷️ computerhoy.20minutos.es
