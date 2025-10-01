@@ -913,3 +913,9 @@ https://hipertextual.com/economia-empresas/daniel-ek-deja-su-cargo-ceo-spotify/
 Windows 11 no va a ser tu única opción después del 14 de octubre. Las versiones antiguas del sistema operativo todavía tienen compatibilidad con apps actuales como Steam.
 https://computerhoy.20minutos.es/windows/palo-microsoft-revive-pc-windows-7-ejecute-steam-jugar-hollow-knight-silksong-alguien-necesita-hare-windows-xp-1485783
 🗓️ 2025-09-30 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-01T02:42:10.476Z
+📰 El nuevo Fire TV Stick 4K Select perderá una de sus mejores funciones
+Amazon anunció una actualización a su línea de dispositivos Fire TV, entre los que se encuentran un nuevo reproductor 4K y los nuevos televisores Omni QLED Series. El anuncio de este año es especial, puesto que confirma los rumores sobre Ve…
+https://hipertextual.com/tecnologia/fire-tv-stick-4k-sideloading-vega-os/
+🗓️ 2025-09-30 • 🏷️ hipertextual.com

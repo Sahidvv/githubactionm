@@ -792,3 +792,19 @@ https://hipertextual.com/inteligencia-artificial/openai-app-video-sora-2-tiktok/
 🗓️ 2025-09-30 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-01
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El nuevo Fire TV Stick 4K Select perderá una de sus mejores funciones
+Amazon anunció una actualización a su línea de dispositivos Fire TV, entre los que se encuentran un nuevo reproductor 4K y los nuevos televisores Omni QLED Series. El anuncio de este año es especial, puesto que confirma los rumores sobre Ve…
+https://hipertextual.com/tecnologia/fire-tv-stick-4k-sideloading-vega-os/
+🗓️ 2025-09-30 • 🏷️ hipertextual.com
+
+---
