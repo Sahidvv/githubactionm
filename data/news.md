@@ -919,3 +919,9 @@ https://computerhoy.20minutos.es/windows/palo-microsoft-revive-pc-windows-7-ejec
 Amazon anunció una actualización a su línea de dispositivos Fire TV, entre los que se encuentran un nuevo reproductor 4K y los nuevos televisores Omni QLED Series. El anuncio de este año es especial, puesto que confirma los rumores sobre Ve…
 https://hipertextual.com/tecnologia/fire-tv-stick-4k-sideloading-vega-os/
 🗓️ 2025-09-30 • 🏷️ hipertextual.com
+
+### 2025-10-01T13:29:14.061Z
+📰 Revolución en Google Home: Gemini llega hoy a tu casa y prepárate para pagar una nueva suscripción
+A partir de este miércoles, el ecosistema Google Home tiene un nuevo (y esperado) socio: Gemini. La inteligencia artificial sucede al archiconocido asistente de Google, en fase de desaparición, y promete mejorar de manera significativa la e…
+https://hipertextual.com/tecnologia/google-home-gemini-suscripcion/
+🗓️ 2025-10-01 • 🏷️ hipertextual.com
