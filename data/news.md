@@ -943,3 +943,9 @@ https://computerhoy.20minutos.es/movilidad/reservo-tesla-roadster-hace-8-anos-pa
 Las filtraciones de One UI 8.5 no se detienen, pese a que muchos dispositivos de Samsung recién se están actualizando a One UI 8 con Android 16. La firma coreana sigue trabajando en la próxima versión de su capa de personalización, cuyo deb…
 https://hipertextual.com/mobile/one-ui-8-5-samsung-iconos-3d/
 🗓️ 2025-10-02 • 🏷️ hipertextual.com
+
+### 2025-10-02T19:14:47.323Z
+📰 Está en Prime Video: la secuela de una de las sagas de terror y fantasía más míticas de los 80
+Aunque nunca alcanzó el estatus de Viernes 13 o Pesadilla en Elm Street, al final esta franquicia terminó convertida en trilogía, y todavía cuenta con sus fans.
+https://computerhoy.20minutos.es/entretenimiento/prime-video-secuela-sagas-terror-fantasia-miticas-80-1485898
+🗓️ 2025-10-02 • 🏷️ computerhoy.20minutos.es
