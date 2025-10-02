@@ -937,3 +937,9 @@ https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-netflix-pelicula-a
 Si reservaste un coche en 2017 y nunca se ha fabricado, cuando cancelas, lo lógico es que te devuelvan todo el dinero... salvo que esa empresa se llame Tesla.
 https://computerhoy.20minutos.es/movilidad/reservo-tesla-roadster-hace-8-anos-pagando-50000-dolares-tesla-nunca-fabrico-cancelar-reserva-1485929
 🗓️ 2025-10-02 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-02T13:27:08.229Z
+📰 Este cambio de One UI 8.5 te hará sentir que regresaste a 2015
+Las filtraciones de One UI 8.5 no se detienen, pese a que muchos dispositivos de Samsung recién se están actualizando a One UI 8 con Android 16. La firma coreana sigue trabajando en la próxima versión de su capa de personalización, cuyo deb…
+https://hipertextual.com/mobile/one-ui-8-5-samsung-iconos-3d/
+🗓️ 2025-10-02 • 🏷️ hipertextual.com
