@@ -931,3 +931,9 @@ https://hipertextual.com/tecnologia/google-home-gemini-suscripcion/
 Ya existió otra versión de este film original de los años 50, que además es célebre por ser la obra cinematográfica favorita del mismísimo escritor Stephen King.
 https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-netflix-pelicula-accion-remake-clasico-historia-cine-adora-stephen-king-1485804
 🗓️ 2025-10-01 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-02T02:19:58.985Z
+📰 Reservó un Tesla Roadster hace 8 años pagando 50.000 dólares, Tesla nunca lo fabricó, y al cancelar la reserva solo le devuelven 45.000 dólares
+Si reservaste un coche en 2017 y nunca se ha fabricado, cuando cancelas, lo lógico es que te devuelvan todo el dinero... salvo que esa empresa se llame Tesla.
+https://computerhoy.20minutos.es/movilidad/reservo-tesla-roadster-hace-8-anos-pagando-50000-dolares-tesla-nunca-fabrico-cancelar-reserva-1485929
+🗓️ 2025-10-02 • 🏷️ computerhoy.20minutos.es

@@ -808,3 +808,19 @@ https://hipertextual.com/tecnologia/fire-tv-stick-4k-sideloading-vega-os/
 🗓️ 2025-09-30 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-02
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Reservó un Tesla Roadster hace 8 años pagando 50.000 dólares, Tesla nunca lo fabricó, y al cancelar la reserva solo le devuelven 45.000 dólares
+Si reservaste un coche en 2017 y nunca se ha fabricado, cuando cancelas, lo lógico es que te devuelvan todo el dinero... salvo que esa empresa se llame Tesla.
+https://computerhoy.20minutos.es/movilidad/reservo-tesla-roadster-hace-8-anos-pagando-50000-dolares-tesla-nunca-fabrico-cancelar-reserva-1485929
+🗓️ 2025-10-02 • 🏷️ computerhoy.20minutos.es
+
+---
