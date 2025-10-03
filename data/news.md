@@ -961,3 +961,9 @@ https://hipertextual.com/mobile/one-ui-8-5-resumenes-de-notificaciones-con-ia/
 Japón afronta un problema bastante peculiar por culpa de un ciberataque: se está acabando el suministro de Asahi Super Dry, su cerveza más popular. Esta semana, Asahi Group informó que fue víctima de un ataque de ransomware que interrumpió …
 https://hipertextual.com/seguridad/ciberataque-japon-escasez-asahi-super-dry/
 🗓️ 2025-10-03 • 🏷️ hipertextual.com
+
+### 2025-10-03T19:14:52.240Z
+📰 Acaba de cumplir 10 años: la película bélica más impresionante de Netflix sigue emocionando como en su estreno
+El director Cary Joji Fukunaga firmó una obra que demostró lo que las plataformas de streaming son capaces de llevar a cabo cuando realmente se lo proponen.
+https://computerhoy.20minutos.es/entretenimiento/acaba-cumplir-10-anos-pelicula-belica-impresionante-netflix-sigue-emocionando-como-estreno-1486029
+🗓️ 2025-10-03 • 🏷️ computerhoy.20minutos.es
