@@ -949,3 +949,9 @@ https://hipertextual.com/mobile/one-ui-8-5-samsung-iconos-3d/
 Aunque nunca alcanzó el estatus de Viernes 13 o Pesadilla en Elm Street, al final esta franquicia terminó convertida en trilogía, y todavía cuenta con sus fans.
 https://computerhoy.20minutos.es/entretenimiento/prime-video-secuela-sagas-terror-fantasia-miticas-80-1485898
 🗓️ 2025-10-02 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-03T02:19:38.379Z
+📰 Samsung copiará una de las funciones de IA más polémicas de iOS en One UI 8.5
+Una de las funciones de IA más polémicas de iOS está en camino a los móviles de Samsung, de la mano de One UI 8.5. Según reporta SamMobile, la firma coreana planea introducir los resúmenes de notificaciones en la próxima gran actualización …
+https://hipertextual.com/mobile/one-ui-8-5-resumenes-de-notificaciones-con-ia/
+🗓️ 2025-10-02 • 🏷️ hipertextual.com

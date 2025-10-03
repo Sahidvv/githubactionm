@@ -824,3 +824,19 @@ https://computerhoy.20minutos.es/movilidad/reservo-tesla-roadster-hace-8-anos-pa
 🗓️ 2025-10-02 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-03
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Samsung copiará una de las funciones de IA más polémicas de iOS en One UI 8.5
+Una de las funciones de IA más polémicas de iOS está en camino a los móviles de Samsung, de la mano de One UI 8.5. Según reporta SamMobile, la firma coreana planea introducir los resúmenes de notificaciones en la próxima gran actualización …
+https://hipertextual.com/mobile/one-ui-8-5-resumenes-de-notificaciones-con-ia/
+🗓️ 2025-10-02 • 🏷️ hipertextual.com
+
+---
