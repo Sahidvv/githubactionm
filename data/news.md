@@ -955,3 +955,9 @@ https://computerhoy.20minutos.es/entretenimiento/prime-video-secuela-sagas-terro
 Una de las funciones de IA más polémicas de iOS está en camino a los móviles de Samsung, de la mano de One UI 8.5. Según reporta SamMobile, la firma coreana planea introducir los resúmenes de notificaciones en la próxima gran actualización …
 https://hipertextual.com/mobile/one-ui-8-5-resumenes-de-notificaciones-con-ia/
 🗓️ 2025-10-02 • 🏷️ hipertextual.com
+
+### 2025-10-03T13:25:42.440Z
+📰 Un ciberataque pone en jaque el suministro de la cerveza más popular de Japón
+Japón afronta un problema bastante peculiar por culpa de un ciberataque: se está acabando el suministro de Asahi Super Dry, su cerveza más popular. Esta semana, Asahi Group informó que fue víctima de un ataque de ransomware que interrumpió …
+https://hipertextual.com/seguridad/ciberataque-japon-escasez-asahi-super-dry/
+🗓️ 2025-10-03 • 🏷️ hipertextual.com
