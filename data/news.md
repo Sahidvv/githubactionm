@@ -967,3 +967,9 @@ https://hipertextual.com/seguridad/ciberataque-japon-escasez-asahi-super-dry/
 El director Cary Joji Fukunaga firmó una obra que demostró lo que las plataformas de streaming son capaces de llevar a cabo cuando realmente se lo proponen.
 https://computerhoy.20minutos.es/entretenimiento/acaba-cumplir-10-anos-pelicula-belica-impresionante-netflix-sigue-emocionando-como-estreno-1486029
 🗓️ 2025-10-03 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-04T02:14:44.876Z
+📰 Denuncian a Tesla por la terrible muerte de una joven en un Cybertruck, debido al desastroso diseño de apertura de las puertas
+El exceso de tecnología innecesaria puede ser un problema, como se ha demostrado con el sistema de apertura de puertas del Cybertruck, que ya ha costado vidas.
+https://computerhoy.20minutos.es/movilidad/denuncian-tesla-terrible-muerte-joven-cybertruck-apertura-puertas-1486172
+🗓️ 2025-10-03 • 🏷️ computerhoy.20minutos.es

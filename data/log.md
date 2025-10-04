@@ -840,3 +840,19 @@ https://hipertextual.com/mobile/one-ui-8-5-resumenes-de-notificaciones-con-ia/
 🗓️ 2025-10-02 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-04
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Denuncian a Tesla por la terrible muerte de una joven en un Cybertruck, debido al desastroso diseño de apertura de las puertas
+El exceso de tecnología innecesaria puede ser un problema, como se ha demostrado con el sistema de apertura de puertas del Cybertruck, que ya ha costado vidas.
+https://computerhoy.20minutos.es/movilidad/denuncian-tesla-terrible-muerte-joven-cybertruck-apertura-puertas-1486172
+🗓️ 2025-10-03 • 🏷️ computerhoy.20minutos.es
+
+---
