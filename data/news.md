@@ -991,3 +991,9 @@ https://computerhoy.20minutos.es/recomendados/no-cuadro-no-televisor-altavoz-ale
 Outlook clásico para Windows sufre un fallo crítico que bloquea la apertura de la aplicación. Microsoft sugiere usar el nuevo Outlook u Outlook Web como solución temporal.
 https://computerhoy.20minutos.es/tecnologia/microsoft-alerta-fallo-outlook-clasico-impide-acceder-correos-calendarios-1486226
 🗓️ 2025-10-04 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-05T13:21:07.583Z
+📰 Windows 11 ahora mide tu conexión a Internet en un clic y te trae Copilot al escritorio
+Windows 11 25H2 recibe esta actualización preliminar con mejoras que combinan productividad, nuevas funcionalidades y estabilidad, ofreciendo a los usuarios una experiencia más fluida y eficiente.
+https://computerhoy.20minutos.es/tecnologia/windows-11-ahora-mide-conexion-internet-clic-te-trae-copilot-escritorio-1486251
+🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
