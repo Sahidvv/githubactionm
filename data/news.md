@@ -985,3 +985,9 @@ https://hipertextual.com/cine-television/5-comedias-que-te-levantaran-el-animo-d
 Pantalla Full HD, Fire TV integrado y altavoces potentes, este Echo Show es más que entretenimiento: es productividad, hogar digital y comunicación a nivel top.
 https://computerhoy.20minutos.es/recomendados/no-cuadro-no-televisor-altavoz-alexa-echo-show-21-70-euros-barato-1486028
 🗓️ 2025-10-04 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-05T02:38:51.355Z
+📰 Microsoft alerta de fallo en Outlook clásico que impide acceder a correos y calendarios
+Outlook clásico para Windows sufre un fallo crítico que bloquea la apertura de la aplicación. Microsoft sugiere usar el nuevo Outlook u Outlook Web como solución temporal.
+https://computerhoy.20minutos.es/tecnologia/microsoft-alerta-fallo-outlook-clasico-impide-acceder-correos-calendarios-1486226
+🗓️ 2025-10-04 • 🏷️ computerhoy.20minutos.es

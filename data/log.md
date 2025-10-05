@@ -856,3 +856,19 @@ https://computerhoy.20minutos.es/movilidad/denuncian-tesla-terrible-muerte-joven
 🗓️ 2025-10-03 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-05
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Microsoft alerta de fallo en Outlook clásico que impide acceder a correos y calendarios
+Outlook clásico para Windows sufre un fallo crítico que bloquea la apertura de la aplicación. Microsoft sugiere usar el nuevo Outlook u Outlook Web como solución temporal.
+https://computerhoy.20minutos.es/tecnologia/microsoft-alerta-fallo-outlook-clasico-impide-acceder-correos-calendarios-1486226
+🗓️ 2025-10-04 • 🏷️ computerhoy.20minutos.es
+
+---
