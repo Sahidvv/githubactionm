@@ -997,3 +997,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-alerta-fallo-outlook-clasi
 Windows 11 25H2 recibe esta actualización preliminar con mejoras que combinan productividad, nuevas funcionalidades y estabilidad, ofreciendo a los usuarios una experiencia más fluida y eficiente.
 https://computerhoy.20minutos.es/tecnologia/windows-11-ahora-mide-conexion-internet-clic-te-trae-copilot-escritorio-1486251
 🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-05T19:13:31.183Z
+📰 Tu ratón podría estar espiando tus conversaciones, de la forma que no esperas
+Un estudio ha demostrado que un ratón óptico estándar puede convertirse en una grabadora de sonido, capaz de registrar todas las conversaciones.
+https://computerhoy.20minutos.es/ciberseguridad/raton-podria-estar-espiando-conversaciones-forma-no-esperas-1486263
+🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
