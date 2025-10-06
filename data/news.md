@@ -1003,3 +1003,9 @@ https://computerhoy.20minutos.es/tecnologia/windows-11-ahora-mide-conexion-inter
 Un estudio ha demostrado que un ratón óptico estándar puede convertirse en una grabadora de sonido, capaz de registrar todas las conversaciones.
 https://computerhoy.20minutos.es/ciberseguridad/raton-podria-estar-espiando-conversaciones-forma-no-esperas-1486263
 🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-06T02:23:22.648Z
+📰 El Bitcoin vuelve a batir su récord histórico de cotización y se acerca al volumen de negocios de la plata
+El cierre del gobierno de Estados Unidos ha animado a los inversores a refugiarse en las criptomonedas, lo que ha permitido que el Bitcoin alcance un nuevo récord.
+https://computerhoy.20minutos.es/fintech/bitcoin-vuelve-batir-record-historico-cotizacion-1486270
+🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es

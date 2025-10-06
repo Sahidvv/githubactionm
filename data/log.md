@@ -872,3 +872,19 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-alerta-fallo-outlook-clasi
 🗓️ 2025-10-04 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-06
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El Bitcoin vuelve a batir su récord histórico de cotización y se acerca al volumen de negocios de la plata
+El cierre del gobierno de Estados Unidos ha animado a los inversores a refugiarse en las criptomonedas, lo que ha permitido que el Bitcoin alcance un nuevo récord.
+https://computerhoy.20minutos.es/fintech/bitcoin-vuelve-batir-record-historico-cotizacion-1486270
+🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
+
+---
