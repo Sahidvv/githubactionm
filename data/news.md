@@ -1009,3 +1009,9 @@ https://computerhoy.20minutos.es/ciberseguridad/raton-podria-estar-espiando-conv
 El cierre del gobierno de Estados Unidos ha animado a los inversores a refugiarse en las criptomonedas, lo que ha permitido que el Bitcoin alcance un nuevo récord.
 https://computerhoy.20minutos.es/fintech/bitcoin-vuelve-batir-record-historico-cotizacion-1486270
 🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-06T13:28:43.999Z
+📰 Adiós a Netflix, Disney+ y Prime como lo conocías, hasta el 78% de los españoles prefieren el plan con publicidad
+Netflix, Disney+ y Prime Video han descubierto una mina de oro en las suscripciones con anuncios, los usuarios pueden permitirse más streaming que nunca.
+https://computerhoy.20minutos.es/entretenimiento/adios-netflix-disney-prime-como-conocias-78-espanoles-prefieren-plan-publicidad-1486296
+🗓️ 2025-10-06 • 🏷️ computerhoy.20minutos.es
