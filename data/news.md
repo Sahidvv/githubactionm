@@ -1033,3 +1033,9 @@ https://computerhoy.20minutos.es/dispositivos/adios-enchufes-tradicionales-llega
 Esta semana se se están anunciando los galardonados con los Premios Nobel concedidos por la Academia Sueca de Ciencias. De momento conocemos el de Medicina y el de Física, ambos merecidísimos. Por lo general, la mayoría de premiados son gra…
 https://hipertextual.com/ciencia/enfermedad-nobel/
 🗓️ 2025-10-07 • 🏷️ hipertextual.com
+
+### 2025-10-07T19:15:00.397Z
+📰 Netflix tiene una de las adaptaciones menos conocidas de Stephen King: no es terror, pero sí un buen drama
+La plataforma de streaming cuenta con una destacable historia del popular escritor norteamericano, que gira en torno a la amistad... y también a la tecnología.
+https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-adaptaciones-menos-conocidas-stephen-king-no-terror-pero-buen-drama-1486334
+🗓️ 2025-10-07 • 🏷️ computerhoy.20minutos.es
