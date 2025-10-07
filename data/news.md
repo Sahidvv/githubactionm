@@ -1027,3 +1027,9 @@ https://hipertextual.com/cine-television/trailer-final-predator-badlands/
 Los nuevos enchufes eléctricos permiten intercambiar módulos, adaptarse a distintas necesidades y prescindir de regletas o cables, reduciendo riesgos eléctricos en el hogar.
 https://computerhoy.20minutos.es/dispositivos/adios-enchufes-tradicionales-llegan-nuevos-enchufes-electricos-pueden-instalar-cualquier-lugar-necesidad-obras-1486393
 🗓️ 2025-10-06 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-07T13:29:18.397Z
+📰 Muchos ganadores del Nobel tienen un patrón común: una misma enfermedad
+Esta semana se se están anunciando los galardonados con los Premios Nobel concedidos por la Academia Sueca de Ciencias. De momento conocemos el de Medicina y el de Física, ambos merecidísimos. Por lo general, la mayoría de premiados son gra…
+https://hipertextual.com/ciencia/enfermedad-nobel/
+🗓️ 2025-10-07 • 🏷️ hipertextual.com
