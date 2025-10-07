@@ -888,3 +888,19 @@ https://computerhoy.20minutos.es/fintech/bitcoin-vuelve-batir-record-historico-c
 🗓️ 2025-10-05 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-07
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Adiós a los enchufes tradicionales, llegan los nuevos enchufes eléctricos que se pueden instalar en cualquier lugar sin necesidad de obras
+Los nuevos enchufes eléctricos permiten intercambiar módulos, adaptarse a distintas necesidades y prescindir de regletas o cables, reduciendo riesgos eléctricos en el hogar.
+https://computerhoy.20minutos.es/dispositivos/adios-enchufes-tradicionales-llegan-nuevos-enchufes-electricos-pueden-instalar-cualquier-lugar-necesidad-obras-1486393
+🗓️ 2025-10-06 • 🏷️ computerhoy.20minutos.es
+
+---
