@@ -1039,3 +1039,9 @@ https://hipertextual.com/ciencia/enfermedad-nobel/
 La plataforma de streaming cuenta con una destacable historia del popular escritor norteamericano, que gira en torno a la amistad... y también a la tecnología.
 https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-adaptaciones-menos-conocidas-stephen-king-no-terror-pero-buen-drama-1486334
 🗓️ 2025-10-07 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-08T02:20:28.125Z
+📰 Expertos revelan el motivo de la escasez de discos SSD y HDD: "Los precios disparatados podrían durar hasta 10 años"
+El consumo masivo de chips por parte de las grandes tecnológicas como Samsung y OpenAI, sumado a la escasa producción, ha generado un desequilibrio histórico en los precios de los SSD, DRAM y HDD.
+https://computerhoy.20minutos.es/dispositivos/expertos-revelan-motivo-escasez-discos-ssd-hdd-precios-disparatados-podrian-durar-10-anos-1486517
+🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es

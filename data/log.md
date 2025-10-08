@@ -904,3 +904,19 @@ https://computerhoy.20minutos.es/dispositivos/adios-enchufes-tradicionales-llega
 🗓️ 2025-10-06 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-08
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Expertos revelan el motivo de la escasez de discos SSD y HDD: "Los precios disparatados podrían durar hasta 10 años"
+El consumo masivo de chips por parte de las grandes tecnológicas como Samsung y OpenAI, sumado a la escasa producción, ha generado un desequilibrio histórico en los precios de los SSD, DRAM y HDD.
+https://computerhoy.20minutos.es/dispositivos/expertos-revelan-motivo-escasez-discos-ssd-hdd-precios-disparatados-podrian-durar-10-anos-1486517
+🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
+
+---
