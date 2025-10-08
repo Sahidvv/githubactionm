@@ -1045,3 +1045,9 @@ https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-adaptaciones-meno
 El consumo masivo de chips por parte de las grandes tecnológicas como Samsung y OpenAI, sumado a la escasa producción, ha generado un desequilibrio histórico en los precios de los SSD, DRAM y HDD.
 https://computerhoy.20minutos.es/dispositivos/expertos-revelan-motivo-escasez-discos-ssd-hdd-precios-disparatados-podrian-durar-10-anos-1486517
 🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-08T13:29:31.530Z
+📰 DIGI desata el caos entre sus rivales: Movistar, MasOrange y Vodafone se pierden en la guerra de las tarifas baratas
+DIGI ha obligado a Movistar, MasOrange y Vodafone a bajar el precio de sus tarifas con fibra, móvil y TV con ofertas secretas para los clientes de la operadora.
+https://computerhoy.20minutos.es/moviles/digi-desata-caos-rivales-movistar-masorange-vodafone-pierden-guerra-tarifas-baratas-1486553
+🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
