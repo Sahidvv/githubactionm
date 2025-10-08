@@ -1051,3 +1051,9 @@ https://computerhoy.20minutos.es/dispositivos/expertos-revelan-motivo-escasez-di
 DIGI ha obligado a Movistar, MasOrange y Vodafone a bajar el precio de sus tarifas con fibra, móvil y TV con ofertas secretas para los clientes de la operadora.
 https://computerhoy.20minutos.es/moviles/digi-desata-caos-rivales-movistar-masorange-vodafone-pierden-guerra-tarifas-baratas-1486553
 🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-08T19:15:07.657Z
+📰 Se adelantaron a Netflix: 4 míticas películas de terror inspiradas en Ed Gein
+Los asesinatos de este perturbado sacudieron todo Estados Unidos, por lo que es natural que las mentes más creativas no tardaran en basarse también en él.
+https://computerhoy.20minutos.es/entretenimiento/adelantaron-netflix-4-miticas-peliculas-terror-inspiradas-ed-gein-1486488
+🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
