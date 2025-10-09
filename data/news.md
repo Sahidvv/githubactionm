@@ -1063,3 +1063,9 @@ https://computerhoy.20minutos.es/entretenimiento/adelantaron-netflix-4-miticas-p
 A partir del mes de octubre, todas las transferencias dentro de la Unión Europea deberán realizarse en un máximo de 10 segundos, sin importar si es día festivo o fin de semana.
 https://computerhoy.20minutos.es/tendencias/nueva-regla-10-segundos-bancos-espana-tramite-ahora-sera-gratis-comisiones-instante-1486626
 🗓️ 2025-10-09 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-09T13:30:20.842Z
+📰 Alemania sube el nivel de alerta contra drones: luz verde a la policía para su derribo inmediato
+La creciente preocupación por el avistamiento de drones rusos cerca de los aeropuerto ha llevado a las autoridades alemanas a permitir a las fuerzas de seguridad abatirlos en situaciones de peligro para la seguridad ciudadana.
+https://computerhoy.20minutos.es/tecnologia/alemania-sube-nivel-alerta-drones-luz-verde-policia-derribo-inmediato-1486668
+🗓️ 2025-10-09 • 🏷️ computerhoy.20minutos.es
