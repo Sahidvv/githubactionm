@@ -1057,3 +1057,9 @@ https://computerhoy.20minutos.es/moviles/digi-desata-caos-rivales-movistar-masor
 Los asesinatos de este perturbado sacudieron todo Estados Unidos, por lo que es natural que las mentes más creativas no tardaran en basarse también en él.
 https://computerhoy.20minutos.es/entretenimiento/adelantaron-netflix-4-miticas-peliculas-terror-inspiradas-ed-gein-1486488
 🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-09T02:22:17.338Z
+📰 Nueva regla de los 10 segundos para los bancos en España: este trámite ahora será gratis, sin comisiones y al instante
+A partir del mes de octubre, todas las transferencias dentro de la Unión Europea deberán realizarse en un máximo de 10 segundos, sin importar si es día festivo o fin de semana.
+https://computerhoy.20minutos.es/tendencias/nueva-regla-10-segundos-bancos-espana-tramite-ahora-sera-gratis-comisiones-instante-1486626
+🗓️ 2025-10-09 • 🏷️ computerhoy.20minutos.es

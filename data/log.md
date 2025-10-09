@@ -920,3 +920,19 @@ https://computerhoy.20minutos.es/dispositivos/expertos-revelan-motivo-escasez-di
 🗓️ 2025-10-08 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-09
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Nueva regla de los 10 segundos para los bancos en España: este trámite ahora será gratis, sin comisiones y al instante
+A partir del mes de octubre, todas las transferencias dentro de la Unión Europea deberán realizarse en un máximo de 10 segundos, sin importar si es día festivo o fin de semana.
+https://computerhoy.20minutos.es/tendencias/nueva-regla-10-segundos-bancos-espana-tramite-ahora-sera-gratis-comisiones-instante-1486626
+🗓️ 2025-10-09 • 🏷️ computerhoy.20minutos.es
+
+---
