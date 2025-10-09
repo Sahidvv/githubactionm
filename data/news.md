@@ -1069,3 +1069,9 @@ https://computerhoy.20minutos.es/tendencias/nueva-regla-10-segundos-bancos-espan
 La creciente preocupación por el avistamiento de drones rusos cerca de los aeropuerto ha llevado a las autoridades alemanas a permitir a las fuerzas de seguridad abatirlos en situaciones de peligro para la seguridad ciudadana.
 https://computerhoy.20minutos.es/tecnologia/alemania-sube-nivel-alerta-drones-luz-verde-policia-derribo-inmediato-1486668
 🗓️ 2025-10-09 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-09T19:16:11.792Z
+📰 Anthropic revela lo fácil que es «envenenar» a la IA para que responda lo que quieras
+Anthropic reveló que unos cuantos documentos tendrían el poder de "envenenar" cualquier modelo de lenguaje. La empresa detrás de Claude publicó un estudio que detalla el modo como puede vulnerarse una IA para que aprenda comportamientos no …
+https://hipertextual.com/inteligencia-artificial/anthropic-estudio-envenenar-modelos-ia/
+🗓️ 2025-10-09 • 🏷️ hipertextual.com
