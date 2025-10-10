@@ -1087,3 +1087,9 @@ https://computerhoy.20minutos.es/tecnologia/decada-prodigiosa-mitico-navegador-i
 El especialista en tecnología también se ha sumado a todos aquellos que advierten cada vez con más contundencia sobre los peligros de la inteligencia artificial.
 https://computerhoy.20minutos.es/tecnologia/eric-schmidt-exdirector-google-habla-modelos-ia-homicidas-son-riesgo-existencial-1486773
 🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-10T19:15:00.713Z
+📰 Netflix tiene una de las películas menos conocidas del Studio Ghibli, pero es una obra maestra absoluta
+A pesar de que nunca tuvo la fama de El viaje de Chihiro, La princesa Mononoke o Mi vecino Totoro, se trata de una de las producciones más emotivas del estudio.
+https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-pero-obra-maestra-absoluta-1486719
+🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
