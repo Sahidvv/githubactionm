@@ -936,3 +936,19 @@ https://computerhoy.20minutos.es/tendencias/nueva-regla-10-segundos-bancos-espan
 🗓️ 2025-10-09 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-10
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 La década prodigiosa del mítico navegador Internet Explorer de Microsoft, cuando era el más usado del mundo
+Hace tres décadas, el navegador Microsoft Internet Explorer se convirtió en el más usado del mundo, para desgracia de los estándares de páginas web.
+https://computerhoy.20minutos.es/tecnologia/decada-prodigiosa-mitico-navegador-internet-explorer-microsoft-1486742
+🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
+
+---

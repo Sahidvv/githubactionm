@@ -1075,3 +1075,9 @@ https://computerhoy.20minutos.es/tecnologia/alemania-sube-nivel-alerta-drones-lu
 Anthropic reveló que unos cuantos documentos tendrían el poder de "envenenar" cualquier modelo de lenguaje. La empresa detrás de Claude publicó un estudio que detalla el modo como puede vulnerarse una IA para que aprenda comportamientos no …
 https://hipertextual.com/inteligencia-artificial/anthropic-estudio-envenenar-modelos-ia/
 🗓️ 2025-10-09 • 🏷️ hipertextual.com
+
+### 2025-10-10T02:22:39.463Z
+📰 La década prodigiosa del mítico navegador Internet Explorer de Microsoft, cuando era el más usado del mundo
+Hace tres décadas, el navegador Microsoft Internet Explorer se convirtió en el más usado del mundo, para desgracia de los estándares de páginas web.
+https://computerhoy.20minutos.es/tecnologia/decada-prodigiosa-mitico-navegador-internet-explorer-microsoft-1486742
+🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
