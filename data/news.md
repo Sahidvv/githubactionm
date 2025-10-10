@@ -1081,3 +1081,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-estudio-envenenar-mod
 Hace tres décadas, el navegador Microsoft Internet Explorer se convirtió en el más usado del mundo, para desgracia de los estándares de páginas web.
 https://computerhoy.20minutos.es/tecnologia/decada-prodigiosa-mitico-navegador-internet-explorer-microsoft-1486742
 🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-10T13:28:30.228Z
+📰 Eric Schmidt, exdirector de Google, habla de modelos de IA homicidas: "Son un riesgo existencial"
+El especialista en tecnología también se ha sumado a todos aquellos que advierten cada vez con más contundencia sobre los peligros de la inteligencia artificial.
+https://computerhoy.20minutos.es/tecnologia/eric-schmidt-exdirector-google-habla-modelos-ia-homicidas-son-riesgo-existencial-1486773
+🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
