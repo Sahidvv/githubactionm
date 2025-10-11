@@ -1105,3 +1105,9 @@ https://computerhoy.20minutos.es/entretenimiento/empiezan-llegar-primeras-cartas
 El CEO de OpenAI asegura que ChatGPT y la IA generativa no eliminarán por completo los empleos, pero sí transformarán el trabajo de los desarrolladores tal y como lo conocemos.
 https://computerhoy.20minutos.es/tecnologia/sam-altman-da-marcha-atras-pero-lanza-nueva-advertencia-programadores-eso-podria-suceder-ano-1453896
 🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-11T19:13:13.083Z
+📰 Android permitirá compartir alertas de terremoto incluso con amigos de iPhone
+Google actualiza el sistema de alertas de terremotos en Android, permitiendo compartir notificaciones con amigos, incluidos usuarios de iPhone, para una comunicación rápida y efectiva durante sismos.
+https://computerhoy.20minutos.es/tecnologia/android-permitira-compartir-alertas-terremoto-incluso-amigos-iphone-1486865
+🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
