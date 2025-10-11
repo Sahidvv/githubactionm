@@ -1093,3 +1093,9 @@ https://computerhoy.20minutos.es/tecnologia/eric-schmidt-exdirector-google-habla
 A pesar de que nunca tuvo la fama de El viaje de Chihiro, La princesa Mononoke o Mi vecino Totoro, se trata de una de las producciones más emotivas del estudio.
 https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-pero-obra-maestra-absoluta-1486719
 🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-11T02:17:41.449Z
+📰 Empiezan a llegar las primeras cartas de DAZN a los piratas de IPTV: exigen 500 euros en 7 días, o de lo contrario…
+Los piratas ya habían sido multados, y DAZN obtuvo sus datos en el proceso judicial. Ahora la plataforma les da 7 días para aceptar el acuerdo o enfrentar una demanda formal.
+https://computerhoy.20minutos.es/entretenimiento/empiezan-llegar-primeras-cartas-dazn-piratas-iptv-exigen-500-euros-7-dias-contrario-1486826
+🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es

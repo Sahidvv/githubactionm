@@ -952,3 +952,19 @@ https://computerhoy.20minutos.es/tecnologia/decada-prodigiosa-mitico-navegador-i
 🗓️ 2025-10-10 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-11
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Empiezan a llegar las primeras cartas de DAZN a los piratas de IPTV: exigen 500 euros en 7 días, o de lo contrario…
+Los piratas ya habían sido multados, y DAZN obtuvo sus datos en el proceso judicial. Ahora la plataforma les da 7 días para aceptar el acuerdo o enfrentar una demanda formal.
+https://computerhoy.20minutos.es/entretenimiento/empiezan-llegar-primeras-cartas-dazn-piratas-iptv-exigen-500-euros-7-dias-contrario-1486826
+🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
+
+---
