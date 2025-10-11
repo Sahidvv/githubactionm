@@ -1099,3 +1099,9 @@ https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-c
 Los piratas ya habían sido multados, y DAZN obtuvo sus datos en el proceso judicial. Ahora la plataforma les da 7 días para aceptar el acuerdo o enfrentar una demanda formal.
 https://computerhoy.20minutos.es/entretenimiento/empiezan-llegar-primeras-cartas-dazn-piratas-iptv-exigen-500-euros-7-dias-contrario-1486826
 🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-11T13:21:20.196Z
+📰 Sam Altman da marcha atrás, pero lanza una nueva advertencia a los programadores: "Eso podría suceder este año"
+El CEO de OpenAI asegura que ChatGPT y la IA generativa no eliminarán por completo los empleos, pero sí transformarán el trabajo de los desarrolladores tal y como lo conocemos.
+https://computerhoy.20minutos.es/tecnologia/sam-altman-da-marcha-atras-pero-lanza-nueva-advertencia-programadores-eso-podria-suceder-ano-1453896
+🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
