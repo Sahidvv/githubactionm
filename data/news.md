@@ -1123,3 +1123,9 @@ https://www.eldiario.es/tecnologia/tecnologia-potencial-espana-plan-gobierno-evi
 Conoce uno de los nombres menos agradables y extraños de toda España, según la inteligencia artificial. Es uno muy anticuado que probablemente no hayas escuchado nunca.
 https://computerhoy.20minutos.es/tecnologia/ni-dolores-ni-hipolito-nombre-tradicional-espanol-feo-inteligencia-artificial-1429978
 🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-12T19:13:57.295Z
+📰 El cubo de Rubik entra en el siglo XXI sustituyendo las pegatinas por pantallas, ya tiene más de 100 juegos
+WOWCube es una versión modernizada del clásico Cubo de Rubik que permite jugar a diferentes juegos usando pantallas, y acaba de salir a la venta.
+https://computerhoy.20minutos.es/gaming/cubo-rubik-entra-siglo-xxi-sustituyendo-pegatinas-pantallas-100-juegos-1486902
+🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
