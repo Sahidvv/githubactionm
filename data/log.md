@@ -968,3 +968,19 @@ https://computerhoy.20minutos.es/entretenimiento/empiezan-llegar-primeras-cartas
 🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-12
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 ¿Dónde está la tecnología con más potencial de España? Este es el plan del Gobierno para evitar la fuga de startups
+La 'SEPI digital' suma sus primeras 10 inversiones en empresas tecnológicas estratégicas con el objetivo de ayudarlas a crecer y mantenerlas en sus territoriosGlovo, Wallapop, TravelPerk: cómo les va a las tecnológicas españolas que aspirar…
+https://www.eldiario.es/tecnologia/tecnologia-potencial-espana-plan-gobierno-evitar-fuga-startups_1_12673714.html
+🗓️ 2025-10-11 • 🏷️ eldiario.es
+
+---

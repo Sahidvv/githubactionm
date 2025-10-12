@@ -1111,3 +1111,9 @@ https://computerhoy.20minutos.es/tecnologia/sam-altman-da-marcha-atras-pero-lanz
 Google actualiza el sistema de alertas de terremotos en Android, permitiendo compartir notificaciones con amigos, incluidos usuarios de iPhone, para una comunicación rápida y efectiva durante sismos.
 https://computerhoy.20minutos.es/tecnologia/android-permitira-compartir-alertas-terremoto-incluso-amigos-iphone-1486865
 🗓️ 2025-10-11 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-12T02:25:10.074Z
+📰 ¿Dónde está la tecnología con más potencial de España? Este es el plan del Gobierno para evitar la fuga de startups
+La 'SEPI digital' suma sus primeras 10 inversiones en empresas tecnológicas estratégicas con el objetivo de ayudarlas a crecer y mantenerlas en sus territoriosGlovo, Wallapop, TravelPerk: cómo les va a las tecnológicas españolas que aspirar…
+https://www.eldiario.es/tecnologia/tecnologia-potencial-espana-plan-gobierno-evitar-fuga-startups_1_12673714.html
+🗓️ 2025-10-11 • 🏷️ eldiario.es
