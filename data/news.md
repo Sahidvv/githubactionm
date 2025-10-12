@@ -1117,3 +1117,9 @@ https://computerhoy.20minutos.es/tecnologia/android-permitira-compartir-alertas-
 La 'SEPI digital' suma sus primeras 10 inversiones en empresas tecnológicas estratégicas con el objetivo de ayudarlas a crecer y mantenerlas en sus territoriosGlovo, Wallapop, TravelPerk: cómo les va a las tecnológicas españolas que aspirar…
 https://www.eldiario.es/tecnologia/tecnologia-potencial-espana-plan-gobierno-evitar-fuga-startups_1_12673714.html
 🗓️ 2025-10-11 • 🏷️ eldiario.es
+
+### 2025-10-12T13:21:43.584Z
+📰 Ni Dolores ni Hipólito, este es el nombre tradicional español más feo para la inteligencia artificial
+Conoce uno de los nombres menos agradables y extraños de toda España, según la inteligencia artificial. Es uno muy anticuado que probablemente no hayas escuchado nunca.
+https://computerhoy.20minutos.es/tecnologia/ni-dolores-ni-hipolito-nombre-tradicional-espanol-feo-inteligencia-artificial-1429978
+🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
