@@ -1135,3 +1135,9 @@ https://computerhoy.20minutos.es/gaming/cubo-rubik-entra-siglo-xxi-sustituyendo-
 Un ejecutivo chino salvó la vida de milagro, en Sao Paulo, tras recibir un balazo en el cuerpo, gracias a su ordenador portátil, que detuvo por completo el disparo.
 https://computerhoy.20minutos.es/tecnologia/macbook-apple-detiene-bala-robo-brasil-1486904
 🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-13T13:29:58.051Z
+📰 Sigourney Weaver ya negocia volver como Ripley a &#8216;Alien&#8217; en una secuela
+La actriz Sigourney Weaver está a punto de regresar a uno de sus papeles más legendarios, el de la teniente Ripley en la saga Alien. A sus 76 años, la intérprete aún le guarda un cariño muy especial al personaje y a la franquicia, en la que…
+https://hipertextual.com/cine-television/sigourney-weaver-ya-negocia-volver-como-ripley-a-alien-en-una-secuela/
+🗓️ 2025-10-13 • 🏷️ hipertextual.com
