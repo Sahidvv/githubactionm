@@ -1129,3 +1129,9 @@ https://computerhoy.20minutos.es/tecnologia/ni-dolores-ni-hipolito-nombre-tradic
 WOWCube es una versión modernizada del clásico Cubo de Rubik que permite jugar a diferentes juegos usando pantallas, y acaba de salir a la venta.
 https://computerhoy.20minutos.es/gaming/cubo-rubik-entra-siglo-xxi-sustituyendo-pegatinas-pantallas-100-juegos-1486902
 🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-13T02:40:29.417Z
+📰 La mejor prueba de resistencia de un MacBook de Apple: detiene una bala en un robo en Brasil
+Un ejecutivo chino salvó la vida de milagro, en Sao Paulo, tras recibir un balazo en el cuerpo, gracias a su ordenador portátil, que detuvo por completo el disparo.
+https://computerhoy.20minutos.es/tecnologia/macbook-apple-detiene-bala-robo-brasil-1486904
+🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es

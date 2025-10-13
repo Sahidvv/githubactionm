@@ -984,3 +984,19 @@ https://www.eldiario.es/tecnologia/tecnologia-potencial-espana-plan-gobierno-evi
 🗓️ 2025-10-11 • 🏷️ eldiario.es
 
 ---
+## 2025-10-13
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La mejor prueba de resistencia de un MacBook de Apple: detiene una bala en un robo en Brasil
+Un ejecutivo chino salvó la vida de milagro, en Sao Paulo, tras recibir un balazo en el cuerpo, gracias a su ordenador portátil, que detuvo por completo el disparo.
+https://computerhoy.20minutos.es/tecnologia/macbook-apple-detiene-bala-robo-brasil-1486904
+🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
+
+---
