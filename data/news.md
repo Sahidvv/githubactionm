@@ -1141,3 +1141,9 @@ https://computerhoy.20minutos.es/tecnologia/macbook-apple-detiene-bala-robo-bras
 La actriz Sigourney Weaver está a punto de regresar a uno de sus papeles más legendarios, el de la teniente Ripley en la saga Alien. A sus 76 años, la intérprete aún le guarda un cariño muy especial al personaje y a la franquicia, en la que…
 https://hipertextual.com/cine-television/sigourney-weaver-ya-negocia-volver-como-ripley-a-alien-en-una-secuela/
 🗓️ 2025-10-13 • 🏷️ hipertextual.com
+
+### 2025-10-13T19:14:24.320Z
+📰 Android Auto rompe los widgets de la barra de tareas y vuelve loco a todo el mundo
+La actualización 15.2 de Android Auto está provocando un error que elimina los widgets y cambia la barra de tareas a formato vertical. Google ya investiga el problema.
+https://computerhoy.20minutos.es/movilidad/android-auto-rompe-widgets-barra-tareas-vuelve-loco-todo-mundo-1486999
+🗓️ 2025-10-13 • 🏷️ computerhoy.20minutos.es
