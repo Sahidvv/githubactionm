@@ -1159,3 +1159,9 @@ https://hipertextual.com/inteligencia-artificial/microsoft-mai-image-1-ia-genera
 El Pro Display XDR es uno de los productos más exclusivos del catálogo de Apple, y estaría a punto de recibir una merecida actualización. Según reporta 9to5Mac, la más reciente beta de macOS 26.1 incluye indicios de una supuesta nueva gener…
 https://hipertextual.com/apple/nuevo-apple-pro-display-xdr-camara-integrada/
 🗓️ 2025-10-14 • 🏷️ hipertextual.com
+
+### 2025-10-14T19:15:27.083Z
+📰 Disney+ sube precios en España: tu suscripción será hasta un 14 % más cara
+Disney+ aumenta sus precios en España sin ofrecer mejoras en los planes, lo que está llevando a muchos usuarios a replantearse si realmente merece la pena mantener varias suscripciones al mismo tiempo.
+https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-espana-suscripcion-sera-14-cara-1487102
+🗓️ 2025-10-14 • 🏷️ computerhoy.20minutos.es
