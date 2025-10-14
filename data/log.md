@@ -1000,3 +1000,19 @@ https://computerhoy.20minutos.es/tecnologia/macbook-apple-detiene-bala-robo-bras
 🗓️ 2025-10-12 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-14
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Microsoft se cansa de OpenAI y presenta su primera IA para generar imágenes
+Microsoft ha presentado su primera IA que genera imágenes a partir de una entrada de texto. Conocido como MAI-Image 1, este modelo ha sido desarrollado completamente por Microsoft AI y ya se posiciona entre los 10 mejores, según los puntaje…
+https://hipertextual.com/inteligencia-artificial/microsoft-mai-image-1-ia-generadora-imagenes/
+🗓️ 2025-10-13 • 🏷️ hipertextual.com
+
+---

@@ -1147,3 +1147,9 @@ https://hipertextual.com/cine-television/sigourney-weaver-ya-negocia-volver-como
 La actualización 15.2 de Android Auto está provocando un error que elimina los widgets y cambia la barra de tareas a formato vertical. Google ya investiga el problema.
 https://computerhoy.20minutos.es/movilidad/android-auto-rompe-widgets-barra-tareas-vuelve-loco-todo-mundo-1486999
 🗓️ 2025-10-13 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-14T02:22:40.856Z
+📰 Microsoft se cansa de OpenAI y presenta su primera IA para generar imágenes
+Microsoft ha presentado su primera IA que genera imágenes a partir de una entrada de texto. Conocido como MAI-Image 1, este modelo ha sido desarrollado completamente por Microsoft AI y ya se posiciona entre los 10 mejores, según los puntaje…
+https://hipertextual.com/inteligencia-artificial/microsoft-mai-image-1-ia-generadora-imagenes/
+🗓️ 2025-10-13 • 🏷️ hipertextual.com
