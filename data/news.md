@@ -1153,3 +1153,9 @@ https://computerhoy.20minutos.es/movilidad/android-auto-rompe-widgets-barra-tare
 Microsoft ha presentado su primera IA que genera imágenes a partir de una entrada de texto. Conocido como MAI-Image 1, este modelo ha sido desarrollado completamente por Microsoft AI y ya se posiciona entre los 10 mejores, según los puntaje…
 https://hipertextual.com/inteligencia-artificial/microsoft-mai-image-1-ia-generadora-imagenes/
 🗓️ 2025-10-13 • 🏷️ hipertextual.com
+
+### 2025-10-14T13:30:26.251Z
+📰 Un nuevo Pro Display XDR llegaría pronto: el monitor más bestial (y caro) de Apple sumaría una característica muy esperada
+El Pro Display XDR es uno de los productos más exclusivos del catálogo de Apple, y estaría a punto de recibir una merecida actualización. Según reporta 9to5Mac, la más reciente beta de macOS 26.1 incluye indicios de una supuesta nueva gener…
+https://hipertextual.com/apple/nuevo-apple-pro-display-xdr-camara-integrada/
+🗓️ 2025-10-14 • 🏷️ hipertextual.com
