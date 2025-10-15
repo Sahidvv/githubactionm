@@ -1171,3 +1171,9 @@ https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-espana-susc
 Amazon no es ajena a los anuncios y prueba de ello es el aumento en pausas publicitarias que implementará en Prime Video. La empresa sabe que este es uno de los mecanismos más útiles para incrementar los ingresos y ahora está probando la pa…
 https://hipertextual.com/tecnologia/amazon-echo-show-anuncios-invasivos/
 🗓️ 2025-10-14 • 🏷️ hipertextual.com
+
+### 2025-10-15T13:32:02.980Z
+📰 Apple presenta el MacBook Pro M5
+Aunque era un secreto a voces, Apple dio el pistoletazo de salida ayer mismo de la mano de su VP de Marketing, Greg Joswiak, que en su cuenta de X publicaba un teaser del nuevo lanzamiento de la compañía, el esperado nuevo MacBook Pro M5. C…
+https://hipertextual.com/apple/apple-presenta-el-macbook-pro-m5/
+🗓️ 2025-10-15 • 🏷️ hipertextual.com
