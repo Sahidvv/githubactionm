@@ -1016,3 +1016,19 @@ https://hipertextual.com/inteligencia-artificial/microsoft-mai-image-1-ia-genera
 🗓️ 2025-10-13 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-15
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Amazon llena los Echo Show de anuncios invasivos
+Amazon no es ajena a los anuncios y prueba de ello es el aumento en pausas publicitarias que implementará en Prime Video. La empresa sabe que este es uno de los mecanismos más útiles para incrementar los ingresos y ahora está probando la pa…
+https://hipertextual.com/tecnologia/amazon-echo-show-anuncios-invasivos/
+🗓️ 2025-10-14 • 🏷️ hipertextual.com
+
+---

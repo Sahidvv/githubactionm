@@ -1165,3 +1165,9 @@ https://hipertextual.com/apple/nuevo-apple-pro-display-xdr-camara-integrada/
 Disney+ aumenta sus precios en España sin ofrecer mejoras en los planes, lo que está llevando a muchos usuarios a replantearse si realmente merece la pena mantener varias suscripciones al mismo tiempo.
 https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-espana-suscripcion-sera-14-cara-1487102
 🗓️ 2025-10-14 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-15T02:26:04.236Z
+📰 Amazon llena los Echo Show de anuncios invasivos
+Amazon no es ajena a los anuncios y prueba de ello es el aumento en pausas publicitarias que implementará en Prime Video. La empresa sabe que este es uno de los mecanismos más útiles para incrementar los ingresos y ahora está probando la pa…
+https://hipertextual.com/tecnologia/amazon-echo-show-anuncios-invasivos/
+🗓️ 2025-10-14 • 🏷️ hipertextual.com
