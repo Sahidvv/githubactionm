@@ -1177,3 +1177,9 @@ https://hipertextual.com/tecnologia/amazon-echo-show-anuncios-invasivos/
 Aunque era un secreto a voces, Apple dio el pistoletazo de salida ayer mismo de la mano de su VP de Marketing, Greg Joswiak, que en su cuenta de X publicaba un teaser del nuevo lanzamiento de la compañía, el esperado nuevo MacBook Pro M5. C…
 https://hipertextual.com/apple/apple-presenta-el-macbook-pro-m5/
 🗓️ 2025-10-15 • 🏷️ hipertextual.com
+
+### 2025-10-15T19:15:27.042Z
+📰 Arrasa en Prime Video: así es la película de terror más vista en España
+La plataforma de streaming de Amazon ha vuelto a sorprender con el éxito de un oscuro film que hasta el momento había pasado sin demasiada pena ni gloria.
+https://computerhoy.20minutos.es/entretenimiento/arrasa-prime-video-pelicula-terror-vista-espana-1486990
+🗓️ 2025-10-15 • 🏷️ computerhoy.20minutos.es
