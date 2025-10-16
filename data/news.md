@@ -1195,3 +1195,9 @@ https://computerhoy.20minutos.es/tecnologia/inventor-japones-crea-camara-memoria
 La temporada 2 de Daredevil: Born Again tiene fecha de estreno en Disney+. Apenas días después de que Marvel Television mostrara el primer tráiler de la próxima entrega de la serie, que no tardó en filtrarse, Disney ha publicado desde cuánd…
 https://hipertextual.com/cine-television/daredevil-born-again-temporada-2-fecha-de-estreno-disney/
 🗓️ 2025-10-16 • 🏷️ hipertextual.com
+
+### 2025-10-16T19:14:31.255Z
+📰 La apuesta de Prime Video para Halloween: así es la serie española de terror más esperada
+El 31 de octubre llega a la plataforma de Amazon una ambiciosa producción con un reparto lleno de estrellas patrias conocidas... y una temática espeluznante.
+https://computerhoy.20minutos.es/entretenimiento/apuesta-prime-video-halloween-serie-espanola-terror-esperada-1487189
+🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es
