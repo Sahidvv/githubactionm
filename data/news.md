@@ -1183,3 +1183,9 @@ https://hipertextual.com/apple/apple-presenta-el-macbook-pro-m5/
 La plataforma de streaming de Amazon ha vuelto a sorprender con el éxito de un oscuro film que hasta el momento había pasado sin demasiada pena ni gloria.
 https://computerhoy.20minutos.es/entretenimiento/arrasa-prime-video-pelicula-terror-vista-espana-1486990
 🗓️ 2025-10-15 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-16T02:24:32.918Z
+📰 Inventor japonés crea una "cámara de memoria" que puede capturar escenas del pasado: "¡Esto es un invento de Doraemon!"
+La cámara creada por Yosuke Hori integra GPS, sensores de ángulo y Google Street View, que permite ver cómo era una calle antes, como si estuvieras tomando una foto del pasado.
+https://computerhoy.20minutos.es/tecnologia/inventor-japones-crea-camara-memoria-puede-capturar-escenas-pasado-invento-doraemon-1487213
+🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es

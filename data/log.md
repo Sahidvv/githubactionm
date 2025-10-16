@@ -1032,3 +1032,19 @@ https://hipertextual.com/tecnologia/amazon-echo-show-anuncios-invasivos/
 🗓️ 2025-10-14 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-16
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Inventor japonés crea una "cámara de memoria" que puede capturar escenas del pasado: "¡Esto es un invento de Doraemon!"
+La cámara creada por Yosuke Hori integra GPS, sensores de ángulo y Google Street View, que permite ver cómo era una calle antes, como si estuvieras tomando una foto del pasado.
+https://computerhoy.20minutos.es/tecnologia/inventor-japones-crea-camara-memoria-puede-capturar-escenas-pasado-invento-doraemon-1487213
+🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es
+
+---
