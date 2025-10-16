@@ -1189,3 +1189,9 @@ https://computerhoy.20minutos.es/entretenimiento/arrasa-prime-video-pelicula-ter
 La cámara creada por Yosuke Hori integra GPS, sensores de ángulo y Google Street View, que permite ver cómo era una calle antes, como si estuvieras tomando una foto del pasado.
 https://computerhoy.20minutos.es/tecnologia/inventor-japones-crea-camara-memoria-puede-capturar-escenas-pasado-invento-doraemon-1487213
 🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-16T13:31:18.066Z
+📰 Fecha de estreno confirmada para &#8216;Daredevil: Born Again&#8217;, temporada 2
+La temporada 2 de Daredevil: Born Again tiene fecha de estreno en Disney+. Apenas días después de que Marvel Television mostrara el primer tráiler de la próxima entrega de la serie, que no tardó en filtrarse, Disney ha publicado desde cuánd…
+https://hipertextual.com/cine-television/daredevil-born-again-temporada-2-fecha-de-estreno-disney/
+🗓️ 2025-10-16 • 🏷️ hipertextual.com
