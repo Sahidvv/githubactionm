@@ -1048,3 +1048,19 @@ https://computerhoy.20minutos.es/tecnologia/inventor-japones-crea-camara-memoria
 🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-17
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Expertos en ciberseguridad desesperados: "Métetelo en la cabeza, apaga siempre el WiFi del móvil cuando salgas de casa"
+Además de incrementar el consumo de batería, también puede poner en riesgo tu seguridad y privacidad. Lo más sensato es seguir las recomendaciones de los expertos.
+https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-desesperados-metetelo-cabeza-apaga-siempre-wifi-movil-cuando-salgas-casa-1487316
+🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es
+
+---
