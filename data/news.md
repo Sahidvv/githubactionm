@@ -1213,3 +1213,9 @@ https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-desesper
 Reddit acaba de expandir su función más novedosa, impulsada por Gemini, a otros cinco idiomas, incluyendo el español. Hablamos de Reddit Answers, el buscador que usa la inteligencia artificial de Google para que los usuarios puedan encontra…
 https://hipertextual.com/inteligencia-artificial/reddit-answers-gemini-disponible-espanol/
 🗓️ 2025-10-17 • 🏷️ hipertextual.com
+
+### 2025-10-17T19:15:09.646Z
+📰 No es perfecta, pero Netflix tiene una de las adaptaciones de Stephen King que mejor refleja su estilo
+Cuando esta película se estrenó en la popular plataforma de streaming en 2017, obtuvo buenas críticas. Luego, eso sí, se ha ido olvidando con los años.
+https://computerhoy.20minutos.es/entretenimiento/no-perfecta-pero-netflix-tiene-adaptaciones-stephen-king-mejor-refleja-estilo-1487324
+🗓️ 2025-10-17 • 🏷️ computerhoy.20minutos.es
