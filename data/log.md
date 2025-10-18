@@ -1064,3 +1064,19 @@ https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-desesper
 🗓️ 2025-10-16 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-18
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Andrew Feldman, gurú de la IA: "Es alucinante que la gente piense en trabajar 38 horas, es cada minuto que estés despierto"
+El mito del equilibrio perfecto entre vida laboral y personal está siendo cuestionado por líderes de grandes compañías, como el CEO de Cerebras Systems, quien lo ve incompatible con la búsqueda de la excelencia.
+https://computerhoy.20minutos.es/tendencias/andrew-feldman-guru-ia-alucinante-gente-piense-trabajar-38-horas-cada-minuto-estes-despierto-1487401
+🗓️ 2025-10-17 • 🏷️ computerhoy.20minutos.es
+
+---

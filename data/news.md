@@ -1219,3 +1219,9 @@ https://hipertextual.com/inteligencia-artificial/reddit-answers-gemini-disponibl
 Cuando esta película se estrenó en la popular plataforma de streaming en 2017, obtuvo buenas críticas. Luego, eso sí, se ha ido olvidando con los años.
 https://computerhoy.20minutos.es/entretenimiento/no-perfecta-pero-netflix-tiene-adaptaciones-stephen-king-mejor-refleja-estilo-1487324
 🗓️ 2025-10-17 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-18T02:18:17.954Z
+📰 Andrew Feldman, gurú de la IA: "Es alucinante que la gente piense en trabajar 38 horas, es cada minuto que estés despierto"
+El mito del equilibrio perfecto entre vida laboral y personal está siendo cuestionado por líderes de grandes compañías, como el CEO de Cerebras Systems, quien lo ve incompatible con la búsqueda de la excelencia.
+https://computerhoy.20minutos.es/tendencias/andrew-feldman-guru-ia-alucinante-gente-piense-trabajar-38-horas-cada-minuto-estes-despierto-1487401
+🗓️ 2025-10-17 • 🏷️ computerhoy.20minutos.es
