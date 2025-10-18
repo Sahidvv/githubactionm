@@ -1231,3 +1231,9 @@ https://computerhoy.20minutos.es/tendencias/andrew-feldman-guru-ia-alucinante-ge
 Las funciones avanzadas son la clave para desbloquear todo el potencial del chatbot de OpenAI y convertir a ChatGPT en una herramienta mucho más útil de lo que imaginas.
 https://computerhoy.20minutos.es/tecnologia/configuraciones-ocultas-chatgpt-5-deberias-habilitar-ahora-mismo-1483264
 🗓️ 2025-10-18 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-18T19:13:46.298Z
+📰 Microsoft lo tiene claro: el futuro está en el navegador (y hay que protegerlo)
+Microsoft advierte que el futuro será "nativo del navegador" y refuerza su apuesta por Edge, al tiempo que insta a proteger estos entornos frente a nuevas amenazas.
+https://computerhoy.20minutos.es/ciberseguridad/microsoft-tiene-claro-futuro-navegador-hay-protegerlo-1487448
+🗓️ 2025-10-18 • 🏷️ computerhoy.20minutos.es
