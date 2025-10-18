@@ -1225,3 +1225,9 @@ https://computerhoy.20minutos.es/entretenimiento/no-perfecta-pero-netflix-tiene-
 El mito del equilibrio perfecto entre vida laboral y personal está siendo cuestionado por líderes de grandes compañías, como el CEO de Cerebras Systems, quien lo ve incompatible con la búsqueda de la excelencia.
 https://computerhoy.20minutos.es/tendencias/andrew-feldman-guru-ia-alucinante-gente-piense-trabajar-38-horas-cada-minuto-estes-despierto-1487401
 🗓️ 2025-10-17 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-18T13:22:24.697Z
+📰 Configuraciones ocultas de ChatGPT-5 que deberías habilitar ahora mismo
+Las funciones avanzadas son la clave para desbloquear todo el potencial del chatbot de OpenAI y convertir a ChatGPT en una herramienta mucho más útil de lo que imaginas.
+https://computerhoy.20minutos.es/tecnologia/configuraciones-ocultas-chatgpt-5-deberias-habilitar-ahora-mismo-1483264
+🗓️ 2025-10-18 • 🏷️ computerhoy.20minutos.es
