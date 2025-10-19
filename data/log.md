@@ -1080,3 +1080,19 @@ https://computerhoy.20minutos.es/tendencias/andrew-feldman-guru-ia-alucinante-ge
 🗓️ 2025-10-17 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-19
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El Parlamento Europeo refuerza su alerta sobre WhatsApp a los diputados y les pide usar Signal en sus viajes al extranjero
+Los servicios de seguridad de la institución piden a los eurodiputados que eviten por norma general el uso de la app de MetaWhatsApp, Telegram, Signal: ¿qué aplicación de mensajería ofrece las comunicaciones más seguras? Los servicios de se…
+https://www.eldiario.es/tecnologia/parlamento-europeo-refuerza-alerta-whatsapp-diputados-les-pide-signal-viajes-extranjero_1_12689493.html
+🗓️ 2025-10-18 • 🏷️ eldiario.es
+
+---

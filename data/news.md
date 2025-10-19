@@ -1237,3 +1237,9 @@ https://computerhoy.20minutos.es/tecnologia/configuraciones-ocultas-chatgpt-5-de
 Microsoft advierte que el futuro será "nativo del navegador" y refuerza su apuesta por Edge, al tiempo que insta a proteger estos entornos frente a nuevas amenazas.
 https://computerhoy.20minutos.es/ciberseguridad/microsoft-tiene-claro-futuro-navegador-hay-protegerlo-1487448
 🗓️ 2025-10-18 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-19T02:45:36.407Z
+📰 El Parlamento Europeo refuerza su alerta sobre WhatsApp a los diputados y les pide usar Signal en sus viajes al extranjero
+Los servicios de seguridad de la institución piden a los eurodiputados que eviten por norma general el uso de la app de MetaWhatsApp, Telegram, Signal: ¿qué aplicación de mensajería ofrece las comunicaciones más seguras? Los servicios de se…
+https://www.eldiario.es/tecnologia/parlamento-europeo-refuerza-alerta-whatsapp-diputados-les-pide-signal-viajes-extranjero_1_12689493.html
+🗓️ 2025-10-18 • 🏷️ eldiario.es
