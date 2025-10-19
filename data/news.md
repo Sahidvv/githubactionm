@@ -1243,3 +1243,9 @@ https://computerhoy.20minutos.es/ciberseguridad/microsoft-tiene-claro-futuro-nav
 Los servicios de seguridad de la institución piden a los eurodiputados que eviten por norma general el uso de la app de MetaWhatsApp, Telegram, Signal: ¿qué aplicación de mensajería ofrece las comunicaciones más seguras? Los servicios de se…
 https://www.eldiario.es/tecnologia/parlamento-europeo-refuerza-alerta-whatsapp-diputados-les-pide-signal-viajes-extranjero_1_12689493.html
 🗓️ 2025-10-18 • 🏷️ eldiario.es
+
+### 2025-10-19T13:22:49.469Z
+📰 ¿Por qué deberías borrar tus cookies cada dos semanas? Así puede mejorar tu navegación
+Estas son las razones por las que deberías limpiar las cookies de tu navegador regularmente. Si lo haces, tendrás menos probabilidades de que te hackeen las cuentas.
+https://computerhoy.20minutos.es/borrar-cookies-cada-dos-semanas-mejorar-navegacion-1430392
+🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
