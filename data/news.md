@@ -1249,3 +1249,9 @@ https://www.eldiario.es/tecnologia/parlamento-europeo-refuerza-alerta-whatsapp-d
 Estas son las razones por las que deberías limpiar las cookies de tu navegador regularmente. Si lo haces, tendrás menos probabilidades de que te hackeen las cuentas.
 https://computerhoy.20minutos.es/borrar-cookies-cada-dos-semanas-mejorar-navegacion-1430392
 🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-19T19:14:06.790Z
+📰 Windows 11 a precio low cost: este Mini PC viene con sistema operativo y es perfecto para trabajar en casa
+Ideal para teletrabajar o montar tu propio setup minimalista, este mini PC combina un diseño elegante con la potencia de un AMD Ryzen 5 de última generación.
+https://computerhoy.20minutos.es/recomendados/windows-11-precio-low-cost-mini-pc-viene-sistema-operativo-perfecto-trabajar-casa-1487470
+🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
