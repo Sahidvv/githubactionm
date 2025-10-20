@@ -1261,3 +1261,9 @@ https://computerhoy.20minutos.es/recomendados/windows-11-precio-low-cost-mini-pc
 El crimen como servicio está de moda, ya sea malware a la carta o tarjetas SIM falsas, como es el caso de la última redada de Europol, en una estafa altamente compleja.
 https://computerhoy.20minutos.es/ciberseguridad/operacion-simcartel-europol-detienen-banda-alquilaba-miles-tarjetas-sim-estafas-crimenes-1487481
 🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-20T13:29:28.891Z
+📰 Es oficial, Microsoft ha convertido Windows en un sistema operativo agente: ¿qué significa esto y cómo te afecta?
+Microsoft da un paso impresionante en la tecnología de IA, integrando Hey Copilot en Windows 11. Adiós macOS y Linux, hola nuevo sistema con inteligencia artificial.
+https://computerhoy.20minutos.es/windows/oficial-microsoft-ha-convertido-windows-sistema-operativo-agente-significa-como-te-afecta-1487529
+🗓️ 2025-10-20 • 🏷️ computerhoy.20minutos.es
