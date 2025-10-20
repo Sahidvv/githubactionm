@@ -1255,3 +1255,9 @@ https://computerhoy.20minutos.es/borrar-cookies-cada-dos-semanas-mejorar-navegac
 Ideal para teletrabajar o montar tu propio setup minimalista, este mini PC combina un diseño elegante con la potencia de un AMD Ryzen 5 de última generación.
 https://computerhoy.20minutos.es/recomendados/windows-11-precio-low-cost-mini-pc-viene-sistema-operativo-perfecto-trabajar-casa-1487470
 🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-20T02:44:34.493Z
+📰 Operación SIMCARTEL de Europol: detienen a una banda que alquilaba miles de tarjetas SIM para todo tipo de estafas y crímenes
+El crimen como servicio está de moda, ya sea malware a la carta o tarjetas SIM falsas, como es el caso de la última redada de Europol, en una estafa altamente compleja.
+https://computerhoy.20minutos.es/ciberseguridad/operacion-simcartel-europol-detienen-banda-alquilaba-miles-tarjetas-sim-estafas-crimenes-1487481
+🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es

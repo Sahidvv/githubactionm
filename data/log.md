@@ -1096,3 +1096,19 @@ https://www.eldiario.es/tecnologia/parlamento-europeo-refuerza-alerta-whatsapp-d
 🗓️ 2025-10-18 • 🏷️ eldiario.es
 
 ---
+## 2025-10-20
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Operación SIMCARTEL de Europol: detienen a una banda que alquilaba miles de tarjetas SIM para todo tipo de estafas y crímenes
+El crimen como servicio está de moda, ya sea malware a la carta o tarjetas SIM falsas, como es el caso de la última redada de Europol, en una estafa altamente compleja.
+https://computerhoy.20minutos.es/ciberseguridad/operacion-simcartel-europol-detienen-banda-alquilaba-miles-tarjetas-sim-estafas-crimenes-1487481
+🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
+
+---
