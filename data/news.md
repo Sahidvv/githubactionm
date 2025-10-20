@@ -1267,3 +1267,9 @@ https://computerhoy.20minutos.es/ciberseguridad/operacion-simcartel-europol-deti
 Microsoft da un paso impresionante en la tecnología de IA, integrando Hey Copilot en Windows 11. Adiós macOS y Linux, hola nuevo sistema con inteligencia artificial.
 https://computerhoy.20minutos.es/windows/oficial-microsoft-ha-convertido-windows-sistema-operativo-agente-significa-como-te-afecta-1487529
 🗓️ 2025-10-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-20T19:16:13.380Z
+📰 Italia planea exponer públicamente a los usuarios de IPTV pirata: ¿seguirá Javier Tebas el ejemplo?
+Italia sigue reforzando su lucha contra las IPTV piratas, buscando disuadir el consumo ilegal mediante la presión social y sanciones legales con esta posible nueva medida.
+https://computerhoy.20minutos.es/entretenimiento/italia-planea-exponer-publicamente-usuarios-iptv-pirata-seguira-javier-tebas-ejemplo-1487585
+🗓️ 2025-10-20 • 🏷️ computerhoy.20minutos.es
