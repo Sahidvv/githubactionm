@@ -1112,3 +1112,19 @@ https://computerhoy.20minutos.es/ciberseguridad/operacion-simcartel-europol-deti
 🗓️ 2025-10-19 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-21
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 BOOX inicia una nueva era del papel digital con una escritura más natural y su primer panel a color en la serie Palma
+Note Air5 C y Palma 2 Pro de BOOX llegan para redefinir el concepto de tinta electrónica, con pantallas que introducen prestaciones dirigidas a la productividad.
+https://computerhoy.20minutos.es/dispositivos/boox-inicia-nueva-era-papel-digital-escritura-natural-primer-panel-color-serie-palma-1487532
+🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
+
+---

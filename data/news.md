@@ -1273,3 +1273,9 @@ https://computerhoy.20minutos.es/windows/oficial-microsoft-ha-convertido-windows
 Italia sigue reforzando su lucha contra las IPTV piratas, buscando disuadir el consumo ilegal mediante la presión social y sanciones legales con esta posible nueva medida.
 https://computerhoy.20minutos.es/entretenimiento/italia-planea-exponer-publicamente-usuarios-iptv-pirata-seguira-javier-tebas-ejemplo-1487585
 🗓️ 2025-10-20 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-21T02:27:24.934Z
+📰 BOOX inicia una nueva era del papel digital con una escritura más natural y su primer panel a color en la serie Palma
+Note Air5 C y Palma 2 Pro de BOOX llegan para redefinir el concepto de tinta electrónica, con pantallas que introducen prestaciones dirigidas a la productividad.
+https://computerhoy.20minutos.es/dispositivos/boox-inicia-nueva-era-papel-digital-escritura-natural-primer-panel-color-serie-palma-1487532
+🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
