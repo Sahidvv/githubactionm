@@ -1285,3 +1285,9 @@ https://computerhoy.20minutos.es/dispositivos/boox-inicia-nueva-era-papel-digita
 El fin de soporte de Windows 10 debería haber motivado a las personas a actualizar, pero el ganador ha resultado ser una distribución de Linux parecida a Windows 11 y macOS.
 https://computerhoy.20minutos.es/pc/ya-tenemos-ganador-fin-windows-10-no-no-windows-11-enhorabuena-linux-1487645
 🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-21T19:16:31.793Z
+📰 ¿Por qué Windows 11 descarga drivers viejos o repetidos? Microsoft aclara el misterio
+Microsoft explica por qué Windows 11 instala drivers antiguos o duplicados, aclarando que el sistema se guía por los criterios del fabricante y no por la fecha de lanzamiento de los controladores.
+https://computerhoy.20minutos.es/tecnologia/windows-11-descarga-drivers-viejos-repetidos-microsoft-aclara-misterio-1487689
+🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
