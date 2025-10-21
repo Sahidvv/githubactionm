@@ -1279,3 +1279,9 @@ https://computerhoy.20minutos.es/entretenimiento/italia-planea-exponer-publicame
 Note Air5 C y Palma 2 Pro de BOOX llegan para redefinir el concepto de tinta electrónica, con pantallas que introducen prestaciones dirigidas a la productividad.
 https://computerhoy.20minutos.es/dispositivos/boox-inicia-nueva-era-papel-digital-escritura-natural-primer-panel-color-serie-palma-1487532
 🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-21T13:33:33.996Z
+📰 Ya tenemos ganador del fin de Windows 10 y no, no es Windows 11: enhorabuena Linux
+El fin de soporte de Windows 10 debería haber motivado a las personas a actualizar, pero el ganador ha resultado ser una distribución de Linux parecida a Windows 11 y macOS.
+https://computerhoy.20minutos.es/pc/ya-tenemos-ganador-fin-windows-10-no-no-windows-11-enhorabuena-linux-1487645
+🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
