@@ -1303,3 +1303,9 @@ https://computerhoy.20minutos.es/dispositivos/ni-vecinos-gorrones-ni-hackers-he-
 Si todavía no lo era, Toyota se acaba de convertir en uno de los enemigos más importantes de Tesla. Hoy mismo se ha presentado en España el Toyota C-HR+, un modelo 100% eléctrico que llega con una estética totalmente renovada, muchísima tec…
 https://hipertextual.com/movilidad/el-toyota-c-hr-100-electrico-llega-a-espana-tesla-tiene-un-problemon-entre-manos/
 🗓️ 2025-10-22 • 🏷️ hipertextual.com
+
+### 2025-10-22T19:15:00.041Z
+📰 Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido
+El modo de ahorro de memoria de Chrome reduce el consumo de recursos, liberando memoria de pestañas y extensiones abiertas, mejorando el rendimiento y batería.
+https://computerhoy.20minutos.es/moviles/como-usar-modo-ahorro-memoria-chrome-navegador-funcione-rapido-1243910
+🗓️ 2025-10-22 • 🏷️ computerhoy.20minutos.es
