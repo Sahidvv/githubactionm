@@ -1291,3 +1291,9 @@ https://computerhoy.20minutos.es/pc/ya-tenemos-ganador-fin-windows-10-no-no-wind
 Microsoft explica por qué Windows 11 instala drivers antiguos o duplicados, aclarando que el sistema se guía por los criterios del fabricante y no por la fecha de lanzamiento de los controladores.
 https://computerhoy.20minutos.es/tecnologia/windows-11-descarga-drivers-viejos-repetidos-microsoft-aclara-misterio-1487689
 🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-22T02:40:45.383Z
+📰 Ni vecinos gorrones ni hackers, he blindado mi router para evitar que ningún extraño entre en mi red WiFi
+He comprobado que un router WiFi mal configurado puede poner en riesgo tu ordenador, móvil o televisor. Pero con este sencillo ajuste he conseguido mantener a raya a los intrusos.
+https://computerhoy.20minutos.es/dispositivos/ni-vecinos-gorrones-ni-hackers-he-blindado-mi-router-evitar-ningun-extrano-mi-red-wifi-1487701
+🗓️ 2025-10-22 • 🏷️ computerhoy.20minutos.es

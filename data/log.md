@@ -1128,3 +1128,19 @@ https://computerhoy.20minutos.es/dispositivos/boox-inicia-nueva-era-papel-digita
 🗓️ 2025-10-21 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-22
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Ni vecinos gorrones ni hackers, he blindado mi router para evitar que ningún extraño entre en mi red WiFi
+He comprobado que un router WiFi mal configurado puede poner en riesgo tu ordenador, móvil o televisor. Pero con este sencillo ajuste he conseguido mantener a raya a los intrusos.
+https://computerhoy.20minutos.es/dispositivos/ni-vecinos-gorrones-ni-hackers-he-blindado-mi-router-evitar-ningun-extrano-mi-red-wifi-1487701
+🗓️ 2025-10-22 • 🏷️ computerhoy.20minutos.es
+
+---
