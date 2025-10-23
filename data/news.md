@@ -1309,3 +1309,9 @@ https://hipertextual.com/movilidad/el-toyota-c-hr-100-electrico-llega-a-espana-t
 El modo de ahorro de memoria de Chrome reduce el consumo de recursos, liberando memoria de pestañas y extensiones abiertas, mejorando el rendimiento y batería.
 https://computerhoy.20minutos.es/moviles/como-usar-modo-ahorro-memoria-chrome-navegador-funcione-rapido-1243910
 🗓️ 2025-10-22 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-23T02:25:43.995Z
+📰 Amazon presenta sus nuevas gafas inteligentes con IA, pero no te emociones todavía
+Tras años de rumores y especulaciones, Amazon anunció unas nuevas gafas inteligentes. La compañía ha seguido los pasos de Meta y Apple y presentó un dispositivo con tecnología de visión computacional y sensores con IA. A diferencia de las R…
+https://hipertextual.com/tecnologia/amazon-gafas-inteligentes-ia-repartidores/
+🗓️ 2025-10-22 • 🏷️ hipertextual.com
