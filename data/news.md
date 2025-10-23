@@ -1321,3 +1321,9 @@ https://hipertextual.com/tecnologia/amazon-gafas-inteligentes-ia-repartidores/
 La posible venta de Warner Bros Discovery es tema de conversación desde hace varios días. El gigante que dirige David Zaslav le abrió las puertas a una adquisición total o parcial que, de concretarse, cambiaría a Hollywood para siempre. Una…
 https://hipertextual.com/economia-empresas/apple-amazon-candidatas-comprar-catalogo-warner-bros/
 🗓️ 2025-10-23 • 🏷️ hipertextual.com
+
+### 2025-10-23T19:15:46.951Z
+📰 Adiós Paramount Network, el mítico canal desaparece de la TDT tras 13 años de emisiones
+Paramount Network dejará de emitirse en la TDT española el 31 de diciembre de 2025 tras 13 años. La frecuencia seguirá en manos del Grupo Squirrel, que analiza nuevas opciones televisivas.
+https://computerhoy.20minutos.es/entretenimiento/adios-paramount-network-mitico-canal-desaparece-tdt-13-anos-emisiones-1487906
+🗓️ 2025-10-23 • 🏷️ computerhoy.20minutos.es
