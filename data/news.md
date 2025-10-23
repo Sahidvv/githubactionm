@@ -1315,3 +1315,9 @@ https://computerhoy.20minutos.es/moviles/como-usar-modo-ahorro-memoria-chrome-na
 Tras años de rumores y especulaciones, Amazon anunció unas nuevas gafas inteligentes. La compañía ha seguido los pasos de Meta y Apple y presentó un dispositivo con tecnología de visión computacional y sensores con IA. A diferencia de las R…
 https://hipertextual.com/tecnologia/amazon-gafas-inteligentes-ia-repartidores/
 🗓️ 2025-10-22 • 🏷️ hipertextual.com
+
+### 2025-10-23T13:31:55.885Z
+📰 Apple y Amazon, ¿candidatas a comprar el catálogo de cine y TV de Warner Bros?
+La posible venta de Warner Bros Discovery es tema de conversación desde hace varios días. El gigante que dirige David Zaslav le abrió las puertas a una adquisición total o parcial que, de concretarse, cambiaría a Hollywood para siempre. Una…
+https://hipertextual.com/economia-empresas/apple-amazon-candidatas-comprar-catalogo-warner-bros/
+🗓️ 2025-10-23 • 🏷️ hipertextual.com
