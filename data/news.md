@@ -1333,3 +1333,9 @@ https://computerhoy.20minutos.es/entretenimiento/adios-paramount-network-mitico-
 Nike ha anunciado unas nuevas zapatillas que te ayudarán a caminar y correr más rápido y con menos esfuerzo. Conocido como Project Amplify, este sistema consiste en una zapatilla conectada a un brazalete a través de un brazo robótico. El br…
 https://hipertextual.com/tecnologia/nike-project-amplify-zapatillas-motorizadas/
 🗓️ 2025-10-23 • 🏷️ hipertextual.com
+
+### 2025-10-24T13:30:25.506Z
+📰 ¿Miedo a perder cobertura al pasarte a eSIM? DIGI tiene un truco clave que nadie conoce
+DIGI se despide de las tarjetas SIM para móviles con ranura física, ahora apuestan por las eSIM con un proceso de activación cada vez más sencillo.
+https://computerhoy.20minutos.es/moviles/miedo-perder-cobertura-pasarte-esim-digi-tiene-truco-clave-nadie-conoce-1487941
+🗓️ 2025-10-24 • 🏷️ computerhoy.20minutos.es
