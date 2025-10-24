@@ -1339,3 +1339,9 @@ https://hipertextual.com/tecnologia/nike-project-amplify-zapatillas-motorizadas/
 DIGI se despide de las tarjetas SIM para móviles con ranura física, ahora apuestan por las eSIM con un proceso de activación cada vez más sencillo.
 https://computerhoy.20minutos.es/moviles/miedo-perder-cobertura-pasarte-esim-digi-tiene-truco-clave-nadie-conoce-1487941
 🗓️ 2025-10-24 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-24T19:15:58.037Z
+📰 Tu WiFi te está viendo: puede identificarte aunque no lleves móvil ni ordenador
+Un conjunto de investigadores ha revelado que las redes WiFi pueden llegar a identificar personas sin necesidad de teléfonos ni cámaras, planteando así preocupaciones sobre la privacidad y la vigilancia encubierta.
+https://computerhoy.20minutos.es/ciberseguridad/wifi-te-viendo-puede-identificarte-aunque-no-lleves-movil-ni-ordenador-1487998
+🗓️ 2025-10-24 • 🏷️ computerhoy.20minutos.es
