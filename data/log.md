@@ -1160,3 +1160,19 @@ https://hipertextual.com/tecnologia/amazon-gafas-inteligentes-ia-repartidores/
 🗓️ 2025-10-22 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-24
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Nike crea unas zapatillas con motor que te hacen correr más rápido
+Nike ha anunciado unas nuevas zapatillas que te ayudarán a caminar y correr más rápido y con menos esfuerzo. Conocido como Project Amplify, este sistema consiste en una zapatilla conectada a un brazalete a través de un brazo robótico. El br…
+https://hipertextual.com/tecnologia/nike-project-amplify-zapatillas-motorizadas/
+🗓️ 2025-10-23 • 🏷️ hipertextual.com
+
+---

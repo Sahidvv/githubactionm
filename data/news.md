@@ -1327,3 +1327,9 @@ https://hipertextual.com/economia-empresas/apple-amazon-candidatas-comprar-catal
 Paramount Network dejará de emitirse en la TDT española el 31 de diciembre de 2025 tras 13 años. La frecuencia seguirá en manos del Grupo Squirrel, que analiza nuevas opciones televisivas.
 https://computerhoy.20minutos.es/entretenimiento/adios-paramount-network-mitico-canal-desaparece-tdt-13-anos-emisiones-1487906
 🗓️ 2025-10-23 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-24T02:22:14.394Z
+📰 Nike crea unas zapatillas con motor que te hacen correr más rápido
+Nike ha anunciado unas nuevas zapatillas que te ayudarán a caminar y correr más rápido y con menos esfuerzo. Conocido como Project Amplify, este sistema consiste en una zapatilla conectada a un brazalete a través de un brazo robótico. El br…
+https://hipertextual.com/tecnologia/nike-project-amplify-zapatillas-motorizadas/
+🗓️ 2025-10-23 • 🏷️ hipertextual.com
