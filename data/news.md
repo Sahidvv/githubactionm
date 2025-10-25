@@ -1351,3 +1351,9 @@ https://computerhoy.20minutos.es/ciberseguridad/wifi-te-viendo-puede-identificar
 El iPhone más delgado de Apple no ha tenido el éxito esperado y, según fuentes cercanas, su producción se habría reducido hasta un 90 %, lo que sugiere que su final podría estar cerca.
 https://computerhoy.20minutos.es/moviles/apple-abandona-iphone-air-mes-despues-lanzamiento-ya-produce-niveles-fin-ciclo-1488006
 🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-25T13:22:46.720Z
+📰 Un iPad que es casi un portátil: el Air con M3 cuesta 50 euros menos de forma temporal
+El iPad Air M3 demuestra que la línea Air es más que un simple paso intermedio entre el modelo base y el Pro. Con esta oferta, se vuelve aún más tentador.
+https://computerhoy.20minutos.es/recomendados/ipad-casi-portatil-air-m3-cuesta-50-euros-menos-forma-temporal-1488022
+🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
