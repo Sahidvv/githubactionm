@@ -1357,3 +1357,9 @@ https://computerhoy.20minutos.es/moviles/apple-abandona-iphone-air-mes-despues-l
 El iPad Air M3 demuestra que la línea Air es más que un simple paso intermedio entre el modelo base y el Pro. Con esta oferta, se vuelve aún más tentador.
 https://computerhoy.20minutos.es/recomendados/ipad-casi-portatil-air-m3-cuesta-50-euros-menos-forma-temporal-1488022
 🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-25T19:14:16.933Z
+📰 Apple podría dar el salto a los 12 GB de RAM con el iPhone 18 base en 2026
+Apple podría equipar al iPhone 18 con 12 GB de RAM, un aumento impulsado por la llegada de nuevas funciones basadas en IA y por el salto tecnológico que la compañía prepara para Siri.
+https://computerhoy.20minutos.es/moviles/apple-podria-dar-salto-12-gb-ram-iphone-18-base-2026-1488048
+🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
