@@ -1176,3 +1176,19 @@ https://hipertextual.com/tecnologia/nike-project-amplify-zapatillas-motorizadas/
 🗓️ 2025-10-23 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-25
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Apple "abandona" el iPhone Air un mes después de su lanzamiento: ya se produce a niveles de fin de ciclo
+El iPhone más delgado de Apple no ha tenido el éxito esperado y, según fuentes cercanas, su producción se habría reducido hasta un 90 %, lo que sugiere que su final podría estar cerca.
+https://computerhoy.20minutos.es/moviles/apple-abandona-iphone-air-mes-despues-lanzamiento-ya-produce-niveles-fin-ciclo-1488006
+🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
+
+---

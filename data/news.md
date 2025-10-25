@@ -1345,3 +1345,9 @@ https://computerhoy.20minutos.es/moviles/miedo-perder-cobertura-pasarte-esim-dig
 Un conjunto de investigadores ha revelado que las redes WiFi pueden llegar a identificar personas sin necesidad de teléfonos ni cámaras, planteando así preocupaciones sobre la privacidad y la vigilancia encubierta.
 https://computerhoy.20minutos.es/ciberseguridad/wifi-te-viendo-puede-identificarte-aunque-no-lleves-movil-ni-ordenador-1487998
 🗓️ 2025-10-24 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-25T02:23:42.700Z
+📰 Apple "abandona" el iPhone Air un mes después de su lanzamiento: ya se produce a niveles de fin de ciclo
+El iPhone más delgado de Apple no ha tenido el éxito esperado y, según fuentes cercanas, su producción se habría reducido hasta un 90 %, lo que sugiere que su final podría estar cerca.
+https://computerhoy.20minutos.es/moviles/apple-abandona-iphone-air-mes-despues-lanzamiento-ya-produce-niveles-fin-ciclo-1488006
+🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
