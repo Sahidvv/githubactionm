@@ -1375,3 +1375,9 @@ https://computerhoy.20minutos.es/tecnologia/chrome-ahora-te-deja-abrir-modo-ia-g
 Solo el 12 % de los usuarios usa la tecla Bloq Mayús, ya que Shift hace lo mismo y ofrece más funciones. Incluso Google la eliminó por completo de los teclados de sus Chromebooks.
 https://computerhoy.20minutos.es/tecnologia/microsoft-apple-siguen-empenando-mantener-tecla-bloq-mayus-teclados-1486744
 🗓️ 2025-10-26 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-26T19:14:40.183Z
+📰 Apple prepara anuncios en Maps para 2026
+Apple lleva años cultivando una imagen de ecosistema limpio, controlado y ajeno a las estrategias de monetización agresivas que dominan buena parte del mercado digital. Para muchos usuarios, ese ha sido precisamente uno de los mayores atrac…
+https://www.muycomputer.com/2025/10/26/apple-prepara-anuncios-en-maps-para-2026/
+🗓️ 2025-10-26 • 🏷️ muycomputer.com
