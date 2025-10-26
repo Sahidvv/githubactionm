@@ -1192,3 +1192,19 @@ https://computerhoy.20minutos.es/moviles/apple-abandona-iphone-air-mes-despues-l
 🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-26
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Chrome ahora te deja abrir el modo IA de Google e Incógnito con un solo toque
+Chrome para iOS y Android ahora permite iniciar Modo IA y Modo Incógnito con un solo toque, ofreciendo mayor comodidad, rapidez y control a los usuarios mientras navegan.
+https://computerhoy.20minutos.es/tecnologia/chrome-ahora-te-deja-abrir-modo-ia-google-incognito-solo-toque-1488047
+🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
+
+---

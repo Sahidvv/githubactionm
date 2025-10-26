@@ -1363,3 +1363,9 @@ https://computerhoy.20minutos.es/recomendados/ipad-casi-portatil-air-m3-cuesta-5
 Apple podría equipar al iPhone 18 con 12 GB de RAM, un aumento impulsado por la llegada de nuevas funciones basadas en IA y por el salto tecnológico que la compañía prepara para Siri.
 https://computerhoy.20minutos.es/moviles/apple-podria-dar-salto-12-gb-ram-iphone-18-base-2026-1488048
 🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-26T02:41:15.271Z
+📰 Chrome ahora te deja abrir el modo IA de Google e Incógnito con un solo toque
+Chrome para iOS y Android ahora permite iniciar Modo IA y Modo Incógnito con un solo toque, ofreciendo mayor comodidad, rapidez y control a los usuarios mientras navegan.
+https://computerhoy.20minutos.es/tecnologia/chrome-ahora-te-deja-abrir-modo-ia-google-incognito-solo-toque-1488047
+🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
