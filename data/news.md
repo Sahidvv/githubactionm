@@ -1369,3 +1369,9 @@ https://computerhoy.20minutos.es/moviles/apple-podria-dar-salto-12-gb-ram-iphone
 Chrome para iOS y Android ahora permite iniciar Modo IA y Modo Incógnito con un solo toque, ofreciendo mayor comodidad, rapidez y control a los usuarios mientras navegan.
 https://computerhoy.20minutos.es/tecnologia/chrome-ahora-te-deja-abrir-modo-ia-google-incognito-solo-toque-1488047
 🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-26T13:23:24.984Z
+📰 ¿Por qué Microsoft y Apple se siguen empeñando en mantener la tecla "Bloq Mayús" en los teclados?
+Solo el 12 % de los usuarios usa la tecla Bloq Mayús, ya que Shift hace lo mismo y ofrece más funciones. Incluso Google la eliminó por completo de los teclados de sus Chromebooks.
+https://computerhoy.20minutos.es/tecnologia/microsoft-apple-siguen-empenando-mantener-tecla-bloq-mayus-teclados-1486744
+🗓️ 2025-10-26 • 🏷️ computerhoy.20minutos.es
