@@ -1381,3 +1381,9 @@ https://computerhoy.20minutos.es/tecnologia/microsoft-apple-siguen-empenando-man
 Apple lleva años cultivando una imagen de ecosistema limpio, controlado y ajeno a las estrategias de monetización agresivas que dominan buena parte del mercado digital. Para muchos usuarios, ese ha sido precisamente uno de los mayores atrac…
 https://www.muycomputer.com/2025/10/26/apple-prepara-anuncios-en-maps-para-2026/
 🗓️ 2025-10-26 • 🏷️ muycomputer.com
+
+### 2025-10-27T02:48:45.521Z
+📰 Ocho policías esposan a un adolescente, a punta de pistola, porque una IA confundió una bolsa de Doritos con un arma
+La obsesión con usar una IA de primera generación, propensa a los fallos, en tareas críticas, puede llevar a situaciones absurdas y traumáticas.
+https://computerhoy.20minutos.es/tecnologia/ocho-policias-esposan-adolescente-punta-pistola-ia-confundio-bolsa-doritos-arma-1488076
+🗓️ 2025-10-26 • 🏷️ computerhoy.20minutos.es

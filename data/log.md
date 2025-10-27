@@ -1208,3 +1208,19 @@ https://computerhoy.20minutos.es/tecnologia/chrome-ahora-te-deja-abrir-modo-ia-g
 🗓️ 2025-10-25 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-27
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Ocho policías esposan a un adolescente, a punta de pistola, porque una IA confundió una bolsa de Doritos con un arma
+La obsesión con usar una IA de primera generación, propensa a los fallos, en tareas críticas, puede llevar a situaciones absurdas y traumáticas.
+https://computerhoy.20minutos.es/tecnologia/ocho-policias-esposan-adolescente-punta-pistola-ia-confundio-bolsa-doritos-arma-1488076
+🗓️ 2025-10-26 • 🏷️ computerhoy.20minutos.es
+
+---
