@@ -1387,3 +1387,9 @@ https://www.muycomputer.com/2025/10/26/apple-prepara-anuncios-en-maps-para-2026/
 La obsesión con usar una IA de primera generación, propensa a los fallos, en tareas críticas, puede llevar a situaciones absurdas y traumáticas.
 https://computerhoy.20minutos.es/tecnologia/ocho-policias-esposan-adolescente-punta-pistola-ia-confundio-bolsa-doritos-arma-1488076
 🗓️ 2025-10-26 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-27T13:31:51.007Z
+📰 ARMSX2 lanza su versión 1.0 y promete emular juegos de PlayStation 2 en Android
+Si eres un fanático de lo vintage y los videojuegos clásicos, estás de enhorabuena. Llega la versión 1.0 de ARMSX2, el emulador de PlayStation 2 para Android.
+https://computerhoy.20minutos.es/tecnologia/armsx2-lanza-version-10-promete-emular-juegos-playstation-2-android-1488116
+🗓️ 2025-10-27 • 🏷️ computerhoy.20minutos.es
