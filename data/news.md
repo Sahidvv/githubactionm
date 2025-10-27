@@ -1393,3 +1393,9 @@ https://computerhoy.20minutos.es/tecnologia/ocho-policias-esposan-adolescente-pu
 Si eres un fanático de lo vintage y los videojuegos clásicos, estás de enhorabuena. Llega la versión 1.0 de ARMSX2, el emulador de PlayStation 2 para Android.
 https://computerhoy.20minutos.es/tecnologia/armsx2-lanza-version-10-promete-emular-juegos-playstation-2-android-1488116
 🗓️ 2025-10-27 • 🏷️ computerhoy.20minutos.es
+
+### 2025-10-27T19:16:00.693Z
+📰 Tiembla Samsung: Sony prepara un potente sensor que podría redefinir la fotografía móvil
+A unas semanas de que Samsung anunciara su nuevo sensor ISOCELL, un rumor deja entrever que enfrentará a un duro competidor. Sony prepara su primer sensor de 200 MP para cámaras de móviles. Aunque la japonesa no ha hecho oficial la revelaci…
+https://hipertextual.com/mobile/tiembla-samsung-sony-prepara-un-potente-sensor-que-podria-redefinir-la-fotografia-movil/
+🗓️ 2025-10-27 • 🏷️ hipertextual.com
