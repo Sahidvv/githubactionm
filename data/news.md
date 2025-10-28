@@ -1399,3 +1399,9 @@ https://computerhoy.20minutos.es/tecnologia/armsx2-lanza-version-10-promete-emul
 A unas semanas de que Samsung anunciara su nuevo sensor ISOCELL, un rumor deja entrever que enfrentará a un duro competidor. Sony prepara su primer sensor de 200 MP para cámaras de móviles. Aunque la japonesa no ha hecho oficial la revelaci…
 https://hipertextual.com/mobile/tiembla-samsung-sony-prepara-un-potente-sensor-que-podria-redefinir-la-fotografia-movil/
 🗓️ 2025-10-27 • 🏷️ hipertextual.com
+
+### 2025-10-28T02:27:06.506Z
+📰 Amazon se prepara para anunciar los mayores despidos de su historia
+Amazon planea despedir a 30.000 empleados corporativos de sus oficinas centrales. Un reporte afirma que la empresa se está preparando para anunciar una reducción de personal que ya es considerada como una de las mayores en la historia de la…
+https://hipertextual.com/economia-empresas/amazon-despidos-inteligencia-artificial/
+🗓️ 2025-10-27 • 🏷️ hipertextual.com

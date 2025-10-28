@@ -1224,3 +1224,19 @@ https://computerhoy.20minutos.es/tecnologia/ocho-policias-esposan-adolescente-pu
 🗓️ 2025-10-26 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-10-28
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Amazon se prepara para anunciar los mayores despidos de su historia
+Amazon planea despedir a 30.000 empleados corporativos de sus oficinas centrales. Un reporte afirma que la empresa se está preparando para anunciar una reducción de personal que ya es considerada como una de las mayores en la historia de la…
+https://hipertextual.com/economia-empresas/amazon-despidos-inteligencia-artificial/
+🗓️ 2025-10-27 • 🏷️ hipertextual.com
+
+---
