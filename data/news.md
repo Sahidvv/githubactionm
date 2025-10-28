@@ -1405,3 +1405,9 @@ https://hipertextual.com/mobile/tiembla-samsung-sony-prepara-un-potente-sensor-q
 Amazon planea despedir a 30.000 empleados corporativos de sus oficinas centrales. Un reporte afirma que la empresa se está preparando para anunciar una reducción de personal que ya es considerada como una de las mayores en la historia de la…
 https://hipertextual.com/economia-empresas/amazon-despidos-inteligencia-artificial/
 🗓️ 2025-10-27 • 🏷️ hipertextual.com
+
+### 2025-10-28T13:30:48.468Z
+📰 &#8216;One Piece&#8217; anuncia por fin la fecha de estreno de la temporada 2 del live-action en Netflix
+Netflix ha anunciado por fin la fecha de estreno de la temporada 2 del live-action de One Piece. Tras muchos meses esperando, la plataforma al fin ha dado a conocer el día definitivo en el que los fans se reencontrarán con la versión en ima…
+https://hipertextual.com/cine-television/one-piece-live-action-fecha-estreno-temporada-2/
+🗓️ 2025-10-28 • 🏷️ hipertextual.com
