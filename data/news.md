@@ -1411,3 +1411,9 @@ https://hipertextual.com/economia-empresas/amazon-despidos-inteligencia-artifici
 Netflix ha anunciado por fin la fecha de estreno de la temporada 2 del live-action de One Piece. Tras muchos meses esperando, la plataforma al fin ha dado a conocer el día definitivo en el que los fans se reencontrarán con la versión en ima…
 https://hipertextual.com/cine-television/one-piece-live-action-fecha-estreno-temporada-2/
 🗓️ 2025-10-28 • 🏷️ hipertextual.com
+
+### 2025-10-28T19:16:08.035Z
+📰 Motorola patenta un móvil que se convierte en reloj inteligente
+Motorola está interesada en fabricar un smartphone que puede transformarse en un reloj inteligente para ajustarse a tu muñeca. La patente más reciente de la compañía muestra un dispositivo con pantalla flexible que puede utilizarse como un …
+https://hipertextual.com/mobile/motorola-patenta-movil-flexible-reloj-inteligente/
+🗓️ 2025-10-28 • 🏷️ hipertextual.com
