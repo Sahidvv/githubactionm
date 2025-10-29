@@ -1429,3 +1429,9 @@ https://hipertextual.com/apple/apple-ipad-mini-macbook-air-pantallas-oled-2026/
 Apenas varios meses después de presentar su buque insignia, Nothing, la marca creada por uno de los fundadores de OnePlus, ha ampliado su catálogo de smartphones con un nuevo integrante mucho más barato pero igual de interesante. La compañí…
 https://hipertextual.com/mobile/nothing-phone-3a-lite-caracteristicas-precio-opiniones/
 🗓️ 2025-10-29 • 🏷️ hipertextual.com
+
+### 2025-10-29T19:15:41.506Z
+📰 No eres solo tú: una caída de Azure provoca fallos en Xbox, Microsoft 365 y más
+Si tienes problemas para acceder a Xbox, Microsoft 365 o incluso Minecraft, no estás solo. Azure ha sufrido una caída que está provocando fallos en múltiples servicios de Microsoft a nivel global. Según ha publicado la firma de Redmond, la …
+https://hipertextual.com/internet/caida-azure-provoca-fallos-xbox-microsoft-365-mas/
+🗓️ 2025-10-29 • 🏷️ hipertextual.com
