@@ -1423,3 +1423,9 @@ https://hipertextual.com/mobile/motorola-patenta-movil-flexible-reloj-inteligent
 Tras meses de rumores y especulaciones, Apple está lista para actualizar la pantalla de la MacBook Air y los iPad. Un nuevo rumor afirma que la compañía ya prueba paneles OLED en las próximas versiones del iPad Air, iPad mini y MacBook Air.…
 https://hipertextual.com/apple/apple-ipad-mini-macbook-air-pantallas-oled-2026/
 🗓️ 2025-10-28 • 🏷️ hipertextual.com
+
+### 2025-10-29T13:32:55.102Z
+📰 Nothing lanza un clon de su móvil más potente por 560 euros menos (pero tiene sacrificios)
+Apenas varios meses después de presentar su buque insignia, Nothing, la marca creada por uno de los fundadores de OnePlus, ha ampliado su catálogo de smartphones con un nuevo integrante mucho más barato pero igual de interesante. La compañí…
+https://hipertextual.com/mobile/nothing-phone-3a-lite-caracteristicas-precio-opiniones/
+🗓️ 2025-10-29 • 🏷️ hipertextual.com
