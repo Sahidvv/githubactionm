@@ -1417,3 +1417,9 @@ https://hipertextual.com/cine-television/one-piece-live-action-fecha-estreno-tem
 Motorola está interesada en fabricar un smartphone que puede transformarse en un reloj inteligente para ajustarse a tu muñeca. La patente más reciente de la compañía muestra un dispositivo con pantalla flexible que puede utilizarse como un …
 https://hipertextual.com/mobile/motorola-patenta-movil-flexible-reloj-inteligente/
 🗓️ 2025-10-28 • 🏷️ hipertextual.com
+
+### 2025-10-29T02:44:54.336Z
+📰 Apple prepara el salto definitivo: iPad mini y MacBook Air estrenarán pantallas OLED
+Tras meses de rumores y especulaciones, Apple está lista para actualizar la pantalla de la MacBook Air y los iPad. Un nuevo rumor afirma que la compañía ya prueba paneles OLED en las próximas versiones del iPad Air, iPad mini y MacBook Air.…
+https://hipertextual.com/apple/apple-ipad-mini-macbook-air-pantallas-oled-2026/
+🗓️ 2025-10-28 • 🏷️ hipertextual.com

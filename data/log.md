@@ -1240,3 +1240,19 @@ https://hipertextual.com/economia-empresas/amazon-despidos-inteligencia-artifici
 🗓️ 2025-10-27 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-29
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Apple prepara el salto definitivo: iPad mini y MacBook Air estrenarán pantallas OLED
+Tras meses de rumores y especulaciones, Apple está lista para actualizar la pantalla de la MacBook Air y los iPad. Un nuevo rumor afirma que la compañía ya prueba paneles OLED en las próximas versiones del iPad Air, iPad mini y MacBook Air.…
+https://hipertextual.com/apple/apple-ipad-mini-macbook-air-pantallas-oled-2026/
+🗓️ 2025-10-28 • 🏷️ hipertextual.com
+
+---
