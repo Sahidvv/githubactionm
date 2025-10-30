@@ -1441,3 +1441,9 @@ https://hipertextual.com/internet/caida-azure-provoca-fallos-xbox-microsoft-365-
 Motorola ha presentado dos nuevos móviles enfocados a la gama media y de entrada en México. A unos días de debutar en España, el Motorola Edge 60 Neo se prepara para su arribo a México y no llega solo. El fabricante también confirmó que el …
 https://hipertextual.com/mobile/motorola-edge-60-neo-moto-g06-caracteristicas-precio-mexico/
 🗓️ 2025-10-30 • 🏷️ hipertextual.com
+
+### 2025-10-30T13:30:49.130Z
+📰 &#8216;The Witcher&#8217;, cuarta temporada, crítica: una historia sin espíritu ni futuro
+The Witcher, jamás ha sido la producción más exitosa de Netflix. Pero aun así, ha sido el origen de un discreto universo en expansión que ya cuenta con un spin-off, una precuela y un animado. No obstante, la historia jamás ha sido lo sufici…
+https://hipertextual.com/cine-television/the-witcher-cuarta-temporada-critica-una-historia-sin-espiritu-ni-futuro/
+🗓️ 2025-10-30 • 🏷️ hipertextual.com
