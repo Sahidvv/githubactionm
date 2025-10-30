@@ -1256,3 +1256,19 @@ https://hipertextual.com/apple/apple-ipad-mini-macbook-air-pantallas-oled-2026/
 🗓️ 2025-10-28 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-30
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Motorola presenta sus nuevos Motorola Edge 60 Neo y moto g06: buenas cámaras y autonomía brutal
+Motorola ha presentado dos nuevos móviles enfocados a la gama media y de entrada en México. A unos días de debutar en España, el Motorola Edge 60 Neo se prepara para su arribo a México y no llega solo. El fabricante también confirmó que el …
+https://hipertextual.com/mobile/motorola-edge-60-neo-moto-g06-caracteristicas-precio-mexico/
+🗓️ 2025-10-30 • 🏷️ hipertextual.com
+
+---

@@ -1435,3 +1435,9 @@ https://hipertextual.com/mobile/nothing-phone-3a-lite-caracteristicas-precio-opi
 Si tienes problemas para acceder a Xbox, Microsoft 365 o incluso Minecraft, no estás solo. Azure ha sufrido una caída que está provocando fallos en múltiples servicios de Microsoft a nivel global. Según ha publicado la firma de Redmond, la …
 https://hipertextual.com/internet/caida-azure-provoca-fallos-xbox-microsoft-365-mas/
 🗓️ 2025-10-29 • 🏷️ hipertextual.com
+
+### 2025-10-30T02:41:48.174Z
+📰 Motorola presenta sus nuevos Motorola Edge 60 Neo y moto g06: buenas cámaras y autonomía brutal
+Motorola ha presentado dos nuevos móviles enfocados a la gama media y de entrada en México. A unos días de debutar en España, el Motorola Edge 60 Neo se prepara para su arribo a México y no llega solo. El fabricante también confirmó que el …
+https://hipertextual.com/mobile/motorola-edge-60-neo-moto-g06-caracteristicas-precio-mexico/
+🗓️ 2025-10-30 • 🏷️ hipertextual.com
