@@ -1447,3 +1447,9 @@ https://hipertextual.com/mobile/motorola-edge-60-neo-moto-g06-caracteristicas-pr
 The Witcher, jamás ha sido la producción más exitosa de Netflix. Pero aun así, ha sido el origen de un discreto universo en expansión que ya cuenta con un spin-off, una precuela y un animado. No obstante, la historia jamás ha sido lo sufici…
 https://hipertextual.com/cine-television/the-witcher-cuarta-temporada-critica-una-historia-sin-espiritu-ni-futuro/
 🗓️ 2025-10-30 • 🏷️ hipertextual.com
+
+### 2025-10-30T19:15:54.679Z
+📰 Del rancho a la guerra: el creador de &#8216;Yellowstone&#8217; se encargará de la película de &#8216;Call of Duty&#8217;
+A unos días de que anunciara su salida de Paramount, el creador de Yellowstone tiene un último proyecto para cerrar con broche de oro. Taylor Sheridan estará a cargo de la película de Call of Duty. Según los reportes, el responsable de algu…
+https://hipertextual.com/cine-television/taylor-sheridan-pelicula-call-of-duty-paramount/
+🗓️ 2025-10-30 • 🏷️ hipertextual.com
