@@ -1465,3 +1465,9 @@ https://hipertextual.com/apple/apple-intelligence-integrara-ia-gemini-perplexity
 Netflix acaba de estrenar el tráiler final de Frankenstein, la esperadísima película de Guillermo del Toro. La cinta se estrenó en cines seleccionados hace ya varios días y todavía puede disfrutarse en la pantalla grande, tal y como fue con…
 https://hipertextual.com/cine-television/trailer-final-frankenstein-de-guillermo-del-toro-netflix/
 🗓️ 2025-10-31 • 🏷️ hipertextual.com
+
+### 2025-10-31T19:14:53.413Z
+📰 Windows 11 la lía: cerrar el Administrador lo multiplica
+Si hay una herramienta sagrada para cualquier usuario de Windows, desde el más casual hasta el técnico más curtido, es el Administrador de tareas. Ese oasis al que acudimos cuando todo falla, cuando una app se congela o cuando necesitamos m…
+https://www.muycomputer.com/2025/10/31/windows-11-la-lia-cerrar-el-administrador-lo-multiplica/
+🗓️ 2025-10-31 • 🏷️ muycomputer.com
