@@ -1272,3 +1272,19 @@ https://hipertextual.com/mobile/motorola-edge-60-neo-moto-g06-caracteristicas-pr
 🗓️ 2025-10-30 • 🏷️ hipertextual.com
 
 ---
+## 2025-10-31
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Apple se prepara para añadir otras IA a Apple Intelligence
+Apple está considerando añadir otros modelos de lenguaje para impulsar la nueva Siri con Apple Intelligence. Tras sufrir un tropiezo que derivó en una reestructuración interna de todo el equipo de Siri, los de Cupertino han buscado alternat…
+https://hipertextual.com/apple/apple-intelligence-integrara-ia-gemini-perplexity-siri/
+🗓️ 2025-10-31 • 🏷️ hipertextual.com
+
+---

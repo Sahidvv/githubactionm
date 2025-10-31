@@ -1453,3 +1453,9 @@ https://hipertextual.com/cine-television/the-witcher-cuarta-temporada-critica-un
 A unos días de que anunciara su salida de Paramount, el creador de Yellowstone tiene un último proyecto para cerrar con broche de oro. Taylor Sheridan estará a cargo de la película de Call of Duty. Según los reportes, el responsable de algu…
 https://hipertextual.com/cine-television/taylor-sheridan-pelicula-call-of-duty-paramount/
 🗓️ 2025-10-30 • 🏷️ hipertextual.com
+
+### 2025-10-31T02:40:28.497Z
+📰 Apple se prepara para añadir otras IA a Apple Intelligence
+Apple está considerando añadir otros modelos de lenguaje para impulsar la nueva Siri con Apple Intelligence. Tras sufrir un tropiezo que derivó en una reestructuración interna de todo el equipo de Siri, los de Cupertino han buscado alternat…
+https://hipertextual.com/apple/apple-intelligence-integrara-ia-gemini-perplexity-siri/
+🗓️ 2025-10-31 • 🏷️ hipertextual.com
