@@ -1459,3 +1459,9 @@ https://hipertextual.com/cine-television/taylor-sheridan-pelicula-call-of-duty-p
 Apple está considerando añadir otros modelos de lenguaje para impulsar la nueva Siri con Apple Intelligence. Tras sufrir un tropiezo que derivó en una reestructuración interna de todo el equipo de Siri, los de Cupertino han buscado alternat…
 https://hipertextual.com/apple/apple-intelligence-integrara-ia-gemini-perplexity-siri/
 🗓️ 2025-10-31 • 🏷️ hipertextual.com
+
+### 2025-10-31T13:30:18.043Z
+📰 Mira el espectacular tráiler final de &#8216;Frankenstein&#8217; de Guillermo del Toro para Netflix
+Netflix acaba de estrenar el tráiler final de Frankenstein, la esperadísima película de Guillermo del Toro. La cinta se estrenó en cines seleccionados hace ya varios días y todavía puede disfrutarse en la pantalla grande, tal y como fue con…
+https://hipertextual.com/cine-television/trailer-final-frankenstein-de-guillermo-del-toro-netflix/
+🗓️ 2025-10-31 • 🏷️ hipertextual.com
