@@ -1477,3 +1477,9 @@ https://www.muycomputer.com/2025/10/31/windows-11-la-lia-cerrar-el-administrador
 Adobe ha invertido todas sus fichas en la IA. La compañía dejó claro que esta tecnología será pieza fundamental en el futuro de sus aplicaciones, las cuales recibieron funciones que mejoran la edición de imágenes y videos con ayuda de Firef…
 https://hipertextual.com/inteligencia-artificial/adobe-project-frame-forward-edicion-video-ia/
 🗓️ 2025-10-31 • 🏷️ hipertextual.com
+
+### 2025-11-01T13:23:22.869Z
+📰 Adiós a las memorias USB y pendrives, ya son oficialmente reliquias del pasado
+Durante años, las memorias USB fueron la forma más fácil de mover documentos, fotos o vídeos. Hoy su uso ha caído en picado debido a que existen métodos más rápidos, seguros y cómodos.
+https://computerhoy.20minutos.es/dispositivos/adios-las-memorias-usb-pendrives-ya-son-oficialmente-reliquias-pasado_6661611_0.html
+🗓️ 2025-11-01 • 🏷️ computerhoy.20minutos.es
