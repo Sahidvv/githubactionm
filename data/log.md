@@ -1288,3 +1288,19 @@ https://hipertextual.com/apple/apple-intelligence-integrara-ia-gemini-perplexity
 🗓️ 2025-10-31 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-01
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Esta IA de Adobe permite editar un video completo a partir de un fotograma
+Adobe ha invertido todas sus fichas en la IA. La compañía dejó claro que esta tecnología será pieza fundamental en el futuro de sus aplicaciones, las cuales recibieron funciones que mejoran la edición de imágenes y videos con ayuda de Firef…
+https://hipertextual.com/inteligencia-artificial/adobe-project-frame-forward-edicion-video-ia/
+🗓️ 2025-10-31 • 🏷️ hipertextual.com
+
+---

@@ -1471,3 +1471,9 @@ https://hipertextual.com/cine-television/trailer-final-frankenstein-de-guillermo
 Si hay una herramienta sagrada para cualquier usuario de Windows, desde el más casual hasta el técnico más curtido, es el Administrador de tareas. Ese oasis al que acudimos cuando todo falla, cuando una app se congela o cuando necesitamos m…
 https://www.muycomputer.com/2025/10/31/windows-11-la-lia-cerrar-el-administrador-lo-multiplica/
 🗓️ 2025-10-31 • 🏷️ muycomputer.com
+
+### 2025-11-01T02:41:54.010Z
+📰 Esta IA de Adobe permite editar un video completo a partir de un fotograma
+Adobe ha invertido todas sus fichas en la IA. La compañía dejó claro que esta tecnología será pieza fundamental en el futuro de sus aplicaciones, las cuales recibieron funciones que mejoran la edición de imágenes y videos con ayuda de Firef…
+https://hipertextual.com/inteligencia-artificial/adobe-project-frame-forward-edicion-video-ia/
+🗓️ 2025-10-31 • 🏷️ hipertextual.com
