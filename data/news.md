@@ -1483,3 +1483,9 @@ https://hipertextual.com/inteligencia-artificial/adobe-project-frame-forward-edi
 Durante años, las memorias USB fueron la forma más fácil de mover documentos, fotos o vídeos. Hoy su uso ha caído en picado debido a que existen métodos más rápidos, seguros y cómodos.
 https://computerhoy.20minutos.es/dispositivos/adios-las-memorias-usb-pendrives-ya-son-oficialmente-reliquias-pasado_6661611_0.html
 🗓️ 2025-11-01 • 🏷️ computerhoy.20minutos.es
+
+### 2025-11-01T19:13:25.318Z
+📰 5 curiosidades que debes saber de ‘It: Bienvenidos a Derry’
+It: Bienvenidos a Derry, la nueva serie de HBO Max disponible el 26 de octubre, regresa al universo de la icónica saga de terror. Pero lo hace desde una óptica por completo nueva. La de explorar lo ocurrido antes de que el grupo de perdedor…
+https://hipertextual.com/cine-television/5-curiosidades-que-debes-saber-de-it-bienvenidos-a-derry/
+🗓️ 2025-11-01 • 🏷️ hipertextual.com
