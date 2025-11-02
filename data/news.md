@@ -1495,3 +1495,9 @@ https://hipertextual.com/cine-television/5-curiosidades-que-debes-saber-de-it-bi
 El género de terror no para de crecer y sorprender. Y en esta década, además, se ha convertido en uno de los más rentables de Hollywood. Con productoras como Blumhouse, A24 y NEON, toda una nueva generación de directores ha tenido la oportu…
 https://hipertextual.com/tecnologia/las-10-peliculas-mas-terrorificas-segun-science-of-scare-project-y-donde-verlas/
 🗓️ 2025-11-01 • 🏷️ hipertextual.com
+
+### 2025-11-02T13:22:37.368Z
+📰 Trump Phone: ni está, ni se le espera
+Donald Trump tiene hoteles, vinos, filetes, agua embotellada… y, cómo no, también tenía que tener un móvil. El Trump Phone fue anunciado con toda la fanfarria posible: dorado, patriótico, con especificaciones que sonaban a ciencia ficción d…
+https://www.muycomputer.com/2025/11/02/trump-phone-ni-esta-ni-se-le-espera/
+🗓️ 2025-11-02 • 🏷️ muycomputer.com
