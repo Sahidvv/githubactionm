@@ -1501,3 +1501,9 @@ https://hipertextual.com/tecnologia/las-10-peliculas-mas-terrorificas-segun-scie
 Donald Trump tiene hoteles, vinos, filetes, agua embotellada… y, cómo no, también tenía que tener un móvil. El Trump Phone fue anunciado con toda la fanfarria posible: dorado, patriótico, con especificaciones que sonaban a ciencia ficción d…
 https://www.muycomputer.com/2025/11/02/trump-phone-ni-esta-ni-se-le-espera/
 🗓️ 2025-11-02 • 🏷️ muycomputer.com
+
+### 2025-11-02T19:13:41.401Z
+📰 No, la NASA no oculta información sobre 3I/ATLAS
+Estos días se habla mucho, y con razón, de 3I/ATLAS. Y como suele ocurrir en estas situaciones, en realidad gran parte de la «conversación» es interesantísima, pues está llena de información útil, análisis científicos de gran valor, debate …
+https://www.muycomputer.com/2025/11/02/no-la-nasa-no-oculta-informacion-sobre-3i-atlas/
+🗓️ 2025-11-02 • 🏷️ muycomputer.com
