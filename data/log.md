@@ -1304,3 +1304,19 @@ https://hipertextual.com/inteligencia-artificial/adobe-project-frame-forward-edi
 🗓️ 2025-10-31 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-02
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Las 10 películas más terroríficas según ‘Science of Scare Project’ y dónde verlas
+El género de terror no para de crecer y sorprender. Y en esta década, además, se ha convertido en uno de los más rentables de Hollywood. Con productoras como Blumhouse, A24 y NEON, toda una nueva generación de directores ha tenido la oportu…
+https://hipertextual.com/tecnologia/las-10-peliculas-mas-terrorificas-segun-science-of-scare-project-y-donde-verlas/
+🗓️ 2025-11-01 • 🏷️ hipertextual.com
+
+---

@@ -1489,3 +1489,9 @@ https://computerhoy.20minutos.es/dispositivos/adios-las-memorias-usb-pendrives-y
 It: Bienvenidos a Derry, la nueva serie de HBO Max disponible el 26 de octubre, regresa al universo de la icónica saga de terror. Pero lo hace desde una óptica por completo nueva. La de explorar lo ocurrido antes de que el grupo de perdedor…
 https://hipertextual.com/cine-television/5-curiosidades-que-debes-saber-de-it-bienvenidos-a-derry/
 🗓️ 2025-11-01 • 🏷️ hipertextual.com
+
+### 2025-11-02T02:45:19.196Z
+📰 Las 10 películas más terroríficas según ‘Science of Scare Project’ y dónde verlas
+El género de terror no para de crecer y sorprender. Y en esta década, además, se ha convertido en uno de los más rentables de Hollywood. Con productoras como Blumhouse, A24 y NEON, toda una nueva generación de directores ha tenido la oportu…
+https://hipertextual.com/tecnologia/las-10-peliculas-mas-terrorificas-segun-science-of-scare-project-y-donde-verlas/
+🗓️ 2025-11-01 • 🏷️ hipertextual.com
