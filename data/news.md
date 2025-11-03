@@ -1507,3 +1507,9 @@ https://www.muycomputer.com/2025/11/02/trump-phone-ni-esta-ni-se-le-espera/
 Estos días se habla mucho, y con razón, de 3I/ATLAS. Y como suele ocurrir en estas situaciones, en realidad gran parte de la «conversación» es interesantísima, pues está llena de información útil, análisis científicos de gran valor, debate …
 https://www.muycomputer.com/2025/11/02/no-la-nasa-no-oculta-informacion-sobre-3i-atlas/
 🗓️ 2025-11-02 • 🏷️ muycomputer.com
+
+### 2025-11-03T02:46:13.792Z
+📰 Las grandes tecnológicas de EEUU invierten 115.000 millones en I+D en 2025, más de la mitad del presupuesto de toda la UE
+Google, Apple, Meta, Amazon y Microsoft disparan sus inversiones en nuevas tecnologías para construir una nueva ventaja insuperable en el mercado de la inteligencia artificialLas siete magníficas, cada vez más lejos: por qué Europa no es ca…
+https://www.eldiario.es/tecnologia/grandes-tecnologicas-eeuu-invierten-115-000-millones-i-d-2025-mitad-presupuesto-ue_1_12730704.html
+🗓️ 2025-11-02 • 🏷️ eldiario.es

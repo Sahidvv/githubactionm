@@ -1320,3 +1320,19 @@ https://hipertextual.com/tecnologia/las-10-peliculas-mas-terrorificas-segun-scie
 🗓️ 2025-11-01 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-03
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Las grandes tecnológicas de EEUU invierten 115.000 millones en I+D en 2025, más de la mitad del presupuesto de toda la UE
+Google, Apple, Meta, Amazon y Microsoft disparan sus inversiones en nuevas tecnologías para construir una nueva ventaja insuperable en el mercado de la inteligencia artificialLas siete magníficas, cada vez más lejos: por qué Europa no es ca…
+https://www.eldiario.es/tecnologia/grandes-tecnologicas-eeuu-invierten-115-000-millones-i-d-2025-mitad-presupuesto-ue_1_12730704.html
+🗓️ 2025-11-02 • 🏷️ eldiario.es
+
+---
