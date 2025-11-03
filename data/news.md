@@ -1519,3 +1519,9 @@ https://www.eldiario.es/tecnologia/grandes-tecnologicas-eeuu-invierten-115-000-m
 Después de presentar el Edge 60 neo y a tan solo unos días de que llegue su móvil más esperado, y el que competirá contra el Galaxy S25 y el iPhone Air, Motorola ha presentado en China un modelo que también va a dar mucho de que hablar por …
 https://hipertextual.com/mobile/asi-es-el-motorola-moto-g100s-un-movil-con-una-bateria-bestial/
 🗓️ 2025-11-03 • 🏷️ hipertextual.com
+
+### 2025-11-03T19:15:51.625Z
+📰 Una filtración confirma el diseño del Galaxy S26 (y su posible retraso)
+El Galaxy S26 ha sido tendencia en las últimas horas y no por buenas razones. Algunos medios surcoreanos afirman que el próximo móvil de Samsung no se anunciará en enero debido a un cambio de último momento. Al parecer, el fabricante no est…
+https://hipertextual.com/mobile/galaxy-s26-pantalla-s26-plus-samsung/
+🗓️ 2025-11-03 • 🏷️ hipertextual.com
