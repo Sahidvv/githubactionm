@@ -1513,3 +1513,9 @@ https://www.muycomputer.com/2025/11/02/no-la-nasa-no-oculta-informacion-sobre-3i
 Google, Apple, Meta, Amazon y Microsoft disparan sus inversiones en nuevas tecnologías para construir una nueva ventaja insuperable en el mercado de la inteligencia artificialLas siete magníficas, cada vez más lejos: por qué Europa no es ca…
 https://www.eldiario.es/tecnologia/grandes-tecnologicas-eeuu-invierten-115-000-millones-i-d-2025-mitad-presupuesto-ue_1_12730704.html
 🗓️ 2025-11-02 • 🏷️ eldiario.es
+
+### 2025-11-03T13:30:56.908Z
+📰 Motorola presenta su móvil con más batería: dura hasta 3 días y tiene un precio de risa
+Después de presentar el Edge 60 neo y a tan solo unos días de que llegue su móvil más esperado, y el que competirá contra el Galaxy S25 y el iPhone Air, Motorola ha presentado en China un modelo que también va a dar mucho de que hablar por …
+https://hipertextual.com/mobile/asi-es-el-motorola-moto-g100s-un-movil-con-una-bateria-bestial/
+🗓️ 2025-11-03 • 🏷️ hipertextual.com
