@@ -1336,3 +1336,19 @@ https://www.eldiario.es/tecnologia/grandes-tecnologicas-eeuu-invierten-115-000-m
 🗓️ 2025-11-02 • 🏷️ eldiario.es
 
 ---
+## 2025-11-04
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Apple lanza iOS 26.1 con una opción para solucionar el mayor problema de Liquid Glass
+Apple lanzó iOS 26.1, la nueva actualización que resuelve los problemas ocasionados por Liquid Glass. Tal como se adelantó en la beta, esta versión incluye una opción para hacer más opaca la interfaz de usuario. Esta característica eliminar…
+https://hipertextual.com/apple/apple-actualizacion-ios-26-1-iphone-liquid-glass/
+🗓️ 2025-11-03 • 🏷️ hipertextual.com
+
+---

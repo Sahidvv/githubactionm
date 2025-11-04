@@ -1525,3 +1525,9 @@ https://hipertextual.com/mobile/asi-es-el-motorola-moto-g100s-un-movil-con-una-b
 El Galaxy S26 ha sido tendencia en las últimas horas y no por buenas razones. Algunos medios surcoreanos afirman que el próximo móvil de Samsung no se anunciará en enero debido a un cambio de último momento. Al parecer, el fabricante no est…
 https://hipertextual.com/mobile/galaxy-s26-pantalla-s26-plus-samsung/
 🗓️ 2025-11-03 • 🏷️ hipertextual.com
+
+### 2025-11-04T02:41:38.076Z
+📰 Apple lanza iOS 26.1 con una opción para solucionar el mayor problema de Liquid Glass
+Apple lanzó iOS 26.1, la nueva actualización que resuelve los problemas ocasionados por Liquid Glass. Tal como se adelantó en la beta, esta versión incluye una opción para hacer más opaca la interfaz de usuario. Esta característica eliminar…
+https://hipertextual.com/apple/apple-actualizacion-ios-26-1-iphone-liquid-glass/
+🗓️ 2025-11-03 • 🏷️ hipertextual.com
