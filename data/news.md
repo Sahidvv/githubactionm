@@ -1531,3 +1531,9 @@ https://hipertextual.com/mobile/galaxy-s26-pantalla-s26-plus-samsung/
 Apple lanzó iOS 26.1, la nueva actualización que resuelve los problemas ocasionados por Liquid Glass. Tal como se adelantó en la beta, esta versión incluye una opción para hacer más opaca la interfaz de usuario. Esta característica eliminar…
 https://hipertextual.com/apple/apple-actualizacion-ios-26-1-iphone-liquid-glass/
 🗓️ 2025-11-03 • 🏷️ hipertextual.com
+
+### 2025-11-04T13:33:52.361Z
+📰 Revelada la fecha de inicio de rodaje de &#8216;Avengers: Secret Wars&#8217;, que sería una de las películas más caras de la historia
+Avengers: Doomsday y Secret Wars apuntan a ser los eventos cinematográficos más importantes de esta década. Ambas películas también buscan llevar al Universo Cinematográfico de Marvel a su plena forma y para ello piensan valerse de varias h…
+https://hipertextual.com/cine-television/avengers-secret-wars-fecha-inicio-rodaje/
+🗓️ 2025-11-04 • 🏷️ hipertextual.com
