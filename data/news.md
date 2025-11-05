@@ -1555,3 +1555,9 @@ https://hipertextual.com/mobile/el-galaxy-s26-seria-tan-poderoso-como-la-nueva-m
 Hay un móvil Xiaomi que no me canso de recomendar desde que se lanzó hace unos meses. Es el POCO F7, un dispositivo ultracompleto, con buen diseño, una cámara decente y que destaca por ofrecer una las mejores relaciones precio-autonomía-ren…
 https://hipertextual.com/mobile/el-movil-xiaomi-que-mas-recomiendo-recibe-hyperos-3-este-mes-y-esta-a-precio-de-risa/
 🗓️ 2025-11-05 • 🏷️ hipertextual.com
+
+### 2025-11-05T19:16:51.723Z
+📰 Instagram y el PG-13: cuando una etiqueta no es solo una etiqueta
+Instagram ha convertido en costumbre lo que para otras plataformas aún es debate: su presencia constante en la vida de menores de edad. Cada decisión que toma respecto a esta audiencia parece encaminarse más hacia el marketing que hacia la …
+https://www.muycomputer.com/2025/11/05/instagram-y-el-pg-13-cuando-una-etiqueta-no-es-solo-una-etiqueta/
+🗓️ 2025-11-05 • 🏷️ muycomputer.com
