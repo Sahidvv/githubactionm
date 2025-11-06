@@ -1567,3 +1567,9 @@ https://www.muycomputer.com/2025/11/05/instagram-y-el-pg-13-cuando-una-etiqueta-
 Apple está por cerrar un acuerdo multimillonario con Google para reemplazar la IA de Siri por Gemini. Tras años de prueba y error, los de Cupertino tiraron la toalla y buscaron ayuda de un tercero para salir a flote en la carrera de la inte…
 https://hipertextual.com/apple/apple-siri-gemini-google-acuerdo-apple-intelligence/
 🗓️ 2025-11-05 • 🏷️ hipertextual.com
+
+### 2025-11-06T13:32:06.395Z
+📰 Esta combinación de alimentos es ideal para personas sedentarias
+El sedentarismo es uno de los grandes problemas del siglo XXI. Incluso si somos personas deportistas o activas, a veces es inevitable pasar mucho tiempo sentados. El trabajo de oficina o los viajes a menudos nos obligan a pasar muchísimas h…
+https://hipertextual.com/ciencia/cacao-arandanos-sedentarismo/
+🗓️ 2025-11-06 • 🏷️ hipertextual.com
