@@ -1573,3 +1573,9 @@ https://hipertextual.com/apple/apple-siri-gemini-google-acuerdo-apple-intelligen
 El sedentarismo es uno de los grandes problemas del siglo XXI. Incluso si somos personas deportistas o activas, a veces es inevitable pasar mucho tiempo sentados. El trabajo de oficina o los viajes a menudos nos obligan a pasar muchísimas h…
 https://hipertextual.com/ciencia/cacao-arandanos-sedentarismo/
 🗓️ 2025-11-06 • 🏷️ hipertextual.com
+
+### 2025-11-06T19:16:02.717Z
+📰 La carga del Samsung Galaxy S26 Ultra traerá una mejora muy esperada
+El Samsung Galaxy S26 Ultra traería una muy esperada mejora en la recarga de la batería. El próximo buque insignia de la marca coreana soportaría una carga rápida de hasta 60 vatios, en lugar de los 45 vatios disponibles en las últimas gene…
+https://hipertextual.com/mobile/la-carga-del-samsung-galaxy-s26-ultra-traera-una-mejora-muy-esperada/
+🗓️ 2025-11-06 • 🏷️ hipertextual.com
