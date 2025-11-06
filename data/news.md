@@ -1561,3 +1561,9 @@ https://hipertextual.com/mobile/el-movil-xiaomi-que-mas-recomiendo-recibe-hypero
 Instagram ha convertido en costumbre lo que para otras plataformas aún es debate: su presencia constante en la vida de menores de edad. Cada decisión que toma respecto a esta audiencia parece encaminarse más hacia el marketing que hacia la …
 https://www.muycomputer.com/2025/11/05/instagram-y-el-pg-13-cuando-una-etiqueta-no-es-solo-una-etiqueta/
 🗓️ 2025-11-05 • 🏷️ muycomputer.com
+
+### 2025-11-06T02:43:08.853Z
+📰 La nueva Siri impulsada por Gemini sería una bestia imparable
+Apple está por cerrar un acuerdo multimillonario con Google para reemplazar la IA de Siri por Gemini. Tras años de prueba y error, los de Cupertino tiraron la toalla y buscaron ayuda de un tercero para salir a flote en la carrera de la inte…
+https://hipertextual.com/apple/apple-siri-gemini-google-acuerdo-apple-intelligence/
+🗓️ 2025-11-05 • 🏷️ hipertextual.com

@@ -1368,3 +1368,19 @@ https://hipertextual.com/mobile/el-galaxy-s26-seria-tan-poderoso-como-la-nueva-m
 🗓️ 2025-11-04 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-06
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La nueva Siri impulsada por Gemini sería una bestia imparable
+Apple está por cerrar un acuerdo multimillonario con Google para reemplazar la IA de Siri por Gemini. Tras años de prueba y error, los de Cupertino tiraron la toalla y buscaron ayuda de un tercero para salir a flote en la carrera de la inte…
+https://hipertextual.com/apple/apple-siri-gemini-google-acuerdo-apple-intelligence/
+🗓️ 2025-11-05 • 🏷️ hipertextual.com
+
+---
