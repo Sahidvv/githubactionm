@@ -1591,3 +1591,9 @@ https://hipertextual.com/inteligencia-artificial/amazon-kindle-translate-traducc
 Vale, aún falta más de un mes para que estemos en Navidad pero teniendo en cuenta que lo normal es empezar a poner la decoración a principios de diciembre, sólo quedan tres semanas. Si no te adelantas, corres el riesgo de que cuando quieras…
 https://hipertextual.com/ofertas-descuentos/arboles-de-navidad/
 🗓️ 2025-11-07 • 🏷️ hipertextual.com
+
+### 2025-11-07T19:16:29.979Z
+📰 Con lo nuevo de NotebookLM para iPhone y Android, estudiar nunca fue tan fácil
+NotebookLM sigue sumando funciones verdaderamente útiles y en esta oportunidad les ha tocado el turno a sus aplicaciones para iPhone y Android. En esta ocasión, Google ha dotado a su cuaderno de inteligencia artificial de nuevas característ…
+https://hipertextual.com/inteligencia-artificial/notebooklm-iphone-android-tarjetas-didactivas-cuestionarios/
+🗓️ 2025-11-07 • 🏷️ hipertextual.com
