@@ -1384,3 +1384,19 @@ https://hipertextual.com/apple/apple-siri-gemini-google-acuerdo-apple-intelligen
 🗓️ 2025-11-05 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-07
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Amazon lanza una IA que traduce libros de inglés a español para leerlos en tu Kindle
+Si alguna vez te has preguntado por qué no hay una edición en español de tu libro favorito, debes saber que no es por gusto. El proceso es complejo e involucra a múltiples personas, desde abogados hasta traductores profesionales, pasando po…
+https://hipertextual.com/inteligencia-artificial/amazon-kindle-translate-traduccion-libros-espanol-ia/
+🗓️ 2025-11-06 • 🏷️ hipertextual.com
+
+---

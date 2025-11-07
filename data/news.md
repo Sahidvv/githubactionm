@@ -1579,3 +1579,9 @@ https://hipertextual.com/ciencia/cacao-arandanos-sedentarismo/
 El Samsung Galaxy S26 Ultra traería una muy esperada mejora en la recarga de la batería. El próximo buque insignia de la marca coreana soportaría una carga rápida de hasta 60 vatios, en lugar de los 45 vatios disponibles en las últimas gene…
 https://hipertextual.com/mobile/la-carga-del-samsung-galaxy-s26-ultra-traera-una-mejora-muy-esperada/
 🗓️ 2025-11-06 • 🏷️ hipertextual.com
+
+### 2025-11-07T02:41:10.980Z
+📰 Amazon lanza una IA que traduce libros de inglés a español para leerlos en tu Kindle
+Si alguna vez te has preguntado por qué no hay una edición en español de tu libro favorito, debes saber que no es por gusto. El proceso es complejo e involucra a múltiples personas, desde abogados hasta traductores profesionales, pasando po…
+https://hipertextual.com/inteligencia-artificial/amazon-kindle-translate-traduccion-libros-espanol-ia/
+🗓️ 2025-11-06 • 🏷️ hipertextual.com
