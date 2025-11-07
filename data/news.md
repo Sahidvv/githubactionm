@@ -1585,3 +1585,9 @@ https://hipertextual.com/mobile/la-carga-del-samsung-galaxy-s26-ultra-traera-una
 Si alguna vez te has preguntado por qué no hay una edición en español de tu libro favorito, debes saber que no es por gusto. El proceso es complejo e involucra a múltiples personas, desde abogados hasta traductores profesionales, pasando po…
 https://hipertextual.com/inteligencia-artificial/amazon-kindle-translate-traduccion-libros-espanol-ia/
 🗓️ 2025-11-06 • 🏷️ hipertextual.com
+
+### 2025-11-07T13:31:23.282Z
+📰 Falta menos de lo que te imaginas: estas ofertas de árboles de Navidad y luces es lo que necesitas para decorar tu casa
+Vale, aún falta más de un mes para que estemos en Navidad pero teniendo en cuenta que lo normal es empezar a poner la decoración a principios de diciembre, sólo quedan tres semanas. Si no te adelantas, corres el riesgo de que cuando quieras…
+https://hipertextual.com/ofertas-descuentos/arboles-de-navidad/
+🗓️ 2025-11-07 • 🏷️ hipertextual.com
