@@ -1597,3 +1597,9 @@ https://hipertextual.com/ofertas-descuentos/arboles-de-navidad/
 NotebookLM sigue sumando funciones verdaderamente útiles y en esta oportunidad les ha tocado el turno a sus aplicaciones para iPhone y Android. En esta ocasión, Google ha dotado a su cuaderno de inteligencia artificial de nuevas característ…
 https://hipertextual.com/inteligencia-artificial/notebooklm-iphone-android-tarjetas-didactivas-cuestionarios/
 🗓️ 2025-11-07 • 🏷️ hipertextual.com
+
+### 2025-11-08T02:23:28.341Z
+📰 Microsoft lanza la primera actualización de Windows 11 2026
+Microsoft ha comenzado a probar la próxima actualización de Windows 11. Tras semanas de rumores y especulaciones, el gigante tecnológico confirmó la existencia de Windows 11 26H1, una versión que debutará durante la primera mitad de 2026. A…
+https://hipertextual.com/software/windows-11-26h1-actualizacion-2026/
+🗓️ 2025-11-07 • 🏷️ hipertextual.com

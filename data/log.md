@@ -1400,3 +1400,19 @@ https://hipertextual.com/inteligencia-artificial/amazon-kindle-translate-traducc
 🗓️ 2025-11-06 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-08
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Microsoft lanza la primera actualización de Windows 11 2026
+Microsoft ha comenzado a probar la próxima actualización de Windows 11. Tras semanas de rumores y especulaciones, el gigante tecnológico confirmó la existencia de Windows 11 26H1, una versión que debutará durante la primera mitad de 2026. A…
+https://hipertextual.com/software/windows-11-26h1-actualizacion-2026/
+🗓️ 2025-11-07 • 🏷️ hipertextual.com
+
+---
