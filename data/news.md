@@ -1603,3 +1603,9 @@ https://hipertextual.com/inteligencia-artificial/notebooklm-iphone-android-tarje
 Microsoft ha comenzado a probar la próxima actualización de Windows 11. Tras semanas de rumores y especulaciones, el gigante tecnológico confirmó la existencia de Windows 11 26H1, una versión que debutará durante la primera mitad de 2026. A…
 https://hipertextual.com/software/windows-11-26h1-actualizacion-2026/
 🗓️ 2025-11-07 • 🏷️ hipertextual.com
+
+### 2025-11-08T13:23:56.795Z
+📰 Así se diseñó la espectacular acción de &#8216;Predator: Badlands&#8217;: «Hay muchos tipos diferentes de lucha»
+Con Predator: Badlands, la saga Depredador ha dado un inesperado giro a sus historias. Y es que, por primera vez, el Yautja es el bueno de la película y no el villano. Una sorprendente decisión que tomó el director Dan Trachtenberg, el homb…
+https://hipertextual.com/cine-television/asi-se-diseno-la-accion-de-predator-badlands/
+🗓️ 2025-11-08 • 🏷️ hipertextual.com
