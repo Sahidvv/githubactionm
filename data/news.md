@@ -1627,3 +1627,9 @@ https://hipertextual.com/cine-television/ya-puedes-ver-en-casa-la-pelicula-de-mi
 Sora 2 lleva semanas sonando como una de esas tecnologías que no solo prometen cambiar el futuro, sino que insinúan que ya lo han hecho. Me cuesta no pensar en las consecuencias de permitir que una máquina —una red entrenada con millones de…
 https://www.muycomputer.com/2025/11/09/sora-2-la-nueva-era-del-video-por-ia-ya-no-necesita-invitacion/
 🗓️ 2025-11-09 • 🏷️ muycomputer.com
+
+### 2025-11-09T19:13:50.654Z
+📰 Apple quiere llevar la conectividad satelital más allá del SOS
+Apple continúa desarrollando su infraestructura de conectividad satelital con nuevas funciones que podrían consolidar una estrategia que va mucho más allá del uso puntual en emergencias. Sin anuncios formales, y a través de pistas recogidas…
+https://www.muycomputer.com/2025/11/09/apple-quiere-llevar-la-conectividad-satelital-mas-alla-del-sos/
+🗓️ 2025-11-09 • 🏷️ muycomputer.com
