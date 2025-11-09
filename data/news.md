@@ -1615,3 +1615,9 @@ https://hipertextual.com/cine-television/asi-se-diseno-la-accion-de-predator-bad
 Predator: Badlands, la más reciente entrega de la saga Predator a cargo de Dan Trachtenberg, logra algo sorprendente. Explorar en la saga desde un ángulo por completo novedoso e incluso conmovedor. Lo cual, claro, es toda una rareza en una …
 https://hipertextual.com/cine-television/los-3-puntos-mas-polemicos-de-predator-badlands/
 🗓️ 2025-11-08 • 🏷️ hipertextual.com
+
+### 2025-11-09T02:43:29.042Z
+📰 Ya puedes ver en casa la película de Mickey Mouse que Disney jamás hubiera permitido rodar
+Mickey Mouse, símbolo imperecedero de Disney, pasa por momentos complicados desde 2024. En específico, cuando su versión del corto de 8 minutos, Steamboat Willie de 1928, pasó al dominio público. Por lo que la empresa perdió todos los derec…
+https://hipertextual.com/cine-television/ya-puedes-ver-en-casa-la-pelicula-de-mickey-mouse-que-disney-jamas-hubiera-permitido-rodar/
+🗓️ 2025-11-08 • 🏷️ hipertextual.com

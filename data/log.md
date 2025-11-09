@@ -1416,3 +1416,19 @@ https://hipertextual.com/software/windows-11-26h1-actualizacion-2026/
 🗓️ 2025-11-07 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-09
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Ya puedes ver en casa la película de Mickey Mouse que Disney jamás hubiera permitido rodar
+Mickey Mouse, símbolo imperecedero de Disney, pasa por momentos complicados desde 2024. En específico, cuando su versión del corto de 8 minutos, Steamboat Willie de 1928, pasó al dominio público. Por lo que la empresa perdió todos los derec…
+https://hipertextual.com/cine-television/ya-puedes-ver-en-casa-la-pelicula-de-mickey-mouse-que-disney-jamas-hubiera-permitido-rodar/
+🗓️ 2025-11-08 • 🏷️ hipertextual.com
+
+---
