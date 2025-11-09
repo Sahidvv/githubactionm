@@ -1621,3 +1621,9 @@ https://hipertextual.com/cine-television/los-3-puntos-mas-polemicos-de-predator-
 Mickey Mouse, símbolo imperecedero de Disney, pasa por momentos complicados desde 2024. En específico, cuando su versión del corto de 8 minutos, Steamboat Willie de 1928, pasó al dominio público. Por lo que la empresa perdió todos los derec…
 https://hipertextual.com/cine-television/ya-puedes-ver-en-casa-la-pelicula-de-mickey-mouse-que-disney-jamas-hubiera-permitido-rodar/
 🗓️ 2025-11-08 • 🏷️ hipertextual.com
+
+### 2025-11-09T13:23:33.976Z
+📰 Sora 2: la nueva era del vídeo por IA ya no necesita invitación
+Sora 2 lleva semanas sonando como una de esas tecnologías que no solo prometen cambiar el futuro, sino que insinúan que ya lo han hecho. Me cuesta no pensar en las consecuencias de permitir que una máquina —una red entrenada con millones de…
+https://www.muycomputer.com/2025/11/09/sora-2-la-nueva-era-del-video-por-ia-ya-no-necesita-invitacion/
+🗓️ 2025-11-09 • 🏷️ muycomputer.com
