@@ -1633,3 +1633,9 @@ https://www.muycomputer.com/2025/11/09/sora-2-la-nueva-era-del-video-por-ia-ya-n
 Apple continúa desarrollando su infraestructura de conectividad satelital con nuevas funciones que podrían consolidar una estrategia que va mucho más allá del uso puntual en emergencias. Sin anuncios formales, y a través de pistas recogidas…
 https://www.muycomputer.com/2025/11/09/apple-quiere-llevar-la-conectividad-satelital-mas-alla-del-sos/
 🗓️ 2025-11-09 • 🏷️ muycomputer.com
+
+### 2025-11-10T02:47:41.405Z
+📰 Los mejores contenidos de la semana en MuyComputer (CDXCVII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo montar una SSD en un portátil. Actualizar el a…
+https://www.muycomputer.com/2025/11/09/los-mejores-contenidos-de-la-semana-en-muycomputer-cdxcvii/
+🗓️ 2025-11-09 • 🏷️ muycomputer.com

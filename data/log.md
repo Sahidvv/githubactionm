@@ -1432,3 +1432,19 @@ https://hipertextual.com/cine-television/ya-puedes-ver-en-casa-la-pelicula-de-mi
 🗓️ 2025-11-08 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-10
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (CDXCVII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo montar una SSD en un portátil. Actualizar el a…
+https://www.muycomputer.com/2025/11/09/los-mejores-contenidos-de-la-semana-en-muycomputer-cdxcvii/
+🗓️ 2025-11-09 • 🏷️ muycomputer.com
+
+---
