@@ -1645,3 +1645,9 @@ https://www.muycomputer.com/2025/11/09/los-mejores-contenidos-de-la-semana-en-mu
 Apple TV no piensa subirse al tren de los planes baratos y con anuncios. Así lo ha confirmado Eddy Cue, vicepresidente senior de Servicios de Apple en una entrevista con la revista Screen International. El ejecutivo dejó en claro que esa po…
 https://hipertextual.com/apple/apple-tv-no-tendra-plan-barato-con-anuncios-por-ahora/
 🗓️ 2025-11-10 • 🏷️ hipertextual.com
+
+### 2025-11-10T19:16:17.958Z
+📰 El Galaxy S26 llegará con nueva cámara, pero no esperes una revolución
+Durante las últimas semanas, Samsung ha reajustado la estrategia de lanzamiento del Galaxy S26. Los primeros rumores anticipaban una revolución total que incluía el cambio de nombre y la llegada de un nuevo modelo a la familia. No obstante,…
+https://hipertextual.com/mobile/galaxy-s26-camara-bateria-caracteristicas/
+🗓️ 2025-11-10 • 🏷️ hipertextual.com
