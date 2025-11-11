@@ -1651,3 +1651,9 @@ https://hipertextual.com/apple/apple-tv-no-tendra-plan-barato-con-anuncios-por-a
 Durante las últimas semanas, Samsung ha reajustado la estrategia de lanzamiento del Galaxy S26. Los primeros rumores anticipaban una revolución total que incluía el cambio de nombre y la llegada de un nuevo modelo a la familia. No obstante,…
 https://hipertextual.com/mobile/galaxy-s26-camara-bateria-caracteristicas/
 🗓️ 2025-11-10 • 🏷️ hipertextual.com
+
+### 2025-11-11T02:42:55.011Z
+📰 La IA de Gemini llega al Google TV Streamer para que te olvides del Chromecast
+Hace unas semanas, Google comenzó la implementación de Gemini en los televisores inteligentes con Google TV. El despliegue forma parte del plan de la compañía para reemplazar al asistente por una experiencia conversacional. Si por alguna ra…
+https://hipertextual.com/inteligencia-artificial/google-tv-streamer-actualizacion-gemini/
+🗓️ 2025-11-10 • 🏷️ hipertextual.com

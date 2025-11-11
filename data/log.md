@@ -1448,3 +1448,19 @@ https://www.muycomputer.com/2025/11/09/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-11-09 • 🏷️ muycomputer.com
 
 ---
+## 2025-11-11
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La IA de Gemini llega al Google TV Streamer para que te olvides del Chromecast
+Hace unas semanas, Google comenzó la implementación de Gemini en los televisores inteligentes con Google TV. El despliegue forma parte del plan de la compañía para reemplazar al asistente por una experiencia conversacional. Si por alguna ra…
+https://hipertextual.com/inteligencia-artificial/google-tv-streamer-actualizacion-gemini/
+🗓️ 2025-11-10 • 🏷️ hipertextual.com
+
+---
