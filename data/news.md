@@ -1657,3 +1657,9 @@ https://hipertextual.com/mobile/galaxy-s26-camara-bateria-caracteristicas/
 Hace unas semanas, Google comenzó la implementación de Gemini en los televisores inteligentes con Google TV. El despliegue forma parte del plan de la compañía para reemplazar al asistente por una experiencia conversacional. Si por alguna ra…
 https://hipertextual.com/inteligencia-artificial/google-tv-streamer-actualizacion-gemini/
 🗓️ 2025-11-10 • 🏷️ hipertextual.com
+
+### 2025-11-11T13:31:12.154Z
+📰 PCSX2 ya puede emular casi todos los juegos de PS2 en PC
+ShadPS4 acapara mucho interés porque es el primer emulador de PS4 que de verdad funciona, pero hay otros emuladores que también merecen nuestra atención por lo avanzados que están, y por las posibilidades que ofrecen. Uno de ellos es PCSX2,…
+https://www.muycomputer.com/2025/11/11/pcsx2-ya-puede-emular-casi-todos-los-juegos-de-ps2-en-pc/
+🗓️ 2025-11-11 • 🏷️ muycomputer.com
