@@ -1663,3 +1663,9 @@ https://hipertextual.com/inteligencia-artificial/google-tv-streamer-actualizacio
 ShadPS4 acapara mucho interés porque es el primer emulador de PS4 que de verdad funciona, pero hay otros emuladores que también merecen nuestra atención por lo avanzados que están, y por las posibilidades que ofrecen. Uno de ellos es PCSX2,…
 https://www.muycomputer.com/2025/11/11/pcsx2-ya-puede-emular-casi-todos-los-juegos-de-ps2-en-pc/
 🗓️ 2025-11-11 • 🏷️ muycomputer.com
+
+### 2025-11-11T19:16:10.462Z
+📰 Samsung quiere convertir al Galaxy Ring en un mando para sus gafas con Android XR
+Desde que se lanzó en 2024, el Samsung Galaxy Ring quedó lejos de ser un furor en ventas. El anillo inteligente de la marca coreana fue noticia por su elevado precio —449 euros en España— y, más recientemente, por provocar una urgencia médi…
+https://hipertextual.com/tecnologia/galaxy-ring-controlar-gafas-samsung-android-xr/
+🗓️ 2025-11-11 • 🏷️ hipertextual.com
