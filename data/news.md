@@ -1669,3 +1669,9 @@ https://www.muycomputer.com/2025/11/11/pcsx2-ya-puede-emular-casi-todos-los-jueg
 Desde que se lanzó en 2024, el Samsung Galaxy Ring quedó lejos de ser un furor en ventas. El anillo inteligente de la marca coreana fue noticia por su elevado precio —449 euros en España— y, más recientemente, por provocar una urgencia médi…
 https://hipertextual.com/tecnologia/galaxy-ring-controlar-gafas-samsung-android-xr/
 🗓️ 2025-11-11 • 🏷️ hipertextual.com
+
+### 2025-11-12T02:41:53.024Z
+📰 Google se inspira en Apple y crea una IA que no espía tus datos
+Google se ha copiado una jugada de Apple y anunció una iniciativa que garantiza la privacidad de tus datos cuando usas la IA. Conocida como Private AI Compute, esta plataforma combina los modelos de Gemini con garantías de privacidad simila…
+https://hipertextual.com/inteligencia-artificial/google-private-ai-compute-privacidad-datos/
+🗓️ 2025-11-11 • 🏷️ hipertextual.com

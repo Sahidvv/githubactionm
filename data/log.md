@@ -1464,3 +1464,19 @@ https://hipertextual.com/inteligencia-artificial/google-tv-streamer-actualizacio
 🗓️ 2025-11-10 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-12
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Google se inspira en Apple y crea una IA que no espía tus datos
+Google se ha copiado una jugada de Apple y anunció una iniciativa que garantiza la privacidad de tus datos cuando usas la IA. Conocida como Private AI Compute, esta plataforma combina los modelos de Gemini con garantías de privacidad simila…
+https://hipertextual.com/inteligencia-artificial/google-private-ai-compute-privacidad-datos/
+🗓️ 2025-11-11 • 🏷️ hipertextual.com
+
+---
