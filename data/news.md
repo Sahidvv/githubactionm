@@ -1675,3 +1675,9 @@ https://hipertextual.com/tecnologia/galaxy-ring-controlar-gafas-samsung-android-
 Google se ha copiado una jugada de Apple y anunció una iniciativa que garantiza la privacidad de tus datos cuando usas la IA. Conocida como Private AI Compute, esta plataforma combina los modelos de Gemini con garantías de privacidad simila…
 https://hipertextual.com/inteligencia-artificial/google-private-ai-compute-privacidad-datos/
 🗓️ 2025-11-11 • 🏷️ hipertextual.com
+
+### 2025-11-12T13:33:15.424Z
+📰 PcComponentes tiene el precio más bajo del nuevo iPhone Air y del Samsung más equilibrado hasta la fecha
+Noviembre es un mes donde se pueden encontrar precios muy bajos en muchos productos, como por ejemplo todo lo relacionado con tecnología. Y para ser más específicos: en telefonía móvil. Por eso, no es casual que muchas personas esperen a es…
+https://hipertextual.com/ofertas-descuentos/iphone-air-mejor-precio/
+🗓️ 2025-11-12 • 🏷️ hipertextual.com
