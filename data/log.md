@@ -1480,3 +1480,19 @@ https://hipertextual.com/inteligencia-artificial/google-private-ai-compute-priva
 🗓️ 2025-11-11 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-13
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Si tienes Windows 10, instala este parche ahora para recibir actualizaciones gratis
+Windows 10 perdió el soporte el 14 de octubre de 2025; sin embargo, Microsoft ofrecerá un año más de parches de seguridad sin coste alguno. Aunque esta opción está disponible desde hace semanas, algunos usuarios no han conseguido inscribirs…
+https://hipertextual.com/software/windows-10-parche-kb5071959-error-actualizaciones-extendidas/
+🗓️ 2025-11-12 • 🏷️ hipertextual.com
+
+---

@@ -1687,3 +1687,9 @@ https://hipertextual.com/ofertas-descuentos/iphone-air-mejor-precio/
 Amazon ha declarado la guerra a la piratería a través de sus Fire TV Stick. Según publica The Athletic, la tecnológica bloqueará las apps que retransmitan contenidos ilegales, como películas y series de TV o eventos deportivos. Una estrateg…
 https://hipertextual.com/internet/amazon-fire-tv-stick-apps-pirateri/
 🗓️ 2025-11-12 • 🏷️ hipertextual.com
+
+### 2025-11-13T02:44:47.411Z
+📰 Si tienes Windows 10, instala este parche ahora para recibir actualizaciones gratis
+Windows 10 perdió el soporte el 14 de octubre de 2025; sin embargo, Microsoft ofrecerá un año más de parches de seguridad sin coste alguno. Aunque esta opción está disponible desde hace semanas, algunos usuarios no han conseguido inscribirs…
+https://hipertextual.com/software/windows-10-parche-kb5071959-error-actualizaciones-extendidas/
+🗓️ 2025-11-12 • 🏷️ hipertextual.com
