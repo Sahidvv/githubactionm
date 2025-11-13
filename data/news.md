@@ -1693,3 +1693,9 @@ https://hipertextual.com/internet/amazon-fire-tv-stick-apps-pirateri/
 Windows 10 perdió el soporte el 14 de octubre de 2025; sin embargo, Microsoft ofrecerá un año más de parches de seguridad sin coste alguno. Aunque esta opción está disponible desde hace semanas, algunos usuarios no han conseguido inscribirs…
 https://hipertextual.com/software/windows-10-parche-kb5071959-error-actualizaciones-extendidas/
 🗓️ 2025-11-12 • 🏷️ hipertextual.com
+
+### 2025-11-13T13:32:48.163Z
+📰 Confirmadas las características principales del Galaxy Z Trifold: así es el plegable triple de Samsung
+Que Samsung planea lanzar su primer plegable triple no es ninguna novedad. El Galaxy Z Trifold ya se ha dejado ver públicamente, aunque la marca coreana todavía juega al secreto respecto de sus funciones y características. Aunque ello no ha…
+https://hipertextual.com/mobile/galaxy-z-trifold-confirmadas-sus-caracteristicas-principales/
+🗓️ 2025-11-13 • 🏷️ hipertextual.com
