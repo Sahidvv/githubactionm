@@ -1699,3 +1699,9 @@ https://hipertextual.com/software/windows-10-parche-kb5071959-error-actualizacio
 Que Samsung planea lanzar su primer plegable triple no es ninguna novedad. El Galaxy Z Trifold ya se ha dejado ver públicamente, aunque la marca coreana todavía juega al secreto respecto de sus funciones y características. Aunque ello no ha…
 https://hipertextual.com/mobile/galaxy-z-trifold-confirmadas-sus-caracteristicas-principales/
 🗓️ 2025-11-13 • 🏷️ hipertextual.com
+
+### 2025-11-13T19:16:30.272Z
+📰 Disney te permitirá crear contenido con IA en Disney+, pero hay truco
+Disney es una de las compañías más celosas con sus personajes y películas. Durante años, los abogados de la empresa se han encargado de echar abajo cualquier proyecto que involucre su propiedad intelectual. La buena es que Disney suavizará …
+https://hipertextual.com/inteligencia-artificial/disney-permitira-crear-contenido-ia-disney-plus/
+🗓️ 2025-11-13 • 🏷️ hipertextual.com
