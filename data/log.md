@@ -1496,3 +1496,19 @@ https://hipertextual.com/software/windows-10-parche-kb5071959-error-actualizacio
 🗓️ 2025-11-12 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-14
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Motorola se volvió loco: Moto G56, Edge 60 Neo y más teléfonos con descuentos increíbles en el Buen Fin
+El Buen Fin está a la vuelta de la esquina y muchas marcas han comenzado a lanzar ofertas desde esta semana. Una de ellas es Motorola, que está ofreciendo algunos de sus teléfonos más populares a un precio de risa. Si vives en México y esta…
+https://hipertextual.com/mobile/ofertas-motorola-buen-fin-2025/
+🗓️ 2025-11-13 • 🏷️ hipertextual.com
+
+---
