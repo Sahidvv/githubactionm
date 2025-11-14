@@ -1711,3 +1711,9 @@ https://hipertextual.com/inteligencia-artificial/disney-permitira-crear-contenid
 El Buen Fin está a la vuelta de la esquina y muchas marcas han comenzado a lanzar ofertas desde esta semana. Una de ellas es Motorola, que está ofreciendo algunos de sus teléfonos más populares a un precio de risa. Si vives en México y esta…
 https://hipertextual.com/mobile/ofertas-motorola-buen-fin-2025/
 🗓️ 2025-11-13 • 🏷️ hipertextual.com
+
+### 2025-11-14T13:30:18.891Z
+📰 Windows 10 y Windows 11 son más difíciles de piratear: Microsoft bloquea un conocido hack de activación
+Microsoft lleva décadas luchando contra la piratería de su software. Windows 10 y Windows 11 son dos de los sistemas operativos que más se han visto afectados por este problema, y es curioso, porque ambos se pueden activar gratuitamente si …
+https://www.muycomputer.com/2025/11/14/windows-10-y-windows-11-son-mas-dificiles-de-piratear-microsoft-bloquea-un-conocido-hack-de-activacion/
+🗓️ 2025-11-14 • 🏷️ muycomputer.com
