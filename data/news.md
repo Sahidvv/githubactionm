@@ -1729,3 +1729,9 @@ https://hipertextual.com/tecnologia/microsoft-arregla-media-creation-tool-window
 OpenAI ha lanzado una actualización que elimina la evidencia de que usaste ChatGPT en tus tareas escolares. La compañía activó una función que permite omitir la raya en las respuestas, una característica que muchos asignaban a los textos ge…
 https://hipertextual.com/inteligencia-artificial/openai-elimina-senal-que-delataba-chatgpt/
 🗓️ 2025-11-14 • 🏷️ hipertextual.com
+
+### 2025-11-15T13:24:19.154Z
+📰 Kitten Space Agency, lo que debió ser Kerbal Space Program 2
+Hablar de Kerbal Space Program 2 es, para algunos (y me incluyo) volver a nuestra propia Colina de la Hamburguesa, a nuestro Vietnam gamer, atravesar fulminantemente el monitor del PC con nuestra mirada de las mil yardas. Y es por eso que, …
+https://www.muycomputer.com/2025/11/15/kitten-space-agency-lo-que-debio-ser-kerbal-space-program-2/
+🗓️ 2025-11-15 • 🏷️ muycomputer.com
