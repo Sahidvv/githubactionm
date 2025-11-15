@@ -1735,3 +1735,9 @@ https://hipertextual.com/inteligencia-artificial/openai-elimina-senal-que-delata
 Hablar de Kerbal Space Program 2 es, para algunos (y me incluyo) volver a nuestra propia Colina de la Hamburguesa, a nuestro Vietnam gamer, atravesar fulminantemente el monitor del PC con nuestra mirada de las mil yardas. Y es por eso que, …
 https://www.muycomputer.com/2025/11/15/kitten-space-agency-lo-que-debio-ser-kerbal-space-program-2/
 🗓️ 2025-11-15 • 🏷️ muycomputer.com
+
+### 2025-11-15T19:13:33.262Z
+📰 &#8216;El caso Eloá&#8217;: un secuestro en directo’, lo nuevo Netflix sobre un terrorífico caso real
+El caso Eloá: Un secuestro en directo, el nuevo true crime de Netflix, toca un punto controvertido y polémico de manera casi siniestra. Eso, al explorar en todo lo ocurrido durante el secuestro y asesinato de la adolescente de quince años E…
+https://hipertextual.com/cine-television/el-caso-eloa-un-secuestro-en-directo-lo-nuevo-netflix-sobre-un-terrorifico-caso-real/
+🗓️ 2025-11-15 • 🏷️ hipertextual.com
