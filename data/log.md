@@ -1512,3 +1512,19 @@ https://hipertextual.com/mobile/ofertas-motorola-buen-fin-2025/
 🗓️ 2025-11-13 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-15
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 OpenAI borra la “huella secreta” que revelaba si usaste ChatGPT
+OpenAI ha lanzado una actualización que elimina la evidencia de que usaste ChatGPT en tus tareas escolares. La compañía activó una función que permite omitir la raya en las respuestas, una característica que muchos asignaban a los textos ge…
+https://hipertextual.com/inteligencia-artificial/openai-elimina-senal-que-delataba-chatgpt/
+🗓️ 2025-11-14 • 🏷️ hipertextual.com
+
+---

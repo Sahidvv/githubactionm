@@ -1723,3 +1723,9 @@ https://www.muycomputer.com/2025/11/14/windows-10-y-windows-11-son-mas-dificiles
 Microsoft ha corregido su herramienta para instalar Windows 11 desde cero. Hace unos días, miles de usuarios de Windows 10 descubrieron que no era posible usar el Media Creation Tool para crear un disco de instalación debido a un fallo. La …
 https://hipertextual.com/tecnologia/microsoft-arregla-media-creation-tool-windows-11/
 🗓️ 2025-11-14 • 🏷️ hipertextual.com
+
+### 2025-11-15T02:27:07.697Z
+📰 OpenAI borra la “huella secreta” que revelaba si usaste ChatGPT
+OpenAI ha lanzado una actualización que elimina la evidencia de que usaste ChatGPT en tus tareas escolares. La compañía activó una función que permite omitir la raya en las respuestas, una característica que muchos asignaban a los textos ge…
+https://hipertextual.com/inteligencia-artificial/openai-elimina-senal-que-delataba-chatgpt/
+🗓️ 2025-11-14 • 🏷️ hipertextual.com
