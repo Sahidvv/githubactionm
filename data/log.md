@@ -1528,3 +1528,19 @@ https://hipertextual.com/inteligencia-artificial/openai-elimina-senal-que-delata
 🗓️ 2025-11-14 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-16
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Otra inteligencia artificial tan potente como ChatGPT da la razón al jefe de Nvidia: "China va a ganar la carrera de la IA"
+El modelo Kimi-K2 Thinking, desarrollado por Alibaba, supera a GPT-5 en razonamiento complejo y vuelve a cuestionar la eficacia del veto estadounidense a los chips avanzadosLas grandes tecnológicas de EEUU invierten 115.000 millones en I+D …
+https://www.eldiario.es/tecnologia/inteligencia-artificial-potente-chatgpt-da-razon-jefe-nvidia-china-ganar-carrera-ia_1_12765005.html
+🗓️ 2025-11-15 • 🏷️ eldiario.es
+
+---

@@ -1741,3 +1741,9 @@ https://www.muycomputer.com/2025/11/15/kitten-space-agency-lo-que-debio-ser-kerb
 El caso Eloá: Un secuestro en directo, el nuevo true crime de Netflix, toca un punto controvertido y polémico de manera casi siniestra. Eso, al explorar en todo lo ocurrido durante el secuestro y asesinato de la adolescente de quince años E…
 https://hipertextual.com/cine-television/el-caso-eloa-un-secuestro-en-directo-lo-nuevo-netflix-sobre-un-terrorifico-caso-real/
 🗓️ 2025-11-15 • 🏷️ hipertextual.com
+
+### 2025-11-16T02:47:46.896Z
+📰 Otra inteligencia artificial tan potente como ChatGPT da la razón al jefe de Nvidia: "China va a ganar la carrera de la IA"
+El modelo Kimi-K2 Thinking, desarrollado por Alibaba, supera a GPT-5 en razonamiento complejo y vuelve a cuestionar la eficacia del veto estadounidense a los chips avanzadosLas grandes tecnológicas de EEUU invierten 115.000 millones en I+D …
+https://www.eldiario.es/tecnologia/inteligencia-artificial-potente-chatgpt-da-razon-jefe-nvidia-china-ganar-carrera-ia_1_12765005.html
+🗓️ 2025-11-15 • 🏷️ eldiario.es
