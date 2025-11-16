@@ -1753,3 +1753,9 @@ https://www.eldiario.es/tecnologia/inteligencia-artificial-potente-chatgpt-da-ra
 Quienes me leen con cierta frecuencia, ya saben de mi predilección por NotebookLM. Y es que sí, los servicios basados en inteligencia artificial más exitosos son, en general, los chatbots de propósito general (valga la redundancia), pero Go…
 https://www.muycomputer.com/2025/11/16/notebooklm-anade-deep-research/
 🗓️ 2025-11-16 • 🏷️ muycomputer.com
+
+### 2025-11-16T19:15:06.310Z
+📰 Opera integra un visualizador musical con soporte para streaming
+Durante años, los navegadores web se limitaron a ser meros portales de acceso a la información. Eran herramientas prácticas, eficientes en lo justo, pero incapaces de ofrecer experiencias que fueran más allá del clic y el scroll. Sin embarg…
+https://www.muycomputer.com/2025/11/16/opera-integra-un-visualizador-musical-con-soporte-para-streaming/
+🗓️ 2025-11-16 • 🏷️ muycomputer.com
