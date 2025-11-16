@@ -1747,3 +1747,9 @@ https://hipertextual.com/cine-television/el-caso-eloa-un-secuestro-en-directo-lo
 El modelo Kimi-K2 Thinking, desarrollado por Alibaba, supera a GPT-5 en razonamiento complejo y vuelve a cuestionar la eficacia del veto estadounidense a los chips avanzadosLas grandes tecnológicas de EEUU invierten 115.000 millones en I+D …
 https://www.eldiario.es/tecnologia/inteligencia-artificial-potente-chatgpt-da-razon-jefe-nvidia-china-ganar-carrera-ia_1_12765005.html
 🗓️ 2025-11-15 • 🏷️ eldiario.es
+
+### 2025-11-16T13:24:25.888Z
+📰 NotebookLM añade Deep Research
+Quienes me leen con cierta frecuencia, ya saben de mi predilección por NotebookLM. Y es que sí, los servicios basados en inteligencia artificial más exitosos son, en general, los chatbots de propósito general (valga la redundancia), pero Go…
+https://www.muycomputer.com/2025/11/16/notebooklm-anade-deep-research/
+🗓️ 2025-11-16 • 🏷️ muycomputer.com
