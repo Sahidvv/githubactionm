@@ -1771,3 +1771,9 @@ https://www.muycomputer.com/2025/11/16/los-mejores-contenidos-de-la-semana-en-mu
 Si no puedes vencer al enemigo, únete a él. ¿Y si usásemos la energía del sol, a veces abrasador, para alimentar sistemas de aire acondicionado? Eso justamente es lo que se pretende con el sistema CoolSpaces, resultante del consorcio CoolSa…
 https://hipertextual.com/ciencia/aire-acondicionado-energia-solar-coolsapces/
 🗓️ 2025-11-17 • 🏷️ hipertextual.com
+
+### 2025-11-17T19:16:14.495Z
+📰 Elon Musk convierte a X en “el nuevo WhatsApp” con su mayor cambio hasta ahora
+Elon Musk ha dado un paso más en su intento por convertir a X en una aplicación todo en uno similar a WeChat. A unas semanas de lanzar la tienda de nombres de usuario, el magnate sorprende de nuevo con una función que prometió desde 2022, c…
+https://hipertextual.com/mobile/x-lanza-chat-mensajeria-segura-cifrada/
+🗓️ 2025-11-17 • 🏷️ hipertextual.com
