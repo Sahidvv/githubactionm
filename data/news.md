@@ -1765,3 +1765,9 @@ https://www.muycomputer.com/2025/11/16/opera-integra-un-visualizador-musical-con
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Las GeForce RTX 60 podrían retrasarse, os explicamo…
 https://www.muycomputer.com/2025/11/16/los-mejores-contenidos-de-la-semana-en-muycomputer-cdxcviii/
 🗓️ 2025-11-16 • 🏷️ muycomputer.com
+
+### 2025-11-17T13:32:14.935Z
+📰 El rompedor aire acondicionado &#8216;made in Spain&#8217; que gasta menos electricidad cuanto más calor hace
+Si no puedes vencer al enemigo, únete a él. ¿Y si usásemos la energía del sol, a veces abrasador, para alimentar sistemas de aire acondicionado? Eso justamente es lo que se pretende con el sistema CoolSpaces, resultante del consorcio CoolSa…
+https://hipertextual.com/ciencia/aire-acondicionado-energia-solar-coolsapces/
+🗓️ 2025-11-17 • 🏷️ hipertextual.com
