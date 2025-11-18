@@ -1560,3 +1560,19 @@ https://www.muycomputer.com/2025/11/16/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-11-16 • 🏷️ muycomputer.com
 
 ---
+## 2025-11-18
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Adiós Siri: el iPhone por fin te dejará elegir otro asistente
+Hasta ahora, los dueños de un iPhone están limitados a usar Siri como asistente de voz predeterminada. A diferencia de Android, que permite usar a ChatGPT, Gemini o Alexa, los usuarios del móvil de Apple no tienen alternativas. La buena not…
+https://hipertextual.com/apple/apple-siri-ios-26-europa/
+🗓️ 2025-11-17 • 🏷️ hipertextual.com
+
+---

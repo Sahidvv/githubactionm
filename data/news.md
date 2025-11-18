@@ -1777,3 +1777,9 @@ https://hipertextual.com/ciencia/aire-acondicionado-energia-solar-coolsapces/
 Elon Musk ha dado un paso más en su intento por convertir a X en una aplicación todo en uno similar a WeChat. A unas semanas de lanzar la tienda de nombres de usuario, el magnate sorprende de nuevo con una función que prometió desde 2022, c…
 https://hipertextual.com/mobile/x-lanza-chat-mensajeria-segura-cifrada/
 🗓️ 2025-11-17 • 🏷️ hipertextual.com
+
+### 2025-11-18T02:42:06.566Z
+📰 Adiós Siri: el iPhone por fin te dejará elegir otro asistente
+Hasta ahora, los dueños de un iPhone están limitados a usar Siri como asistente de voz predeterminada. A diferencia de Android, que permite usar a ChatGPT, Gemini o Alexa, los usuarios del móvil de Apple no tienen alternativas. La buena not…
+https://hipertextual.com/apple/apple-siri-ios-26-europa/
+🗓️ 2025-11-17 • 🏷️ hipertextual.com
