@@ -1783,3 +1783,9 @@ https://hipertextual.com/mobile/x-lanza-chat-mensajeria-segura-cifrada/
 Hasta ahora, los dueños de un iPhone están limitados a usar Siri como asistente de voz predeterminada. A diferencia de Android, que permite usar a ChatGPT, Gemini o Alexa, los usuarios del móvil de Apple no tienen alternativas. La buena not…
 https://hipertextual.com/apple/apple-siri-ios-26-europa/
 🗓️ 2025-11-17 • 🏷️ hipertextual.com
+
+### 2025-11-18T13:32:12.777Z
+📰 Cuál ha sido el mayor salto generacional que se ha producido en consolas
+La evolución gráfica y técnica que nos han dejado las diferentes generaciones de consolas ha sido espectacular, sobre todo la vivida entre la década de los años noventa y la primera década del año 2000, pero si tuviéramos que elegir, ¿cuál …
+https://www.muycomputer.com/2025/11/18/cual-ha-sido-el-mayor-salto-generacional-que-se-ha-producido-en-consolas/
+🗓️ 2025-11-18 • 🏷️ muycomputer.com
