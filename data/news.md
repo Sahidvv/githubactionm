@@ -1789,3 +1789,9 @@ https://hipertextual.com/apple/apple-siri-ios-26-europa/
 La evolución gráfica y técnica que nos han dejado las diferentes generaciones de consolas ha sido espectacular, sobre todo la vivida entre la década de los años noventa y la primera década del año 2000, pero si tuviéramos que elegir, ¿cuál …
 https://www.muycomputer.com/2025/11/18/cual-ha-sido-el-mayor-salto-generacional-que-se-ha-producido-en-consolas/
 🗓️ 2025-11-18 • 🏷️ muycomputer.com
+
+### 2025-11-18T19:17:23.514Z
+📰 Windows 11 estrena funciones de IA que toman el control de tu PC
+Tal como lo prometió hace unos días, Microsoft anunció una actualización para Windows 11 que integra características agenciales de IA. El gigante tecnológico lanzó una serie de funciones experimentales que permiten automatizar tareas cotidi…
+https://hipertextual.com/inteligencia-artificial/windows-11-agentes-ia-barra-de-tareas/
+🗓️ 2025-11-18 • 🏷️ hipertextual.com
