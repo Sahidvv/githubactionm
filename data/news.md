@@ -1795,3 +1795,9 @@ https://www.muycomputer.com/2025/11/18/cual-ha-sido-el-mayor-salto-generacional-
 Tal como lo prometió hace unos días, Microsoft anunció una actualización para Windows 11 que integra características agenciales de IA. El gigante tecnológico lanzó una serie de funciones experimentales que permiten automatizar tareas cotidi…
 https://hipertextual.com/inteligencia-artificial/windows-11-agentes-ia-barra-de-tareas/
 🗓️ 2025-11-18 • 🏷️ hipertextual.com
+
+### 2025-11-19T02:42:05.582Z
+📰 Escándalo en Samsung: una app que recopila tus datos esconde un terrible secreto
+Samsung está en el ojo del huracán por culpa de una aplicación que viene preinstalada en algunos de sus móviles más baratos. Conocida como AppCloud, esta app ofrece recomendaciones sobre aplicaciones de terceros que podrían interesarte. A p…
+https://hipertextual.com/mobile/samsung-polemica-app-preinstalada-galaxy-privacidad/
+🗓️ 2025-11-18 • 🏷️ hipertextual.com

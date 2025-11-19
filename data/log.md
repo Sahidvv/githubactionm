@@ -1576,3 +1576,19 @@ https://hipertextual.com/apple/apple-siri-ios-26-europa/
 🗓️ 2025-11-17 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-19
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Escándalo en Samsung: una app que recopila tus datos esconde un terrible secreto
+Samsung está en el ojo del huracán por culpa de una aplicación que viene preinstalada en algunos de sus móviles más baratos. Conocida como AppCloud, esta app ofrece recomendaciones sobre aplicaciones de terceros que podrían interesarte. A p…
+https://hipertextual.com/mobile/samsung-polemica-app-preinstalada-galaxy-privacidad/
+🗓️ 2025-11-18 • 🏷️ hipertextual.com
+
+---
