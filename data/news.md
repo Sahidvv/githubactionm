@@ -1801,3 +1801,9 @@ https://hipertextual.com/inteligencia-artificial/windows-11-agentes-ia-barra-de-
 Samsung está en el ojo del huracán por culpa de una aplicación que viene preinstalada en algunos de sus móviles más baratos. Conocida como AppCloud, esta app ofrece recomendaciones sobre aplicaciones de terceros que podrían interesarte. A p…
 https://hipertextual.com/mobile/samsung-polemica-app-preinstalada-galaxy-privacidad/
 🗓️ 2025-11-18 • 🏷️ hipertextual.com
+
+### 2025-11-19T13:32:05.347Z
+📰 &#8216;Wicked 2: For Good&#8217;: ¿Qué opinan quienes ya la han visto? ¿Es tan buena como la primera?
+El estreno de Wicked 2: For Good llega a los cines en solo unas horas y, con ello, las primeras críticas y reacciones ya han salido a la luz. En Hipertextual, la segunda parte de este spin-off de El Mago de Oz nos ha gustado mucho. Puedes l…
+https://hipertextual.com/cine-television/wicked-2-for-good-que-opinan-quienes-ya-la-han-visto/
+🗓️ 2025-11-19 • 🏷️ hipertextual.com
