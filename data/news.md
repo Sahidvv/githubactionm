@@ -1825,3 +1825,9 @@ https://hipertextual.com/inteligencia-artificial/gpt-5-1-codex-max-openai-progra
 A lo largo de nuestra vida tenemos que tomar muchas decisiones. Algunas son bastante inocuas. Por ejemplo, ¿qué me hago para cenar? Otras, en cambio, son bastante trascendentales. Tener hijos o no tenerlos, seguir en un trabajo que no te gu…
 https://hipertextual.com/ciencia/100-decisiones-arriesgadas/
 🗓️ 2025-11-20 • 🏷️ hipertextual.com
+
+### 2025-11-20T19:16:22.081Z
+📰 El infierno se congela: Android ahora es compatible con el AirDrop del iPhone
+Lo que parecía imposible, ya no lo es. A partir de ahora Android funciona con el AirDrop del iPhone para enviar y recibir archivos. El sorpresivo anuncio de Google forma parte de una actualización de Quick Share, que ahora es compatible con…
+https://hipertextual.com/mobile/el-infierno-se-congela-android-ahora-es-compatible-con-el-airdrop-del-iphone/
+🗓️ 2025-11-20 • 🏷️ hipertextual.com
