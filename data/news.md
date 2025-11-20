@@ -1819,3 +1819,9 @@ https://hipertextual.com/mobile/galaxy-a57-carga-rapida-45w-vs-galaxy-s26/
 A unas horas de que Google presentara Gemini 3, OpenAI ha anunciado GPT-5.1-Codex-Max, un nuevo modelo especializado en programación. La IA utiliza una versión mejorada del modelo base de razonamiento, el cual no solo resuelve problemas com…
 https://hipertextual.com/inteligencia-artificial/gpt-5-1-codex-max-openai-programacion-compactacion/
 🗓️ 2025-11-19 • 🏷️ hipertextual.com
+
+### 2025-11-20T13:30:46.341Z
+📰 Las 100 decisiones más arriesgadas que tomarás sí o sí en tu vida, según los psicólogos
+A lo largo de nuestra vida tenemos que tomar muchas decisiones. Algunas son bastante inocuas. Por ejemplo, ¿qué me hago para cenar? Otras, en cambio, son bastante trascendentales. Tener hijos o no tenerlos, seguir en un trabajo que no te gu…
+https://hipertextual.com/ciencia/100-decisiones-arriesgadas/
+🗓️ 2025-11-20 • 🏷️ hipertextual.com
