@@ -1592,3 +1592,19 @@ https://hipertextual.com/mobile/samsung-polemica-app-preinstalada-galaxy-privaci
 🗓️ 2025-11-18 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-20
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 OpenAI lanza GPT-5.1-Codex-Max, la IA que programa sola durante 24 horas
+A unas horas de que Google presentara Gemini 3, OpenAI ha anunciado GPT-5.1-Codex-Max, un nuevo modelo especializado en programación. La IA utiliza una versión mejorada del modelo base de razonamiento, el cual no solo resuelve problemas com…
+https://hipertextual.com/inteligencia-artificial/gpt-5-1-codex-max-openai-programacion-compactacion/
+🗓️ 2025-11-19 • 🏷️ hipertextual.com
+
+---

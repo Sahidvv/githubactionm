@@ -1813,3 +1813,9 @@ https://hipertextual.com/cine-television/wicked-2-for-good-que-opinan-quienes-ya
 El Galaxy S26 se perfila para convertirse en uno de los móviles más populares de 2026. Samsung está realizando los últimos detalles para presentar la nueva familia de dispositivos a inicios de año. Aunque todos los reflectores apuntan a est…
 https://hipertextual.com/mobile/galaxy-a57-carga-rapida-45w-vs-galaxy-s26/
 🗓️ 2025-11-19 • 🏷️ hipertextual.com
+
+### 2025-11-20T02:40:38.574Z
+📰 OpenAI lanza GPT-5.1-Codex-Max, la IA que programa sola durante 24 horas
+A unas horas de que Google presentara Gemini 3, OpenAI ha anunciado GPT-5.1-Codex-Max, un nuevo modelo especializado en programación. La IA utiliza una versión mejorada del modelo base de razonamiento, el cual no solo resuelve problemas com…
+https://hipertextual.com/inteligencia-artificial/gpt-5-1-codex-max-openai-programacion-compactacion/
+🗓️ 2025-11-19 • 🏷️ hipertextual.com
