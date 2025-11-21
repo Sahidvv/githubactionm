@@ -1837,3 +1837,9 @@ https://hipertextual.com/mobile/el-infierno-se-congela-android-ahora-es-compatib
 ¡Hazte a un lado, Nano Banana, tu reemplazo ha llegado! Google acaba de lanzar Nano Banana Pro, la nueva versión avanzada de su aclamado generador de imágenes con IA, que llega impulsado por Gemini 3 Pro, su modelo de lenguaje más potente h…
 https://hipertextual.com/inteligencia-artificial/google-nano-banana-pro-gemini-3-pro/
 🗓️ 2025-11-20 • 🏷️ hipertextual.com
+
+### 2025-11-21T13:28:25.740Z
+📰 Descubren un parásito que manipula a las hormigas para que asesinen a su propia reina
+Las hormigas parecen animales inocentes e inofensivos cuando las vemos pululando entre nuestros pies, sin causar mucho revuelo. Sin embargo, su capacidad para causar intrigas políticas dejaría boquiabierto al mismísimo George R. R. Martin. …
+https://hipertextual.com/ciencia/hormigas-matan-a-su-reina/
+🗓️ 2025-11-21 • 🏷️ hipertextual.com
