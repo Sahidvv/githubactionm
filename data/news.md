@@ -1843,3 +1843,9 @@ https://hipertextual.com/inteligencia-artificial/google-nano-banana-pro-gemini-3
 Las hormigas parecen animales inocentes e inofensivos cuando las vemos pululando entre nuestros pies, sin causar mucho revuelo. Sin embargo, su capacidad para causar intrigas políticas dejaría boquiabierto al mismísimo George R. R. Martin. …
 https://hipertextual.com/ciencia/hormigas-matan-a-su-reina/
 🗓️ 2025-11-21 • 🏷️ hipertextual.com
+
+### 2025-11-21T19:17:18.633Z
+📰 Se filtran imágenes del Moto G Stylus 2026: el gama media que mete miedo a Samsung
+Motorola ha encontrado la fórmula para vencer a Xiaomi y Samsung en la gama media. La familia Moto G suele ofrecer móviles bastante equilibrados con diseño, cámara y batería que no le piden nada a los modelos de 600 euros. Uno de ellos es e…
+https://hipertextual.com/mobile/moto-g-stylus-2026-filtracion-fotos/
+🗓️ 2025-11-21 • 🏷️ hipertextual.com
