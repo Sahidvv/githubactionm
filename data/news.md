@@ -1831,3 +1831,9 @@ https://hipertextual.com/ciencia/100-decisiones-arriesgadas/
 Lo que parecía imposible, ya no lo es. A partir de ahora Android funciona con el AirDrop del iPhone para enviar y recibir archivos. El sorpresivo anuncio de Google forma parte de una actualización de Quick Share, que ahora es compatible con…
 https://hipertextual.com/mobile/el-infierno-se-congela-android-ahora-es-compatible-con-el-airdrop-del-iphone/
 🗓️ 2025-11-20 • 🏷️ hipertextual.com
+
+### 2025-11-21T02:40:41.450Z
+📰 Google lanza Nano Banana Pro, su generador de imágenes más avanzado con todo el poder de Gemini 3 Pro (es gratis)
+¡Hazte a un lado, Nano Banana, tu reemplazo ha llegado! Google acaba de lanzar Nano Banana Pro, la nueva versión avanzada de su aclamado generador de imágenes con IA, que llega impulsado por Gemini 3 Pro, su modelo de lenguaje más potente h…
+https://hipertextual.com/inteligencia-artificial/google-nano-banana-pro-gemini-3-pro/
+🗓️ 2025-11-20 • 🏷️ hipertextual.com
