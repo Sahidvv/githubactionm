@@ -1855,3 +1855,9 @@ https://hipertextual.com/mobile/moto-g-stylus-2026-filtracion-fotos/
 El fallo convierte los incumplimientos de privacidad de Facebook e Instagram en una causa de competencia desleal, abriendo la puerta a que los editores reclamen daños masivos a las tecnológicas por jugar con las cartas marcadas en el mercad…
 https://www.eldiario.es/tecnologia/condena-meta-reordena-tablero-digital-justicia-zanja-plataformas-medios-compiten-mercado_1_12785939.html
 🗓️ 2025-11-21 • 🏷️ eldiario.es
+
+### 2025-11-22T13:23:33.587Z
+📰 Todo lo que debes saber de ‘La mano que mece la cuna’, el remake del clásico de los 90
+La mano que mece la cuna, lo nuevo de Disney+ disponible desde del 19 de noviembre, no cuenta ninguna historia original. Después de todo, es una versión para un público nuevo de la cinta del mismo nombre de Curtis Hanson, estrenada en 1992.…
+https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-la-mano-que-mece-la-cuna-el-remake-del-clasico-de-los-90/
+🗓️ 2025-11-22 • 🏷️ hipertextual.com
