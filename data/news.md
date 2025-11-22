@@ -1861,3 +1861,9 @@ https://www.eldiario.es/tecnologia/condena-meta-reordena-tablero-digital-justici
 La mano que mece la cuna, lo nuevo de Disney+ disponible desde del 19 de noviembre, no cuenta ninguna historia original. Después de todo, es una versión para un público nuevo de la cinta del mismo nombre de Curtis Hanson, estrenada en 1992.…
 https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-la-mano-que-mece-la-cuna-el-remake-del-clasico-de-los-90/
 🗓️ 2025-11-22 • 🏷️ hipertextual.com
+
+### 2025-11-22T19:15:09.400Z
+📰 12 escándalos que han dado mucho de qué hablar en Internet en 2025
+A un mes y poco más para finalizar el año, algo queda claro: 2025 ha sorprendido en toda su variedad de situaciones impredecibles y escándalos. A debates políticos inéditos y controversiales, situaciones mundiales cada vez más tensas, se le…
+https://hipertextual.com/tecnologia/12-escandalos-que-han-dado-mucho-de-que-hablar-en-internet-en-2025/
+🗓️ 2025-11-22 • 🏷️ hipertextual.com
