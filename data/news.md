@@ -1849,3 +1849,9 @@ https://hipertextual.com/ciencia/hormigas-matan-a-su-reina/
 Motorola ha encontrado la fórmula para vencer a Xiaomi y Samsung en la gama media. La familia Moto G suele ofrecer móviles bastante equilibrados con diseño, cámara y batería que no le piden nada a los modelos de 600 euros. Uno de ellos es e…
 https://hipertextual.com/mobile/moto-g-stylus-2026-filtracion-fotos/
 🗓️ 2025-11-21 • 🏷️ hipertextual.com
+
+### 2025-11-22T02:24:58.097Z
+📰 La condena a Meta reordena el tablero digital: la Justicia zanja que plataformas y medios compiten por el mismo mercado
+El fallo convierte los incumplimientos de privacidad de Facebook e Instagram en una causa de competencia desleal, abriendo la puerta a que los editores reclamen daños masivos a las tecnológicas por jugar con las cartas marcadas en el mercad…
+https://www.eldiario.es/tecnologia/condena-meta-reordena-tablero-digital-justicia-zanja-plataformas-medios-compiten-mercado_1_12785939.html
+🗓️ 2025-11-21 • 🏷️ eldiario.es

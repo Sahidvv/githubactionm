@@ -1624,3 +1624,19 @@ https://hipertextual.com/inteligencia-artificial/google-nano-banana-pro-gemini-3
 🗓️ 2025-11-20 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-22
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La condena a Meta reordena el tablero digital: la Justicia zanja que plataformas y medios compiten por el mismo mercado
+El fallo convierte los incumplimientos de privacidad de Facebook e Instagram en una causa de competencia desleal, abriendo la puerta a que los editores reclamen daños masivos a las tecnológicas por jugar con las cartas marcadas en el mercad…
+https://www.eldiario.es/tecnologia/condena-meta-reordena-tablero-digital-justicia-zanja-plataformas-medios-compiten-mercado_1_12785939.html
+🗓️ 2025-11-21 • 🏷️ eldiario.es
+
+---
