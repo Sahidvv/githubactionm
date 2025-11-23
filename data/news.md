@@ -1873,3 +1873,9 @@ https://hipertextual.com/tecnologia/12-escandalos-que-han-dado-mucho-de-que-habl
 La de los ochenta fue una década particularmente singular en España. Apenas habían pasado cinco años de la muerte de Franco, el país entero todavía estaba encajando la nueva realidad de un sistema democrático tras 40 años de dictadura y, co…
 https://www.muycomputer.com/2025/11/22/que-fue-la-edad-de-oro-del-videojuego-espanol/
 🗓️ 2025-11-22 • 🏷️ muycomputer.com
+
+### 2025-11-23T13:23:29.378Z
+📰 Meta vuelve a mentir: documentos internos prueban que conocía los daños de sus redes
+Empezaré diciendo que, como en otras ocasiones al hablar de Meta, esta noticia tiene parte de información e, inevitablemente, una parte importante de opinión. A estas alturas, sorprenderse con Meta resulta ingenuo. Una y otra vez, la compañ…
+https://www.muycomputer.com/2025/11/23/meta-vuelve-a-mentir-documentos-internos-prueban-que-conocia-los-danos-de-sus-redes/
+🗓️ 2025-11-23 • 🏷️ muycomputer.com
