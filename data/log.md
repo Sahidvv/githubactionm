@@ -1640,3 +1640,19 @@ https://www.eldiario.es/tecnologia/condena-meta-reordena-tablero-digital-justici
 🗓️ 2025-11-21 • 🏷️ eldiario.es
 
 ---
+## 2025-11-23
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ¿Qué fue la Edad de Oro del videojuego español?
+La de los ochenta fue una década particularmente singular en España. Apenas habían pasado cinco años de la muerte de Franco, el país entero todavía estaba encajando la nueva realidad de un sistema democrático tras 40 años de dictadura y, co…
+https://www.muycomputer.com/2025/11/22/que-fue-la-edad-de-oro-del-videojuego-espanol/
+🗓️ 2025-11-22 • 🏷️ muycomputer.com
+
+---

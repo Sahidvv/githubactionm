@@ -1867,3 +1867,9 @@ https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-la-mano-que-
 A un mes y poco más para finalizar el año, algo queda claro: 2025 ha sorprendido en toda su variedad de situaciones impredecibles y escándalos. A debates políticos inéditos y controversiales, situaciones mundiales cada vez más tensas, se le…
 https://hipertextual.com/tecnologia/12-escandalos-que-han-dado-mucho-de-que-hablar-en-internet-en-2025/
 🗓️ 2025-11-22 • 🏷️ hipertextual.com
+
+### 2025-11-23T02:56:45.168Z
+📰 ¿Qué fue la Edad de Oro del videojuego español?
+La de los ochenta fue una década particularmente singular en España. Apenas habían pasado cinco años de la muerte de Franco, el país entero todavía estaba encajando la nueva realidad de un sistema democrático tras 40 años de dictadura y, co…
+https://www.muycomputer.com/2025/11/22/que-fue-la-edad-de-oro-del-videojuego-espanol/
+🗓️ 2025-11-22 • 🏷️ muycomputer.com
