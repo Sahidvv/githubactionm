@@ -1879,3 +1879,9 @@ https://www.muycomputer.com/2025/11/22/que-fue-la-edad-de-oro-del-videojuego-esp
 Empezaré diciendo que, como en otras ocasiones al hablar de Meta, esta noticia tiene parte de información e, inevitablemente, una parte importante de opinión. A estas alturas, sorprenderse con Meta resulta ingenuo. Una y otra vez, la compañ…
 https://www.muycomputer.com/2025/11/23/meta-vuelve-a-mentir-documentos-internos-prueban-que-conocia-los-danos-de-sus-redes/
 🗓️ 2025-11-23 • 🏷️ muycomputer.com
+
+### 2025-11-23T19:15:34.002Z
+📰 20 años de Xbox 360, la consola más exitosa de Microsoft
+Hay consolas que, más allá de su catálogo, su potencia o su éxito comercial, quedan asociadas de forma inevitable a una época. No solo porque definieron cómo se jugaba, sino porque acompañaron toda una etapa vital para quienes las vivieron.…
+https://www.muycomputer.com/2025/11/23/20-anos-de-xbox-360-la-consola-mas-exitosa-de-microsoft/
+🗓️ 2025-11-23 • 🏷️ muycomputer.com
