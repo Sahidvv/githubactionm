@@ -1656,3 +1656,19 @@ https://www.muycomputer.com/2025/11/22/que-fue-la-edad-de-oro-del-videojuego-esp
 🗓️ 2025-11-22 • 🏷️ muycomputer.com
 
 ---
+## 2025-11-24
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (CDXCIX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: . Cómo usar el modo incógnito para navegar por Inte…
+https://www.muycomputer.com/2025/11/23/los-mejores-contenidos-de-la-semana-en-muycomputer-cdxcix/
+🗓️ 2025-11-23 • 🏷️ muycomputer.com
+
+---
