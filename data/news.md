@@ -1897,3 +1897,9 @@ https://www.muycomputer.com/2025/11/23/los-mejores-contenidos-de-la-semana-en-mu
 ¿Alguna vez te has preguntado qué te pasaría si un agujero negro atravesara tu cuerpo? Posiblemente no te lo hubieses preguntado, pero ahora lo estés haciendo con ahínco. Es como lo de no pensar en un elefante rosa. Quien sí se lo había pre…
 https://hipertextual.com/ciencia/que-pasaria-cuerpo-atravesara-agujeros-negros/
 🗓️ 2025-11-24 • 🏷️ hipertextual.com
+
+### 2025-11-24T19:14:41.155Z
+📰 Amazon revela Leo Ultra: su internet satelital que deja en ridículo a Starlink
+Amazon mostró por primera vez la antena que usará Leo, su internet satelital que compite con Starlink. Panos Panay, el genio detrás de Surface y algunos de los productos más emblemáticos de Microsoft, reveló el diseño final de este disposit…
+https://hipertextual.com/internet/amazon-leo-antena-ultra-starlink/
+🗓️ 2025-11-24 • 🏷️ hipertextual.com
