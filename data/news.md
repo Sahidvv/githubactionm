@@ -1891,3 +1891,9 @@ https://www.muycomputer.com/2025/11/23/20-anos-de-xbox-360-la-consola-mas-exitos
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: . Cómo usar el modo incógnito para navegar por Inte…
 https://www.muycomputer.com/2025/11/23/los-mejores-contenidos-de-la-semana-en-muycomputer-cdxcix/
 🗓️ 2025-11-23 • 🏷️ muycomputer.com
+
+### 2025-11-24T13:33:41.642Z
+📰 ¿Qué pasaría si un agujero negro atravesase tu cuerpo? Por loco que parezca, este científico ha respondido a la pregunta
+¿Alguna vez te has preguntado qué te pasaría si un agujero negro atravesara tu cuerpo? Posiblemente no te lo hubieses preguntado, pero ahora lo estés haciendo con ahínco. Es como lo de no pensar en un elefante rosa. Quien sí se lo había pre…
+https://hipertextual.com/ciencia/que-pasaria-cuerpo-atravesara-agujeros-negros/
+🗓️ 2025-11-24 • 🏷️ hipertextual.com
