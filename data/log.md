@@ -1672,3 +1672,19 @@ https://www.muycomputer.com/2025/11/23/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-11-23 • 🏷️ muycomputer.com
 
 ---
+## 2025-11-25
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La nueva IA de Anthropic programa mejor que un ingeniero de software
+Anthropic ha lanzado una nueva inteligencia artificial que promete superar a cualquiera de sus contrincantes en tareas de desarrollo. La compañía señala que Claude Opus 4.5 es "el mejor modelo del mundo para programación, agentes y uso info…
+https://hipertextual.com/inteligencia-artificial/claude-opus-4-5-ia-supera-gpt5-gemini/
+🗓️ 2025-11-24 • 🏷️ hipertextual.com
+
+---

@@ -1903,3 +1903,9 @@ https://hipertextual.com/ciencia/que-pasaria-cuerpo-atravesara-agujeros-negros/
 Amazon mostró por primera vez la antena que usará Leo, su internet satelital que compite con Starlink. Panos Panay, el genio detrás de Surface y algunos de los productos más emblemáticos de Microsoft, reveló el diseño final de este disposit…
 https://hipertextual.com/internet/amazon-leo-antena-ultra-starlink/
 🗓️ 2025-11-24 • 🏷️ hipertextual.com
+
+### 2025-11-25T02:44:42.482Z
+📰 La nueva IA de Anthropic programa mejor que un ingeniero de software
+Anthropic ha lanzado una nueva inteligencia artificial que promete superar a cualquiera de sus contrincantes en tareas de desarrollo. La compañía señala que Claude Opus 4.5 es "el mejor modelo del mundo para programación, agentes y uso info…
+https://hipertextual.com/inteligencia-artificial/claude-opus-4-5-ia-supera-gpt5-gemini/
+🗓️ 2025-11-24 • 🏷️ hipertextual.com
