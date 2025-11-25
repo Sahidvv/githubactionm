@@ -1909,3 +1909,9 @@ https://hipertextual.com/internet/amazon-leo-antena-ultra-starlink/
 Anthropic ha lanzado una nueva inteligencia artificial que promete superar a cualquiera de sus contrincantes en tareas de desarrollo. La compañía señala que Claude Opus 4.5 es "el mejor modelo del mundo para programación, agentes y uso info…
 https://hipertextual.com/inteligencia-artificial/claude-opus-4-5-ia-supera-gpt5-gemini/
 🗓️ 2025-11-24 • 🏷️ hipertextual.com
+
+### 2025-11-25T13:34:09.483Z
+📰 Windows Insiders, ¿una oportunidad perdida?
+Windows Insiders es el mayor programa de prueba que ha tenido nunca Microsoft y quizá el más extenso del mundo en lo relativo a software. Se estrenó a finales de de 2014 con una iniciativa que permitiera a ingenieros y responsables de produ…
+https://www.muycomputer.com/2025/11/25/windows-insiders-una-oportunidad-perdida/
+🗓️ 2025-11-25 • 🏷️ muycomputer.com
