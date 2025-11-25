@@ -1915,3 +1915,9 @@ https://hipertextual.com/inteligencia-artificial/claude-opus-4-5-ia-supera-gpt5-
 Windows Insiders es el mayor programa de prueba que ha tenido nunca Microsoft y quizá el más extenso del mundo en lo relativo a software. Se estrenó a finales de de 2014 con una iniciativa que permitiera a ingenieros y responsables de produ…
 https://www.muycomputer.com/2025/11/25/windows-insiders-una-oportunidad-perdida/
 🗓️ 2025-11-25 • 🏷️ muycomputer.com
+
+### 2025-11-25T19:17:36.571Z
+📰 Se filtra Aluminium OS, el sistema operativo que lleva Android al PC
+A más de un año de que se conocieran los planes de Google para llevar Android al PC, hoy se han filtrado sus primeras características. Una oferta de trabajo desveló que la empresa trabaja en Aluminium OS, un nuevo sistema operativo basado e…
+https://hipertextual.com/software/aluminium-os-android-pc-reemplazo-chromeos/
+🗓️ 2025-11-25 • 🏷️ hipertextual.com
