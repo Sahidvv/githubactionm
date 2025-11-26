@@ -1688,3 +1688,19 @@ https://hipertextual.com/inteligencia-artificial/claude-opus-4-5-ia-supera-gpt5-
 🗓️ 2025-11-24 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-26
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La pintora capaz de percibir más de 100 millones de colores
+Según las investigaciones de Ricardo Rafael Contreras, entre otros, en la naturaleza no existe ninguna materia u onda que tenga color por sí misma. El cerebro genera la sensación de color cuando la retina del ojo es estimulada por la energí…
+https://hipertextual.com/cultura/la-pintora-capaz-percibir-mas-100-millones-colores/
+🗓️ 2025-11-25 • 🏷️ hipertextual.com
+
+---

@@ -1921,3 +1921,9 @@ https://www.muycomputer.com/2025/11/25/windows-insiders-una-oportunidad-perdida/
 A más de un año de que se conocieran los planes de Google para llevar Android al PC, hoy se han filtrado sus primeras características. Una oferta de trabajo desveló que la empresa trabaja en Aluminium OS, un nuevo sistema operativo basado e…
 https://hipertextual.com/software/aluminium-os-android-pc-reemplazo-chromeos/
 🗓️ 2025-11-25 • 🏷️ hipertextual.com
+
+### 2025-11-26T02:44:52.570Z
+📰 La pintora capaz de percibir más de 100 millones de colores
+Según las investigaciones de Ricardo Rafael Contreras, entre otros, en la naturaleza no existe ninguna materia u onda que tenga color por sí misma. El cerebro genera la sensación de color cuando la retina del ojo es estimulada por la energí…
+https://hipertextual.com/cultura/la-pintora-capaz-percibir-mas-100-millones-colores/
+🗓️ 2025-11-25 • 🏷️ hipertextual.com
