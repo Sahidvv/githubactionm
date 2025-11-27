@@ -1951,3 +1951,9 @@ https://hipertextual.com/cine-television/stranger-things-temporada-5-volumen-i-%
 Que el iPhone Air no es un éxito comercial, no es novedad. El interés por su diseño no se ha traducido en ventas masivas, lo cual no solo afecta a Apple, sino también a sus rivales. Al punto tal que ya son varias las marcas chinas que han c…
 https://hipertextual.com/apple/fiasco-iphone-air-clones-chinos/
 🗓️ 2025-11-27 • 🏷️ hipertextual.com
+
+### 2025-11-27T19:16:15.903Z
+📰 Lo nuevo de Google Maps es una maravilla: la batería de tu móvil te lo agradecerá
+Google Maps acaba de desplegar una mejora crucial para reducir el consumo de batería en Android. Se trata de un nuevo modo de ahorro de energía que destaca por su interfaz simplificada que permite extender la autonomía del dispositivo sin t…
+https://hipertextual.com/mobile/google-maps-modo-ahorro-de-energia-pixel-10/
+🗓️ 2025-11-27 • 🏷️ hipertextual.com
