@@ -1945,3 +1945,9 @@ https://hipertextual.com/cine-television/movistar-plus-1-euro-oferta-black-frida
 Stranger Things deja algo en claro desde el primer capítulo de la quinta temporada: es un fenómeno que se ha mantenido vivo gracias a sus fans. Precisamente, sus primeras escenas son un homenaje a esa fidelidad. Hay muchos de recapitulación…
 https://hipertextual.com/cine-television/stranger-things-temporada-5-volumen-i-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-una-de-las-mejores-temporadas-hasta-la-fecha/
 🗓️ 2025-11-27 • 🏷️ hipertextual.com
+
+### 2025-11-27T13:31:54.064Z
+📰 Por el fiasco del iPhone Air, marcas chinas ya cancelaron sus clones ultradelgados
+Que el iPhone Air no es un éxito comercial, no es novedad. El interés por su diseño no se ha traducido en ventas masivas, lo cual no solo afecta a Apple, sino también a sus rivales. Al punto tal que ya son varias las marcas chinas que han c…
+https://hipertextual.com/apple/fiasco-iphone-air-clones-chinos/
+🗓️ 2025-11-27 • 🏷️ hipertextual.com
