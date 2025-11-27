@@ -1704,3 +1704,19 @@ https://hipertextual.com/cultura/la-pintora-capaz-percibir-mas-100-millones-colo
 🗓️ 2025-11-25 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-27
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Stranger Things 5, Vol 1, vuelve mejor que nunca (★★★★☆)
+Stranger Things deja algo en claro desde el primer capítulo de la quinta temporada: es un fenómeno que se ha mantenido vivo gracias a sus fans. Precisamente, sus primeras escenas son un homenaje a esa fidelidad. Hay muchos de recapitulación…
+https://hipertextual.com/cine-television/stranger-things-temporada-5-volumen-i-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-una-de-las-mejores-temporadas-hasta-la-fecha/
+🗓️ 2025-11-27 • 🏷️ hipertextual.com
+
+---
