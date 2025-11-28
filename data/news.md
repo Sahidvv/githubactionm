@@ -1969,3 +1969,9 @@ https://hipertextual.com/inteligencia-artificial/google-limita-gemini-3-pro-cuen
 Con el estreno del primer tráiler de Avengers: Doomsday a la vuelta de la esquina, Robert Downey Jr. acaba de publicar un mensaje de lo más misterioso en redes sociales. El actor de Doctor Doom, el gran villano de la película, ha aprovechad…
 https://hipertextual.com/cine-television/el-enigmatico-mensaje-de-robert-downey-jr-sobre-avengers-doomsday-desata-todo-tipo-de-teorias/
 🗓️ 2025-11-28 • 🏷️ hipertextual.com
+
+### 2025-11-28T19:15:55.079Z
+📰 ChatGPT le copia a Google y restringe sus cuentas gratuitas
+Google no es la única que está imponiendo restricciones a su IA. Tras un aumento en la demanda de usuarios, OpenAI anunció que limitará Sora 2. La empresa detrás de ChatGPT reveló que reducirá la cantidad de videos que puedes generar con un…
+https://hipertextual.com/inteligencia-artificial/openai-limita-sora-2-videos-diarios-gratis/
+🗓️ 2025-11-28 • 🏷️ hipertextual.com
