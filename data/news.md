@@ -1957,3 +1957,9 @@ https://hipertextual.com/apple/fiasco-iphone-air-clones-chinos/
 Google Maps acaba de desplegar una mejora crucial para reducir el consumo de batería en Android. Se trata de un nuevo modo de ahorro de energía que destaca por su interfaz simplificada que permite extender la autonomía del dispositivo sin t…
 https://hipertextual.com/mobile/google-maps-modo-ahorro-de-energia-pixel-10/
 🗓️ 2025-11-27 • 🏷️ hipertextual.com
+
+### 2025-11-28T02:40:58.976Z
+📰 Se acabó la fiesta: Google impone límites a su IA más poderosa
+Google ha impuesto límites a su IA más poderosa. Una actualización a los documentos de soporte muestra que Gemini 3 Pro ajustó el acceso para los usuarios con cuenta gratuita. Si no tienes una cuenta AI Pro o AI Ultra, Google solo ofrecerá …
+https://hipertextual.com/inteligencia-artificial/google-limita-gemini-3-pro-cuentas-gratis/
+🗓️ 2025-11-27 • 🏷️ hipertextual.com

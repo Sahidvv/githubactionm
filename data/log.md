@@ -1720,3 +1720,19 @@ https://hipertextual.com/cine-television/stranger-things-temporada-5-volumen-i-%
 🗓️ 2025-11-27 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-28
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Se acabó la fiesta: Google impone límites a su IA más poderosa
+Google ha impuesto límites a su IA más poderosa. Una actualización a los documentos de soporte muestra que Gemini 3 Pro ajustó el acceso para los usuarios con cuenta gratuita. Si no tienes una cuenta AI Pro o AI Ultra, Google solo ofrecerá …
+https://hipertextual.com/inteligencia-artificial/google-limita-gemini-3-pro-cuentas-gratis/
+🗓️ 2025-11-27 • 🏷️ hipertextual.com
+
+---
