@@ -1987,3 +1987,9 @@ https://hipertextual.com/apple/apple-airpods-lectura-actividad-cerebral/
 El asesino con ojos de corazón, ya disponible en Movistar+, es la película de terror que deberías ver si odias, lo cursi, sensiblero y empalagoso. Y la película lo deja claro de inmediato. Eso, al seguir a un asesino obsesionado con corazon…
 https://hipertextual.com/cine-television/esta-es-la-pelicula-de-terror-mas-incomoda-que-he-visto-en-2025-y-te-va-a-sorprender-saber-cual-es/
 🗓️ 2025-11-29 • 🏷️ hipertextual.com
+
+### 2025-11-29T19:15:26.914Z
+📰 Esta polémica película de Julia Roberts acaba de llegar a Prime Video y debes verla para entender el revuelo su alrededor
+Caza de brujas (2025) de Luca Guadagnino causó revuelo, polémica y discusión a su paso por festivales y cines mundiales. Todo debido al hecho de que la cinta toca un tema sensible en la actualidad: la llamada cultura de la cancelación. Lo h…
+https://hipertextual.com/cine-television/esta-polemica-pelicula-de-julia-roberts-acaba-de-llegar-a-prime-video-y-debes-verla-para-entender-el-revuelo-su-alrededor/
+🗓️ 2025-11-29 • 🏷️ hipertextual.com
