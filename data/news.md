@@ -1975,3 +1975,9 @@ https://hipertextual.com/cine-television/el-enigmatico-mensaje-de-robert-downey-
 Google no es la única que está imponiendo restricciones a su IA. Tras un aumento en la demanda de usuarios, OpenAI anunció que limitará Sora 2. La empresa detrás de ChatGPT reveló que reducirá la cantidad de videos que puedes generar con un…
 https://hipertextual.com/inteligencia-artificial/openai-limita-sora-2-videos-diarios-gratis/
 🗓️ 2025-11-28 • 🏷️ hipertextual.com
+
+### 2025-11-29T02:40:12.620Z
+📰 Tus próximos AirPods podrían leer la mente gracias a esta tecnología
+Apple ha desarrollado una tecnología que permitiría leer tu cerebro por medio de los AirPods. El gigante de Cupertino publicó un estudio que detalla un nuevo método para analizar las señales de electroencefalografía a través de los auricula…
+https://hipertextual.com/apple/apple-airpods-lectura-actividad-cerebral/
+🗓️ 2025-11-28 • 🏷️ hipertextual.com

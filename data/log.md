@@ -1736,3 +1736,19 @@ https://hipertextual.com/inteligencia-artificial/google-limita-gemini-3-pro-cuen
 🗓️ 2025-11-27 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-29
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Tus próximos AirPods podrían leer la mente gracias a esta tecnología
+Apple ha desarrollado una tecnología que permitiría leer tu cerebro por medio de los AirPods. El gigante de Cupertino publicó un estudio que detalla un nuevo método para analizar las señales de electroencefalografía a través de los auricula…
+https://hipertextual.com/apple/apple-airpods-lectura-actividad-cerebral/
+🗓️ 2025-11-28 • 🏷️ hipertextual.com
+
+---
