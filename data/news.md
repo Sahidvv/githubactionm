@@ -1981,3 +1981,9 @@ https://hipertextual.com/inteligencia-artificial/openai-limita-sora-2-videos-dia
 Apple ha desarrollado una tecnología que permitiría leer tu cerebro por medio de los AirPods. El gigante de Cupertino publicó un estudio que detalla un nuevo método para analizar las señales de electroencefalografía a través de los auricula…
 https://hipertextual.com/apple/apple-airpods-lectura-actividad-cerebral/
 🗓️ 2025-11-28 • 🏷️ hipertextual.com
+
+### 2025-11-29T13:26:47.450Z
+📰 Esta es la película de terror más incómoda que he visto en 2025 y te va a sorprender saber cuál es
+El asesino con ojos de corazón, ya disponible en Movistar+, es la película de terror que deberías ver si odias, lo cursi, sensiblero y empalagoso. Y la película lo deja claro de inmediato. Eso, al seguir a un asesino obsesionado con corazon…
+https://hipertextual.com/cine-television/esta-es-la-pelicula-de-terror-mas-incomoda-que-he-visto-en-2025-y-te-va-a-sorprender-saber-cual-es/
+🗓️ 2025-11-29 • 🏷️ hipertextual.com
