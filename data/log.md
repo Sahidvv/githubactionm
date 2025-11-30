@@ -1752,3 +1752,19 @@ https://hipertextual.com/apple/apple-airpods-lectura-actividad-cerebral/
 🗓️ 2025-11-28 • 🏷️ hipertextual.com
 
 ---
+## 2025-11-30
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Tres años de ChatGPT: la máquina que no pudo quitarte el trabajo ahora va a por tus secretos
+Sam Altman, para quien la publicidad era "el último recurso" de OpenAI, abre la puerta a insertar anuncios en ChatGPT basados en los datos personales de los usuarios ante los problemas con el negocio corporativoOpenAI se ha comprometido a g…
+https://www.eldiario.es/tecnologia/tres-anos-chatgpt-maquina-no-pudo-quitarte-trabajo-ahora-secretos_1_12804529.html
+🗓️ 2025-11-29 • 🏷️ eldiario.es
+
+---

@@ -1993,3 +1993,9 @@ https://hipertextual.com/cine-television/esta-es-la-pelicula-de-terror-mas-incom
 Caza de brujas (2025) de Luca Guadagnino causó revuelo, polémica y discusión a su paso por festivales y cines mundiales. Todo debido al hecho de que la cinta toca un tema sensible en la actualidad: la llamada cultura de la cancelación. Lo h…
 https://hipertextual.com/cine-television/esta-polemica-pelicula-de-julia-roberts-acaba-de-llegar-a-prime-video-y-debes-verla-para-entender-el-revuelo-su-alrededor/
 🗓️ 2025-11-29 • 🏷️ hipertextual.com
+
+### 2025-11-30T02:55:46.223Z
+📰 Tres años de ChatGPT: la máquina que no pudo quitarte el trabajo ahora va a por tus secretos
+Sam Altman, para quien la publicidad era "el último recurso" de OpenAI, abre la puerta a insertar anuncios en ChatGPT basados en los datos personales de los usuarios ante los problemas con el negocio corporativoOpenAI se ha comprometido a g…
+https://www.eldiario.es/tecnologia/tres-anos-chatgpt-maquina-no-pudo-quitarte-trabajo-ahora-secretos_1_12804529.html
+🗓️ 2025-11-29 • 🏷️ eldiario.es
