@@ -2005,3 +2005,9 @@ https://www.eldiario.es/tecnologia/tres-anos-chatgpt-maquina-no-pudo-quitarte-tr
 Apple TV se ha convertido en una de las plataformas de streaming con mayor calidad en su contenido tanto de series como de películas. Y la plataforma que más riesgos suele tomar al momento de producir todo tipo de historias, con especial én…
 https://hipertextual.com/tecnologia/5-peliculas-y-series-increibles-para-ver-en-streaming/
 🗓️ 2025-11-30 • 🏷️ hipertextual.com
+
+### 2025-11-30T19:15:55.264Z
+📰 James Webb apunta al pasado y encuentra el agujero negro más antiguo
+El pasado más remoto del universo no ha desaparecido. Simplemente se ha alejado tanto que su luz apenas nos alcanza. Pero cuando lo hace, nos revela fragmentos de una historia que aún no entendemos del todo. Y a veces, en medio de esa oscur…
+https://www.muycomputer.com/2025/11/30/james-webb-apunta-al-pasado-y-encuentra-el-agujero-negro-mas-antiguo/
+🗓️ 2025-11-30 • 🏷️ muycomputer.com
