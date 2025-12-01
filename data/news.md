@@ -2017,3 +2017,9 @@ https://www.muycomputer.com/2025/11/30/james-webb-apunta-al-pasado-y-encuentra-e
 Parece que fue ayer cuando empezamos a publicar este recopilatorio con los mejores contenidos de la semana en MC pero, como puedes comprobar en el título de esta nueva edición, esta semana hemos alcanzado los 500 resúmenes. Cerca de diez añ…
 https://www.muycomputer.com/2025/11/30/los-mejores-contenidos-de-la-semana-en-muycomputer-d/
 🗓️ 2025-11-30 • 🏷️ muycomputer.com
+
+### 2025-12-01T13:35:24.155Z
+📰 Mercadona va a por Zara y Parfois. Su último producto es un bolso que está arrasando y cuesta solo 15 euros
+Mercadona ha vuelto a lanzar uno de esos productos que va a costar ver en los estantes. Si tienes suerte lo encontrarás en la sección de perfumería, pues a pesar de tener forma de bolso y ser un bolso, está lleno de sorpresas relacionadas c…
+https://hipertextual.com/internet/mercadona-va-a-por-zara-y-parfois-su-ultimo-producto-es-un-bolso-que-esta-arrasando-y-cuesta-solo-15-euros/
+🗓️ 2025-12-01 • 🏷️ hipertextual.com
