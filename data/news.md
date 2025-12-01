@@ -2023,3 +2023,9 @@ https://www.muycomputer.com/2025/11/30/los-mejores-contenidos-de-la-semana-en-mu
 Mercadona ha vuelto a lanzar uno de esos productos que va a costar ver en los estantes. Si tienes suerte lo encontrarás en la sección de perfumería, pues a pesar de tener forma de bolso y ser un bolso, está lleno de sorpresas relacionadas c…
 https://hipertextual.com/internet/mercadona-va-a-por-zara-y-parfois-su-ultimo-producto-es-un-bolso-que-esta-arrasando-y-cuesta-solo-15-euros/
 🗓️ 2025-12-01 • 🏷️ hipertextual.com
+
+### 2025-12-01T19:22:32.000Z
+📰 Telefónica pone precio al ERE: ofrece el 68% del salario a los mayores de 55 años
+La compañía plantea sostener el ERE sobre las prejubilaciones mientras los sindicatos exigen que todas las salidas sean voluntariasLa compañía aspira a hacer un recorte que supere los 6.000 despidos, un 24% de la plantilla La mesa de negoci…
+https://www.eldiario.es/tecnologia/telefonica-pone-precio-ere-ofrece-68-salario-mayores-55-anos_1_12812160.html
+🗓️ 2025-12-01 • 🏷️ eldiario.es
