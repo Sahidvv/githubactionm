@@ -2011,3 +2011,9 @@ https://hipertextual.com/tecnologia/5-peliculas-y-series-increibles-para-ver-en-
 El pasado más remoto del universo no ha desaparecido. Simplemente se ha alejado tanto que su luz apenas nos alcanza. Pero cuando lo hace, nos revela fragmentos de una historia que aún no entendemos del todo. Y a veces, en medio de esa oscur…
 https://www.muycomputer.com/2025/11/30/james-webb-apunta-al-pasado-y-encuentra-el-agujero-negro-mas-antiguo/
 🗓️ 2025-11-30 • 🏷️ muycomputer.com
+
+### 2025-12-01T03:07:18.387Z
+📰 Los mejores contenidos de la semana en MuyComputer (D)
+Parece que fue ayer cuando empezamos a publicar este recopilatorio con los mejores contenidos de la semana en MC pero, como puedes comprobar en el título de esta nueva edición, esta semana hemos alcanzado los 500 resúmenes. Cerca de diez añ…
+https://www.muycomputer.com/2025/11/30/los-mejores-contenidos-de-la-semana-en-muycomputer-d/
+🗓️ 2025-11-30 • 🏷️ muycomputer.com

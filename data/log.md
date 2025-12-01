@@ -1768,3 +1768,19 @@ https://www.eldiario.es/tecnologia/tres-anos-chatgpt-maquina-no-pudo-quitarte-tr
 🗓️ 2025-11-29 • 🏷️ eldiario.es
 
 ---
+## 2025-12-01
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (D)
+Parece que fue ayer cuando empezamos a publicar este recopilatorio con los mejores contenidos de la semana en MC pero, como puedes comprobar en el título de esta nueva edición, esta semana hemos alcanzado los 500 resúmenes. Cerca de diez añ…
+https://www.muycomputer.com/2025/11/30/los-mejores-contenidos-de-la-semana-en-muycomputer-d/
+🗓️ 2025-11-30 • 🏷️ muycomputer.com
+
+---
