@@ -2041,3 +2041,9 @@ https://hipertextual.com/apple/apple-john-giannandrea-renuncia-jefe-ia/
 La amenaza de Gemini a ChatGPT ha encendido las alarmas en las oficinas de OpenAI. A tal punto que, según reportan The Wall Street Journal y The Information, Sam Altman ha declarado un "código rojo" que trae consigo varios cambios en los pl…
 https://hipertextual.com/inteligencia-artificial/chatgpt-problemas-codigo-rojo-frenar-amenaza-gemini/
 🗓️ 2025-12-02 • 🏷️ hipertextual.com
+
+### 2025-12-02T19:19:21.721Z
+📰 Amazon presenta Trainium3, el nuevo chip de IA que quiere destronar a NVIDIA
+Amazon ha presentado un nuevo chip de IA con el que espera robarle un segmento del mercado a NVIDIA. La empresa aprovechó el inicio de su evento AWS re:Invent para anunciar una versión mejorada de su chip de entrenamiento e inferencia. Trai…
+https://hipertextual.com/inteligencia-artificial/amazon-trainium3-chip-ia-nvidia/
+🗓️ 2025-12-02 • 🏷️ hipertextual.com
