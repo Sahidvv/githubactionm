@@ -2035,3 +2035,9 @@ https://www.eldiario.es/tecnologia/telefonica-pone-precio-ere-ofrece-68-salario-
 John Giannandrea dejará su cargo como jefe de inteligencia artificial y aprendizaje automático de Apple. La compañía anunció que el directivo dimitió del cargo y se retirará el próximo año. Giannandrea fue una de las figuras clave en la est…
 https://hipertextual.com/apple/apple-john-giannandrea-renuncia-jefe-ia/
 🗓️ 2025-12-02 • 🏷️ hipertextual.com
+
+### 2025-12-02T13:37:00.556Z
+📰 ChatGPT, en serios problemas: OpenAI activa un &#8216;código rojo&#8217; para frenar la amenaza de Gemini
+La amenaza de Gemini a ChatGPT ha encendido las alarmas en las oficinas de OpenAI. A tal punto que, según reportan The Wall Street Journal y The Information, Sam Altman ha declarado un "código rojo" que trae consigo varios cambios en los pl…
+https://hipertextual.com/inteligencia-artificial/chatgpt-problemas-codigo-rojo-frenar-amenaza-gemini/
+🗓️ 2025-12-02 • 🏷️ hipertextual.com
