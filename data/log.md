@@ -1784,3 +1784,19 @@ https://www.muycomputer.com/2025/11/30/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-11-30 • 🏷️ muycomputer.com
 
 ---
+## 2025-12-02
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El jefe de IA de Apple anuncia su retiro tras el fracaso de Siri
+John Giannandrea dejará su cargo como jefe de inteligencia artificial y aprendizaje automático de Apple. La compañía anunció que el directivo dimitió del cargo y se retirará el próximo año. Giannandrea fue una de las figuras clave en la est…
+https://hipertextual.com/apple/apple-john-giannandrea-renuncia-jefe-ia/
+🗓️ 2025-12-02 • 🏷️ hipertextual.com
+
+---

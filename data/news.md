@@ -2029,3 +2029,9 @@ https://hipertextual.com/internet/mercadona-va-a-por-zara-y-parfois-su-ultimo-pr
 La compañía plantea sostener el ERE sobre las prejubilaciones mientras los sindicatos exigen que todas las salidas sean voluntariasLa compañía aspira a hacer un recorte que supere los 6.000 despidos, un 24% de la plantilla La mesa de negoci…
 https://www.eldiario.es/tecnologia/telefonica-pone-precio-ere-ofrece-68-salario-mayores-55-anos_1_12812160.html
 🗓️ 2025-12-01 • 🏷️ eldiario.es
+
+### 2025-12-02T02:49:52.079Z
+📰 El jefe de IA de Apple anuncia su retiro tras el fracaso de Siri
+John Giannandrea dejará su cargo como jefe de inteligencia artificial y aprendizaje automático de Apple. La compañía anunció que el directivo dimitió del cargo y se retirará el próximo año. Giannandrea fue una de las figuras clave en la est…
+https://hipertextual.com/apple/apple-john-giannandrea-renuncia-jefe-ia/
+🗓️ 2025-12-02 • 🏷️ hipertextual.com
