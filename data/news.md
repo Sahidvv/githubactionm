@@ -2059,3 +2059,9 @@ https://hipertextual.com/mobile/google-motivo-de-llamada-android-urgente/
 El Spotify Wrapped 2025 ya está disponible para que accedas a todas tus estadísticas de escucha en la popular plataforma de música, pódcasts y más. A través de la app del servicio de streaming ya puedes ver datos curiosos de tus artistas, c…
 https://hipertextual.com/musica/spotify-wrapped-2025-ya-disponible/
 🗓️ 2025-12-03 • 🏷️ hipertextual.com
+
+### 2025-12-03T19:18:24.006Z
+📰 La nueva función secreta de Android detiene las estafas telefónicas con un botón
+Google ha lanzado una función de Android que reducirá las posibilidades de que te estafen en el móvil. La nueva característica pausa por completo el teléfono y alerta al usuario ante un posible intento de estafa bancaria. La compañía señala…
+https://hipertextual.com/mobile/google-android-proteccion-estafas-llamadas/
+🗓️ 2025-12-03 • 🏷️ hipertextual.com
