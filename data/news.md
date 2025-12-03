@@ -2053,3 +2053,9 @@ https://hipertextual.com/inteligencia-artificial/amazon-trainium3-chip-ia-nvidia
 En una época cargada de distracciones y estafas, muchos usuarios han optado por ignorar la mayoría de las llamadas que reciben en el móvil. Si bien esta práctica reduce las interrupciones, también existe el riesgo de perdernos de algún even…
 https://hipertextual.com/mobile/google-motivo-de-llamada-android-urgente/
 🗓️ 2025-12-02 • 🏷️ hipertextual.com
+
+### 2025-12-03T13:36:06.503Z
+📰 ¡Spotify Wrapped 2025 ya está disponible! Y este año puedes competir con tus amigos
+El Spotify Wrapped 2025 ya está disponible para que accedas a todas tus estadísticas de escucha en la popular plataforma de música, pódcasts y más. A través de la app del servicio de streaming ya puedes ver datos curiosos de tus artistas, c…
+https://hipertextual.com/musica/spotify-wrapped-2025-ya-disponible/
+🗓️ 2025-12-03 • 🏷️ hipertextual.com
