@@ -2047,3 +2047,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-problemas-codigo-rojo-f
 Amazon ha presentado un nuevo chip de IA con el que espera robarle un segmento del mercado a NVIDIA. La empresa aprovechó el inicio de su evento AWS re:Invent para anunciar una versión mejorada de su chip de entrenamiento e inferencia. Trai…
 https://hipertextual.com/inteligencia-artificial/amazon-trainium3-chip-ia-nvidia/
 🗓️ 2025-12-02 • 🏷️ hipertextual.com
+
+### 2025-12-03T02:46:38.371Z
+📰 La nueva función de Android que hará imposible ignorar una llamada importante
+En una época cargada de distracciones y estafas, muchos usuarios han optado por ignorar la mayoría de las llamadas que reciben en el móvil. Si bien esta práctica reduce las interrupciones, también existe el riesgo de perdernos de algún even…
+https://hipertextual.com/mobile/google-motivo-de-llamada-android-urgente/
+🗓️ 2025-12-02 • 🏷️ hipertextual.com

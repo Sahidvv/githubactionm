@@ -1800,3 +1800,19 @@ https://hipertextual.com/apple/apple-john-giannandrea-renuncia-jefe-ia/
 🗓️ 2025-12-02 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-03
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 La nueva función de Android que hará imposible ignorar una llamada importante
+En una época cargada de distracciones y estafas, muchos usuarios han optado por ignorar la mayoría de las llamadas que reciben en el móvil. Si bien esta práctica reduce las interrupciones, también existe el riesgo de perdernos de algún even…
+https://hipertextual.com/mobile/google-motivo-de-llamada-android-urgente/
+🗓️ 2025-12-02 • 🏷️ hipertextual.com
+
+---
