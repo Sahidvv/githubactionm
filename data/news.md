@@ -2071,3 +2071,9 @@ https://hipertextual.com/mobile/google-android-proteccion-estafas-llamadas/
 Meta se ha robado a uno de los jefes de diseño de Apple. La compañía dirigida por Mark Zuckerberg reanudó su estrategia de contratación y ha fichado a uno de los ejecutivos de mayor calibre en Cupertino. Alan Dye, quien se desempeñó como di…
 https://hipertextual.com/apple/meta-ficha-jefe-diseno-apple-alan-dye/
 🗓️ 2025-12-03 • 🏷️ hipertextual.com
+
+### 2025-12-04T13:37:00.646Z
+📰 Google estrena actualizaciones semestrales con Android 16 QPR2
+Google ha publicado Android 16 QPR2, una nueva actualización para el sistema operativo móvil que entre otras novedades marca el inicio del programa de lanzamientos semestrales de Google, lo que eventualmente permitirá mantenerlo mejor actua…
+https://www.muycomputer.com/2025/12/04/google-estrena-actualizaciones-semestrales-con-android-16-qpr2/
+🗓️ 2025-12-04 • 🏷️ muycomputer.com
