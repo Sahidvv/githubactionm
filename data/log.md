@@ -1816,3 +1816,19 @@ https://hipertextual.com/mobile/google-motivo-de-llamada-android-urgente/
 🗓️ 2025-12-02 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-04
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Meta ficha al jefe de diseño del iPhone responsable de Liquid Glass
+Meta se ha robado a uno de los jefes de diseño de Apple. La compañía dirigida por Mark Zuckerberg reanudó su estrategia de contratación y ha fichado a uno de los ejecutivos de mayor calibre en Cupertino. Alan Dye, quien se desempeñó como di…
+https://hipertextual.com/apple/meta-ficha-jefe-diseno-apple-alan-dye/
+🗓️ 2025-12-03 • 🏷️ hipertextual.com
+
+---

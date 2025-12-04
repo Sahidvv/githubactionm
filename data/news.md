@@ -2065,3 +2065,9 @@ https://hipertextual.com/musica/spotify-wrapped-2025-ya-disponible/
 Google ha lanzado una función de Android que reducirá las posibilidades de que te estafen en el móvil. La nueva característica pausa por completo el teléfono y alerta al usuario ante un posible intento de estafa bancaria. La compañía señala…
 https://hipertextual.com/mobile/google-android-proteccion-estafas-llamadas/
 🗓️ 2025-12-03 • 🏷️ hipertextual.com
+
+### 2025-12-04T02:47:41.516Z
+📰 Meta ficha al jefe de diseño del iPhone responsable de Liquid Glass
+Meta se ha robado a uno de los jefes de diseño de Apple. La compañía dirigida por Mark Zuckerberg reanudó su estrategia de contratación y ha fichado a uno de los ejecutivos de mayor calibre en Cupertino. Alan Dye, quien se desempeñó como di…
+https://hipertextual.com/apple/meta-ficha-jefe-diseno-apple-alan-dye/
+🗓️ 2025-12-03 • 🏷️ hipertextual.com
