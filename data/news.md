@@ -2077,3 +2077,9 @@ https://hipertextual.com/apple/meta-ficha-jefe-diseno-apple-alan-dye/
 Google ha publicado Android 16 QPR2, una nueva actualización para el sistema operativo móvil que entre otras novedades marca el inicio del programa de lanzamientos semestrales de Google, lo que eventualmente permitirá mantenerlo mejor actua…
 https://www.muycomputer.com/2025/12/04/google-estrena-actualizaciones-semestrales-con-android-16-qpr2/
 🗓️ 2025-12-04 • 🏷️ muycomputer.com
+
+### 2025-12-04T19:18:55.907Z
+📰 50 años después, resuelven el misterio del hermano pequeño del &#8216;Tyrannosaurus rex&#8217;
+Es imposible saber cuántas especies de dinosaurios existieron en su día. Si con algunos animales vivos se complica encontrar todas sus especies, es más complicado aún con los que llevan millones de años extintos. De hecho, a veces, cuando s…
+https://hipertextual.com/ciencia/pequeno-tyrannosaurus-rex-nanotyrannus-lancensis/
+🗓️ 2025-12-04 • 🏷️ hipertextual.com
