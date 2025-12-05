@@ -2089,3 +2089,9 @@ https://hipertextual.com/ciencia/pequeno-tyrannosaurus-rex-nanotyrannus-lancensi
 Microsoft ha estado en el ojo del huracán debido a las últimas actualizaciones de Windows 11. El gigante tecnológico no ha sido capaz de resolver las caídas de rendimiento del sistema operativo y, para colmo, introduce nuevos fallos en cada…
 https://hipertextual.com/software/windows-11-nuevo-comando-ejecutar/
 🗓️ 2025-12-04 • 🏷️ hipertextual.com
+
+### 2025-12-05T13:32:20.639Z
+📰 Este proyector con puntuación de 4,7 y más de 7.000 valoraciones cuesta menos de 40 euros
+Los proyectores son ese tipo de objetos que siempre piensas que estaría bien tener uno, pero ves los precios y piensas que puedes vivir sin él. Sin embargo, en los últimos años, han bajado mucho los precios y puedes comprar un buen proyecto…
+https://hipertextual.com/ofertas-descuentos/proyector-valoraciones/
+🗓️ 2025-12-05 • 🏷️ hipertextual.com
