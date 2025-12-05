@@ -2083,3 +2083,9 @@ https://www.muycomputer.com/2025/12/04/google-estrena-actualizaciones-semestrale
 Es imposible saber cuántas especies de dinosaurios existieron en su día. Si con algunos animales vivos se complica encontrar todas sus especies, es más complicado aún con los que llevan millones de años extintos. De hecho, a veces, cuando s…
 https://hipertextual.com/ciencia/pequeno-tyrannosaurus-rex-nanotyrannus-lancensis/
 🗓️ 2025-12-04 • 🏷️ hipertextual.com
+
+### 2025-12-05T02:48:08.711Z
+📰 Windows 11 rediseña una de sus funciones más viejas mientras los problemas siguen
+Microsoft ha estado en el ojo del huracán debido a las últimas actualizaciones de Windows 11. El gigante tecnológico no ha sido capaz de resolver las caídas de rendimiento del sistema operativo y, para colmo, introduce nuevos fallos en cada…
+https://hipertextual.com/software/windows-11-nuevo-comando-ejecutar/
+🗓️ 2025-12-04 • 🏷️ hipertextual.com

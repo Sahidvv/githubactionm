@@ -1832,3 +1832,19 @@ https://hipertextual.com/apple/meta-ficha-jefe-diseno-apple-alan-dye/
 🗓️ 2025-12-03 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-05
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Windows 11 rediseña una de sus funciones más viejas mientras los problemas siguen
+Microsoft ha estado en el ojo del huracán debido a las últimas actualizaciones de Windows 11. El gigante tecnológico no ha sido capaz de resolver las caídas de rendimiento del sistema operativo y, para colmo, introduce nuevos fallos en cada…
+https://hipertextual.com/software/windows-11-nuevo-comando-ejecutar/
+🗓️ 2025-12-04 • 🏷️ hipertextual.com
+
+---
