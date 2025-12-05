@@ -2095,3 +2095,9 @@ https://hipertextual.com/software/windows-11-nuevo-comando-ejecutar/
 Los proyectores son ese tipo de objetos que siempre piensas que estaría bien tener uno, pero ves los precios y piensas que puedes vivir sin él. Sin embargo, en los últimos años, han bajado mucho los precios y puedes comprar un buen proyecto…
 https://hipertextual.com/ofertas-descuentos/proyector-valoraciones/
 🗓️ 2025-12-05 • 🏷️ hipertextual.com
+
+### 2025-12-05T19:17:10.858Z
+📰 Samsung filtra por error el diseño de los Galaxy S26
+A unas semanas de su presentación, Samsung ha filtrado el diseño del Galaxy S26. La versión más reciente de One UI 8.5 incluye renders con los esquemas oficiales de los nuevos móviles. La información confirma los rumores sobre su diseño y n…
+https://hipertextual.com/mobile/samsung-filtra-diseno-galaxy-s26/
+🗓️ 2025-12-05 • 🏷️ hipertextual.com
