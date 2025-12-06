@@ -2101,3 +2101,9 @@ https://hipertextual.com/ofertas-descuentos/proyector-valoraciones/
 A unas semanas de su presentación, Samsung ha filtrado el diseño del Galaxy S26. La versión más reciente de One UI 8.5 incluye renders con los esquemas oficiales de los nuevos móviles. La información confirma los rumores sobre su diseño y n…
 https://hipertextual.com/mobile/samsung-filtra-diseno-galaxy-s26/
 🗓️ 2025-12-05 • 🏷️ hipertextual.com
+
+### 2025-12-06T02:39:33.210Z
+📰 Un candidato inesperado surge para reemplazar a Tim Cook en Apple
+La carrera por encontrar al sucesor de Tim Cook ha comenzado. Desde hace meses, la lista de nombres que podrían ocupar el cargo de CEO de Apple se reduce cada vez más. En fechas recientes se mencionó que el vicepresidente de ingeniería de h…
+https://hipertextual.com/apple/apple-sucesor-tim-cook-tony-fadell-candidato/
+🗓️ 2025-12-05 • 🏷️ hipertextual.com

@@ -1848,3 +1848,19 @@ https://hipertextual.com/software/windows-11-nuevo-comando-ejecutar/
 🗓️ 2025-12-04 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-06
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Un candidato inesperado surge para reemplazar a Tim Cook en Apple
+La carrera por encontrar al sucesor de Tim Cook ha comenzado. Desde hace meses, la lista de nombres que podrían ocupar el cargo de CEO de Apple se reduce cada vez más. En fechas recientes se mencionó que el vicepresidente de ingeniería de h…
+https://hipertextual.com/apple/apple-sucesor-tim-cook-tony-fadell-candidato/
+🗓️ 2025-12-05 • 🏷️ hipertextual.com
+
+---
