@@ -2113,3 +2113,9 @@ https://hipertextual.com/apple/apple-sucesor-tim-cook-tony-fadell-candidato/
 A menos que vivas bajo una piedra, ya lo sabes: Zootrópolis 2 sobrepasó cualquier pronóstico y se convirtió en un éxito de taquilla a gran escala. Durante los cinco días festivos de noviembre en Norteamérica, la cinta recaudó la friolera de…
 https://hipertextual.com/cine-television/6-razones-por-las-que-zootropolis-2-es-un-exito-mayor-que-el-nuevo-marvel/
 🗓️ 2025-12-06 • 🏷️ hipertextual.com
+
+### 2025-12-06T19:15:28.617Z
+📰 ‘Los abandonados’ es el nuevo y polémico western de Netflix que deberías estar viendo
+Los abandonados, el nuevo wéstern de Netflix, comienza con la promesa de un conflicto sangriento que se resolverá a balazos. Así que el guion ambientado en 1854 en una versión genérica de Washington se enfoca en el choque entre dos personaj…
+https://hipertextual.com/tecnologia/los-abandonados-es-el-nuevo-y-polemico-western-de-netflix-que-deberias-estar-viendo/
+🗓️ 2025-12-06 • 🏷️ hipertextual.com
