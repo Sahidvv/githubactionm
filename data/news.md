@@ -2131,3 +2131,9 @@ https://www.eldiario.es/tecnologia/juego-serpiente-inteligencia-artificial-nokia
 Stranger Things llegó a su quinta temporada sin perder ni un poco de su encanto. De hecho, la serie ha vuelto a convertirse en una obsesión en redes, lo que incluye las inevitables y siempre interesantes teorías sobre sus personajes. Del he…
 https://hipertextual.com/cine-television/el-detalle-de-joyce-byers-que-revela-un-giro-impactante-en-stranger-things/
 🗓️ 2025-12-07 • 🏷️ hipertextual.com
+
+### 2025-12-07T19:15:40.833Z
+📰 OpenAI elimina la «publicidad» de ChatGPT
+OpenAI ha decidido intervenir en una de las polémicas más llamativas de los últimos días: la supuesta aparición de publicidad dentro de ChatGPT. Varios usuarios comenzaron a reportar recomendaciones de aplicaciones que parecían claramente a…
+https://www.muycomputer.com/2025/12/07/openai-elimina-la-publicidad-de-chatgpt/
+🗓️ 2025-12-07 • 🏷️ muycomputer.com
