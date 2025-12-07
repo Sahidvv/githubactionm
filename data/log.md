@@ -1864,3 +1864,19 @@ https://hipertextual.com/apple/apple-sucesor-tim-cook-tony-fadell-candidato/
 🗓️ 2025-12-05 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-07
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Del juego de la serpiente a la inteligencia artificial: Nokia y Ericsson son las invitadas secretas de la nueva revolución
+Los viejos reyes de los teléfonos móviles europeos se especializaron en las antenas para evitar la quiebra, un camino que 25 años después las ha devuelto a la vanguardia tecnológicaTres años de ChatGPT: la máquina que no pudo quitarte el tr…
+https://www.eldiario.es/tecnologia/juego-serpiente-inteligencia-artificial-nokia-ericsson-son-invitadas-secretas-nueva-revolucion_1_12820964.html
+🗓️ 2025-12-06 • 🏷️ eldiario.es
+
+---

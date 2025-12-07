@@ -2119,3 +2119,9 @@ https://hipertextual.com/cine-television/6-razones-por-las-que-zootropolis-2-es-
 Los abandonados, el nuevo wéstern de Netflix, comienza con la promesa de un conflicto sangriento que se resolverá a balazos. Así que el guion ambientado en 1854 en una versión genérica de Washington se enfoca en el choque entre dos personaj…
 https://hipertextual.com/tecnologia/los-abandonados-es-el-nuevo-y-polemico-western-de-netflix-que-deberias-estar-viendo/
 🗓️ 2025-12-06 • 🏷️ hipertextual.com
+
+### 2025-12-07T02:56:19.699Z
+📰 Del juego de la serpiente a la inteligencia artificial: Nokia y Ericsson son las invitadas secretas de la nueva revolución
+Los viejos reyes de los teléfonos móviles europeos se especializaron en las antenas para evitar la quiebra, un camino que 25 años después las ha devuelto a la vanguardia tecnológicaTres años de ChatGPT: la máquina que no pudo quitarte el tr…
+https://www.eldiario.es/tecnologia/juego-serpiente-inteligencia-artificial-nokia-ericsson-son-invitadas-secretas-nueva-revolucion_1_12820964.html
+🗓️ 2025-12-06 • 🏷️ eldiario.es
