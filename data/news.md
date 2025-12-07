@@ -2125,3 +2125,9 @@ https://hipertextual.com/tecnologia/los-abandonados-es-el-nuevo-y-polemico-weste
 Los viejos reyes de los teléfonos móviles europeos se especializaron en las antenas para evitar la quiebra, un camino que 25 años después las ha devuelto a la vanguardia tecnológicaTres años de ChatGPT: la máquina que no pudo quitarte el tr…
 https://www.eldiario.es/tecnologia/juego-serpiente-inteligencia-artificial-nokia-ericsson-son-invitadas-secretas-nueva-revolucion_1_12820964.html
 🗓️ 2025-12-06 • 🏷️ eldiario.es
+
+### 2025-12-07T13:25:55.850Z
+📰 El detalle de Joyce Byers que revela un giro impactante en ‘Stranger Things’
+Stranger Things llegó a su quinta temporada sin perder ni un poco de su encanto. De hecho, la serie ha vuelto a convertirse en una obsesión en redes, lo que incluye las inevitables y siempre interesantes teorías sobre sus personajes. Del he…
+https://hipertextual.com/cine-television/el-detalle-de-joyce-byers-que-revela-un-giro-impactante-en-stranger-things/
+🗓️ 2025-12-07 • 🏷️ hipertextual.com
