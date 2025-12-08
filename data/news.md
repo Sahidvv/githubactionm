@@ -2149,3 +2149,9 @@ https://www.muycomputer.com/2025/12/07/los-mejores-contenidos-de-la-semana-en-mu
 Los primeros rumores sobre PS6 decían que esta iba a ser una consola 8K, un rumor que también surgió en su momento sobre PS5 y que al final no se cumplió. Lo único que PS5 puede mover en 8K son juegos tan sencillos que técnicamente están mu…
 https://www.muycomputer.com/2025/12/08/ps6-sera-una-consola-4k-pero-utilizara-reescalado/
 🗓️ 2025-12-08 • 🏷️ muycomputer.com
+
+### 2025-12-08T19:17:40.273Z
+📰 Samsung activa la beta de One UI 8.5 con mejoras clave en estos dispositivos Galaxy
+Tras meses de rumores y especulaciones, Samsung lanzó la primera beta de One UI 8.5, la nueva versión del sistema operativo que llegará a los móviles de la compañía. Si bien esta actualización debutará oficialmente en el Galaxy S26, este no…
+https://hipertextual.com/tecnologia/samsung-one-ui-8-5-beta-galaxy-s25/
+🗓️ 2025-12-08 • 🏷️ hipertextual.com
