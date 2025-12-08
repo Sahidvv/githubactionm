@@ -2143,3 +2143,9 @@ https://www.muycomputer.com/2025/12/07/openai-elimina-la-publicidad-de-chatgpt/
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Windows 11 necesita un Service Pack, dice un ingeni…
 https://www.muycomputer.com/2025/12/07/los-mejores-contenidos-de-la-semana-en-muycomputer-di/
 🗓️ 2025-12-07 • 🏷️ muycomputer.com
+
+### 2025-12-08T13:35:09.675Z
+📰 PS6 será una consola 4K, pero utilizará reescalado
+Los primeros rumores sobre PS6 decían que esta iba a ser una consola 8K, un rumor que también surgió en su momento sobre PS5 y que al final no se cumplió. Lo único que PS5 puede mover en 8K son juegos tan sencillos que técnicamente están mu…
+https://www.muycomputer.com/2025/12/08/ps6-sera-una-consola-4k-pero-utilizara-reescalado/
+🗓️ 2025-12-08 • 🏷️ muycomputer.com
