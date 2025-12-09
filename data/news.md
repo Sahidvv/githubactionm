@@ -2167,3 +2167,9 @@ https://hipertextual.com/mobile/moto-tag-2-filtracion-motorola-airtag-android/
 El Xiaomi 17 Ultra es el próximo buque insignia del fabricante chino y una nueva filtración ha revelado su fecha de lanzamiento y precio. En ambos casos, los datos traen buenas noticias. Por un lado, porque la espera por su debut en el merc…
 https://hipertextual.com/mobile/filtra-fecha-lanzamiento-precio-xiaomi-17-ultra/
 🗓️ 2025-12-09 • 🏷️ hipertextual.com
+
+### 2025-12-09T19:15:31.996Z
+📰 España detiene a un hacker que vendía millones de datos en la web
+La Policía Nacional ha detenido a un hacker acusado de robar y vender la información de millones de personas. Tras una investigación iniciada en junio, los agentes del orden ubicaron y arrestaron a un joven de 19 años en Barcelona. Según el…
+https://hipertextual.com/seguridad/hacker-detenido-barcelona-robo-datos-dark-web/
+🗓️ 2025-12-09 • 🏷️ hipertextual.com
