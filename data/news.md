@@ -2161,3 +2161,9 @@ https://hipertextual.com/tecnologia/samsung-one-ui-8-5-beta-galaxy-s25/
 Motorola está por presentar una nueva versión del Moto Tag, el AirTag para Android que ofrece las mejores funciones de localizador. Tras un primer lanzamiento exitoso, el fabricante se ha puesto manos a la obra para desarrollar un nuevo mod…
 https://hipertextual.com/mobile/moto-tag-2-filtracion-motorola-airtag-android/
 🗓️ 2025-12-08 • 🏷️ hipertextual.com
+
+### 2025-12-09T13:36:14.585Z
+📰 Se filtra la fecha de lanzamiento y el precio del Xiaomi 17 Ultra, y son buenas noticias
+El Xiaomi 17 Ultra es el próximo buque insignia del fabricante chino y una nueva filtración ha revelado su fecha de lanzamiento y precio. En ambos casos, los datos traen buenas noticias. Por un lado, porque la espera por su debut en el merc…
+https://hipertextual.com/mobile/filtra-fecha-lanzamiento-precio-xiaomi-17-ultra/
+🗓️ 2025-12-09 • 🏷️ hipertextual.com
