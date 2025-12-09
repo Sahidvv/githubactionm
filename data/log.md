@@ -1896,3 +1896,19 @@ https://www.muycomputer.com/2025/12/07/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-12-07 • 🏷️ muycomputer.com
 
 ---
+## 2025-12-09
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Se filtra el Moto Tag 2: el AirTag de Motorola para Android que llegará pronto
+Motorola está por presentar una nueva versión del Moto Tag, el AirTag para Android que ofrece las mejores funciones de localizador. Tras un primer lanzamiento exitoso, el fabricante se ha puesto manos a la obra para desarrollar un nuevo mod…
+https://hipertextual.com/mobile/moto-tag-2-filtracion-motorola-airtag-android/
+🗓️ 2025-12-08 • 🏷️ hipertextual.com
+
+---

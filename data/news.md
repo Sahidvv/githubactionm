@@ -2155,3 +2155,9 @@ https://www.muycomputer.com/2025/12/08/ps6-sera-una-consola-4k-pero-utilizara-re
 Tras meses de rumores y especulaciones, Samsung lanzó la primera beta de One UI 8.5, la nueva versión del sistema operativo que llegará a los móviles de la compañía. Si bien esta actualización debutará oficialmente en el Galaxy S26, este no…
 https://hipertextual.com/tecnologia/samsung-one-ui-8-5-beta-galaxy-s25/
 🗓️ 2025-12-08 • 🏷️ hipertextual.com
+
+### 2025-12-09T02:47:44.198Z
+📰 Se filtra el Moto Tag 2: el AirTag de Motorola para Android que llegará pronto
+Motorola está por presentar una nueva versión del Moto Tag, el AirTag para Android que ofrece las mejores funciones de localizador. Tras un primer lanzamiento exitoso, el fabricante se ha puesto manos a la obra para desarrollar un nuevo mod…
+https://hipertextual.com/mobile/moto-tag-2-filtracion-motorola-airtag-android/
+🗓️ 2025-12-08 • 🏷️ hipertextual.com
