@@ -2179,3 +2179,9 @@ https://hipertextual.com/seguridad/hacker-detenido-barcelona-robo-datos-dark-web
 Samsung ha lanzado la primera beta de One UI 8.5 para algunos de sus móviles más populares. Aunque la versión final todavía está lejos, los usuarios ya pueden acceder a algunas de las funciones que llegarán a finales de febrero, cuando debu…
 https://hipertextual.com/mobile/one-ui-8-5-empieza-su-beta-y-un-samsung-inesperado-aparece-entre-los-primeros/
 🗓️ 2025-12-10 • 🏷️ hipertextual.com
+
+### 2025-12-10T13:37:19.949Z
+📰 Todas las consolas PS5 van a necesitar mantenimiento o morirán en pocos años
+Hace unos meses vimos que PS5 tenía un problema importante que podría afectar a la vida útil de millones de consolas en los próximos años. El problema es simple, la consola utiliza metal líquido como material de contacto para acelerar la tr…
+https://www.muycomputer.com/2025/12/10/todas-las-consolas-ps5-van-a-necesitar-mantenimiento-o-moriran-en-pocos-anos/
+🗓️ 2025-12-10 • 🏷️ muycomputer.com
