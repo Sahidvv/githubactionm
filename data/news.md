@@ -2185,3 +2185,9 @@ https://hipertextual.com/mobile/one-ui-8-5-empieza-su-beta-y-un-samsung-inespera
 Hace unos meses vimos que PS5 tenía un problema importante que podría afectar a la vida útil de millones de consolas en los próximos años. El problema es simple, la consola utiliza metal líquido como material de contacto para acelerar la tr…
 https://www.muycomputer.com/2025/12/10/todas-las-consolas-ps5-van-a-necesitar-mantenimiento-o-moriran-en-pocos-anos/
 🗓️ 2025-12-10 • 🏷️ muycomputer.com
+
+### 2025-12-10T19:18:28.628Z
+📰 Instagram permitirá ajustar el uso de la IA en el feed
+Instagram continúa afinando su fórmula para intentar mantener a los usuarios enganchados satisfechos, y su próximo gran paso va directo al corazón de la experiencia en la plataforma: el algoritmo. La red social está probando una nueva herra…
+https://www.muycomputer.com/2025/12/10/instagram-permitira-ajustar-el-uso-de-la-ia-en-el-feed/
+🗓️ 2025-12-10 • 🏷️ muycomputer.com
