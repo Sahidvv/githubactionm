@@ -2173,3 +2173,9 @@ https://hipertextual.com/mobile/filtra-fecha-lanzamiento-precio-xiaomi-17-ultra/
 La Policía Nacional ha detenido a un hacker acusado de robar y vender la información de millones de personas. Tras una investigación iniciada en junio, los agentes del orden ubicaron y arrestaron a un joven de 19 años en Barcelona. Según el…
 https://hipertextual.com/seguridad/hacker-detenido-barcelona-robo-datos-dark-web/
 🗓️ 2025-12-09 • 🏷️ hipertextual.com
+
+### 2025-12-10T02:51:04.087Z
+📰 One UI 8.5 empieza su beta y un Samsung inesperado aparece entre los primeros
+Samsung ha lanzado la primera beta de One UI 8.5 para algunos de sus móviles más populares. Aunque la versión final todavía está lejos, los usuarios ya pueden acceder a algunas de las funciones que llegarán a finales de febrero, cuando debu…
+https://hipertextual.com/mobile/one-ui-8-5-empieza-su-beta-y-un-samsung-inesperado-aparece-entre-los-primeros/
+🗓️ 2025-12-10 • 🏷️ hipertextual.com

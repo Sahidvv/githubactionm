@@ -1912,3 +1912,19 @@ https://hipertextual.com/mobile/moto-tag-2-filtracion-motorola-airtag-android/
 🗓️ 2025-12-08 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-10
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 One UI 8.5 empieza su beta y un Samsung inesperado aparece entre los primeros
+Samsung ha lanzado la primera beta de One UI 8.5 para algunos de sus móviles más populares. Aunque la versión final todavía está lejos, los usuarios ya pueden acceder a algunas de las funciones que llegarán a finales de febrero, cuando debu…
+https://hipertextual.com/mobile/one-ui-8-5-empieza-su-beta-y-un-samsung-inesperado-aparece-entre-los-primeros/
+🗓️ 2025-12-10 • 🏷️ hipertextual.com
+
+---
