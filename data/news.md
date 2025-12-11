@@ -2191,3 +2191,9 @@ https://www.muycomputer.com/2025/12/10/todas-las-consolas-ps5-van-a-necesitar-ma
 Instagram continúa afinando su fórmula para intentar mantener a los usuarios enganchados satisfechos, y su próximo gran paso va directo al corazón de la experiencia en la plataforma: el algoritmo. La red social está probando una nueva herra…
 https://www.muycomputer.com/2025/12/10/instagram-permitira-ajustar-el-uso-de-la-ia-en-el-feed/
 🗓️ 2025-12-10 • 🏷️ muycomputer.com
+
+### 2025-12-11T02:52:58.470Z
+📰 One UI 8.5 trae malas noticias: estas funciones desaparecerán de tu Samsung
+La beta de One UI 8.5 ya está disponible en algunos móviles de Samsung. La actualización más reciente incluye un cúmulo de mejoras entre las que destacan la edición de fotos con IA, gestión remota de archivos y algunos filtros de seguridad.…
+https://hipertextual.com/mobile/one-ui-85-samsung-health-rutinas-eliminadas/
+🗓️ 2025-12-10 • 🏷️ hipertextual.com

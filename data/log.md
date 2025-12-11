@@ -1928,3 +1928,19 @@ https://hipertextual.com/mobile/one-ui-8-5-empieza-su-beta-y-un-samsung-inespera
 🗓️ 2025-12-10 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-11
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 One UI 8.5 trae malas noticias: estas funciones desaparecerán de tu Samsung
+La beta de One UI 8.5 ya está disponible en algunos móviles de Samsung. La actualización más reciente incluye un cúmulo de mejoras entre las que destacan la edición de fotos con IA, gestión remota de archivos y algunos filtros de seguridad.…
+https://hipertextual.com/mobile/one-ui-85-samsung-health-rutinas-eliminadas/
+🗓️ 2025-12-10 • 🏷️ hipertextual.com
+
+---
