@@ -2197,3 +2197,9 @@ https://www.muycomputer.com/2025/12/10/instagram-permitira-ajustar-el-uso-de-la-
 La beta de One UI 8.5 ya está disponible en algunos móviles de Samsung. La actualización más reciente incluye un cúmulo de mejoras entre las que destacan la edición de fotos con IA, gestión remota de archivos y algunos filtros de seguridad.…
 https://hipertextual.com/mobile/one-ui-85-samsung-health-rutinas-eliminadas/
 🗓️ 2025-12-10 • 🏷️ hipertextual.com
+
+### 2025-12-11T13:39:28.901Z
+📰 PS6, Xbox Next y las GeForce RTX 60 podrían verse afectadas por la crisis de la DRAM
+La crisis de la DRAM está afectando muchísimo al precio y la disponibilidad de la memoria RAM, un componente básico en cualquier dispositivo electrónico, y según las últimas informaciones dicha crisis podría extenderse hasta 2028, lo que si…
+https://www.muycomputer.com/2025/12/11/ps6-xbox-next-y-las-geforce-rtx-60-podrian-verse-afectadas-por-la-crisis-de-la-dram/
+🗓️ 2025-12-11 • 🏷️ muycomputer.com
