@@ -2203,3 +2203,9 @@ https://hipertextual.com/mobile/one-ui-85-samsung-health-rutinas-eliminadas/
 La crisis de la DRAM está afectando muchísimo al precio y la disponibilidad de la memoria RAM, un componente básico en cualquier dispositivo electrónico, y según las últimas informaciones dicha crisis podría extenderse hasta 2028, lo que si…
 https://www.muycomputer.com/2025/12/11/ps6-xbox-next-y-las-geforce-rtx-60-podrian-verse-afectadas-por-la-crisis-de-la-dram/
 🗓️ 2025-12-11 • 🏷️ muycomputer.com
+
+### 2025-12-11T19:19:51.102Z
+📰 Cómo los dibujos por ordenador ayudaron a desarrollar drones militares más letales
+Los sistemas de modelaje tridimensional usados en las películas de animación han sido claves para que las aeronaves no tripuladas naveguen y apunten sus armas con mayor precisión
+https://elpais.com/tecnologia/2025-12-02/como-la-tecnologia-de-pixar-ayudo-a-desarrollar-drones-militares-mas-letales.html
+🗓️ 2025-12-11 • 🏷️ elpais.com
