@@ -2215,3 +2215,9 @@ https://elpais.com/tecnologia/2025-12-02/como-la-tecnologia-de-pixar-ayudo-a-des
 El decreeto ordena al fiscal general crear un nuevo grupo de trabajo para impugnar las leyes estatales y ordena al Departamento de Comercio elaborar una lista de regulaciones consideradas problemáticas El presidente de EEUU, Donald Trump, h…
 https://www.eldiario.es/tecnologia/trump-firma-decreto-bloquear-estados-aprueben-regulaciones-ia_1_12839422.html
 🗓️ 2025-12-12 • 🏷️ eldiario.es
+
+### 2025-12-12T13:34:52.761Z
+📰 Las notificaciones de tu Xiaomi van a cambiar por completo: te vas a enamorar de HyperOS por esta función
+Google acaba de lanzar una de las funciones más interesantes del año. Lo ha hecho en Android 16, concretamente en la QPR2 que riega de novedades al sistema a mitad de temporada. Entre todas ella destaca una por encima del resto, las notific…
+https://hipertextual.com/mobile/las-notificaciones-de-tu-xiaomi-van-a-cambiar-por-completo-te-vas-a-enamorar-de-hyperos-por-esta-funcion/
+🗓️ 2025-12-12 • 🏷️ hipertextual.com
