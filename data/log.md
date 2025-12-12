@@ -1944,3 +1944,19 @@ https://hipertextual.com/mobile/one-ui-85-samsung-health-rutinas-eliminadas/
 🗓️ 2025-12-10 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-12
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Trump firma un decreto para bloquear que los estados aprueben regulaciones sobre la IA
+El decreeto ordena al fiscal general crear un nuevo grupo de trabajo para impugnar las leyes estatales y ordena al Departamento de Comercio elaborar una lista de regulaciones consideradas problemáticas El presidente de EEUU, Donald Trump, h…
+https://www.eldiario.es/tecnologia/trump-firma-decreto-bloquear-estados-aprueben-regulaciones-ia_1_12839422.html
+🗓️ 2025-12-12 • 🏷️ eldiario.es
+
+---

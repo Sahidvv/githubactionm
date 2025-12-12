@@ -2209,3 +2209,9 @@ https://www.muycomputer.com/2025/12/11/ps6-xbox-next-y-las-geforce-rtx-60-podria
 Los sistemas de modelaje tridimensional usados en las películas de animación han sido claves para que las aeronaves no tripuladas naveguen y apunten sus armas con mayor precisión
 https://elpais.com/tecnologia/2025-12-02/como-la-tecnologia-de-pixar-ayudo-a-desarrollar-drones-militares-mas-letales.html
 🗓️ 2025-12-11 • 🏷️ elpais.com
+
+### 2025-12-12T02:51:46.692Z
+📰 Trump firma un decreto para bloquear que los estados aprueben regulaciones sobre la IA
+El decreeto ordena al fiscal general crear un nuevo grupo de trabajo para impugnar las leyes estatales y ordena al Departamento de Comercio elaborar una lista de regulaciones consideradas problemáticas El presidente de EEUU, Donald Trump, h…
+https://www.eldiario.es/tecnologia/trump-firma-decreto-bloquear-estados-aprueben-regulaciones-ia_1_12839422.html
+🗓️ 2025-12-12 • 🏷️ eldiario.es
