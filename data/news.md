@@ -2221,3 +2221,9 @@ https://www.eldiario.es/tecnologia/trump-firma-decreto-bloquear-estados-aprueben
 Google acaba de lanzar una de las funciones más interesantes del año. Lo ha hecho en Android 16, concretamente en la QPR2 que riega de novedades al sistema a mitad de temporada. Entre todas ella destaca una por encima del resto, las notific…
 https://hipertextual.com/mobile/las-notificaciones-de-tu-xiaomi-van-a-cambiar-por-completo-te-vas-a-enamorar-de-hyperos-por-esta-funcion/
 🗓️ 2025-12-12 • 🏷️ hipertextual.com
+
+### 2025-12-12T19:17:48.661Z
+📰 Samsung mueve ficha para blindar el Galaxy S26 y evitar una crisis de precios
+Un nuevo día, una nueva filtración de los próximos móviles de Samsung. Los Galaxy S26 todavía están a unas cuantas semanas de su presentación, pero su fabricante está ultimando detalles para evitar una crisis de stock y de precios. Esto, po…
+https://hipertextual.com/mobile/samsung-galaxy-s26-precios-memoria-dram-micron/
+🗓️ 2025-12-12 • 🏷️ hipertextual.com
