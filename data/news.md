@@ -2227,3 +2227,9 @@ https://hipertextual.com/mobile/las-notificaciones-de-tu-xiaomi-van-a-cambiar-po
 Un nuevo día, una nueva filtración de los próximos móviles de Samsung. Los Galaxy S26 todavía están a unas cuantas semanas de su presentación, pero su fabricante está ultimando detalles para evitar una crisis de stock y de precios. Esto, po…
 https://hipertextual.com/mobile/samsung-galaxy-s26-precios-memoria-dram-micron/
 🗓️ 2025-12-12 • 🏷️ hipertextual.com
+
+### 2025-12-13T02:44:11.461Z
+📰 iOS 26.2 está aquí y trae a Europa la función más esperada de los AirPods
+Apple acaba de lanzar la actualización a iOS 26.2 a todos los iPhone compatibles. La nueva versión del software incluye un extenso listado de mejoras que podrían considerarse menores, como también la solución a más de una veintena de vulner…
+https://hipertextual.com/apple/ios-26-2-ya-disponible-europa-live-translation-airpods/
+🗓️ 2025-12-12 • 🏷️ hipertextual.com

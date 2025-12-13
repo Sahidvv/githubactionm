@@ -1960,3 +1960,19 @@ https://www.eldiario.es/tecnologia/trump-firma-decreto-bloquear-estados-aprueben
 🗓️ 2025-12-12 • 🏷️ eldiario.es
 
 ---
+## 2025-12-13
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 iOS 26.2 está aquí y trae a Europa la función más esperada de los AirPods
+Apple acaba de lanzar la actualización a iOS 26.2 a todos los iPhone compatibles. La nueva versión del software incluye un extenso listado de mejoras que podrían considerarse menores, como también la solución a más de una veintena de vulner…
+https://hipertextual.com/apple/ios-26-2-ya-disponible-europa-live-translation-airpods/
+🗓️ 2025-12-12 • 🏷️ hipertextual.com
+
+---
