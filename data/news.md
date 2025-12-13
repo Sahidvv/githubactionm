@@ -2233,3 +2233,9 @@ https://hipertextual.com/mobile/samsung-galaxy-s26-precios-memoria-dram-micron/
 Apple acaba de lanzar la actualización a iOS 26.2 a todos los iPhone compatibles. La nueva versión del software incluye un extenso listado de mejoras que podrían considerarse menores, como también la solución a más de una veintena de vulner…
 https://hipertextual.com/apple/ios-26-2-ya-disponible-europa-live-translation-airpods/
 🗓️ 2025-12-12 • 🏷️ hipertextual.com
+
+### 2025-12-13T13:27:23.679Z
+📰 Las mejores películas de terror que se han estrenado en 2025 y que ya puedes ver en streaming
+2025 marcó un hito en el cine de la década. Demostrar que, a pesar de la incontable serie de obstáculos, cambios y nuevos escenarios, el mundo cinematográfico sigue siendo capital para entender a nuestra época. Mucho más, que es una perspec…
+https://hipertextual.com/cine-television/las-mejores-peliculas-de-terror-que-se-han-estrenado-en-2025-y-que-ya-puedes-ver-en-streaming/
+🗓️ 2025-12-13 • 🏷️ hipertextual.com
