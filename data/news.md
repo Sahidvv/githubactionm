@@ -2245,3 +2245,9 @@ https://hipertextual.com/cine-television/las-mejores-peliculas-de-terror-que-se-
 Avatar 3: Fuego y ceniza llega a los cines con la promesa de completar la larga travesía de la saga, que ya se extiende por dieciséis años. Casi dos décadas que han permitido al director James Cameron no solo profundizar en una historia ate…
 https://hipertextual.com/cine-television/todo-lo-que-debes-recordar-antes-de-ver-avatar-3-fuego-y-ceniza/
 🗓️ 2025-12-13 • 🏷️ hipertextual.com
+
+### 2025-12-14T02:57:36.720Z
+📰 La teleco rumana Digi se 'nacionaliza' para su asalto definitivo al mercado español
+La compañía da vía libre a su filial española para salir a bolsa y financiar su propia red de fibra con el objetivo de llegar a los 20 millones de clientes y convertirse en un actor estructural del mercadoDel juego de la serpiente a la inte…
+https://www.eldiario.es/tecnologia/teleco-rumana-digi-nacionaliza-asalto-definitivo-mercado-espanol_1_12833291.html
+🗓️ 2025-12-13 • 🏷️ eldiario.es

@@ -1976,3 +1976,19 @@ https://hipertextual.com/apple/ios-26-2-ya-disponible-europa-live-translation-ai
 🗓️ 2025-12-12 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-14
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 La teleco rumana Digi se 'nacionaliza' para su asalto definitivo al mercado español
+La compañía da vía libre a su filial española para salir a bolsa y financiar su propia red de fibra con el objetivo de llegar a los 20 millones de clientes y convertirse en un actor estructural del mercadoDel juego de la serpiente a la inte…
+https://www.eldiario.es/tecnologia/teleco-rumana-digi-nacionaliza-asalto-definitivo-mercado-espanol_1_12833291.html
+🗓️ 2025-12-13 • 🏷️ eldiario.es
+
+---
