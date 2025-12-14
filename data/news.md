@@ -2257,3 +2257,9 @@ https://www.eldiario.es/tecnologia/teleco-rumana-digi-nacionaliza-asalto-definit
 El año 2025 se recordará por muchas razones. De los éxitos de taquilla que nadie esperaba —y sí, nos referimos a Zootrópolis— a una vuelta de tuerca en sagas y franquicias longevas. También, al haber demostrado que el mundo del cine y la te…
 https://hipertextual.com/cine-television/los-12-grandes-personajes-del-ano-en-cine-y-television/
 🗓️ 2025-12-14 • 🏷️ hipertextual.com
+
+### 2025-12-14T19:15:54.292Z
+📰 White Horse, la serie de Netflix que acabó en culebrón
+Netflix lleva años persiguiendo la gran epopeya de ciencia ficción que pueda sostenerse como franquicia propia, algo con el brillo de Star Wars y el impacto cultural de Juego de Tronos. En ese contexto, White Horse parecía, sobre el papel, …
+https://www.muycomputer.com/2025/12/14/white-horse-la-serie-de-netflix-que-acabo-en-culebron/
+🗓️ 2025-12-14 • 🏷️ muycomputer.com
