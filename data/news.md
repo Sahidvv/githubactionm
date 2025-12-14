@@ -2251,3 +2251,9 @@ https://hipertextual.com/cine-television/todo-lo-que-debes-recordar-antes-de-ver
 La compañía da vía libre a su filial española para salir a bolsa y financiar su propia red de fibra con el objetivo de llegar a los 20 millones de clientes y convertirse en un actor estructural del mercadoDel juego de la serpiente a la inte…
 https://www.eldiario.es/tecnologia/teleco-rumana-digi-nacionaliza-asalto-definitivo-mercado-espanol_1_12833291.html
 🗓️ 2025-12-13 • 🏷️ eldiario.es
+
+### 2025-12-14T13:27:33.172Z
+📰 Los 12 grandes personajes del año en cine y televisión
+El año 2025 se recordará por muchas razones. De los éxitos de taquilla que nadie esperaba —y sí, nos referimos a Zootrópolis— a una vuelta de tuerca en sagas y franquicias longevas. También, al haber demostrado que el mundo del cine y la te…
+https://hipertextual.com/cine-television/los-12-grandes-personajes-del-ano-en-cine-y-television/
+🗓️ 2025-12-14 • 🏷️ hipertextual.com
