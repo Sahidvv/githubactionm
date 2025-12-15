@@ -2275,3 +2275,9 @@ https://www.muycomputer.com/2025/12/14/los-mejores-contenidos-de-la-semana-en-mu
 La escasez y la consecuente subida de precios de la memoria RAM promete hacer estragos en la industria de la electrónica de consumo. El mercado de los smartphones promete no estar exento de esta polémica, y si pensabas comprarte un móvil ba…
 https://hipertextual.com/mobile/movil-barato-2026-4-gb-memoria-ram/
 🗓️ 2025-12-15 • 🏷️ hipertextual.com
+
+### 2025-12-15T19:20:05.135Z
+📰 Tu televisor LG va a recibir una app de Microsoft que nadie quiere, y no puedes eliminarla
+Si tienes un televisor de LG con webOS, es posible que muy pronto te topes con una aplicación que se ha instalado de forma forzada y no puedes eliminar. En el transcurso del fin de semana se han multiplicado las quejas en Reddit y redes soc…
+https://hipertextual.com/inteligencia-artificial/televisor-lg-webos-microsoft-copilot-no-se-puede-eliminar/
+🗓️ 2025-12-15 • 🏷️ hipertextual.com
