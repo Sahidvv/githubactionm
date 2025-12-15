@@ -2263,3 +2263,9 @@ https://hipertextual.com/cine-television/los-12-grandes-personajes-del-ano-en-ci
 Netflix lleva años persiguiendo la gran epopeya de ciencia ficción que pueda sostenerse como franquicia propia, algo con el brillo de Star Wars y el impacto cultural de Juego de Tronos. En ese contexto, White Horse parecía, sobre el papel, …
 https://www.muycomputer.com/2025/12/14/white-horse-la-serie-de-netflix-que-acabo-en-culebron/
 🗓️ 2025-12-14 • 🏷️ muycomputer.com
+
+### 2025-12-15T02:57:55.187Z
+📰 Los mejores contenidos de la semana en MuyComputer (DII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Qué es MCP y por qué marcará el futuro del software…
+https://www.muycomputer.com/2025/12/14/los-mejores-contenidos-de-la-semana-en-muycomputer-dii/
+🗓️ 2025-12-14 • 🏷️ muycomputer.com
