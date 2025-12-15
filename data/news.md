@@ -2269,3 +2269,9 @@ https://www.muycomputer.com/2025/12/14/white-horse-la-serie-de-netflix-que-acabo
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Qué es MCP y por qué marcará el futuro del software…
 https://www.muycomputer.com/2025/12/14/los-mejores-contenidos-de-la-semana-en-muycomputer-dii/
 🗓️ 2025-12-14 • 🏷️ muycomputer.com
+
+### 2025-12-15T13:41:05.352Z
+📰 No esperes a 2026 para comprar un móvil barato: la crisis de la RAM te dará una sorpresa desagradable
+La escasez y la consecuente subida de precios de la memoria RAM promete hacer estragos en la industria de la electrónica de consumo. El mercado de los smartphones promete no estar exento de esta polémica, y si pensabas comprarte un móvil ba…
+https://hipertextual.com/mobile/movil-barato-2026-4-gb-memoria-ram/
+🗓️ 2025-12-15 • 🏷️ hipertextual.com
