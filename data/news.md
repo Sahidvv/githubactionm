@@ -2287,3 +2287,9 @@ https://hipertextual.com/inteligencia-artificial/televisor-lg-webos-microsoft-co
 Disney ha ofrecido más detalles sobre el acuerdo con OpenAI. Hace unos días, los dos gigantes firmaron una asociación que permitirá usar los personajes de Disney en Sora, la IA que genera videos. Aunque la simple firma del acuerdo acaparó t…
 https://hipertextual.com/inteligencia-artificial/disney-openai-exclusividad-video-ia/
 🗓️ 2025-12-16 • 🏷️ hipertextual.com
+
+### 2025-12-16T13:38:50.719Z
+📰 Ford echa el freno al coche eléctrico y pone el foco en una tecnología muy poco común en Occidente
+Ford pisa el freno con los coches 100 % eléctricos para enfocarse en el desarrollo de una nueva categoría de vehículos de largo alcance con tecnología híbrida, a los que denomina EREV (Extended Range Electric Vehicle o vehículo eléctrico de…
+https://hipertextual.com/movilidad/ford-coches-electricos-erev-f-150-lightning/
+🗓️ 2025-12-16 • 🏷️ hipertextual.com
