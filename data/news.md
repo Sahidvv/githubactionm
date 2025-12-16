@@ -2293,3 +2293,9 @@ https://hipertextual.com/inteligencia-artificial/disney-openai-exclusividad-vide
 Ford pisa el freno con los coches 100 % eléctricos para enfocarse en el desarrollo de una nueva categoría de vehículos de largo alcance con tecnología híbrida, a los que denomina EREV (Extended Range Electric Vehicle o vehículo eléctrico de…
 https://hipertextual.com/movilidad/ford-coches-electricos-erev-f-150-lightning/
 🗓️ 2025-12-16 • 🏷️ hipertextual.com
+
+### 2025-12-16T19:19:33.899Z
+📰 Sin suscripción ni trampas: Prime Video lanza un canal totalmente gratis con películas las 24 horas del día
+Como bien contamos en el título, la última novedad de Amazon no tiene trampa ni cartón: acaba de estrenar un nuevo canal que emite películas las 24 horas del día de forma totalmente gratuita. Y lo mejor: para todo el mundo. No es necesario …
+https://hipertextual.com/cine-television/sin-suscripcion-ni-trampas-prime-video-lanza-un-canal-totalmente-gratis-con-peliculas-las-24-horas-del-dia/
+🗓️ 2025-12-16 • 🏷️ hipertextual.com
