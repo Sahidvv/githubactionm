@@ -2281,3 +2281,9 @@ https://hipertextual.com/mobile/movil-barato-2026-4-gb-memoria-ram/
 Si tienes un televisor de LG con webOS, es posible que muy pronto te topes con una aplicación que se ha instalado de forma forzada y no puedes eliminar. En el transcurso del fin de semana se han multiplicado las quejas en Reddit y redes soc…
 https://hipertextual.com/inteligencia-artificial/televisor-lg-webos-microsoft-copilot-no-se-puede-eliminar/
 🗓️ 2025-12-15 • 🏷️ hipertextual.com
+
+### 2025-12-16T02:52:46.774Z
+📰 Disney confirma que OpenAI no será la única que podrá usar la IA para recrear sus personajes
+Disney ha ofrecido más detalles sobre el acuerdo con OpenAI. Hace unos días, los dos gigantes firmaron una asociación que permitirá usar los personajes de Disney en Sora, la IA que genera videos. Aunque la simple firma del acuerdo acaparó t…
+https://hipertextual.com/inteligencia-artificial/disney-openai-exclusividad-video-ia/
+🗓️ 2025-12-16 • 🏷️ hipertextual.com

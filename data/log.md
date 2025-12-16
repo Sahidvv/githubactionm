@@ -2008,3 +2008,19 @@ https://www.muycomputer.com/2025/12/14/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-12-14 • 🏷️ muycomputer.com
 
 ---
+## 2025-12-16
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Disney confirma que OpenAI no será la única que podrá usar la IA para recrear sus personajes
+Disney ha ofrecido más detalles sobre el acuerdo con OpenAI. Hace unos días, los dos gigantes firmaron una asociación que permitirá usar los personajes de Disney en Sora, la IA que genera videos. Aunque la simple firma del acuerdo acaparó t…
+https://hipertextual.com/inteligencia-artificial/disney-openai-exclusividad-video-ia/
+🗓️ 2025-12-16 • 🏷️ hipertextual.com
+
+---
