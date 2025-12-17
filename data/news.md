@@ -2299,3 +2299,9 @@ https://hipertextual.com/movilidad/ford-coches-electricos-erev-f-150-lightning/
 Como bien contamos en el título, la última novedad de Amazon no tiene trampa ni cartón: acaba de estrenar un nuevo canal que emite películas las 24 horas del día de forma totalmente gratuita. Y lo mejor: para todo el mundo. No es necesario …
 https://hipertextual.com/cine-television/sin-suscripcion-ni-trampas-prime-video-lanza-un-canal-totalmente-gratis-con-peliculas-las-24-horas-del-dia/
 🗓️ 2025-12-16 • 🏷️ hipertextual.com
+
+### 2025-12-17T02:48:47.881Z
+📰 Motorola presenta el Moto G Power 2026 con gran autonomía y Android 16
+A unas semanas de presentar el Moto G 2026, Motorola vuelve a la carga con un móvil pensado para quienes necesitan gran autonomía. El fabricante anunció el Moto G Power 2026, un terminal de 6,8 pulgadas con batería de 5.200 miliamperios y A…
+https://hipertextual.com/mobile/moto-g-power-2026-bateria-android-16/
+🗓️ 2025-12-16 • 🏷️ hipertextual.com

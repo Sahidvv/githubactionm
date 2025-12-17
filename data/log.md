@@ -2024,3 +2024,19 @@ https://hipertextual.com/inteligencia-artificial/disney-openai-exclusividad-vide
 🗓️ 2025-12-16 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-17
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Motorola presenta el Moto G Power 2026 con gran autonomía y Android 16
+A unas semanas de presentar el Moto G 2026, Motorola vuelve a la carga con un móvil pensado para quienes necesitan gran autonomía. El fabricante anunció el Moto G Power 2026, un terminal de 6,8 pulgadas con batería de 5.200 miliamperios y A…
+https://hipertextual.com/mobile/moto-g-power-2026-bateria-android-16/
+🗓️ 2025-12-16 • 🏷️ hipertextual.com
+
+---
