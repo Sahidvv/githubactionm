@@ -2305,3 +2305,9 @@ https://hipertextual.com/cine-television/sin-suscripcion-ni-trampas-prime-video-
 A unas semanas de presentar el Moto G 2026, Motorola vuelve a la carga con un móvil pensado para quienes necesitan gran autonomía. El fabricante anunció el Moto G Power 2026, un terminal de 6,8 pulgadas con batería de 5.200 miliamperios y A…
 https://hipertextual.com/mobile/moto-g-power-2026-bateria-android-16/
 🗓️ 2025-12-16 • 🏷️ hipertextual.com
+
+### 2025-12-17T13:33:49.612Z
+📰 La IA hace un descubrimiento médico trascendental para protegernos de los virus
+Los virus no están vivos como tal. Necesitan introducirse en nuestras células y secuestrar nuestra maquinaria de replicación para poder sacar copias de sí mismos y hacer efectiva la infección. Si solamente entran en nuestro cuerpo, pero no …
+https://hipertextual.com/ciencia/ia-descubre-entrada-virus-celulas/
+🗓️ 2025-12-17 • 🏷️ hipertextual.com
