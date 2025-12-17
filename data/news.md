@@ -2311,3 +2311,9 @@ https://hipertextual.com/mobile/moto-g-power-2026-bateria-android-16/
 Los virus no están vivos como tal. Necesitan introducirse en nuestras células y secuestrar nuestra maquinaria de replicación para poder sacar copias de sí mismos y hacer efectiva la infección. Si solamente entran en nuestro cuerpo, pero no …
 https://hipertextual.com/ciencia/ia-descubre-entrada-virus-celulas/
 🗓️ 2025-12-17 • 🏷️ hipertextual.com
+
+### 2025-12-17T19:19:48.968Z
+📰 ¿El fin de EA Sports? El nuevo FIFA llegará gratis a Netflix, pero no es lo que esperabas
+Tras meses de rumores y especulaciones, un nuevo videojuego de FIFA está en desarrollo y llegará a tiempo para la Copa Mundial de 2026. Netflix anunció un "juego de simulación de fútbol reinventado" que estará disponible en su plataforma. A…
+https://hipertextual.com/videojuegos/nuevo-fifa-netflix-2026-juego-casual/
+🗓️ 2025-12-17 • 🏷️ hipertextual.com
