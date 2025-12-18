@@ -2329,3 +2329,9 @@ https://hipertextual.com/mobile/el-plan-de-espana-para-apagar-el-2g-y-3g-ya-esta
 China acaba de dar un paso crucial para producir chips de IA avanzados, poniendo en jaque las predicciones de Occidente respecto de cuándo podría lograr la independencia en el campo de los semiconductores. Un reporte de Reuters revela que e…
 https://hipertextual.com/tecnologia/chips-avanzados-china-litografia-ultravioleta-extrema/
 🗓️ 2025-12-18 • 🏷️ hipertextual.com
+
+### 2025-12-18T19:17:37.535Z
+📰 Olvida a Sora: esta IA te mete dentro de una película y edita videos fácil
+Google y OpenAI se han convertido en un referente para la generación de imágenes y videos de IA. Basta ver lo que puedes conseguir con Sora, Nano Banana o el nuevo ChatGPT Image, que ofrecen resultados ultrarrealistas en unos cuantos pasos.…
+https://hipertextual.com/inteligencia-artificial/ray3-modify-ia-luma-edita-videos-sora-openai/
+🗓️ 2025-12-18 • 🏷️ hipertextual.com
