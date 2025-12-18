@@ -2323,3 +2323,9 @@ https://hipertextual.com/videojuegos/nuevo-fifa-netflix-2026-juego-casual/
 Las redes 2G y 3G que impulsaron los primeros dispositivos móviles dejarán de existir en España. El Ministerio para la Transformación Digital y de la Función Pública ha publicado una consulta para conocer las propuestas de operadores y otro…
 https://hipertextual.com/mobile/el-plan-de-espana-para-apagar-el-2g-y-3g-ya-esta-en-marcha-esto-pasara-con-tu-cobertura/
 🗓️ 2025-12-17 • 🏷️ hipertextual.com
+
+### 2025-12-18T13:36:35.044Z
+📰 China da un paso clave para producir chips avanzados y pone a temblar a Occidente con su propio Proyecto Manhattan
+China acaba de dar un paso crucial para producir chips de IA avanzados, poniendo en jaque las predicciones de Occidente respecto de cuándo podría lograr la independencia en el campo de los semiconductores. Un reporte de Reuters revela que e…
+https://hipertextual.com/tecnologia/chips-avanzados-china-litografia-ultravioleta-extrema/
+🗓️ 2025-12-18 • 🏷️ hipertextual.com
