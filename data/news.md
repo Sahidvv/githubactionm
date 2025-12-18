@@ -2317,3 +2317,9 @@ https://hipertextual.com/ciencia/ia-descubre-entrada-virus-celulas/
 Tras meses de rumores y especulaciones, un nuevo videojuego de FIFA está en desarrollo y llegará a tiempo para la Copa Mundial de 2026. Netflix anunció un "juego de simulación de fútbol reinventado" que estará disponible en su plataforma. A…
 https://hipertextual.com/videojuegos/nuevo-fifa-netflix-2026-juego-casual/
 🗓️ 2025-12-17 • 🏷️ hipertextual.com
+
+### 2025-12-18T02:49:15.956Z
+📰 El plan de España para apagar el 2G y 3G ya está en marcha: esto pasará con tu cobertura
+Las redes 2G y 3G que impulsaron los primeros dispositivos móviles dejarán de existir en España. El Ministerio para la Transformación Digital y de la Función Pública ha publicado una consulta para conocer las propuestas de operadores y otro…
+https://hipertextual.com/mobile/el-plan-de-espana-para-apagar-el-2g-y-3g-ya-esta-en-marcha-esto-pasara-con-tu-cobertura/
+🗓️ 2025-12-17 • 🏷️ hipertextual.com

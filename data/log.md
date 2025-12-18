@@ -2040,3 +2040,19 @@ https://hipertextual.com/mobile/moto-g-power-2026-bateria-android-16/
 🗓️ 2025-12-16 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-18
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El plan de España para apagar el 2G y 3G ya está en marcha: esto pasará con tu cobertura
+Las redes 2G y 3G que impulsaron los primeros dispositivos móviles dejarán de existir en España. El Ministerio para la Transformación Digital y de la Función Pública ha publicado una consulta para conocer las propuestas de operadores y otro…
+https://hipertextual.com/mobile/el-plan-de-espana-para-apagar-el-2g-y-3g-ya-esta-en-marcha-esto-pasara-con-tu-cobertura/
+🗓️ 2025-12-17 • 🏷️ hipertextual.com
+
+---
