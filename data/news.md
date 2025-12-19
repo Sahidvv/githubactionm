@@ -2347,3 +2347,9 @@ https://hipertextual.com/internet/instagram-limite-cinco-hashtags-publicacion/
 Donald Trump es noticia de nuevo, esta vez por lanzar un evento digno de Los Juegos del Hambre para festejar los 250 años de Estados Unidos. El presidente estadounidense anunció los Patriot Games (Juegos Patriotas), una competencia atlética…
 https://hipertextual.com/actualidad/trump-juegos-del-hambre-patriot-games-2026/
 🗓️ 2025-12-19 • 🏷️ hipertextual.com
+
+### 2025-12-19T19:16:55.250Z
+📰 Apple cambia las reglas y obliga a actualizar tu iPhone a iOS 26
+Hace unos días, Apple lanzó iOS 26.2 con mejoras y nuevas funciones para los usuarios de iPhone. La actualización añade una de las características más esperadas de los AirPods, así como protecciones contra algunas vulnerabilidades. Si tu mó…
+https://hipertextual.com/apple/apple-obliga-instalar-ios-26-2-iphone-compatible/
+🗓️ 2025-12-19 • 🏷️ hipertextual.com
