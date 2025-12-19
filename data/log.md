@@ -2056,3 +2056,19 @@ https://hipertextual.com/mobile/el-plan-de-espana-para-apagar-el-2g-y-3g-ya-esta
 🗓️ 2025-12-17 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-19
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Adiós al truco de los hashtags: Instagram impone un límite que lo cambia todo
+Instagram romperá con uno de sus mitos más antiguos. La red social limitará la cantidad de hashtags (etiquetas) que puedes añadir a una publicación. Instagram quiere poner fin a uno de los trucos más viejos que buscaba aumentar el alcance d…
+https://hipertextual.com/internet/instagram-limite-cinco-hashtags-publicacion/
+🗓️ 2025-12-18 • 🏷️ hipertextual.com
+
+---

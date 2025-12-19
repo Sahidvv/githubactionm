@@ -2335,3 +2335,9 @@ https://hipertextual.com/tecnologia/chips-avanzados-china-litografia-ultraviolet
 Google y OpenAI se han convertido en un referente para la generación de imágenes y videos de IA. Basta ver lo que puedes conseguir con Sora, Nano Banana o el nuevo ChatGPT Image, que ofrecen resultados ultrarrealistas en unos cuantos pasos.…
 https://hipertextual.com/inteligencia-artificial/ray3-modify-ia-luma-edita-videos-sora-openai/
 🗓️ 2025-12-18 • 🏷️ hipertextual.com
+
+### 2025-12-19T02:52:02.899Z
+📰 Adiós al truco de los hashtags: Instagram impone un límite que lo cambia todo
+Instagram romperá con uno de sus mitos más antiguos. La red social limitará la cantidad de hashtags (etiquetas) que puedes añadir a una publicación. Instagram quiere poner fin a uno de los trucos más viejos que buscaba aumentar el alcance d…
+https://hipertextual.com/internet/instagram-limite-cinco-hashtags-publicacion/
+🗓️ 2025-12-18 • 🏷️ hipertextual.com
