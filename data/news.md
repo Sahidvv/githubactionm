@@ -2341,3 +2341,9 @@ https://hipertextual.com/inteligencia-artificial/ray3-modify-ia-luma-edita-video
 Instagram romperá con uno de sus mitos más antiguos. La red social limitará la cantidad de hashtags (etiquetas) que puedes añadir a una publicación. Instagram quiere poner fin a uno de los trucos más viejos que buscaba aumentar el alcance d…
 https://hipertextual.com/internet/instagram-limite-cinco-hashtags-publicacion/
 🗓️ 2025-12-18 • 🏷️ hipertextual.com
+
+### 2025-12-19T13:33:21.007Z
+📰 La realidad supera la ficción: Trump lanza unos Juegos del Hambre para festejar los 250 años de EE. UU.
+Donald Trump es noticia de nuevo, esta vez por lanzar un evento digno de Los Juegos del Hambre para festejar los 250 años de Estados Unidos. El presidente estadounidense anunció los Patriot Games (Juegos Patriotas), una competencia atlética…
+https://hipertextual.com/actualidad/trump-juegos-del-hambre-patriot-games-2026/
+🗓️ 2025-12-19 • 🏷️ hipertextual.com
