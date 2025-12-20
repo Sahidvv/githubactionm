@@ -2365,3 +2365,9 @@ https://hipertextual.com/mobile/asistente-de-google-no-cambiara-por-gemini-2025/
 Navidad no es una época fácil para los que odian las grandes celebraciones familiares. De hecho, en los últimos años, la ciencia ha dedicado tiempo e interés en explorar el fenómeno. En especial, la forma como la ansiedad, la presión social…
 https://hipertextual.com/cine-television/5-peliculas-para-los-que-odian-la-navidad-y-no-lo-disimulan/
 🗓️ 2025-12-20 • 🏷️ hipertextual.com
+
+### 2025-12-20T19:15:58.051Z
+📰 7 películas de Navidad geniales que puedes ver en Netflix
+A lo largo de su historia reciente, Netflix ha marcado un hito en la forma de consumir contenido televisivo. Del ya clásico maratón, convertido por derecho propio en una forma de disfrutar las grandes historias de una manera desconocida has…
+https://hipertextual.com/cine-television/7-peliculas-de-navidad-geniales-que-puedes-ver-en-netflix/
+🗓️ 2025-12-20 • 🏷️ hipertextual.com
