@@ -2359,3 +2359,9 @@ https://hipertextual.com/apple/apple-obliga-instalar-ios-26-2-iphone-compatible/
 Al Asistente de Google todavía le queda una vida más en tu móvil Android. Si bien la firma de Mountain View había anunciado planes para reemplazarlo definitivamente con Gemini en la mayoría de los dispositivos antes de que finalizara 2025, …
 https://hipertextual.com/mobile/asistente-de-google-no-cambiara-por-gemini-2025/
 🗓️ 2025-12-19 • 🏷️ hipertextual.com
+
+### 2025-12-20T13:27:43.675Z
+📰 5 películas para los que odian la Navidad y no lo disimulan
+Navidad no es una época fácil para los que odian las grandes celebraciones familiares. De hecho, en los últimos años, la ciencia ha dedicado tiempo e interés en explorar el fenómeno. En especial, la forma como la ansiedad, la presión social…
+https://hipertextual.com/cine-television/5-peliculas-para-los-que-odian-la-navidad-y-no-lo-disimulan/
+🗓️ 2025-12-20 • 🏷️ hipertextual.com
