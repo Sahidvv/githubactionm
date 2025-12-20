@@ -2072,3 +2072,19 @@ https://hipertextual.com/internet/instagram-limite-cinco-hashtags-publicacion/
 🗓️ 2025-12-18 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-20
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Cambio de planes: al Asistente de Google aún le queda una vida más en tu móvil Android
+Al Asistente de Google todavía le queda una vida más en tu móvil Android. Si bien la firma de Mountain View había anunciado planes para reemplazarlo definitivamente con Gemini en la mayoría de los dispositivos antes de que finalizara 2025, …
+https://hipertextual.com/mobile/asistente-de-google-no-cambiara-por-gemini-2025/
+🗓️ 2025-12-19 • 🏷️ hipertextual.com
+
+---

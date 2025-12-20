@@ -2353,3 +2353,9 @@ https://hipertextual.com/actualidad/trump-juegos-del-hambre-patriot-games-2026/
 Hace unos días, Apple lanzó iOS 26.2 con mejoras y nuevas funciones para los usuarios de iPhone. La actualización añade una de las características más esperadas de los AirPods, así como protecciones contra algunas vulnerabilidades. Si tu mó…
 https://hipertextual.com/apple/apple-obliga-instalar-ios-26-2-iphone-compatible/
 🗓️ 2025-12-19 • 🏷️ hipertextual.com
+
+### 2025-12-20T02:43:35.503Z
+📰 Cambio de planes: al Asistente de Google aún le queda una vida más en tu móvil Android
+Al Asistente de Google todavía le queda una vida más en tu móvil Android. Si bien la firma de Mountain View había anunciado planes para reemplazarlo definitivamente con Gemini en la mayoría de los dispositivos antes de que finalizara 2025, …
+https://hipertextual.com/mobile/asistente-de-google-no-cambiara-por-gemini-2025/
+🗓️ 2025-12-19 • 🏷️ hipertextual.com
