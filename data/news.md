@@ -2377,3 +2377,9 @@ https://hipertextual.com/cine-television/7-peliculas-de-navidad-geniales-que-pue
 La multinacional está transformando su escaparate de noticias en un circuito cerrado que sintetiza los contenidos de los medios de comunicación con inteligencia articial y evita enviarles lectores Las inteligencias artificiales tergiversan …
 https://www.eldiario.es/tecnologia/mitad-contenidos-recomendador-noticias-google-generados-ia-paises_1_12858384.html
 🗓️ 2025-12-20 • 🏷️ eldiario.es
+
+### 2025-12-21T13:27:57.886Z
+📰 ChatGPT ya permite ajustar su personalidad
+ChatGPT lleva tiempo dejando claro que ya no es solo una herramienta que responde, sino una presencia con la que muchos interactúan a diario casi como si tuviera carácter propio. Con el paso de los meses, esa sensación se ha ido intensifica…
+https://www.muycomputer.com/2025/12/21/chatgpt-ya-permite-ajustar-su-personalidad/
+🗓️ 2025-12-21 • 🏷️ muycomputer.com
