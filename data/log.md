@@ -2088,3 +2088,19 @@ https://hipertextual.com/mobile/asistente-de-google-no-cambiara-por-gemini-2025/
 🗓️ 2025-12-19 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-21
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Más de la mitad de los contenidos del recomendador de noticias de Google ya están generados con IA en varios países
+La multinacional está transformando su escaparate de noticias en un circuito cerrado que sintetiza los contenidos de los medios de comunicación con inteligencia articial y evita enviarles lectores Las inteligencias artificiales tergiversan …
+https://www.eldiario.es/tecnologia/mitad-contenidos-recomendador-noticias-google-generados-ia-paises_1_12858384.html
+🗓️ 2025-12-20 • 🏷️ eldiario.es
+
+---

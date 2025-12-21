@@ -2371,3 +2371,9 @@ https://hipertextual.com/cine-television/5-peliculas-para-los-que-odian-la-navid
 A lo largo de su historia reciente, Netflix ha marcado un hito en la forma de consumir contenido televisivo. Del ya clásico maratón, convertido por derecho propio en una forma de disfrutar las grandes historias de una manera desconocida has…
 https://hipertextual.com/cine-television/7-peliculas-de-navidad-geniales-que-puedes-ver-en-netflix/
 🗓️ 2025-12-20 • 🏷️ hipertextual.com
+
+### 2025-12-21T02:57:40.462Z
+📰 Más de la mitad de los contenidos del recomendador de noticias de Google ya están generados con IA en varios países
+La multinacional está transformando su escaparate de noticias en un circuito cerrado que sintetiza los contenidos de los medios de comunicación con inteligencia articial y evita enviarles lectores Las inteligencias artificiales tergiversan …
+https://www.eldiario.es/tecnologia/mitad-contenidos-recomendador-noticias-google-generados-ia-paises_1_12858384.html
+🗓️ 2025-12-20 • 🏷️ eldiario.es
