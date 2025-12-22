@@ -2395,3 +2395,9 @@ https://www.muycomputer.com/2025/12/21/starlink-pierde-el-control-de-un-satelite
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Por qué es tan útil el Administrador de tareas de W…
 https://www.muycomputer.com/2025/12/21/los-mejores-contenidos-de-la-semana-en-muycomputer-diii/
 🗓️ 2025-12-21 • 🏷️ muycomputer.com
+
+### 2025-12-22T13:34:15.439Z
+📰 ¿Recula Nintendo? La Switch 2 estaría a punto de resolver su mayor polémica
+Que la Nintendo Switch 2 ha sido un éxito a nivel mundial en sus primeros meses a disposición, no es novedad. Sin embargo, esto no significa que haya estado completamente libre de polémicas. La mayor controversia de la consola fue por la in…
+https://hipertextual.com/videojuegos/nintendo-switch-2-cartuchos-tarjetas-llave/
+🗓️ 2025-12-22 • 🏷️ hipertextual.com
