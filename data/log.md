@@ -2104,3 +2104,19 @@ https://www.eldiario.es/tecnologia/mitad-contenidos-recomendador-noticias-google
 🗓️ 2025-12-20 • 🏷️ eldiario.es
 
 ---
+## 2025-12-22
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DIII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Por qué es tan útil el Administrador de tareas de W…
+https://www.muycomputer.com/2025/12/21/los-mejores-contenidos-de-la-semana-en-muycomputer-diii/
+🗓️ 2025-12-21 • 🏷️ muycomputer.com
+
+---
