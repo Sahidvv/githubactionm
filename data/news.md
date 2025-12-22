@@ -2401,3 +2401,9 @@ https://www.muycomputer.com/2025/12/21/los-mejores-contenidos-de-la-semana-en-mu
 Que la Nintendo Switch 2 ha sido un éxito a nivel mundial en sus primeros meses a disposición, no es novedad. Sin embargo, esto no significa que haya estado completamente libre de polémicas. La mayor controversia de la consola fue por la in…
 https://hipertextual.com/videojuegos/nintendo-switch-2-cartuchos-tarjetas-llave/
 🗓️ 2025-12-22 • 🏷️ hipertextual.com
+
+### 2025-12-22T19:18:14.520Z
+📰 Por qué GTA 6 no se retrasará de nuevo, según este ex-Rockstar
+La postergación de GTA 6 hasta noviembre de 2026 causó gran decepción entre los jugadores, pero no sorprendió del todo. Algunos incluso bromean con que es posible que Rockstar Games tenga al menos un aplazamiento más bajo la manga. Sin emba…
+https://hipertextual.com/videojuegos/gta-6-no-se-retrasara-de-nuevo-ex-rockstar/
+🗓️ 2025-12-22 • 🏷️ hipertextual.com
