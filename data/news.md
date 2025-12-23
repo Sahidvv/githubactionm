@@ -2413,3 +2413,9 @@ https://hipertextual.com/videojuegos/gta-6-no-se-retrasara-de-nuevo-ex-rockstar/
 Estamos en la cuenta regresiva final hacia el final de Stranger Things 5. Después del lanzamiento de los primeros capítulos de la temporada final en noviembre pasado, Netflix tiene entre manos un auténtico evento navideño y de fin de año. Y…
 https://hipertextual.com/cine-television/confirmada-duracion-ultimos-4-episodios-stranger-things-5-netflix/
 🗓️ 2025-12-22 • 🏷️ hipertextual.com
+
+### 2025-12-23T13:36:08.986Z
+📰 OpenAI refuerza la seguridad de ChatGPT Atlas para resolver su principal vulnerabilidad
+ChatGPT Atlas, el navegador web con IA de OpenAI, todavía tiene bastante camino por recorrer antes de ser una solución verdaderamente revolucionaria. Pero la firma que dirige Sam Altman al menos ha dado un paso crucial para reforzar su segu…
+https://hipertextual.com/inteligencia-artificial/chatgpt-atlas-refuerza-proteccion-inyeccion-de-promtps/
+🗓️ 2025-12-23 • 🏷️ hipertextual.com
