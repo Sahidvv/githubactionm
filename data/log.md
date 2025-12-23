@@ -2120,3 +2120,19 @@ https://www.muycomputer.com/2025/12/21/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-12-21 • 🏷️ muycomputer.com
 
 ---
+## 2025-12-23
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Confirmada la duración de los últimos 4 episodios de &#8216;Stranger Things 5&#8217;. Ponte cómodo y prepara las palomitas
+Estamos en la cuenta regresiva final hacia el final de Stranger Things 5. Después del lanzamiento de los primeros capítulos de la temporada final en noviembre pasado, Netflix tiene entre manos un auténtico evento navideño y de fin de año. Y…
+https://hipertextual.com/cine-television/confirmada-duracion-ultimos-4-episodios-stranger-things-5-netflix/
+🗓️ 2025-12-22 • 🏷️ hipertextual.com
+
+---

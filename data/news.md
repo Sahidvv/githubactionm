@@ -2407,3 +2407,9 @@ https://hipertextual.com/videojuegos/nintendo-switch-2-cartuchos-tarjetas-llave/
 La postergación de GTA 6 hasta noviembre de 2026 causó gran decepción entre los jugadores, pero no sorprendió del todo. Algunos incluso bromean con que es posible que Rockstar Games tenga al menos un aplazamiento más bajo la manga. Sin emba…
 https://hipertextual.com/videojuegos/gta-6-no-se-retrasara-de-nuevo-ex-rockstar/
 🗓️ 2025-12-22 • 🏷️ hipertextual.com
+
+### 2025-12-23T02:54:19.779Z
+📰 Confirmada la duración de los últimos 4 episodios de &#8216;Stranger Things 5&#8217;. Ponte cómodo y prepara las palomitas
+Estamos en la cuenta regresiva final hacia el final de Stranger Things 5. Después del lanzamiento de los primeros capítulos de la temporada final en noviembre pasado, Netflix tiene entre manos un auténtico evento navideño y de fin de año. Y…
+https://hipertextual.com/cine-television/confirmada-duracion-ultimos-4-episodios-stranger-things-5-netflix/
+🗓️ 2025-12-22 • 🏷️ hipertextual.com
