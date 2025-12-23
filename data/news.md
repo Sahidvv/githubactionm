@@ -2419,3 +2419,9 @@ https://hipertextual.com/cine-television/confirmada-duracion-ultimos-4-episodios
 ChatGPT Atlas, el navegador web con IA de OpenAI, todavía tiene bastante camino por recorrer antes de ser una solución verdaderamente revolucionaria. Pero la firma que dirige Sam Altman al menos ha dado un paso crucial para reforzar su segu…
 https://hipertextual.com/inteligencia-artificial/chatgpt-atlas-refuerza-proteccion-inyeccion-de-promtps/
 🗓️ 2025-12-23 • 🏷️ hipertextual.com
+
+### 2025-12-23T19:17:56.653Z
+📰 Kit Digital concluye su período de solicitudes: un gran impulso a la digitalización de las pymes pero también de la Administración
+El programa de subvenciones para pymes y autónomos ha repartido 3.500 millones de euros en nueve de cada diez localidades españolasVuelve a verlo Cuando los fondos europeos Next Generation aterrizaron en los titulares, la gran duda no era s…
+https://www.eldiario.es/tecnologia/kit-digital-concluye-periodo-solicitudes-gran-impulso-digitalizacion-pymes-administracion_1_12839913.html
+🗓️ 2025-12-23 • 🏷️ eldiario.es
