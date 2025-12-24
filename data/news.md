@@ -2437,3 +2437,9 @@ https://www.eldiario.es/tecnologia/ia-quiere-conquistar-recetas-blogs-espanoles-
 Navidad es el momento ideal para dejar el cinismo a un lado. En especial, en una época como la nuestra, en que mostrar emociones —o no hacerlo— siempre es motivo de debate. Pero lo cierto es que las fechas más celebradas del año, no solo pe…
 https://hipertextual.com/cine-television/5-peliculas-geniales-si-lo-que-quieres-es-llorar-esta-navidad/
 🗓️ 2025-12-24 • 🏷️ hipertextual.com
+
+### 2025-12-24T19:16:55.701Z
+📰 No, GTA VI no ocupará 676,7 gigas
+GTA VI lleva tanto tiempo en el horizonte que cualquier información relacionada con el juego parece amplificarse de forma automática. A 24 de diciembre de 2025 todavía falta cerca de un año para que el nuevo título de Rockstar llegue a las …
+https://www.muycomputer.com/2025/12/24/no-gta-vi-no-ocupara-6767-gigas/
+🗓️ 2025-12-24 • 🏷️ muycomputer.com
