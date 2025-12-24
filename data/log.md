@@ -2136,3 +2136,19 @@ https://hipertextual.com/cine-television/confirmada-duracion-ultimos-4-episodios
 🗓️ 2025-12-22 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-24
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 La IA quiere conquistar las recetas, pero los blogs españoles resisten esta Navidad: "La gente confía en nosotros"
+El auge del contenido basura generado por IA hunde el tráfico de las webs de cocina internacionales, pero las autoras españolas aguantan reivindicando el valor de la conexión con los usuarios La investigadora que destripa el mito de OpenAI …
+https://www.eldiario.es/tecnologia/ia-quiere-conquistar-recetas-blogs-espanoles-resisten-navidad-gente-confia_1_12866986.html
+🗓️ 2025-12-23 • 🏷️ eldiario.es
+
+---

@@ -2425,3 +2425,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-atlas-refuerza-protecci
 El programa de subvenciones para pymes y autónomos ha repartido 3.500 millones de euros en nueve de cada diez localidades españolasVuelve a verlo Cuando los fondos europeos Next Generation aterrizaron en los titulares, la gran duda no era s…
 https://www.eldiario.es/tecnologia/kit-digital-concluye-periodo-solicitudes-gran-impulso-digitalizacion-pymes-administracion_1_12839913.html
 🗓️ 2025-12-23 • 🏷️ eldiario.es
+
+### 2025-12-24T02:51:33.002Z
+📰 La IA quiere conquistar las recetas, pero los blogs españoles resisten esta Navidad: "La gente confía en nosotros"
+El auge del contenido basura generado por IA hunde el tráfico de las webs de cocina internacionales, pero las autoras españolas aguantan reivindicando el valor de la conexión con los usuarios La investigadora que destripa el mito de OpenAI …
+https://www.eldiario.es/tecnologia/ia-quiere-conquistar-recetas-blogs-espanoles-resisten-navidad-gente-confia_1_12866986.html
+🗓️ 2025-12-23 • 🏷️ eldiario.es
