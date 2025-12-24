@@ -2431,3 +2431,9 @@ https://www.eldiario.es/tecnologia/kit-digital-concluye-periodo-solicitudes-gran
 El auge del contenido basura generado por IA hunde el tráfico de las webs de cocina internacionales, pero las autoras españolas aguantan reivindicando el valor de la conexión con los usuarios La investigadora que destripa el mito de OpenAI …
 https://www.eldiario.es/tecnologia/ia-quiere-conquistar-recetas-blogs-espanoles-resisten-navidad-gente-confia_1_12866986.html
 🗓️ 2025-12-23 • 🏷️ eldiario.es
+
+### 2025-12-24T13:31:52.386Z
+📰 5 películas geniales si lo que quieres es llorar esta Navidad
+Navidad es el momento ideal para dejar el cinismo a un lado. En especial, en una época como la nuestra, en que mostrar emociones —o no hacerlo— siempre es motivo de debate. Pero lo cierto es que las fechas más celebradas del año, no solo pe…
+https://hipertextual.com/cine-television/5-peliculas-geniales-si-lo-que-quieres-es-llorar-esta-navidad/
+🗓️ 2025-12-24 • 🏷️ hipertextual.com
