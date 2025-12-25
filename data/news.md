@@ -2449,3 +2449,9 @@ https://www.muycomputer.com/2025/12/24/no-gta-vi-no-ocupara-6767-gigas/
 Windows 11 vuelve al centro de la polémica, pero en esta ocasión por un motivo que dice mucho más del clima actual que del sistema operativo en sí. Basta una mención a la inteligencia artificial, y más aún si viene acompañada de cifras gran…
 https://www.muycomputer.com/2025/12/24/microsoft-niega-estar-rehaciendo-windows-11-con-ia/
 🗓️ 2025-12-24 • 🏷️ muycomputer.com
+
+### 2025-12-25T13:32:30.858Z
+📰 Si vas a viajar al extranjero estas Navidades, no olvides consultar esta página
+Viajar es una de las actividades más frecuentes durante el periodo navideño. Hemos normalizado que viajar sea sinónimo de vacaciones, por lo que millones de personas harán las maletas y cruzarán kilómetros de distancia en coche, tren, barco…
+https://hipertextual.com/viajeros/recomendaciones-viaje-paises-ministerio-exteriores/
+🗓️ 2025-12-25 • 🏷️ hipertextual.com
