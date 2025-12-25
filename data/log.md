@@ -2152,3 +2152,19 @@ https://www.eldiario.es/tecnologia/ia-quiere-conquistar-recetas-blogs-espanoles-
 🗓️ 2025-12-23 • 🏷️ eldiario.es
 
 ---
+## 2025-12-25
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Microsoft niega estar rehaciendo Windows 11 con IA
+Windows 11 vuelve al centro de la polémica, pero en esta ocasión por un motivo que dice mucho más del clima actual que del sistema operativo en sí. Basta una mención a la inteligencia artificial, y más aún si viene acompañada de cifras gran…
+https://www.muycomputer.com/2025/12/24/microsoft-niega-estar-rehaciendo-windows-11-con-ia/
+🗓️ 2025-12-24 • 🏷️ muycomputer.com
+
+---

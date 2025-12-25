@@ -2443,3 +2443,9 @@ https://hipertextual.com/cine-television/5-peliculas-geniales-si-lo-que-quieres-
 GTA VI lleva tanto tiempo en el horizonte que cualquier información relacionada con el juego parece amplificarse de forma automática. A 24 de diciembre de 2025 todavía falta cerca de un año para que el nuevo título de Rockstar llegue a las …
 https://www.muycomputer.com/2025/12/24/no-gta-vi-no-ocupara-6767-gigas/
 🗓️ 2025-12-24 • 🏷️ muycomputer.com
+
+### 2025-12-25T02:54:45.518Z
+📰 Microsoft niega estar rehaciendo Windows 11 con IA
+Windows 11 vuelve al centro de la polémica, pero en esta ocasión por un motivo que dice mucho más del clima actual que del sistema operativo en sí. Basta una mención a la inteligencia artificial, y más aún si viene acompañada de cifras gran…
+https://www.muycomputer.com/2025/12/24/microsoft-niega-estar-rehaciendo-windows-11-con-ia/
+🗓️ 2025-12-24 • 🏷️ muycomputer.com
