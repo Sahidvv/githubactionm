@@ -2168,3 +2168,19 @@ https://www.muycomputer.com/2025/12/24/microsoft-niega-estar-rehaciendo-windows-
 🗓️ 2025-12-24 • 🏷️ muycomputer.com
 
 ---
+## 2025-12-26
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Esta es la primera película navideña de la historia. Y no es lo que te imaginas
+En estas fechas es muy común que se estrenen toda clase de películas navideñas. Comedias románticas o simplemente ambientadas en las vísperas. También hay varios títulos que acostumbramos a volver a ver durante estos días de descanso y comi…
+https://hipertextual.com/cine-television/santa-claus-1898-primera-cinta-navidena-de-la-historia/
+🗓️ 2025-12-25 • 🏷️ hipertextual.com
+
+---

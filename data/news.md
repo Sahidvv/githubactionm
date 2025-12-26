@@ -2461,3 +2461,9 @@ https://hipertextual.com/viajeros/recomendaciones-viaje-paises-ministerio-exteri
 Samsung y Xiaomi son los principales fabricantes de teléfonos Android. De manera que los Google Pixel quedan en un puesto anecdótico. Sin embargo, de un tiempo a esta parte, Google ha querido premiar a sus usuarios más fieles incorporando a…
 https://hipertextual.com/guias/crear-stickers-google-pixel-teclado-pixel-studio/
 🗓️ 2025-12-25 • 🏷️ hipertextual.com
+
+### 2025-12-26T02:52:53.293Z
+📰 Esta es la primera película navideña de la historia. Y no es lo que te imaginas
+En estas fechas es muy común que se estrenen toda clase de películas navideñas. Comedias románticas o simplemente ambientadas en las vísperas. También hay varios títulos que acostumbramos a volver a ver durante estos días de descanso y comi…
+https://hipertextual.com/cine-television/santa-claus-1898-primera-cinta-navidena-de-la-historia/
+🗓️ 2025-12-25 • 🏷️ hipertextual.com
