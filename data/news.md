@@ -2467,3 +2467,9 @@ https://hipertextual.com/guias/crear-stickers-google-pixel-teclado-pixel-studio/
 En estas fechas es muy común que se estrenen toda clase de películas navideñas. Comedias románticas o simplemente ambientadas en las vísperas. También hay varios títulos que acostumbramos a volver a ver durante estos días de descanso y comi…
 https://hipertextual.com/cine-television/santa-claus-1898-primera-cinta-navidena-de-la-historia/
 🗓️ 2025-12-25 • 🏷️ hipertextual.com
+
+### 2025-12-26T13:32:34.204Z
+📰 Gmail lo cambia todo con una función que llevamos 20 años esperando
+Si llevas el tiempo suficiente en la web, perder o cambiar tu cuenta de correo electrónico de uso primario es un verdadero problema. La buena noticia es que Gmail está implementando una función que va a ser de gran ayuda para quienes usan e…
+https://hipertextual.com/internet/cambiar-nombre-usuario-gmail-ya-es-posible/
+🗓️ 2025-12-26 • 🏷️ hipertextual.com
