@@ -2485,3 +2485,9 @@ https://hipertextual.com/cine-television/cuando-se-estrena-el-episodio-final-de-
 La hora del Snyderverse ha pasado, pero no es un misterio que el público se quedó con las ganas de ver por más tiempo a Henry Cavill como Superman. Su versión del Hombre de Acero nunca se pudo disfrutar del todo y concluyó de forma repentin…
 https://hipertextual.com/cine-television/henry-cavill-traje-superman-christopher-reeve/
 🗓️ 2025-12-26 • 🏷️ hipertextual.com
+
+### 2025-12-27T13:28:21.680Z
+📰 Se filtran nuevos renders del iPhone plegable
+Durante años, el iPhone plegable ha sido un producto inexistente a nivel oficial, pero omnipresente en rumores, renders y filtraciones que intentan anticipar cómo podría ser el primer plegable de Apple. Cada nueva imagen vuelve a reactivar …
+https://www.muycomputer.com/2025/12/27/se-filtran-nuevos-renders-del-iphone-plegable/
+🗓️ 2025-12-27 • 🏷️ muycomputer.com
