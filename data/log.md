@@ -2184,3 +2184,19 @@ https://hipertextual.com/cine-television/santa-claus-1898-primera-cinta-navidena
 🗓️ 2025-12-25 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-27
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El día que Henry Cavill se convirtió en Superman usando el traje de Christopher Reeve: las geniales fotos de Zack Snyder
+La hora del Snyderverse ha pasado, pero no es un misterio que el público se quedó con las ganas de ver por más tiempo a Henry Cavill como Superman. Su versión del Hombre de Acero nunca se pudo disfrutar del todo y concluyó de forma repentin…
+https://hipertextual.com/cine-television/henry-cavill-traje-superman-christopher-reeve/
+🗓️ 2025-12-26 • 🏷️ hipertextual.com
+
+---
