@@ -2200,3 +2200,19 @@ https://hipertextual.com/cine-television/henry-cavill-traje-superman-christopher
 🗓️ 2025-12-26 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-28
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ¿Qué ocurre si se te olvida activar el modo avión del móvil durante un vuelo?
+Activar el Modo Avión en tu smartphone Android o iOS es más importante de lo que crees. Si no lo haces, las frecuencias podrían influir en las comunicaciones de los pilotos.
+https://computerhoy.20minutos.es/moviles/que-ocurre-si-se-te-olvida-activar-modo-avion-movil-durante-un-vuelo_6897115_0.html
+🗓️ 2025-12-27 • 🏷️ computerhoy.20minutos.es
+
+---

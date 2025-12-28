@@ -2497,3 +2497,9 @@ https://www.muycomputer.com/2025/12/27/se-filtran-nuevos-renders-del-iphone-pleg
 Una vez más, las series nos han dejado los mejores títulos de todo 2025. Aunque no ha sido un mal año de cine, es la televisión y el streaming donde realmente el público ha encontrado las grandes historias de este curso. Algunas de ellas so…
 https://hipertextual.com/cine-television/las-10-mejores-series-de-2025-y-donde-puedes-verlas/
 🗓️ 2025-12-27 • 🏷️ hipertextual.com
+
+### 2025-12-28T03:05:23.884Z
+📰 ¿Qué ocurre si se te olvida activar el modo avión del móvil durante un vuelo?
+Activar el Modo Avión en tu smartphone Android o iOS es más importante de lo que crees. Si no lo haces, las frecuencias podrían influir en las comunicaciones de los pilotos.
+https://computerhoy.20minutos.es/moviles/que-ocurre-si-se-te-olvida-activar-modo-avion-movil-durante-un-vuelo_6897115_0.html
+🗓️ 2025-12-27 • 🏷️ computerhoy.20minutos.es
