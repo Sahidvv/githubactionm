@@ -2509,3 +2509,9 @@ https://computerhoy.20minutos.es/moviles/que-ocurre-si-se-te-olvida-activar-modo
 Hace tiempo que ChatGPT dejó de ser solo un chatbot al uso y empezó a comportarse como algo más complejo, una plataforma en constante expansión que va sumando capas, funciones y matices. En ese proceso, cada novedad ya no busca tanto impres…
 https://www.muycomputer.com/2025/12/28/openai-anadira-skills-a-chatgpt-2/
 🗓️ 2025-12-28 • 🏷️ muycomputer.com
+
+### 2025-12-28T19:16:19.116Z
+📰 Windows 11 hará el Explorador de Archivos más eficiente
+Hay pequeñas molestias que, por repetidas, acaban formando parte del paisaje cotidiano. En Windows 11, una de ellas ha sido durante mucho tiempo el comportamiento del Explorador de Archivos cuando toca buscar algo en carpetas grandes: venti…
+https://www.muycomputer.com/2025/12/28/windows-11-hara-el-explorador-de-archivos-mas-eficiente/
+🗓️ 2025-12-28 • 🏷️ muycomputer.com
