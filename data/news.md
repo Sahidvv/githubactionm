@@ -2503,3 +2503,9 @@ https://hipertextual.com/cine-television/las-10-mejores-series-de-2025-y-donde-p
 Activar el Modo Avión en tu smartphone Android o iOS es más importante de lo que crees. Si no lo haces, las frecuencias podrían influir en las comunicaciones de los pilotos.
 https://computerhoy.20minutos.es/moviles/que-ocurre-si-se-te-olvida-activar-modo-avion-movil-durante-un-vuelo_6897115_0.html
 🗓️ 2025-12-27 • 🏷️ computerhoy.20minutos.es
+
+### 2025-12-28T13:29:43.967Z
+📰 OpenAI añadirá «skills» a ChatGPT
+Hace tiempo que ChatGPT dejó de ser solo un chatbot al uso y empezó a comportarse como algo más complejo, una plataforma en constante expansión que va sumando capas, funciones y matices. En ese proceso, cada novedad ya no busca tanto impres…
+https://www.muycomputer.com/2025/12/28/openai-anadira-skills-a-chatgpt-2/
+🗓️ 2025-12-28 • 🏷️ muycomputer.com
