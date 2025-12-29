@@ -2521,3 +2521,9 @@ https://www.muycomputer.com/2025/12/28/windows-11-hara-el-explorador-de-archivos
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Elgato Stream Deck y Network Dock, análisis: mejor …
 https://www.muycomputer.com/2025/12/28/los-mejores-contenidos-de-la-semana-en-muycomputer-div/
 🗓️ 2025-12-28 • 🏷️ muycomputer.com
+
+### 2025-12-29T13:37:27.653Z
+📰 A prueba la consola más rara del mundo, fabricada en un país que ya no existe
+Si te digo «Bildschirmspiel 01» seguro que te sonará a alemán, pero seguramente no sabrás de qué te estoy hablando. Tranquilo, hasta hace un instante yo estaba igual que tú. Ese es el nombre de la que es, probablemente, la consola más rara …
+https://www.muycomputer.com/2025/12/29/a-prueba-la-consola-mas-rara-del-mundo-fabricada-en-un-pais-que-ya-no-existe/
+🗓️ 2025-12-29 • 🏷️ muycomputer.com
