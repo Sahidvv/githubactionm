@@ -2216,3 +2216,19 @@ https://computerhoy.20minutos.es/moviles/que-ocurre-si-se-te-olvida-activar-modo
 🗓️ 2025-12-27 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2025-12-29
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DIV)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Elgato Stream Deck y Network Dock, análisis: mejor …
+https://www.muycomputer.com/2025/12/28/los-mejores-contenidos-de-la-semana-en-muycomputer-div/
+🗓️ 2025-12-28 • 🏷️ muycomputer.com
+
+---
