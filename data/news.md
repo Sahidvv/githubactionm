@@ -2527,3 +2527,9 @@ https://www.muycomputer.com/2025/12/28/los-mejores-contenidos-de-la-semana-en-mu
 Si te digo «Bildschirmspiel 01» seguro que te sonará a alemán, pero seguramente no sabrás de qué te estoy hablando. Tranquilo, hasta hace un instante yo estaba igual que tú. Ese es el nombre de la que es, probablemente, la consola más rara …
 https://www.muycomputer.com/2025/12/29/a-prueba-la-consola-mas-rara-del-mundo-fabricada-en-un-pais-que-ya-no-existe/
 🗓️ 2025-12-29 • 🏷️ muycomputer.com
+
+### 2025-12-29T19:16:39.306Z
+📰 Google pone el último clavo en el ataúd de Stadia
+Han pasado casi tres años desde que Google cerró Stadia, su plataforma para jugar en la nube, y es difícil pensar que alguien la extraña. Y todo apunta a que los de Mountain View están listos para dar vuelta la página y enterrar de forma de…
+https://hipertextual.com/videojuegos/google-mata-herramienta-convertir-mando-stadia/
+🗓️ 2025-12-29 • 🏷️ hipertextual.com
