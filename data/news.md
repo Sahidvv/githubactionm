@@ -2539,3 +2539,9 @@ https://hipertextual.com/videojuegos/google-mata-herramienta-convertir-mando-sta
 Los Samsung Galaxy S26 están entre los móviles más esperados de 2026 y los indicios apuntan a que se presentarán en febrero. Buena parte de las especificaciones técnicas y de diseño de los nuevos buques insignia de la marca coreana ya se ha…
 https://hipertextual.com/mobile/precio-samsung-galaxy-s26-dolor-de-cabeza/
 🗓️ 2025-12-29 • 🏷️ hipertextual.com
+
+### 2025-12-30T13:36:02.769Z
+📰 FRITZ!Mesh Set 1700 ya disponible en España: Wi-Fi 7 con una cobertura total
+Ya está disponible en España el FRITZ!Mesh Set 1700, un kit de repetidores compatible con Wi-Fi 7 que se puede conseguir en dos versiones diferentes, una con que incluye dos repetidores y otra que trae tres repetidores. La elección de uno u…
+https://www.muycomputer.com/2025/12/30/fritzmesh-set-1700-ya-disponible-en-espana-wi-fi-7-con-una-cobertura-total/
+🗓️ 2025-12-30 • 🏷️ muycomputer.com
