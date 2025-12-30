@@ -2232,3 +2232,19 @@ https://www.muycomputer.com/2025/12/28/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2025-12-28 • 🏷️ muycomputer.com
 
 ---
+## 2025-12-30
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Por qué ponerle precio a los Galaxy S26 se ha vuelto un dolor de cabeza para Samsung
+Los Samsung Galaxy S26 están entre los móviles más esperados de 2026 y los indicios apuntan a que se presentarán en febrero. Buena parte de las especificaciones técnicas y de diseño de los nuevos buques insignia de la marca coreana ya se ha…
+https://hipertextual.com/mobile/precio-samsung-galaxy-s26-dolor-de-cabeza/
+🗓️ 2025-12-29 • 🏷️ hipertextual.com
+
+---

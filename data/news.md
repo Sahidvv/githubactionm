@@ -2533,3 +2533,9 @@ https://www.muycomputer.com/2025/12/29/a-prueba-la-consola-mas-rara-del-mundo-fa
 Han pasado casi tres años desde que Google cerró Stadia, su plataforma para jugar en la nube, y es difícil pensar que alguien la extraña. Y todo apunta a que los de Mountain View están listos para dar vuelta la página y enterrar de forma de…
 https://hipertextual.com/videojuegos/google-mata-herramienta-convertir-mando-stadia/
 🗓️ 2025-12-29 • 🏷️ hipertextual.com
+
+### 2025-12-30T02:55:30.894Z
+📰 Por qué ponerle precio a los Galaxy S26 se ha vuelto un dolor de cabeza para Samsung
+Los Samsung Galaxy S26 están entre los móviles más esperados de 2026 y los indicios apuntan a que se presentarán en febrero. Buena parte de las especificaciones técnicas y de diseño de los nuevos buques insignia de la marca coreana ya se ha…
+https://hipertextual.com/mobile/precio-samsung-galaxy-s26-dolor-de-cabeza/
+🗓️ 2025-12-29 • 🏷️ hipertextual.com
