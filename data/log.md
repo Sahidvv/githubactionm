@@ -2248,3 +2248,19 @@ https://hipertextual.com/mobile/precio-samsung-galaxy-s26-dolor-de-cabeza/
 🗓️ 2025-12-29 • 🏷️ hipertextual.com
 
 ---
+## 2025-12-31
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La gran pregunta de la burbuja de la IA (y la economía global) para 2026: ¿cuándo caduca un chip?
+La industria ha invertido billones en chips que podrían depreciarse en 12 meses; Nvidia defiende que durarán hasta seis años, pero en 2026 podrían aparecer enormes agujeros contables en las grandes tecnológicas si esa promesa no se cumpleYa…
+https://www.eldiario.es/tecnologia/gran-pregunta-burbuja-ia-economia-global-2026-caduca-chip_1_12871388.html
+🗓️ 2025-12-30 • 🏷️ eldiario.es
+
+---

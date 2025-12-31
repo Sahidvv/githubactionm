@@ -2545,3 +2545,9 @@ https://hipertextual.com/mobile/precio-samsung-galaxy-s26-dolor-de-cabeza/
 Ya está disponible en España el FRITZ!Mesh Set 1700, un kit de repetidores compatible con Wi-Fi 7 que se puede conseguir en dos versiones diferentes, una con que incluye dos repetidores y otra que trae tres repetidores. La elección de uno u…
 https://www.muycomputer.com/2025/12/30/fritzmesh-set-1700-ya-disponible-en-espana-wi-fi-7-con-una-cobertura-total/
 🗓️ 2025-12-30 • 🏷️ muycomputer.com
+
+### 2025-12-31T02:54:37.146Z
+📰 La gran pregunta de la burbuja de la IA (y la economía global) para 2026: ¿cuándo caduca un chip?
+La industria ha invertido billones en chips que podrían depreciarse en 12 meses; Nvidia defiende que durarán hasta seis años, pero en 2026 podrían aparecer enormes agujeros contables en las grandes tecnológicas si esa promesa no se cumpleYa…
+https://www.eldiario.es/tecnologia/gran-pregunta-burbuja-ia-economia-global-2026-caduca-chip_1_12871388.html
+🗓️ 2025-12-30 • 🏷️ eldiario.es
