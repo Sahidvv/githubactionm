@@ -2551,3 +2551,9 @@ https://www.muycomputer.com/2025/12/30/fritzmesh-set-1700-ya-disponible-en-espan
 La industria ha invertido billones en chips que podrían depreciarse en 12 meses; Nvidia defiende que durarán hasta seis años, pero en 2026 podrían aparecer enormes agujeros contables en las grandes tecnológicas si esa promesa no se cumpleYa…
 https://www.eldiario.es/tecnologia/gran-pregunta-burbuja-ia-economia-global-2026-caduca-chip_1_12871388.html
 🗓️ 2025-12-30 • 🏷️ eldiario.es
+
+### 2025-12-31T13:32:48.181Z
+📰 Deepfakes, cuando la ficción no es diferente de la realidad
+La llegada de herramientas de IA baratas, accesibles y de gran capacidad, ha permitido manipular contenido digital de audio, video e imagen de una manera desconocida hasta la fecha. El fenómeno solo acaba de empezar y algunos investigadores…
+https://www.muycomputer.com/2025/12/31/deepfakes-cuando-la-ficcion-no-es-diferente-de-la-realidad/
+🗓️ 2025-12-31 • 🏷️ muycomputer.com
