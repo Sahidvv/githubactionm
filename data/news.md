@@ -2557,3 +2557,9 @@ https://www.eldiario.es/tecnologia/gran-pregunta-burbuja-ia-economia-global-2026
 La llegada de herramientas de IA baratas, accesibles y de gran capacidad, ha permitido manipular contenido digital de audio, video e imagen de una manera desconocida hasta la fecha. El fenómeno solo acaba de empezar y algunos investigadores…
 https://www.muycomputer.com/2025/12/31/deepfakes-cuando-la-ficcion-no-es-diferente-de-la-realidad/
 🗓️ 2025-12-31 • 🏷️ muycomputer.com
+
+### 2025-12-31T19:16:43.975Z
+📰 Samsung One UI 8 cambia tu móvil al completo: novedades, cuándo llegará a tu teléfono y modelos compatibles
+Samsung anunció el lanzamiento oficial de One UI 8 el pasado mes de septiembre. Tras meses de rumores, filtraciones y especulaciones, millones de usuarios de todo el mundo podrán dar el salto de One UI 7 a One UI 8. Un cambio que no se ha h…
+https://hipertextual.com/guias/samsung-one-ui-8/
+🗓️ 2025-12-31 • 🏷️ hipertextual.com
