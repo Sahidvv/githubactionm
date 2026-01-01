@@ -2575,3 +2575,9 @@ https://computerhoy.20minutos.es/tecnologia/internet-2026-no-sera-como-conocias-
 ATENCIÓN: El artículo contiene SPOILERS del final de Stranger Things. Stranger Things llegó a su conclusión épica después de una temporada irregular, muy criticada y llena de baches. Pero a pesar de eso, la producción de Netflix, con nueve …
 https://hipertextual.com/cine-television/stranger-things-final-explicado-asi-termina-serie-mas-exitosa-netflix/
 🗓️ 2026-01-01 • 🏷️ hipertextual.com
+
+### 2026-01-01T19:17:39.476Z
+📰 Las películas más esperadas de 2026 que ya sabemos cuándo se estrenan
+El año 2025 se despide dejando una estela de éxitos que celebrar. A hitos de taquilla como los que lograron Una película de Minecraft, Zootrópolis 2 y Jurassic World: El renacer, se añaden los que celebran el regreso a un cine más autoral y…
+https://hipertextual.com/cine-television/las-peliculas-mas-esperadas-de-2026-que-ya-sabemos-cuando-se-estrenan/
+🗓️ 2026-01-01 • 🏷️ hipertextual.com
