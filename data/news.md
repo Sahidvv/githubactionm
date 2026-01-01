@@ -2569,3 +2569,9 @@ https://hipertextual.com/guias/samsung-one-ui-8/
 Se acabará la exploración entre enlaces y la IA, junto a plataformas cerradas, servirá la información directamente, cambiando la experiencia y el modelo económico de la web.
 https://computerhoy.20minutos.es/tecnologia/internet-2026-no-sera-como-conocias-las-senales-que-dejo-2025_6913878_0.html
 🗓️ 2025-12-31 • 🏷️ computerhoy.20minutos.es
+
+### 2026-01-01T13:33:23.076Z
+📰 El final de ‘Stranger Things’, explicado: así termina la serie más exitosa de Netflix
+ATENCIÓN: El artículo contiene SPOILERS del final de Stranger Things. Stranger Things llegó a su conclusión épica después de una temporada irregular, muy criticada y llena de baches. Pero a pesar de eso, la producción de Netflix, con nueve …
+https://hipertextual.com/cine-television/stranger-things-final-explicado-asi-termina-serie-mas-exitosa-netflix/
+🗓️ 2026-01-01 • 🏷️ hipertextual.com
