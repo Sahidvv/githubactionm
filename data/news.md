@@ -2563,3 +2563,9 @@ https://www.muycomputer.com/2025/12/31/deepfakes-cuando-la-ficcion-no-es-diferen
 Samsung anunció el lanzamiento oficial de One UI 8 el pasado mes de septiembre. Tras meses de rumores, filtraciones y especulaciones, millones de usuarios de todo el mundo podrán dar el salto de One UI 7 a One UI 8. Un cambio que no se ha h…
 https://hipertextual.com/guias/samsung-one-ui-8/
 🗓️ 2025-12-31 • 🏷️ hipertextual.com
+
+### 2026-01-01T03:07:24.695Z
+📰 Internet en 2026 no será como lo conocías: las señales que dejó 2025
+Se acabará la exploración entre enlaces y la IA, junto a plataformas cerradas, servirá la información directamente, cambiando la experiencia y el modelo económico de la web.
+https://computerhoy.20minutos.es/tecnologia/internet-2026-no-sera-como-conocias-las-senales-que-dejo-2025_6913878_0.html
+🗓️ 2025-12-31 • 🏷️ computerhoy.20minutos.es

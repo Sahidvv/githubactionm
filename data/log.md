@@ -2264,3 +2264,19 @@ https://www.eldiario.es/tecnologia/gran-pregunta-burbuja-ia-economia-global-2026
 🗓️ 2025-12-30 • 🏷️ eldiario.es
 
 ---
+## 2026-01-01
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Internet en 2026 no será como lo conocías: las señales que dejó 2025
+Se acabará la exploración entre enlaces y la IA, junto a plataformas cerradas, servirá la información directamente, cambiando la experiencia y el modelo económico de la web.
+https://computerhoy.20minutos.es/tecnologia/internet-2026-no-sera-como-conocias-las-senales-que-dejo-2025_6913878_0.html
+🗓️ 2025-12-31 • 🏷️ computerhoy.20minutos.es
+
+---
