@@ -2280,3 +2280,19 @@ https://computerhoy.20minutos.es/tecnologia/internet-2026-no-sera-como-conocias-
 🗓️ 2025-12-31 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2026-01-02
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Pensábamos que el USB-C se podría conectar por ambos lados: la realidad es que solo tiene sentido en ciertos casos
+No deberías usar el cable USB-C en ambos sentidos. Cada uno de los lados tiene un funcionamiento y debes tener cuidado para evitar problemas de velocidades o carga.
+https://computerhoy.20minutos.es/dispositivos/pensabamos-que-usb-c-se-podria-conectar-por-ambos-lados-realidad-es-que-solo-tiene-sentido-ciertos-casos_6911863_0.html
+🗓️ 2026-01-01 • 🏷️ computerhoy.20minutos.es
+
+---
