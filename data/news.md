@@ -2593,3 +2593,9 @@ https://computerhoy.20minutos.es/dispositivos/pensabamos-que-usb-c-se-podria-con
 El último invento que se ha sacado Samsung de la manga es una maravilla. No para todo el mundo, pero sí para todos aquellos amantes de la privacidad. Hoy mismo te hemos hablado sobre las 10 mejoras que se esperan para el Galaxy S26 Ultra, e…
 https://hipertextual.com/mobile/adios-al-protector-de-pantalla-incluso-apple-va-a-querer-copiar-el-ultimo-invento-de-samsung/
 🗓️ 2026-01-02 • 🏷️ hipertextual.com
+
+### 2026-01-02T19:14:45.253Z
+📰 Solo 17 días: el plan de Netflix con Warner que podría hundir a los cines
+La compra de Warner Bros por parte de Netflix sigue generando debate por sus posibles implicaciones para la industria. Y un nuevo dato ha encendido las alarmas entre las cadenas de cines, porque de concretarse podría poner en jaque la viabi…
+https://hipertextual.com/cine-television/17-dias-plan-netflix-warner-hundir-cines/
+🗓️ 2026-01-02 • 🏷️ hipertextual.com
