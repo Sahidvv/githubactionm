@@ -2587,3 +2587,9 @@ https://hipertextual.com/cine-television/las-peliculas-mas-esperadas-de-2026-que
 No deberías usar el cable USB-C en ambos sentidos. Cada uno de los lados tiene un funcionamiento y debes tener cuidado para evitar problemas de velocidades o carga.
 https://computerhoy.20minutos.es/dispositivos/pensabamos-que-usb-c-se-podria-conectar-por-ambos-lados-realidad-es-que-solo-tiene-sentido-ciertos-casos_6911863_0.html
 🗓️ 2026-01-01 • 🏷️ computerhoy.20minutos.es
+
+### 2026-01-02T13:32:52.916Z
+📰 Adiós al protector de pantalla. Incluso Apple va a querer copiar el último invento de Samsung
+El último invento que se ha sacado Samsung de la manga es una maravilla. No para todo el mundo, pero sí para todos aquellos amantes de la privacidad. Hoy mismo te hemos hablado sobre las 10 mejoras que se esperan para el Galaxy S26 Ultra, e…
+https://hipertextual.com/mobile/adios-al-protector-de-pantalla-incluso-apple-va-a-querer-copiar-el-ultimo-invento-de-samsung/
+🗓️ 2026-01-02 • 🏷️ hipertextual.com
