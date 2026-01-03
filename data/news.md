@@ -2611,3 +2611,9 @@ https://hipertextual.com/software/activar-windows-sin-internet-no-disponible/
 El futuro del Vision Pro sigue comprometido. Según The Guardian, Apple ha vuelto a reducir la producción ante las debilidad de las ventas, muy por debajo de lo esperado para un dispositivo que llegó al mercado para «abrir una nueva era de c…
 https://www.muycomputer.com/2026/01/03/el-futuro-del-vision-pro-un-fracaso-comercial-poco-comun-en-apple/
 🗓️ 2026-01-03 • 🏷️ muycomputer.com
+
+### 2026-01-03T19:15:55.726Z
+📰 ‘Stranger Things 5, capítulo final (★★★☆☆): tan emotivo como decepcionante
+Stranger Things se distinguió desde sus primeros capítulos por ser una serie enfocada en sus personajes. De hecho, los hermanos Duffer siempre han privilegiado a sus queridos protagonistas sobre la trama, algo que al final terminó por ser u…
+https://hipertextual.com/cine-television/stranger-things-5-capitulo-final-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-tan-emotivo-como-decepcionante/
+🗓️ 2026-01-03 • 🏷️ hipertextual.com
