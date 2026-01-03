@@ -2599,3 +2599,9 @@ https://hipertextual.com/mobile/adios-al-protector-de-pantalla-incluso-apple-va-
 La compra de Warner Bros por parte de Netflix sigue generando debate por sus posibles implicaciones para la industria. Y un nuevo dato ha encendido las alarmas entre las cadenas de cines, porque de concretarse podría poner en jaque la viabi…
 https://hipertextual.com/cine-television/17-dias-plan-netflix-warner-hundir-cines/
 🗓️ 2026-01-02 • 🏷️ hipertextual.com
+
+### 2026-01-03T02:49:29.791Z
+📰 Dile adiós a activar Windows sin una conexión a Internet. Microsoft mata el último truco disponible
+Activar Windows sin tener Internet se ha vuelto imposible. Según reporta Neowin, Microsoft ha matado el último recurso disponible para no tener que usar una conexión a la web para completar el proceso de activación de su software. De acuerd…
+https://hipertextual.com/software/activar-windows-sin-internet-no-disponible/
+🗓️ 2026-01-02 • 🏷️ hipertextual.com

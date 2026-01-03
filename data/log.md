@@ -2296,3 +2296,19 @@ https://computerhoy.20minutos.es/dispositivos/pensabamos-que-usb-c-se-podria-con
 🗓️ 2026-01-01 • 🏷️ computerhoy.20minutos.es
 
 ---
+## 2026-01-03
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Dile adiós a activar Windows sin una conexión a Internet. Microsoft mata el último truco disponible
+Activar Windows sin tener Internet se ha vuelto imposible. Según reporta Neowin, Microsoft ha matado el último recurso disponible para no tener que usar una conexión a la web para completar el proceso de activación de su software. De acuerd…
+https://hipertextual.com/software/activar-windows-sin-internet-no-disponible/
+🗓️ 2026-01-02 • 🏷️ hipertextual.com
+
+---
