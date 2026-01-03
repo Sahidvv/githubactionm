@@ -2605,3 +2605,9 @@ https://hipertextual.com/cine-television/17-dias-plan-netflix-warner-hundir-cine
 Activar Windows sin tener Internet se ha vuelto imposible. Según reporta Neowin, Microsoft ha matado el último recurso disponible para no tener que usar una conexión a la web para completar el proceso de activación de su software. De acuerd…
 https://hipertextual.com/software/activar-windows-sin-internet-no-disponible/
 🗓️ 2026-01-02 • 🏷️ hipertextual.com
+
+### 2026-01-03T13:29:18.034Z
+📰 El futuro del Vision Pro, un fracaso comercial poco común en Apple
+El futuro del Vision Pro sigue comprometido. Según The Guardian, Apple ha vuelto a reducir la producción ante las debilidad de las ventas, muy por debajo de lo esperado para un dispositivo que llegó al mercado para «abrir una nueva era de c…
+https://www.muycomputer.com/2026/01/03/el-futuro-del-vision-pro-un-fracaso-comercial-poco-comun-en-apple/
+🗓️ 2026-01-03 • 🏷️ muycomputer.com
