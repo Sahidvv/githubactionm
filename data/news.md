@@ -2629,3 +2629,9 @@ https://hipertextual.com/cine-television/las-peliculas-mas-sorprendentes-para-ve
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana, el primero de 2026 y que puedes revisar de un vistazo en esta selección con lo más relevante: Arranca el CES 2026. La industr…
 https://www.muycomputer.com/2026/01/04/los-mejores-contenidos-de-la-semana-en-muycomputer-dv/
 🗓️ 2026-01-04 • 🏷️ muycomputer.com
+
+### 2026-01-04T19:16:33.066Z
+📰 Muere en un reto un ‘streamer’ español que copió el modelo de Simón Pérez, el influencer de las hipotecas y la cocaína: “Me podía haber pasado a mí”
+La retransmisión en directo ocurrió la noche de fin de año y consistía en tomar drogas y alcohol. Era privada solo para un grupo de personas que habían donado dinero al fallecido, Sergio Jiménez, de 37 años.
+https://elpais.com/tecnologia/2026-01-04/muere-en-un-reto-un-streamer-espanol-que-copio-el-modelo-de-simon-perez-el-influencer-de-las-hipotecas-y-la-cocaina-me-podia-haber-pasado-a-mi.html
+🗓️ 2026-01-04 • 🏷️ elpais.com
