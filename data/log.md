@@ -2312,3 +2312,19 @@ https://hipertextual.com/software/activar-windows-sin-internet-no-disponible/
 🗓️ 2026-01-02 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-04
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Las películas más sorprendentes para ver en este arranque de 2026
+El Año Nuevo es quizás la fiesta más curiosa del calendario. No solo representa lo mismo en múltiples culturas, sino que también tiene una larga colección de rituales para celebrarlo. Además, tiene la particularidad de, al menos, hacer coin…
+https://hipertextual.com/cine-television/las-peliculas-mas-sorprendentes-para-ver-en-este-arranque-de-2026/
+🗓️ 2026-01-03 • 🏷️ hipertextual.com
+
+---
