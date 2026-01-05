@@ -2635,3 +2635,9 @@ https://www.muycomputer.com/2026/01/04/los-mejores-contenidos-de-la-semana-en-mu
 La retransmisión en directo ocurrió la noche de fin de año y consistía en tomar drogas y alcohol. Era privada solo para un grupo de personas que habían donado dinero al fallecido, Sergio Jiménez, de 37 años.
 https://elpais.com/tecnologia/2026-01-04/muere-en-un-reto-un-streamer-espanol-que-copio-el-modelo-de-simon-perez-el-influencer-de-las-hipotecas-y-la-cocaina-me-podia-haber-pasado-a-mi.html
 🗓️ 2026-01-04 • 🏷️ elpais.com
+
+### 2026-01-05T03:10:29.167Z
+📰 Medio millón de euros de multa a ING por perder datos confidenciales de un cliente y no saber cómo encontrarlos
+La entidad ignoró durante siete meses los avisos del afectado, que le advirtió repetidamente de que estaba reclamando sus datos bancarios y su DNI a la empresa de mensajería equivocadaProtección de Datos zanja el debate: la baliza V-16 de l…
+https://www.eldiario.es/tecnologia/medio-millon-euros-multa-ing-perder-datos-confidenciales-cliente-no-encontrarlos_1_12878875.html
+🗓️ 2026-01-04 • 🏷️ eldiario.es

@@ -2328,3 +2328,19 @@ https://hipertextual.com/cine-television/las-peliculas-mas-sorprendentes-para-ve
 🗓️ 2026-01-03 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-05
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Medio millón de euros de multa a ING por perder datos confidenciales de un cliente y no saber cómo encontrarlos
+La entidad ignoró durante siete meses los avisos del afectado, que le advirtió repetidamente de que estaba reclamando sus datos bancarios y su DNI a la empresa de mensajería equivocadaProtección de Datos zanja el debate: la baliza V-16 de l…
+https://www.eldiario.es/tecnologia/medio-millon-euros-multa-ing-perder-datos-confidenciales-cliente-no-encontrarlos_1_12878875.html
+🗓️ 2026-01-04 • 🏷️ eldiario.es
+
+---
