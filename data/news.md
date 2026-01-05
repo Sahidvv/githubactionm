@@ -2647,3 +2647,9 @@ https://www.eldiario.es/tecnologia/medio-millon-euros-multa-ing-perder-datos-con
 El organismo advierte al público de que “no dispone de programas de ayuda económica a particulares” tras detectar esta suplantación, un timo que EL PAÍS denunció ya en 2024
 https://elpais.com/tecnologia/2026-01-05/la-fundacion-princesa-de-asturias-denuncia-perfiles-falsos-en-redes-sociales-que-usurpan-la-identidad-de-leonor-para-estafar.html
 🗓️ 2026-01-05 • 🏷️ elpais.com
+
+### 2026-01-05T19:20:51.450Z
+📰 Muere David Rosen, figura clave del arcade y Sega
+Hubo un tiempo en el que el videojuego tenía un lugar físico muy concreto: salones ruidosos, iluminados por neones y pantallas que parecían venidas del futuro, donde cada moneda era una promesa y cada partida, un reto. Para muchos de nosotr…
+https://www.muycomputer.com/2026/01/05/muere-david-rosen-figura-clave-del-arcade-y-sega/
+🗓️ 2026-01-05 • 🏷️ muycomputer.com
