@@ -2641,3 +2641,9 @@ https://elpais.com/tecnologia/2026-01-04/muere-en-un-reto-un-streamer-espanol-qu
 La entidad ignoró durante siete meses los avisos del afectado, que le advirtió repetidamente de que estaba reclamando sus datos bancarios y su DNI a la empresa de mensajería equivocadaProtección de Datos zanja el debate: la baliza V-16 de l…
 https://www.eldiario.es/tecnologia/medio-millon-euros-multa-ing-perder-datos-confidenciales-cliente-no-encontrarlos_1_12878875.html
 🗓️ 2026-01-04 • 🏷️ eldiario.es
+
+### 2026-01-05T13:40:54.348Z
+📰 La Fundación Princesa de Asturias denuncia perfiles falsos en redes sociales que “usurpan la identidad” de Leonor para estafar
+El organismo advierte al público de que “no dispone de programas de ayuda económica a particulares” tras detectar esta suplantación, un timo que EL PAÍS denunció ya en 2024
+https://elpais.com/tecnologia/2026-01-05/la-fundacion-princesa-de-asturias-denuncia-perfiles-falsos-en-redes-sociales-que-usurpan-la-identidad-de-leonor-para-estafar.html
+🗓️ 2026-01-05 • 🏷️ elpais.com
