@@ -2665,3 +2665,9 @@ https://hipertextual.com/tecnologia/lego-smart-play-bloques-inteligentes/
 Cada vez más expertos coinciden en que las inversión que se están haciendo en la tecnología de ChatGPT son exageradas, y que antes o después habrá descalabros.
 https://computerhoy.20minutos.es/tecnologia/shlomo-kramer-experto-ciberseguridad-cree-que-ia-vive-una-burbuja-que-muchas-empresas-usan-como-tapadera_6917395_0.html
 🗓️ 2026-01-06 • 🏷️ computerhoy.20minutos.es
+
+### 2026-01-06T19:17:23.457Z
+📰 Olvídate de las gafas inteligentes: Razer presenta unos auriculares con IA y cámaras que ven todo por ti
+El CES suele ser el lugar en donde debutan experimentos tecnológicos que rara vez salen a la venta. En la edición de este año, Razer ha mostrado un producto con el que se sube al tren de la inteligencia artificial para intentar competirle a…
+https://hipertextual.com/tecnologia/razer-project-motoko-auriculares-ia-camaras-ces/
+🗓️ 2026-01-06 • 🏷️ hipertextual.com
