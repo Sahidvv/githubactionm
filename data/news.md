@@ -2659,3 +2659,9 @@ https://www.muycomputer.com/2026/01/05/muere-david-rosen-figura-clave-del-arcade
 LEGO está por dar uno de los pasos más importantes de toda su historia. La empresa danesa anunció SMART Play, una nueva plataforma que añade chips y sensores a los bloques y figuras para que respondan en tiempo real. LEGO afirma que esta te…
 https://hipertextual.com/tecnologia/lego-smart-play-bloques-inteligentes/
 🗓️ 2026-01-06 • 🏷️ hipertextual.com
+
+### 2026-01-06T13:37:45.368Z
+📰 Shlomo Kramer, experto en ciberseguridad, cree que la IA vive una burbuja y que muchas empresas "la usan como tapadera"
+Cada vez más expertos coinciden en que las inversión que se están haciendo en la tecnología de ChatGPT son exageradas, y que antes o después habrá descalabros.
+https://computerhoy.20minutos.es/tecnologia/shlomo-kramer-experto-ciberseguridad-cree-que-ia-vive-una-burbuja-que-muchas-empresas-usan-como-tapadera_6917395_0.html
+🗓️ 2026-01-06 • 🏷️ computerhoy.20minutos.es
