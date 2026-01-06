@@ -2653,3 +2653,9 @@ https://elpais.com/tecnologia/2026-01-05/la-fundacion-princesa-de-asturias-denun
 Hubo un tiempo en el que el videojuego tenía un lugar físico muy concreto: salones ruidosos, iluminados por neones y pantallas que parecían venidas del futuro, donde cada moneda era una promesa y cada partida, un reto. Para muchos de nosotr…
 https://www.muycomputer.com/2026/01/05/muere-david-rosen-figura-clave-del-arcade-y-sega/
 🗓️ 2026-01-05 • 🏷️ muycomputer.com
+
+### 2026-01-06T02:57:00.822Z
+📰 LEGO anuncia SMART Play, una tecnología que dota de vida a sus bloques
+LEGO está por dar uno de los pasos más importantes de toda su historia. La empresa danesa anunció SMART Play, una nueva plataforma que añade chips y sensores a los bloques y figuras para que respondan en tiempo real. LEGO afirma que esta te…
+https://hipertextual.com/tecnologia/lego-smart-play-bloques-inteligentes/
+🗓️ 2026-01-06 • 🏷️ hipertextual.com

@@ -2344,3 +2344,19 @@ https://www.eldiario.es/tecnologia/medio-millon-euros-multa-ing-perder-datos-con
 🗓️ 2026-01-04 • 🏷️ eldiario.es
 
 ---
+## 2026-01-06
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 LEGO anuncia SMART Play, una tecnología que dota de vida a sus bloques
+LEGO está por dar uno de los pasos más importantes de toda su historia. La empresa danesa anunció SMART Play, una nueva plataforma que añade chips y sensores a los bloques y figuras para que respondan en tiempo real. LEGO afirma que esta te…
+https://hipertextual.com/tecnologia/lego-smart-play-bloques-inteligentes/
+🗓️ 2026-01-06 • 🏷️ hipertextual.com
+
+---
