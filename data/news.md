@@ -2683,3 +2683,9 @@ https://hipertextual.com/tecnologia/motorola-moto-things-ces-2026-moto-tag-2-mot
 MSI ha presentado la placa base MSI MEG X870E UNIFY-X MAX, buque insignia que amplía el catálogo que la firma taiwanesa tiene disponible para los procesadores más avanzados de AMD. También ha anunciado que todas sus placas base AM5 serán co…
 https://www.muycomputer.com/2026/01/07/msi-meg-x870e-unify-x-max-placa-amd/
 🗓️ 2026-01-07 • 🏷️ muycomputer.com
+
+### 2026-01-07T19:20:15.954Z
+📰 Corsair presenta grandes novedades en el CES 2026
+El CES 2026 vuelve a confirmar que, más allá de procesadores y tarjetas gráficas, el corazón del ecosistema gaming moderno también late en los periféricos. En un escenario donde jugar, crear contenidos y comunicarse forman parte de una mism…
+https://www.muycomputer.com/2026/01/07/corsair-presenta-grandes-novedades-en-el-ces-2026/
+🗓️ 2026-01-07 • 🏷️ muycomputer.com
