@@ -2360,3 +2360,19 @@ https://hipertextual.com/tecnologia/lego-smart-play-bloques-inteligentes/
 🗓️ 2026-01-06 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-07
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Motorola lanza su primer altavoz portátil, un nuevo rival para el AirTag de Apple y más: todas las novedades
+Motorola ha llegado al CES 2026 con varios anuncios bajo el brazo. Gran parte de las miradas se han posado en sus nuevos móviles, Razr Fold y Motorola Signature, pero también ha quedado espacio para otros productos muy interesantes que se s…
+https://hipertextual.com/tecnologia/motorola-moto-things-ces-2026-moto-tag-2-moto-sound-flow/
+🗓️ 2026-01-07 • 🏷️ hipertextual.com
+
+---

@@ -2671,3 +2671,9 @@ https://computerhoy.20minutos.es/tecnologia/shlomo-kramer-experto-ciberseguridad
 El CES suele ser el lugar en donde debutan experimentos tecnológicos que rara vez salen a la venta. En la edición de este año, Razer ha mostrado un producto con el que se sube al tren de la inteligencia artificial para intentar competirle a…
 https://hipertextual.com/tecnologia/razer-project-motoko-auriculares-ia-camaras-ces/
 🗓️ 2026-01-06 • 🏷️ hipertextual.com
+
+### 2026-01-07T02:57:31.387Z
+📰 Motorola lanza su primer altavoz portátil, un nuevo rival para el AirTag de Apple y más: todas las novedades
+Motorola ha llegado al CES 2026 con varios anuncios bajo el brazo. Gran parte de las miradas se han posado en sus nuevos móviles, Razr Fold y Motorola Signature, pero también ha quedado espacio para otros productos muy interesantes que se s…
+https://hipertextual.com/tecnologia/motorola-moto-things-ces-2026-moto-tag-2-moto-sound-flow/
+🗓️ 2026-01-07 • 🏷️ hipertextual.com
