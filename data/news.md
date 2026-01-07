@@ -2677,3 +2677,9 @@ https://hipertextual.com/tecnologia/razer-project-motoko-auriculares-ia-camaras-
 Motorola ha llegado al CES 2026 con varios anuncios bajo el brazo. Gran parte de las miradas se han posado en sus nuevos móviles, Razr Fold y Motorola Signature, pero también ha quedado espacio para otros productos muy interesantes que se s…
 https://hipertextual.com/tecnologia/motorola-moto-things-ces-2026-moto-tag-2-moto-sound-flow/
 🗓️ 2026-01-07 • 🏷️ hipertextual.com
+
+### 2026-01-07T13:40:00.690Z
+📰 MSI presenta la placa base MEG X870E UNIFY-X MAX, tope de gama para procesadores AMD
+MSI ha presentado la placa base MSI MEG X870E UNIFY-X MAX, buque insignia que amplía el catálogo que la firma taiwanesa tiene disponible para los procesadores más avanzados de AMD. También ha anunciado que todas sus placas base AM5 serán co…
+https://www.muycomputer.com/2026/01/07/msi-meg-x870e-unify-x-max-placa-amd/
+🗓️ 2026-01-07 • 🏷️ muycomputer.com
