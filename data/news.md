@@ -2701,3 +2701,9 @@ https://hipertextual.com/tecnologia/chatgpt-salud-openai-asistente-bienestar/
 Japón suele estar a la cabeza de los ránquines de esperanza de vida. También se encuentra entre los países desarrollados con menores índices de sobrepeso. Aunque pudieran parecer datos independientes, ambos factores están bastante relaciona…
 https://hipertextual.com/ciencia/metabo-ley-sobrepeso/
 🗓️ 2026-01-08 • 🏷️ hipertextual.com
+
+### 2026-01-08T19:20:19.889Z
+📰 Este mando de 8BitDo convierte tu iPhone en una Game Boy
+Las fundas para el iPhone con diseño de Game Boy son algo común; sin embargo, no todas consiguen replicar la experiencia de jugar en el móvil. 8BitDo ha tomado un camino distinto con el FlipPad, un mando que se conecta al puerto USB-C de tu…
+https://hipertextual.com/mobile/flipad-8bitdo-mando-usb-c-iphone-android/
+🗓️ 2026-01-08 • 🏷️ hipertextual.com
