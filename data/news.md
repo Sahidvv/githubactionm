@@ -2695,3 +2695,9 @@ https://www.muycomputer.com/2026/01/07/corsair-presenta-grandes-novedades-en-el-
 OpenAI ha presentado ChatGPT Salud, una función que permite obtener información sobre salud y bienestar. Esta nueva experiencia está pensada para ayudar a responder preguntas cotidianas, obtener consejos o identificar patrones a lo largo de…
 https://hipertextual.com/tecnologia/chatgpt-salud-openai-asistente-bienestar/
 🗓️ 2026-01-08 • 🏷️ hipertextual.com
+
+### 2026-01-08T13:40:34.535Z
+📰 Metabo: Así es la ley japonesa por la que te pueden «multar» por ser gordo
+Japón suele estar a la cabeza de los ránquines de esperanza de vida. También se encuentra entre los países desarrollados con menores índices de sobrepeso. Aunque pudieran parecer datos independientes, ambos factores están bastante relaciona…
+https://hipertextual.com/ciencia/metabo-ley-sobrepeso/
+🗓️ 2026-01-08 • 🏷️ hipertextual.com
