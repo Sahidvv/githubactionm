@@ -2689,3 +2689,9 @@ https://www.muycomputer.com/2026/01/07/msi-meg-x870e-unify-x-max-placa-amd/
 El CES 2026 vuelve a confirmar que, más allá de procesadores y tarjetas gráficas, el corazón del ecosistema gaming moderno también late en los periféricos. En un escenario donde jugar, crear contenidos y comunicarse forman parte de una mism…
 https://www.muycomputer.com/2026/01/07/corsair-presenta-grandes-novedades-en-el-ces-2026/
 🗓️ 2026-01-07 • 🏷️ muycomputer.com
+
+### 2026-01-08T02:56:58.181Z
+📰 ChatGPT lanza una nueva función para consultas médicas en el iPhone
+OpenAI ha presentado ChatGPT Salud, una función que permite obtener información sobre salud y bienestar. Esta nueva experiencia está pensada para ayudar a responder preguntas cotidianas, obtener consejos o identificar patrones a lo largo de…
+https://hipertextual.com/tecnologia/chatgpt-salud-openai-asistente-bienestar/
+🗓️ 2026-01-08 • 🏷️ hipertextual.com

@@ -2376,3 +2376,19 @@ https://hipertextual.com/tecnologia/motorola-moto-things-ces-2026-moto-tag-2-mot
 🗓️ 2026-01-07 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-08
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 ChatGPT lanza una nueva función para consultas médicas en el iPhone
+OpenAI ha presentado ChatGPT Salud, una función que permite obtener información sobre salud y bienestar. Esta nueva experiencia está pensada para ayudar a responder preguntas cotidianas, obtener consejos o identificar patrones a lo largo de…
+https://hipertextual.com/tecnologia/chatgpt-salud-openai-asistente-bienestar/
+🗓️ 2026-01-08 • 🏷️ hipertextual.com
+
+---
