@@ -2719,3 +2719,9 @@ https://hipertextual.com/software/microsoft-word-actualizacion-atajo-enlaces-ia/
 Nos vamos de compras como cada viernes con nuestra selección de descuentos de tecnología y electrónica, hoy enfocada a la campaña de Ofertas de enero que ha puesto en marcha nuestro minorista de referencia, PcComponentes. Arrancamos 2026 co…
 https://www.muycomputer.com/2026/01/09/ofertas-de-enero-aprovecha-antes-de-que-los-precios-se-pongan-imposibles/
 🗓️ 2026-01-09 • 🏷️ muycomputer.com
+
+### 2026-01-09T19:20:03.916Z
+📰 Tu Samsung tendrá una nueva Bixby con IA que busca y conversa, gracias a One UI 8.5
+Muy pronto, tu Samsung recibirá una dosis de IA gracias a One UI 8.5. La esperada actualización, que debutará de forma oficial con el Galaxy S26, incluirá múltiples funciones y cambios en su interfaz de usuario. Una de las novedades más lla…
+https://hipertextual.com/mobile/bixby-one-ui-8-5-ia-samsung/
+🗓️ 2026-01-09 • 🏷️ hipertextual.com
