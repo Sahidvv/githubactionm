@@ -2713,3 +2713,9 @@ https://hipertextual.com/mobile/flipad-8bitdo-mando-usb-c-iphone-android/
 Microsoft ha dedicado una parte importante de los últimos dos años a añadir la IA a todas sus aplicaciones y servicios. Aunque esta tendencia no parece que vaya a cambiar en el corto plazo, la tecnológica también tiene tiempo para corregir …
 https://hipertextual.com/software/microsoft-word-actualizacion-atajo-enlaces-ia/
 🗓️ 2026-01-09 • 🏷️ hipertextual.com
+
+### 2026-01-09T13:38:00.714Z
+📰 Ofertas de enero ¡Aprovecha antes de que los precios se pongan imposibles!
+Nos vamos de compras como cada viernes con nuestra selección de descuentos de tecnología y electrónica, hoy enfocada a la campaña de Ofertas de enero que ha puesto en marcha nuestro minorista de referencia, PcComponentes. Arrancamos 2026 co…
+https://www.muycomputer.com/2026/01/09/ofertas-de-enero-aprovecha-antes-de-que-los-precios-se-pongan-imposibles/
+🗓️ 2026-01-09 • 🏷️ muycomputer.com
