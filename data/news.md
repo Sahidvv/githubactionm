@@ -2707,3 +2707,9 @@ https://hipertextual.com/ciencia/metabo-ley-sobrepeso/
 Las fundas para el iPhone con diseño de Game Boy son algo común; sin embargo, no todas consiguen replicar la experiencia de jugar en el móvil. 8BitDo ha tomado un camino distinto con el FlipPad, un mando que se conecta al puerto USB-C de tu…
 https://hipertextual.com/mobile/flipad-8bitdo-mando-usb-c-iphone-android/
 🗓️ 2026-01-08 • 🏷️ hipertextual.com
+
+### 2026-01-09T02:58:01.045Z
+📰 Word actualiza una de sus funciones más usadas (ahora es más útil)
+Microsoft ha dedicado una parte importante de los últimos dos años a añadir la IA a todas sus aplicaciones y servicios. Aunque esta tendencia no parece que vaya a cambiar en el corto plazo, la tecnológica también tiene tiempo para corregir …
+https://hipertextual.com/software/microsoft-word-actualizacion-atajo-enlaces-ia/
+🗓️ 2026-01-09 • 🏷️ hipertextual.com

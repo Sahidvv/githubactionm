@@ -2392,3 +2392,19 @@ https://hipertextual.com/tecnologia/chatgpt-salud-openai-asistente-bienestar/
 🗓️ 2026-01-08 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-09
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Word actualiza una de sus funciones más usadas (ahora es más útil)
+Microsoft ha dedicado una parte importante de los últimos dos años a añadir la IA a todas sus aplicaciones y servicios. Aunque esta tendencia no parece que vaya a cambiar en el corto plazo, la tecnológica también tiene tiempo para corregir …
+https://hipertextual.com/software/microsoft-word-actualizacion-atajo-enlaces-ia/
+🗓️ 2026-01-09 • 🏷️ hipertextual.com
+
+---
