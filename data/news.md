@@ -2737,3 +2737,9 @@ https://www.eldiario.es/tecnologia/10-dias-porno-machista-costar-caro-elon-musk-
 Enero es un mes que puede ser complicado y hay buenas razones para eso. Por un lado, es el comienzo del año laboral luego de unas merecidas vacaciones. Por el otro, una especie de etapa complicada para retomar el ritmo y la vida cotidiana. …
 https://hipertextual.com/cine-television/7-series-y-peliculas-increibles-que-tienes-que-ver-este-enero-y-donde-verlas/
 🗓️ 2026-01-10 • 🏷️ hipertextual.com
+
+### 2026-01-10T19:16:27.972Z
+📰 Los 10 errores imperdonables de la última temporada de ‘Stranger Things’
+La quinta temporada de Stranger Things fue algo más que una despedida. Que lo fue y con toda la escala de un fenómeno de la cultura pop con casi una década de duración. Pero a la vez, la épica y emotiva conclusión también fue una manera de …
+https://hipertextual.com/cine-television/los-10-errores-imperdonables-de-la-ultima-temporada-de-stranger-things/
+🗓️ 2026-01-10 • 🏷️ hipertextual.com
