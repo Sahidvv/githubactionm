@@ -2408,3 +2408,19 @@ https://hipertextual.com/software/microsoft-word-actualizacion-atajo-enlaces-ia/
 🗓️ 2026-01-09 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-10
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Los 10 días de porno machista que pueden costar caro a Elon Musk: "No es cuestión de bikini o burka, sino de consentimiento"
+"Es ilegal, espantoso y repugnante", asevera la UE, que ha pedido a la red social del magnate que guarde toda la información relacionada con lo sucedido. Múltiples países han presentado denuncias ante la Justicia mientras el multimillonario…
+https://www.eldiario.es/tecnologia/10-dias-porno-machista-costar-caro-elon-musk-no-cuestion-bikini-burka-consentimiento_1_12893071.html
+🗓️ 2026-01-09 • 🏷️ eldiario.es
+
+---
