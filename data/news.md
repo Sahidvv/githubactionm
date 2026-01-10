@@ -2731,3 +2731,9 @@ https://hipertextual.com/mobile/bixby-one-ui-8-5-ia-samsung/
 "Es ilegal, espantoso y repugnante", asevera la UE, que ha pedido a la red social del magnate que guarde toda la información relacionada con lo sucedido. Múltiples países han presentado denuncias ante la Justicia mientras el multimillonario…
 https://www.eldiario.es/tecnologia/10-dias-porno-machista-costar-caro-elon-musk-no-cuestion-bikini-burka-consentimiento_1_12893071.html
 🗓️ 2026-01-09 • 🏷️ eldiario.es
+
+### 2026-01-10T13:29:19.761Z
+📰 7 series y películas increíbles que tienes que ver este enero (y dónde verlas)
+Enero es un mes que puede ser complicado y hay buenas razones para eso. Por un lado, es el comienzo del año laboral luego de unas merecidas vacaciones. Por el otro, una especie de etapa complicada para retomar el ritmo y la vida cotidiana. …
+https://hipertextual.com/cine-television/7-series-y-peliculas-increibles-que-tienes-que-ver-este-enero-y-donde-verlas/
+🗓️ 2026-01-10 • 🏷️ hipertextual.com
