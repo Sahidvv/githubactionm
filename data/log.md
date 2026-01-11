@@ -2424,3 +2424,19 @@ https://www.eldiario.es/tecnologia/10-dias-porno-machista-costar-caro-elon-musk-
 🗓️ 2026-01-09 • 🏷️ eldiario.es
 
 ---
+## 2026-01-11
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ¿Habrá &#8216;spin-off&#8217; de ‘Stranger Things’? Esto es lo que necesitas saber
+Stranger Things culminó con un capítulo final que desató debates, polémicas y del que probablemente se hablará por años. Pero el mundo imaginado por los hermanos Duffer en Hawkins, Indiana, está lejos de quedar atrás. Desde hace algunos año…
+https://hipertextual.com/cine-television/habra-spin-off-de-stranger-things-esto-es-lo-que-necesitas-saber/
+🗓️ 2026-01-10 • 🏷️ hipertextual.com
+
+---
