@@ -2749,3 +2749,9 @@ https://hipertextual.com/cine-television/los-10-errores-imperdonables-de-la-ulti
 Stranger Things culminó con un capítulo final que desató debates, polémicas y del que probablemente se hablará por años. Pero el mundo imaginado por los hermanos Duffer en Hawkins, Indiana, está lejos de quedar atrás. Desde hace algunos año…
 https://hipertextual.com/cine-television/habra-spin-off-de-stranger-things-esto-es-lo-que-necesitas-saber/
 🗓️ 2026-01-10 • 🏷️ hipertextual.com
+
+### 2026-01-11T13:30:10.205Z
+📰 Nothing elimina (a medias) su polémica pantalla de bloqueo
+Hay decisiones de producto que pesan más que una lista de especificaciones. No por su impacto técnico, sino porque ponen en juego la coherencia de una marca, su relato, su promesa. En un mercado donde la mayoría asume que el software será u…
+https://www.muycomputer.com/2026/01/11/nothing-elimina-a-medias-su-polemica-pantalla-de-bloqueo/
+🗓️ 2026-01-11 • 🏷️ muycomputer.com
