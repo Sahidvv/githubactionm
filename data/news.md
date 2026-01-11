@@ -2755,3 +2755,9 @@ https://hipertextual.com/cine-television/habra-spin-off-de-stranger-things-esto-
 Hay decisiones de producto que pesan más que una lista de especificaciones. No por su impacto técnico, sino porque ponen en juego la coherencia de una marca, su relato, su promesa. En un mercado donde la mayoría asume que el software será u…
 https://www.muycomputer.com/2026/01/11/nothing-elimina-a-medias-su-polemica-pantalla-de-bloqueo/
 🗓️ 2026-01-11 • 🏷️ muycomputer.com
+
+### 2026-01-11T19:16:32.628Z
+📰 Grok, en (merecidísimos) problemas en Estados Unidos
+Hay veces en que una polémica tecnológica crece tan rápido y tan mal que la gestión empresarial deja de ser suficiente, y la política entra en escena. Grok, el asistente de inteligencia artificial vinculado a la red social Twitter —propieda…
+https://www.muycomputer.com/2026/01/11/grok-en-merecidisimos-problemas-en-estados-unidos/
+🗓️ 2026-01-11 • 🏷️ muycomputer.com
