@@ -2440,3 +2440,19 @@ https://hipertextual.com/cine-television/habra-spin-off-de-stranger-things-esto-
 🗓️ 2026-01-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-12
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DVI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana, el primero de 2026 y que puedes revisar de un vistazo en esta selección con lo más relevante: Alternativas a las aplicaciones…
+https://www.muycomputer.com/2026/01/11/los-mejores-contenidos-de-la-semana-en-muycomputer-dvi/
+🗓️ 2026-01-11 • 🏷️ muycomputer.com
+
+---

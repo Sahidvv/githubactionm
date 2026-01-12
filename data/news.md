@@ -2761,3 +2761,9 @@ https://www.muycomputer.com/2026/01/11/nothing-elimina-a-medias-su-polemica-pant
 Hay veces en que una polémica tecnológica crece tan rápido y tan mal que la gestión empresarial deja de ser suficiente, y la política entra en escena. Grok, el asistente de inteligencia artificial vinculado a la red social Twitter —propieda…
 https://www.muycomputer.com/2026/01/11/grok-en-merecidisimos-problemas-en-estados-unidos/
 🗓️ 2026-01-11 • 🏷️ muycomputer.com
+
+### 2026-01-12T03:05:22.937Z
+📰 Los mejores contenidos de la semana en MuyComputer (DVI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana, el primero de 2026 y que puedes revisar de un vistazo en esta selección con lo más relevante: Alternativas a las aplicaciones…
+https://www.muycomputer.com/2026/01/11/los-mejores-contenidos-de-la-semana-en-muycomputer-dvi/
+🗓️ 2026-01-11 • 🏷️ muycomputer.com
