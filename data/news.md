@@ -2767,3 +2767,9 @@ https://www.muycomputer.com/2026/01/11/grok-en-merecidisimos-problemas-en-estado
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana, el primero de 2026 y que puedes revisar de un vistazo en esta selección con lo más relevante: Alternativas a las aplicaciones…
 https://www.muycomputer.com/2026/01/11/los-mejores-contenidos-de-la-semana-en-muycomputer-dvi/
 🗓️ 2026-01-11 • 🏷️ muycomputer.com
+
+### 2026-01-12T13:42:25.362Z
+📰 Te vas a arrepentir de haberte hecho ese tatuaje que tanto querías
+En el pasado, para muchas personas los tatuajes eran algo propio de piratas y ex presidiarios. Lógicamente, esto no era exactamente así, pero era la visión propia de una mezcla de prejuicios y falta de costumbre. Porque si hay algo cierto e…
+https://hipertextual.com/ciencia/riesgo-tatuajes/
+🗓️ 2026-01-12 • 🏷️ hipertextual.com
