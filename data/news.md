@@ -2773,3 +2773,9 @@ https://www.muycomputer.com/2026/01/11/los-mejores-contenidos-de-la-semana-en-mu
 En el pasado, para muchas personas los tatuajes eran algo propio de piratas y ex presidiarios. Lógicamente, esto no era exactamente así, pero era la visión propia de una mezcla de prejuicios y falta de costumbre. Porque si hay algo cierto e…
 https://hipertextual.com/ciencia/riesgo-tatuajes/
 🗓️ 2026-01-12 • 🏷️ hipertextual.com
+
+### 2026-01-12T19:20:44.329Z
+📰 El Galaxy S26 destroza al iPhone 17 en las primeras pruebas de rendimiento
+A pocas semanas de su presentación oficial, nuevos detalles de los Galaxy S26 comienzan a surgir. Para este año, la surcoreana volverá de nuevo al esquema de dos procesadores, uno de ellos fabricado por Qualcomm. Aunque todo indica que el n…
+https://hipertextual.com/mobile/galaxy-s26-snapdragon-8-elite-gen-5-geekbench/
+🗓️ 2026-01-12 • 🏷️ hipertextual.com
