@@ -2791,3 +2791,9 @@ https://hipertextual.com/inteligencia-artificial/elon-musk-critica-acuerdo-apple
 La fórmula de la Coca Cola lleva más de un siglo siendo todo un enigma. Lógicamente, la mayor parte de sus ingredientes deben comunicarse y quedar muy claros en la etiqueta, ya que los consumidores deben estar informados tanto de su valor n…
 https://hipertextual.com/ciencia/youtuber-formula-coca-cola/
 🗓️ 2026-01-13 • 🏷️ hipertextual.com
+
+### 2026-01-13T19:20:18.799Z
+📰 La nueva IA de Google convierte tus fotos en videos de TikTok al instante
+Google acaba de lanzar una actualización para Veo 3.1, su IA para generar videos a partir de texto. A unos meses de debutar el modelo más realista a la fecha, el gigante tecnológico vuelve a la carga con una nueva versión cargada de mejoras…
+https://hipertextual.com/inteligencia-artificial/google-veo-3-1-fotos-a-videos-verticales-tiktok/
+🗓️ 2026-01-13 • 🏷️ hipertextual.com
