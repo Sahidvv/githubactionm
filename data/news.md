@@ -2779,3 +2779,9 @@ https://hipertextual.com/ciencia/riesgo-tatuajes/
 A pocas semanas de su presentación oficial, nuevos detalles de los Galaxy S26 comienzan a surgir. Para este año, la surcoreana volverá de nuevo al esquema de dos procesadores, uno de ellos fabricado por Qualcomm. Aunque todo indica que el n…
 https://hipertextual.com/mobile/galaxy-s26-snapdragon-8-elite-gen-5-geekbench/
 🗓️ 2026-01-12 • 🏷️ hipertextual.com
+
+### 2026-01-13T02:56:03.013Z
+📰 Elon Musk estalla contra Apple y Google por la nueva IA del iPhone
+Elon Musk no está de acuerdo con que Gemini impulse a Apple Intelligence durante los próximos años. El jefe de Tesla y SpaceX reaccionó de forma negativa al acuerdo entre Google y Apple que delinea el futuro de Apple Intelligence El magnate…
+https://hipertextual.com/inteligencia-artificial/elon-musk-critica-acuerdo-apple-google-gemini-iphone/
+🗓️ 2026-01-12 • 🏷️ hipertextual.com

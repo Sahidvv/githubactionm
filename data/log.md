@@ -2456,3 +2456,19 @@ https://www.muycomputer.com/2026/01/11/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-01-11 • 🏷️ muycomputer.com
 
 ---
+## 2026-01-13
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Elon Musk estalla contra Apple y Google por la nueva IA del iPhone
+Elon Musk no está de acuerdo con que Gemini impulse a Apple Intelligence durante los próximos años. El jefe de Tesla y SpaceX reaccionó de forma negativa al acuerdo entre Google y Apple que delinea el futuro de Apple Intelligence El magnate…
+https://hipertextual.com/inteligencia-artificial/elon-musk-critica-acuerdo-apple-google-gemini-iphone/
+🗓️ 2026-01-12 • 🏷️ hipertextual.com
+
+---
