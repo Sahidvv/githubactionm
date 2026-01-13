@@ -2785,3 +2785,9 @@ https://hipertextual.com/mobile/galaxy-s26-snapdragon-8-elite-gen-5-geekbench/
 Elon Musk no está de acuerdo con que Gemini impulse a Apple Intelligence durante los próximos años. El jefe de Tesla y SpaceX reaccionó de forma negativa al acuerdo entre Google y Apple que delinea el futuro de Apple Intelligence El magnate…
 https://hipertextual.com/inteligencia-artificial/elon-musk-critica-acuerdo-apple-google-gemini-iphone/
 🗓️ 2026-01-12 • 🏷️ hipertextual.com
+
+### 2026-01-13T13:42:09.227Z
+📰 Un YouTuber asegura que ha descifrado la misteriosa fórmula de la CocaCola
+La fórmula de la Coca Cola lleva más de un siglo siendo todo un enigma. Lógicamente, la mayor parte de sus ingredientes deben comunicarse y quedar muy claros en la etiqueta, ya que los consumidores deben estar informados tanto de su valor n…
+https://hipertextual.com/ciencia/youtuber-formula-coca-cola/
+🗓️ 2026-01-13 • 🏷️ hipertextual.com
