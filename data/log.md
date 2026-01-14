@@ -2472,3 +2472,19 @@ https://hipertextual.com/inteligencia-artificial/elon-musk-critica-acuerdo-apple
 🗓️ 2026-01-12 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-14
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El Pixel 10a deja al descubierto sus colores y fecha de lanzamiento
+El Pixel 10a está cada vez más cerca y prueba de ello es la oleada de rumores sobre el nuevo móvil de Google. A unas semanas de que se revelaran sus características principales, una nueva filtración desvela algunos detalles adicionales, inc…
+https://hipertextual.com/mobile/pixel-10a-fecha-lanzamiento-colores-precio/
+🗓️ 2026-01-13 • 🏷️ hipertextual.com
+
+---

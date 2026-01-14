@@ -2797,3 +2797,9 @@ https://hipertextual.com/ciencia/youtuber-formula-coca-cola/
 Google acaba de lanzar una actualización para Veo 3.1, su IA para generar videos a partir de texto. A unos meses de debutar el modelo más realista a la fecha, el gigante tecnológico vuelve a la carga con una nueva versión cargada de mejoras…
 https://hipertextual.com/inteligencia-artificial/google-veo-3-1-fotos-a-videos-verticales-tiktok/
 🗓️ 2026-01-13 • 🏷️ hipertextual.com
+
+### 2026-01-14T03:03:58.075Z
+📰 El Pixel 10a deja al descubierto sus colores y fecha de lanzamiento
+El Pixel 10a está cada vez más cerca y prueba de ello es la oleada de rumores sobre el nuevo móvil de Google. A unas semanas de que se revelaran sus características principales, una nueva filtración desvela algunos detalles adicionales, inc…
+https://hipertextual.com/mobile/pixel-10a-fecha-lanzamiento-colores-precio/
+🗓️ 2026-01-13 • 🏷️ hipertextual.com
