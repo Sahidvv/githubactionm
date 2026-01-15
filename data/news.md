@@ -2827,3 +2827,9 @@ https://hipertextual.com/cine-television/ryan-hurst-kratos-serie-god-of-war-amaz
 Todo el mundo apuntaba hacia el mismo lugar: un Galaxy S26 Ultra sin demasiadas novedades y bastante similar al modelo del año pasado. Poco a poco han ido surgiendo algunas filtraciones que detallaban ligeras mejoras, y una función secreta …
 https://hipertextual.com/mobile/filtrada-en-video-la-funcion-estrella-del-galaxy-s26-ultra-hasta-apple-va-a-querer-esto-para-el-iphone/
 🗓️ 2026-01-15 • 🏷️ hipertextual.com
+
+### 2026-01-15T19:25:05.520Z
+📰 Skynet se acerca: OpenAI quiere fabricar chips de IA para robots
+OpenAI planea fabricar dispositivos de consumo, robots y más. El gigante de la IA lanzó una solicitud de propuestas a fabricantes estadounidenses de componentes con el fin de reforzar su cadena de suministro en ese país. La compañía, que ya…
+https://hipertextual.com/inteligencia-artificial/openai-fabricara-robots-gadgets-ia-estados-unidos/
+🗓️ 2026-01-15 • 🏷️ hipertextual.com
