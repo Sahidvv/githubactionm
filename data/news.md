@@ -2821,3 +2821,9 @@ https://hipertextual.com/tecnologia/galaxy-s26-mejora-rendimiento-one-ui-8-5-sam
 La serie de God of War ya tiene protagonista. Amazon reveló que Ryan Hurst será el responsable de interpretar a Kratos en la serie coproducida con Sony Pictures Television. Hurst, quien ya tiene experiencia en la franquicia de videojuegos, …
 https://hipertextual.com/cine-television/ryan-hurst-kratos-serie-god-of-war-amazon/
 🗓️ 2026-01-14 • 🏷️ hipertextual.com
+
+### 2026-01-15T13:39:57.404Z
+📰 Filtrada en vídeo la función estrella del Galaxy S26 Ultra. Hasta Apple va a querer esto para el iPhone
+Todo el mundo apuntaba hacia el mismo lugar: un Galaxy S26 Ultra sin demasiadas novedades y bastante similar al modelo del año pasado. Poco a poco han ido surgiendo algunas filtraciones que detallaban ligeras mejoras, y una función secreta …
+https://hipertextual.com/mobile/filtrada-en-video-la-funcion-estrella-del-galaxy-s26-ultra-hasta-apple-va-a-querer-esto-para-el-iphone/
+🗓️ 2026-01-15 • 🏷️ hipertextual.com
