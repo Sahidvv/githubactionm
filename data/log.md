@@ -2488,3 +2488,19 @@ https://hipertextual.com/mobile/pixel-10a-fecha-lanzamiento-colores-precio/
 🗓️ 2026-01-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-15
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Amazon revela al actor de Kratos en la serie de &#8216;God of War&#8217;
+La serie de God of War ya tiene protagonista. Amazon reveló que Ryan Hurst será el responsable de interpretar a Kratos en la serie coproducida con Sony Pictures Television. Hurst, quien ya tiene experiencia en la franquicia de videojuegos, …
+https://hipertextual.com/cine-television/ryan-hurst-kratos-serie-god-of-war-amazon/
+🗓️ 2026-01-14 • 🏷️ hipertextual.com
+
+---

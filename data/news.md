@@ -2815,3 +2815,9 @@ https://www.muycomputer.com/2026/01/14/cinco-componentes-muy-baratos-que-mejorar
 Samsung está ajustando los últimos detalles de cara a la presentación de los Galaxy S26. Si bien la mirada está puesta en el diseño y capacidades de los nuevos móviles, un componente esencial de este lanzamiento es One UI 8.5. La buena noti…
 https://hipertextual.com/tecnologia/galaxy-s26-mejora-rendimiento-one-ui-8-5-samsung/
 🗓️ 2026-01-14 • 🏷️ hipertextual.com
+
+### 2026-01-15T02:57:57.581Z
+📰 Amazon revela al actor de Kratos en la serie de &#8216;God of War&#8217;
+La serie de God of War ya tiene protagonista. Amazon reveló que Ryan Hurst será el responsable de interpretar a Kratos en la serie coproducida con Sony Pictures Television. Hurst, quien ya tiene experiencia en la franquicia de videojuegos, …
+https://hipertextual.com/cine-television/ryan-hurst-kratos-serie-god-of-war-amazon/
+🗓️ 2026-01-14 • 🏷️ hipertextual.com
