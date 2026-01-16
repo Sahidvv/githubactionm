@@ -2845,3 +2845,9 @@ https://hipertextual.com/inteligencia-artificial/raspberry-pi-ai-hat-2-ia-local-
 El mundo de las series se ha convertido en un punto esencial para comprender al mundo del entretenimiento actual. En especial, por su capacidad para resumir la larga evolución del formato a lo largo de cincuenta años. De ser un género menor…
 https://hipertextual.com/cine-television/las-7-series-mejor-escritas-de-la-historia-que-deberias-ver-y-donde-verlas/
 🗓️ 2026-01-16 • 🏷️ hipertextual.com
+
+### 2026-01-16T19:20:01.621Z
+📰 Mentiras y ambición: Se filtran las pruebas que llevan a OpenAI a juicio frente a Elon Musk
+La pelea entre Elon Musk y OpenAI ha subido de tono y se prepara para la siguiente etapa. Un tribunal federal de Estados Unidos llevará a juicio la demanda de Musk contra la empresa de IA. Una serie de contradicciones en las declaraciones d…
+https://hipertextual.com/inteligencia-artificial/elon-musk-openai-juicio-fraude-2026/
+🗓️ 2026-01-16 • 🏷️ hipertextual.com
