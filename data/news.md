@@ -2839,3 +2839,9 @@ https://hipertextual.com/inteligencia-artificial/openai-fabricara-robots-gadgets
 Si tienes una Raspberry Pi 5 y quieres correr modelos de IA de forma local y sin conectarte a internet, estás de suerte. Raspberry Pi presentó la AI HAT+ 2, una nueva placa que puede ejecutar modelos de IA como Llama 3.2 directamente en el …
 https://hipertextual.com/inteligencia-artificial/raspberry-pi-ai-hat-2-ia-local-40-tops/
 🗓️ 2026-01-15 • 🏷️ hipertextual.com
+
+### 2026-01-16T13:38:10.134Z
+📰 Las 7 series mejor escritas de la historia que deberías ver (y dónde verlas)
+El mundo de las series se ha convertido en un punto esencial para comprender al mundo del entretenimiento actual. En especial, por su capacidad para resumir la larga evolución del formato a lo largo de cincuenta años. De ser un género menor…
+https://hipertextual.com/cine-television/las-7-series-mejor-escritas-de-la-historia-que-deberias-ver-y-donde-verlas/
+🗓️ 2026-01-16 • 🏷️ hipertextual.com
