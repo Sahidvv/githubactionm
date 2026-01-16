@@ -2504,3 +2504,19 @@ https://hipertextual.com/cine-television/ryan-hurst-kratos-serie-god-of-war-amaz
 🗓️ 2026-01-14 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-16
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La nueva Raspberry Pi ya puede ejecutar IA sin internet y el resultado es sorprendente
+Si tienes una Raspberry Pi 5 y quieres correr modelos de IA de forma local y sin conectarte a internet, estás de suerte. Raspberry Pi presentó la AI HAT+ 2, una nueva placa que puede ejecutar modelos de IA como Llama 3.2 directamente en el …
+https://hipertextual.com/inteligencia-artificial/raspberry-pi-ai-hat-2-ia-local-40-tops/
+🗓️ 2026-01-15 • 🏷️ hipertextual.com
+
+---

@@ -2833,3 +2833,9 @@ https://hipertextual.com/mobile/filtrada-en-video-la-funcion-estrella-del-galaxy
 OpenAI planea fabricar dispositivos de consumo, robots y más. El gigante de la IA lanzó una solicitud de propuestas a fabricantes estadounidenses de componentes con el fin de reforzar su cadena de suministro en ese país. La compañía, que ya…
 https://hipertextual.com/inteligencia-artificial/openai-fabricara-robots-gadgets-ia-estados-unidos/
 🗓️ 2026-01-15 • 🏷️ hipertextual.com
+
+### 2026-01-16T02:58:58.961Z
+📰 La nueva Raspberry Pi ya puede ejecutar IA sin internet y el resultado es sorprendente
+Si tienes una Raspberry Pi 5 y quieres correr modelos de IA de forma local y sin conectarte a internet, estás de suerte. Raspberry Pi presentó la AI HAT+ 2, una nueva placa que puede ejecutar modelos de IA como Llama 3.2 directamente en el …
+https://hipertextual.com/inteligencia-artificial/raspberry-pi-ai-hat-2-ia-local-40-tops/
+🗓️ 2026-01-15 • 🏷️ hipertextual.com
