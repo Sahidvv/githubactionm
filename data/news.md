@@ -2857,3 +2857,9 @@ https://hipertextual.com/inteligencia-artificial/elon-musk-openai-juicio-fraude-
 El día que nadie esperaba ha llegado. OpenAI confirmó que añadirá anuncios en ChatGPT en las próximas semanas, comenzando con una prueba piloto en Estados Unidos. La publicidad se mostrará dentro de los chats con la IA, aunque la empresa pr…
 https://hipertextual.com/inteligencia-artificial/chatgpt-cambia-para-siempre-openai-metera-anuncios-en-tus-chats/
 🗓️ 2026-01-16 • 🏷️ hipertextual.com
+
+### 2026-01-17T13:28:58.869Z
+📰 Raspberry Pi mejora sus soluciones para desarrollo de IA local
+La Fundación detrás de Raspberry Pi ha anunciado el lanzamiento de una nueva placa de expansión que mejora el desarrollo de IA local en la computadora de placa única. Las Raspberry Pi dominan el segmento de las SBC y se utilizan en multitud…
+https://www.muycomputer.com/2026/01/17/raspberry-pi-mejora-sus-soluciones-para-desarrollo-de-ia-local/
+🗓️ 2026-01-17 • 🏷️ muycomputer.com
