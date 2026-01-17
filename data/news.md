@@ -2851,3 +2851,9 @@ https://hipertextual.com/cine-television/las-7-series-mejor-escritas-de-la-histo
 La pelea entre Elon Musk y OpenAI ha subido de tono y se prepara para la siguiente etapa. Un tribunal federal de Estados Unidos llevará a juicio la demanda de Musk contra la empresa de IA. Una serie de contradicciones en las declaraciones d…
 https://hipertextual.com/inteligencia-artificial/elon-musk-openai-juicio-fraude-2026/
 🗓️ 2026-01-16 • 🏷️ hipertextual.com
+
+### 2026-01-17T02:50:16.158Z
+📰 ChatGPT cambia para siempre: OpenAI meterá anuncios en tus chats
+El día que nadie esperaba ha llegado. OpenAI confirmó que añadirá anuncios en ChatGPT en las próximas semanas, comenzando con una prueba piloto en Estados Unidos. La publicidad se mostrará dentro de los chats con la IA, aunque la empresa pr…
+https://hipertextual.com/inteligencia-artificial/chatgpt-cambia-para-siempre-openai-metera-anuncios-en-tus-chats/
+🗓️ 2026-01-16 • 🏷️ hipertextual.com

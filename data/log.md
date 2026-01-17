@@ -2520,3 +2520,19 @@ https://hipertextual.com/inteligencia-artificial/raspberry-pi-ai-hat-2-ia-local-
 🗓️ 2026-01-15 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-17
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ChatGPT cambia para siempre: OpenAI meterá anuncios en tus chats
+El día que nadie esperaba ha llegado. OpenAI confirmó que añadirá anuncios en ChatGPT en las próximas semanas, comenzando con una prueba piloto en Estados Unidos. La publicidad se mostrará dentro de los chats con la IA, aunque la empresa pr…
+https://hipertextual.com/inteligencia-artificial/chatgpt-cambia-para-siempre-openai-metera-anuncios-en-tus-chats/
+🗓️ 2026-01-16 • 🏷️ hipertextual.com
+
+---
