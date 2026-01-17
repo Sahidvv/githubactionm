@@ -2863,3 +2863,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-cambia-para-siempre-ope
 La Fundación detrás de Raspberry Pi ha anunciado el lanzamiento de una nueva placa de expansión que mejora el desarrollo de IA local en la computadora de placa única. Las Raspberry Pi dominan el segmento de las SBC y se utilizan en multitud…
 https://www.muycomputer.com/2026/01/17/raspberry-pi-mejora-sus-soluciones-para-desarrollo-de-ia-local/
 🗓️ 2026-01-17 • 🏷️ muycomputer.com
+
+### 2026-01-17T19:16:18.814Z
+📰 5 claves desconocidas de Stranger Things 5 que revelan su documental especial
+Stranger Things fue un fenómeno desde su primer episodio. Eso debido a que la que probablemente sea la serie más popular en la historia de Netflix comenzó obsesionando al público. De hecho, la primera temporada se considera un hito en el st…
+https://hipertextual.com/cine-television/5-claves-desconocidas-de-stranger-things-5-que-revelan-su-documental-especial/
+🗓️ 2026-01-17 • 🏷️ hipertextual.com
