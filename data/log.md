@@ -2536,3 +2536,19 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-cambia-para-siempre-ope
 🗓️ 2026-01-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-18
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 De qué va realmente ‘El agente secreto’, la película sorpresa de los Globos de Oro
+El triunfo por partida doble de El agente secreto se convirtió en la gran sorpresa de la ceremonia de los Globos de Oro 2026. Eso, gracias a que la película brasileña dirigida por Kleber Mendonça Filho se impuso sobre favoritas como Valor S…
+https://hipertextual.com/cine-television/de-que-va-realmente-el-agente-secreto-la-pelicula-sorpresa-de-los-globos-de-oro/
+🗓️ 2026-01-17 • 🏷️ hipertextual.com
+
+---

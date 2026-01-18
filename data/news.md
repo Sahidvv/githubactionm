@@ -2869,3 +2869,9 @@ https://www.muycomputer.com/2026/01/17/raspberry-pi-mejora-sus-soluciones-para-d
 Stranger Things fue un fenómeno desde su primer episodio. Eso debido a que la que probablemente sea la serie más popular en la historia de Netflix comenzó obsesionando al público. De hecho, la primera temporada se considera un hito en el st…
 https://hipertextual.com/cine-television/5-claves-desconocidas-de-stranger-things-5-que-revelan-su-documental-especial/
 🗓️ 2026-01-17 • 🏷️ hipertextual.com
+
+### 2026-01-18T03:05:44.094Z
+📰 De qué va realmente ‘El agente secreto’, la película sorpresa de los Globos de Oro
+El triunfo por partida doble de El agente secreto se convirtió en la gran sorpresa de la ceremonia de los Globos de Oro 2026. Eso, gracias a que la película brasileña dirigida por Kleber Mendonça Filho se impuso sobre favoritas como Valor S…
+https://hipertextual.com/cine-television/de-que-va-realmente-el-agente-secreto-la-pelicula-sorpresa-de-los-globos-de-oro/
+🗓️ 2026-01-17 • 🏷️ hipertextual.com
