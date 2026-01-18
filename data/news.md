@@ -2881,3 +2881,9 @@ https://hipertextual.com/cine-television/de-que-va-realmente-el-agente-secreto-l
 Gente que conocemos en vacaciones, la más reciente comedia romántica de Netflix, tiene el mérito de intentar renovar el género con humor. Lo hace, además, captando la esencia del éxito de ventas y fenómeno de BookTok de Emily Henry. Entre a…
 https://hipertextual.com/cine-television/gente-que-conocemos-en-vacaciones-la-romcom-de-netflix-que-esta-arrasando-y-deberias-estar-viendo/
 🗓️ 2026-01-18 • 🏷️ hipertextual.com
+
+### 2026-01-18T19:16:14.575Z
+📰 Windows 11: Actualizaciones para arreglar una actualización
+Hay sistemas que envejecen con madurez, y otros que acumulan achaques con cada intento de rejuvenecimiento. En el caso de Windows 11, las actualizaciones de seguridad se han convertido en una fuente constante de problemas, parches urgentes …
+https://www.muycomputer.com/2026/01/18/windows-11-actualizaciones-para-arreglar-una-actualizacion/
+🗓️ 2026-01-18 • 🏷️ muycomputer.com
