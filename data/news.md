@@ -2875,3 +2875,9 @@ https://hipertextual.com/cine-television/5-claves-desconocidas-de-stranger-thing
 El triunfo por partida doble de El agente secreto se convirtió en la gran sorpresa de la ceremonia de los Globos de Oro 2026. Eso, gracias a que la película brasileña dirigida por Kleber Mendonça Filho se impuso sobre favoritas como Valor S…
 https://hipertextual.com/cine-television/de-que-va-realmente-el-agente-secreto-la-pelicula-sorpresa-de-los-globos-de-oro/
 🗓️ 2026-01-17 • 🏷️ hipertextual.com
+
+### 2026-01-18T13:28:53.453Z
+📰 ‘Gente que conocemos en vacaciones’, la ‘RomCom’ de Netflix que está arrasando y deberías estar viendo
+Gente que conocemos en vacaciones, la más reciente comedia romántica de Netflix, tiene el mérito de intentar renovar el género con humor. Lo hace, además, captando la esencia del éxito de ventas y fenómeno de BookTok de Emily Henry. Entre a…
+https://hipertextual.com/cine-television/gente-que-conocemos-en-vacaciones-la-romcom-de-netflix-que-esta-arrasando-y-deberias-estar-viendo/
+🗓️ 2026-01-18 • 🏷️ hipertextual.com
