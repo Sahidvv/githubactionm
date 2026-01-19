@@ -2552,3 +2552,19 @@ https://hipertextual.com/cine-television/de-que-va-realmente-el-agente-secreto-l
 🗓️ 2026-01-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-19
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DVII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: GeForce RTX 60: posibles especificaciones y fecha d…
+https://www.muycomputer.com/2026/01/18/los-mejores-contenidos-de-la-semana-en-muycomputer-dvii/
+🗓️ 2026-01-18 • 🏷️ muycomputer.com
+
+---

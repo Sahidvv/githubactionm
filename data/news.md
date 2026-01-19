@@ -2887,3 +2887,9 @@ https://hipertextual.com/cine-television/gente-que-conocemos-en-vacaciones-la-ro
 Hay sistemas que envejecen con madurez, y otros que acumulan achaques con cada intento de rejuvenecimiento. En el caso de Windows 11, las actualizaciones de seguridad se han convertido en una fuente constante de problemas, parches urgentes …
 https://www.muycomputer.com/2026/01/18/windows-11-actualizaciones-para-arreglar-una-actualizacion/
 🗓️ 2026-01-18 • 🏷️ muycomputer.com
+
+### 2026-01-19T03:06:05.808Z
+📰 Los mejores contenidos de la semana en MuyComputer (DVII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: GeForce RTX 60: posibles especificaciones y fecha d…
+https://www.muycomputer.com/2026/01/18/los-mejores-contenidos-de-la-semana-en-muycomputer-dvii/
+🗓️ 2026-01-18 • 🏷️ muycomputer.com
