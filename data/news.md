@@ -2899,3 +2899,9 @@ https://www.muycomputer.com/2026/01/18/los-mejores-contenidos-de-la-semana-en-mu
 En Vodafone han querido subirse al carro de las rebajas de enero. Bueno, más bien a los regalos de enero, pues la operadora está volviendo a ofrecer varios de los móviles más buscados a coste cero. Sí, como antaño. Además, ha llenado su web…
 https://hipertextual.com/mobile/vodafone-vuelve-a-tener-moviles-por-0e-estos-samsung-y-xiaomi-son-los-mas-recomendables/
 🗓️ 2026-01-19 • 🏷️ hipertextual.com
+
+### 2026-01-19T19:19:25.044Z
+📰 El &#8216;Caballero de los Siete Reinos&#8217; confirma quién es el Targaryen más poderoso de Juego de Tronos
+El caballero de los Siete Reinos estrenó su primer capítulo y demostró que es un recorrido novedoso a través del universo de George R.R. Martin. En especial, al tomar la decisión de hacer la historia más mundana, cercana y sencilla. Una, ad…
+https://hipertextual.com/cine-television/el-caballero-de-los-siete-reinos-confirma-quien-es-el-targaryen-mas-poderoso-de-juego-de-tronos/
+🗓️ 2026-01-19 • 🏷️ hipertextual.com
