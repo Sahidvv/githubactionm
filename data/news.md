@@ -2911,3 +2911,9 @@ https://hipertextual.com/cine-television/el-caballero-de-los-siete-reinos-confir
 Si alguien te dijera que existía un modo de reiniciar más rápido Windows 95, seguramente lo hubieras tomado por loco. Aunque el viejo sistema operativo de Microsoft tenía un inicio relativamente veloz, las cosas podían cambiar con el tiempo…
 https://hipertextual.com/software/reinicio-rapido-windows-95-windows-11/
 🗓️ 2026-01-20 • 🏷️ hipertextual.com
+
+### 2026-01-20T13:48:15.025Z
+📰 ¿Es posible recuperar las fotos del móvil de un fallecido? Esto dicen Apple y Google
+¿Alguna vez te has preguntado qué pasa si un ser querido fallece y su móvil queda inaccesible? ¿Todo lo que hay en su interior se pierde? ¿Es posible recuperar las fotos y vídeos? Hoy te vamos a contar cómo tratan estos temas Apple con el i…
+https://hipertextual.com/tecnologia/es-posible-recuperar-las-fotos-del-movil-de-un-fallecido-esto-dicen-apple-y-google/
+🗓️ 2026-01-20 • 🏷️ hipertextual.com
