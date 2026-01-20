@@ -2917,3 +2917,9 @@ https://hipertextual.com/software/reinicio-rapido-windows-95-windows-11/
 ¿Alguna vez te has preguntado qué pasa si un ser querido fallece y su móvil queda inaccesible? ¿Todo lo que hay en su interior se pierde? ¿Es posible recuperar las fotos y vídeos? Hoy te vamos a contar cómo tratan estos temas Apple con el i…
 https://hipertextual.com/tecnologia/es-posible-recuperar-las-fotos-del-movil-de-un-fallecido-esto-dicen-apple-y-google/
 🗓️ 2026-01-20 • 🏷️ hipertextual.com
+
+### 2026-01-20T20:12:18.913Z
+📰 Ayuda de hasta 3.000 euros en 2026 para la calefacción: el Gobierno de España prorroga la prestación para TODOS
+El Gobierno de España acaba de anunciar una gran noticia para los inquilinos y propietarios de viviendas en España. La ayuda para mejorar y hacer más eficientes los sistemas de calefacción se ha prorrogado para todo el 2026. Es una de las s…
+https://hipertextual.com/actualidad/ayuda-de-hasta-3-000-euros-en-2026-para-la-calefaccion-el-gobierno-de-espana-prorroga-la-prestacion-para-todos/
+🗓️ 2026-01-20 • 🏷️ hipertextual.com
