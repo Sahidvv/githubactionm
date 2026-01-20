@@ -2905,3 +2905,9 @@ https://hipertextual.com/mobile/vodafone-vuelve-a-tener-moviles-por-0e-estos-sam
 El caballero de los Siete Reinos estrenó su primer capítulo y demostró que es un recorrido novedoso a través del universo de George R.R. Martin. En especial, al tomar la decisión de hacer la historia más mundana, cercana y sencilla. Una, ad…
 https://hipertextual.com/cine-television/el-caballero-de-los-siete-reinos-confirma-quien-es-el-targaryen-mas-poderoso-de-juego-de-tronos/
 🗓️ 2026-01-19 • 🏷️ hipertextual.com
+
+### 2026-01-20T03:00:58.238Z
+📰 El truco secreto de Windows 95 que aún vive en Windows 11
+Si alguien te dijera que existía un modo de reiniciar más rápido Windows 95, seguramente lo hubieras tomado por loco. Aunque el viejo sistema operativo de Microsoft tenía un inicio relativamente veloz, las cosas podían cambiar con el tiempo…
+https://hipertextual.com/software/reinicio-rapido-windows-95-windows-11/
+🗓️ 2026-01-20 • 🏷️ hipertextual.com

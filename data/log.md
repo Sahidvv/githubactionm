@@ -2568,3 +2568,19 @@ https://www.muycomputer.com/2026/01/18/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-01-18 • 🏷️ muycomputer.com
 
 ---
+## 2026-01-20
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 El truco secreto de Windows 95 que aún vive en Windows 11
+Si alguien te dijera que existía un modo de reiniciar más rápido Windows 95, seguramente lo hubieras tomado por loco. Aunque el viejo sistema operativo de Microsoft tenía un inicio relativamente veloz, las cosas podían cambiar con el tiempo…
+https://hipertextual.com/software/reinicio-rapido-windows-95-windows-11/
+🗓️ 2026-01-20 • 🏷️ hipertextual.com
+
+---
