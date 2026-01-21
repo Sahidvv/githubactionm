@@ -2929,3 +2929,9 @@ https://hipertextual.com/actualidad/ayuda-de-hasta-3-000-euros-en-2026-para-la-c
 PcComponentes habría sufrido un hackeo. Un reporte de una firma de seguridad afirma que la tienda española de hardware fue víctima de una filtración que puso en riesgo la información de más de 16 millones de usuarios. Los datos comprometido…
 https://hipertextual.com/seguridad/pccomponentes-hackeo-filtracion-datos-usuarios/
 🗓️ 2026-01-20 • 🏷️ hipertextual.com
+
+### 2026-01-21T13:47:02.534Z
+📰 Me enamoré de esto cuando tuve iPhone, y ahora estará en el Galaxy S26. Gracias, Samsung
+La última filtración de Samsung y el Galaxy S26 me ha despertado una sonrisa de oreja a oreja. Hace unos días supimos cómo funcionaría el nuevo sistema de pantalla privada del modelo Ultra, y hoy toca hablar de otra característica técnica q…
+https://hipertextual.com/mobile/me-enamore-de-esto-cuando-tuve-iphone-y-ahora-estara-en-el-galaxy-s26-gracias-samsung/
+🗓️ 2026-01-21 • 🏷️ hipertextual.com
