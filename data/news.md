@@ -2923,3 +2923,9 @@ https://hipertextual.com/tecnologia/es-posible-recuperar-las-fotos-del-movil-de-
 El Gobierno de España acaba de anunciar una gran noticia para los inquilinos y propietarios de viviendas en España. La ayuda para mejorar y hacer más eficientes los sistemas de calefacción se ha prorrogado para todo el 2026. Es una de las s…
 https://hipertextual.com/actualidad/ayuda-de-hasta-3-000-euros-en-2026-para-la-calefaccion-el-gobierno-de-espana-prorroga-la-prestacion-para-todos/
 🗓️ 2026-01-20 • 🏷️ hipertextual.com
+
+### 2026-01-21T02:59:22.910Z
+📰 PcComponentes habría sido hackeada: filtran datos de millones de usuarios
+PcComponentes habría sufrido un hackeo. Un reporte de una firma de seguridad afirma que la tienda española de hardware fue víctima de una filtración que puso en riesgo la información de más de 16 millones de usuarios. Los datos comprometido…
+https://hipertextual.com/seguridad/pccomponentes-hackeo-filtracion-datos-usuarios/
+🗓️ 2026-01-20 • 🏷️ hipertextual.com

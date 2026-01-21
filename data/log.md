@@ -2584,3 +2584,19 @@ https://hipertextual.com/software/reinicio-rapido-windows-95-windows-11/
 🗓️ 2026-01-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-21
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 PcComponentes habría sido hackeada: filtran datos de millones de usuarios
+PcComponentes habría sufrido un hackeo. Un reporte de una firma de seguridad afirma que la tienda española de hardware fue víctima de una filtración que puso en riesgo la información de más de 16 millones de usuarios. Los datos comprometido…
+https://hipertextual.com/seguridad/pccomponentes-hackeo-filtracion-datos-usuarios/
+🗓️ 2026-01-20 • 🏷️ hipertextual.com
+
+---
