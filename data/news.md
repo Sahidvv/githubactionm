@@ -2935,3 +2935,9 @@ https://hipertextual.com/seguridad/pccomponentes-hackeo-filtracion-datos-usuario
 La última filtración de Samsung y el Galaxy S26 me ha despertado una sonrisa de oreja a oreja. Hace unos días supimos cómo funcionaría el nuevo sistema de pantalla privada del modelo Ultra, y hoy toca hablar de otra característica técnica q…
 https://hipertextual.com/mobile/me-enamore-de-esto-cuando-tuve-iphone-y-ahora-estara-en-el-galaxy-s26-gracias-samsung/
 🗓️ 2026-01-21 • 🏷️ hipertextual.com
+
+### 2026-01-21T19:27:03.531Z
+📰 Adobe ahora permite convertir PDFs en podcasts con IA
+Adobe ha anunciado un cúmulo de novedades impulsadas por IA que llegarán a Acrobat. La lista de funciones incluye la posibilidad de crear presentaciones a partir de tus documentos, editarlos a través de comandos de voz o convertir un PDF en…
+https://hipertextual.com/inteligencia-artificial/adobe-ahora-permite-convertir-pdfs-en-podcasts-con-ia/
+🗓️ 2026-01-21 • 🏷️ hipertextual.com
