@@ -2953,3 +2953,9 @@ https://hipertextual.com/apple/apple-pin-ia-wearable-siri-gemini/
 Los Premios Oscar 2026 acaban de anunciar sus nominaciones de cara a la ceremonia que se llevará a cabo en marzo. Este año, la Academia ha optado por informar a los elegidos para cada categoría a través de un streaming conducido por los act…
 https://hipertextual.com/cine-television/nominaciones-premios-oscar-2026/
 🗓️ 2026-01-22 • 🏷️ hipertextual.com
+
+### 2026-01-22T19:25:15.460Z
+📰 He probado la nueva mascarilla en stick de Mercadona: lo bueno, lo malo y lo que no te cuentan
+Aún no ha terminado el primer mes del año y Mercadona ya vuelve con novedades en su sección de perfumería. Esta vez ha sido el turno de una mascarilla en stick que promete iluminar el rostro y ejercer un efecto detox. Las redes sociales se …
+https://hipertextual.com/ciencia/opinion-mascarilla-en-stick-mercadona/
+🗓️ 2026-01-22 • 🏷️ hipertextual.com
