@@ -2941,3 +2941,9 @@ https://hipertextual.com/mobile/me-enamore-de-esto-cuando-tuve-iphone-y-ahora-es
 Adobe ha anunciado un cúmulo de novedades impulsadas por IA que llegarán a Acrobat. La lista de funciones incluye la posibilidad de crear presentaciones a partir de tus documentos, editarlos a través de comandos de voz o convertir un PDF en…
 https://hipertextual.com/inteligencia-artificial/adobe-ahora-permite-convertir-pdfs-en-podcasts-con-ia/
 🗓️ 2026-01-21 • 🏷️ hipertextual.com
+
+### 2026-01-22T03:04:27.225Z
+📰 La última locura de Apple: Un AirTag con IA y cámaras que puedes llevar a todos lados
+Apple podría lanzar un diminuto wearable con IA para que lo lleves a todos lados. Según reporta The Information, el gigante tecnológico está desarrollando un dispositivo con cámaras, micrófonos y capacidades de inteligencia artificial. Las …
+https://hipertextual.com/apple/apple-pin-ia-wearable-siri-gemini/
+🗓️ 2026-01-22 • 🏷️ hipertextual.com

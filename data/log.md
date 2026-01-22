@@ -2600,3 +2600,19 @@ https://hipertextual.com/seguridad/pccomponentes-hackeo-filtracion-datos-usuario
 🗓️ 2026-01-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-22
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 La última locura de Apple: Un AirTag con IA y cámaras que puedes llevar a todos lados
+Apple podría lanzar un diminuto wearable con IA para que lo lleves a todos lados. Según reporta The Information, el gigante tecnológico está desarrollando un dispositivo con cámaras, micrófonos y capacidades de inteligencia artificial. Las …
+https://hipertextual.com/apple/apple-pin-ia-wearable-siri-gemini/
+🗓️ 2026-01-22 • 🏷️ hipertextual.com
+
+---
