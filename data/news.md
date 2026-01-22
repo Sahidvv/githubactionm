@@ -2947,3 +2947,9 @@ https://hipertextual.com/inteligencia-artificial/adobe-ahora-permite-convertir-p
 Apple podría lanzar un diminuto wearable con IA para que lo lleves a todos lados. Según reporta The Information, el gigante tecnológico está desarrollando un dispositivo con cámaras, micrófonos y capacidades de inteligencia artificial. Las …
 https://hipertextual.com/apple/apple-pin-ia-wearable-siri-gemini/
 🗓️ 2026-01-22 • 🏷️ hipertextual.com
+
+### 2026-01-22T13:48:04.864Z
+📰 Nominaciones a los Oscar 2026: lista completa con películas, actores, actrices, directores y más
+Los Premios Oscar 2026 acaban de anunciar sus nominaciones de cara a la ceremonia que se llevará a cabo en marzo. Este año, la Academia ha optado por informar a los elegidos para cada categoría a través de un streaming conducido por los act…
+https://hipertextual.com/cine-television/nominaciones-premios-oscar-2026/
+🗓️ 2026-01-22 • 🏷️ hipertextual.com
