@@ -2971,3 +2971,9 @@ https://hipertextual.com/tecnologia/alexa-plus-disponible-mexico-caracteristicas
 Renault planea cerrar Ampere, su unidad independiente dedicada al desarrollo de coches eléctricos y software, reporta Reuters. La automotriz francesa bajaría la persiana a este proyecto apenas dos años después de su lanzamiento, aunque toda…
 https://hipertextual.com/movilidad/ampere-renault-cierre-2026/
 🗓️ 2026-01-23 • 🏷️ hipertextual.com
+
+### 2026-01-23T19:24:52.643Z
+📰 Google Fotos ya puede crear memes con IA (y es gratis)
+Hasta hace unos años, crear memes requería que descargaras una app o que accedieras a webs dedicadas. Esto ya no será necesario, puesto que Google añadió una nueva función en Fotos que permite diseñar tus propios memes. Esta característica,…
+https://hipertextual.com/inteligencia-artificial/google-fotos-crea-memes-ia-gratis-andr/
+🗓️ 2026-01-23 • 🏷️ hipertextual.com
