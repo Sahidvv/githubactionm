@@ -2616,3 +2616,19 @@ https://hipertextual.com/apple/apple-pin-ia-wearable-siri-gemini/
 🗓️ 2026-01-22 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-23
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Alexa+ llega a México y será gratis para algunos usuarios
+Amazon anunció la llegada de Alexa+ a México. La nueva versión de la asistente impulsada por IA estará disponible en ese país a partir de hoy en una fase de acceso anticipado. México será el primer país en tener Alexa+ en español y se ofrec…
+https://hipertextual.com/tecnologia/alexa-plus-disponible-mexico-caracteristicas-precio-amazon-prime/
+🗓️ 2026-01-23 • 🏷️ hipertextual.com
+
+---

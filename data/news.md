@@ -2959,3 +2959,9 @@ https://hipertextual.com/cine-television/nominaciones-premios-oscar-2026/
 Aún no ha terminado el primer mes del año y Mercadona ya vuelve con novedades en su sección de perfumería. Esta vez ha sido el turno de una mascarilla en stick que promete iluminar el rostro y ejercer un efecto detox. Las redes sociales se …
 https://hipertextual.com/ciencia/opinion-mascarilla-en-stick-mercadona/
 🗓️ 2026-01-22 • 🏷️ hipertextual.com
+
+### 2026-01-23T02:59:57.278Z
+📰 Alexa+ llega a México y será gratis para algunos usuarios
+Amazon anunció la llegada de Alexa+ a México. La nueva versión de la asistente impulsada por IA estará disponible en ese país a partir de hoy en una fase de acceso anticipado. México será el primer país en tener Alexa+ en español y se ofrec…
+https://hipertextual.com/tecnologia/alexa-plus-disponible-mexico-caracteristicas-precio-amazon-prime/
+🗓️ 2026-01-23 • 🏷️ hipertextual.com
