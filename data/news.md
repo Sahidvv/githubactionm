@@ -2965,3 +2965,9 @@ https://hipertextual.com/ciencia/opinion-mascarilla-en-stick-mercadona/
 Amazon anunció la llegada de Alexa+ a México. La nueva versión de la asistente impulsada por IA estará disponible en ese país a partir de hoy en una fase de acceso anticipado. México será el primer país en tener Alexa+ en español y se ofrec…
 https://hipertextual.com/tecnologia/alexa-plus-disponible-mexico-caracteristicas-precio-amazon-prime/
 🗓️ 2026-01-23 • 🏷️ hipertextual.com
+
+### 2026-01-23T13:42:52.908Z
+📰 ¿Adiós Ampere? Renault pisa el freno con su proyecto independiente de coches eléctricos
+Renault planea cerrar Ampere, su unidad independiente dedicada al desarrollo de coches eléctricos y software, reporta Reuters. La automotriz francesa bajaría la persiana a este proyecto apenas dos años después de su lanzamiento, aunque toda…
+https://hipertextual.com/movilidad/ampere-renault-cierre-2026/
+🗓️ 2026-01-23 • 🏷️ hipertextual.com
