@@ -2983,3 +2983,9 @@ https://hipertextual.com/inteligencia-artificial/google-fotos-crea-memes-ia-grat
 A unas semanas de que se revelara la existencia del Xiaomi Tag, los primeros detalles de este localizador Bluetooth se han filtrado. Un análisis al código de HyperOS ofrece un vistazo a lo que les espera a los usuarios que están pensando en…
 https://hipertextual.com/tecnologia/xiaomi-tag-filtracion-detalles-uwb/
 🗓️ 2026-01-23 • 🏷️ hipertextual.com
+
+### 2026-01-24T13:30:55.448Z
+📰 Las 33 series y películas coreanas que llegarán a Netflix en 2026
+El contenido coreano se ha convertido en uno de los más populares en el siempre creciente catálogo de Netflix. Y lo es por una buena razón: la gran colección de series y películas del país asiático no solamente profundiza con habilidad en t…
+https://hipertextual.com/cine-television/las-33-series-y-peliculas-coreanas-que-llegaran-a-netflix-en-2026/
+🗓️ 2026-01-24 • 🏷️ hipertextual.com
