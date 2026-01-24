@@ -2632,3 +2632,19 @@ https://hipertextual.com/tecnologia/alexa-plus-disponible-mexico-caracteristicas
 🗓️ 2026-01-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-24
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Se filtra el AirTag de Xiaomi: precio rompedor y un diseño que no le pide nada a Apple
+A unas semanas de que se revelara la existencia del Xiaomi Tag, los primeros detalles de este localizador Bluetooth se han filtrado. Un análisis al código de HyperOS ofrece un vistazo a lo que les espera a los usuarios que están pensando en…
+https://hipertextual.com/tecnologia/xiaomi-tag-filtracion-detalles-uwb/
+🗓️ 2026-01-23 • 🏷️ hipertextual.com
+
+---

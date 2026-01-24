@@ -2977,3 +2977,9 @@ https://hipertextual.com/movilidad/ampere-renault-cierre-2026/
 Hasta hace unos años, crear memes requería que descargaras una app o que accedieras a webs dedicadas. Esto ya no será necesario, puesto que Google añadió una nueva función en Fotos que permite diseñar tus propios memes. Esta característica,…
 https://hipertextual.com/inteligencia-artificial/google-fotos-crea-memes-ia-gratis-andr/
 🗓️ 2026-01-23 • 🏷️ hipertextual.com
+
+### 2026-01-24T02:54:12.832Z
+📰 Se filtra el AirTag de Xiaomi: precio rompedor y un diseño que no le pide nada a Apple
+A unas semanas de que se revelara la existencia del Xiaomi Tag, los primeros detalles de este localizador Bluetooth se han filtrado. Un análisis al código de HyperOS ofrece un vistazo a lo que les espera a los usuarios que están pensando en…
+https://hipertextual.com/tecnologia/xiaomi-tag-filtracion-detalles-uwb/
+🗓️ 2026-01-23 • 🏷️ hipertextual.com
