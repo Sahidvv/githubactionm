@@ -2648,3 +2648,19 @@ https://hipertextual.com/tecnologia/xiaomi-tag-filtracion-detalles-uwb/
 🗓️ 2026-01-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-25
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 3 razones para ver la nueva temporada de ‘Industry’, la mejor serie de HBO Max y que seguro no conoces
+Industry, que acaba de estrenar nueva temporada en HBO Max, apuesta de nuevo por lo que mejor sabe hacer. Por lo que combina un escenario frenético, incómodo y pesimista con una óptica audaz sobre la ambición contemporánea. Claro está, una …
+https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-temporada-de-industry-la-mejor-serie-de-hbo-max-y-que-seguro-no-conoces/
+🗓️ 2026-01-24 • 🏷️ hipertextual.com
+
+---

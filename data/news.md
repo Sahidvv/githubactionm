@@ -2995,3 +2995,9 @@ https://hipertextual.com/cine-television/las-33-series-y-peliculas-coreanas-que-
 ¿Eres de los que paga mensualmente por DAZN para tener contenido deportivo siempre disponible? Entonces tengo una muy buena noticia para ti: he descubierto una plataforma con decenas de canales de deportes que se puede ver desde cualquier d…
 https://hipertextual.com/tecnologia/ni-tdt-ni-dazn-esta-es-mi-plataforma-favorita-para-ver-deportes-gratis-acaba-de-incluir-otros-10-canales/
 🗓️ 2026-01-24 • 🏷️ hipertextual.com
+
+### 2026-01-25T03:11:06.784Z
+📰 3 razones para ver la nueva temporada de ‘Industry’, la mejor serie de HBO Max y que seguro no conoces
+Industry, que acaba de estrenar nueva temporada en HBO Max, apuesta de nuevo por lo que mejor sabe hacer. Por lo que combina un escenario frenético, incómodo y pesimista con una óptica audaz sobre la ambición contemporánea. Claro está, una …
+https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-temporada-de-industry-la-mejor-serie-de-hbo-max-y-que-seguro-no-conoces/
+🗓️ 2026-01-24 • 🏷️ hipertextual.com
