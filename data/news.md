@@ -3001,3 +3001,9 @@ https://hipertextual.com/tecnologia/ni-tdt-ni-dazn-esta-es-mi-plataforma-favorit
 Industry, que acaba de estrenar nueva temporada en HBO Max, apuesta de nuevo por lo que mejor sabe hacer. Por lo que combina un escenario frenético, incómodo y pesimista con una óptica audaz sobre la ambición contemporánea. Claro está, una …
 https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-temporada-de-industry-la-mejor-serie-de-hbo-max-y-que-seguro-no-conoces/
 🗓️ 2026-01-24 • 🏷️ hipertextual.com
+
+### 2026-01-25T13:32:27.628Z
+📰 ‘La Virgen de la Tosquera’, la película de terror argentina que arrasa en España
+La Virgen de la Tosquera no es una película de terror convencional. Al menos, no una que cumpla la fórmula habitual de Hollywood de un único villano al acecho o un evento sobrenatural que defina la premisa. Antes que eso, la directora Laura…
+https://hipertextual.com/cine-television/la-virgen-de-la-tosquera-la-pelicula-de-terror-argentina-que-arrasa-en-espana/
+🗓️ 2026-01-25 • 🏷️ hipertextual.com
