@@ -3025,3 +3025,9 @@ https://www.muycomputer.com/2026/01/25/los-mejores-contenidos-de-la-semana-en-mu
 En este episodio hablamos de la voz, de su importancia en nuestra identidad y de sus particularidadesRegresa el mítico podcast ‘Catástrofe Ultravioleta’ con una nueva temporada en elDiario.es &iquest;Qu&eacute; pasa si en un juicio la &uacu…
 https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-historia-voz-ia-investigacion_1_12929507.html
 🗓️ 2026-01-30 • 🏷️ eldiario.es
+
+### 2026-01-26T19:24:06.263Z
+📰 Microsoft crea un nuevo chip de IA para que ChatGPT sea más rápido
+Microsoft ha presentado un nuevo chip de IA que podría convertirse en una alternativa a NVIDIA y Google. Conocido como Maia 200, este acelerador llega como reemplazo al Maia 100 de 2023 y promete una mejora de rendimiento de hasta el 30% en…
+https://hipertextual.com/inteligencia-artificial/microsoft-maia-200-chip-ia-impulsara-chatgpt/
+🗓️ 2026-01-26 • 🏷️ hipertextual.com
