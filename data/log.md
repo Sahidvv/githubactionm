@@ -2664,3 +2664,19 @@ https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-temporada-d
 🗓️ 2026-01-24 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-26
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DVIII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cuando los GHz lo eran todo: Intel quiso fabricar u…
+https://www.muycomputer.com/2026/01/25/los-mejores-contenidos-de-la-semana-en-muycomputer-dviii/
+🗓️ 2026-01-25 • 🏷️ muycomputer.com
+
+---
