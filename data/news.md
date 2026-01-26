@@ -3019,3 +3019,9 @@ https://www.muycomputer.com/2026/01/25/sorpresa-otro-fallo-con-la-ultima-actuali
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cuando los GHz lo eran todo: Intel quiso fabricar u…
 https://www.muycomputer.com/2026/01/25/los-mejores-contenidos-de-la-semana-en-muycomputer-dviii/
 🗓️ 2026-01-25 • 🏷️ muycomputer.com
+
+### 2026-01-26T13:44:51.388Z
+📰 🎙 PODCAST | ¿Es realmente nuestra voz única e inconfundible?
+En este episodio hablamos de la voz, de su importancia en nuestra identidad y de sus particularidadesRegresa el mítico podcast ‘Catástrofe Ultravioleta’ con una nueva temporada en elDiario.es &iquest;Qu&eacute; pasa si en un juicio la &uacu…
+https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-historia-voz-ia-investigacion_1_12929507.html
+🗓️ 2026-01-30 • 🏷️ eldiario.es
