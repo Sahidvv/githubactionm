@@ -3043,3 +3043,9 @@ https://hipertextual.com/mobile/galaxy-a57-filtracion-diseno-especificaciones/
 En un intento por reducir el uso de plásticos desechables, las botellas de agua reutilizables se han convertido en un básico de la mayoría de hogares. Los niños las llevan al colegio, los adultos al trabajo, al gimnasio… Suelen estar en cua…
 https://hipertextual.com/ciencia/lavar-botellas-de-agua-2/
 🗓️ 2026-01-27 • 🏷️ hipertextual.com
+
+### 2026-01-27T19:27:18.242Z
+📰 Microsoft avisa: instala ya esta actualización de emergencia en Windows 11 si no quieres quedarte sin PC
+Usar un ordenador con Windows 11 se está convirtiendo en una odisea desde principios de 2026, cuando Microsoft lanzó una actualización de seguridad que ha resultado estar repleta de fallos que están afectando a miles de usuarios. Estos cons…
+https://hipertextual.com/tecnologia/microsoft-avisa-instala-ya-esta-actualizacion-de-emergencia-en-windows-11-si-no-quieres-quedarte-sin-pc/
+🗓️ 2026-01-27 • 🏷️ hipertextual.com
