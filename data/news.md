@@ -3037,3 +3037,9 @@ https://hipertextual.com/inteligencia-artificial/microsoft-maia-200-chip-ia-impu
 A unos días de que se conocieran los primeros detalles del Galaxy A57, una nueva filtración muestra a todo detalle el próximo superventas de Samsung. Un registro en el órgano certificador de China incluyó imágenes del terminal de gama media…
 https://hipertextual.com/mobile/galaxy-a57-filtracion-diseno-especificaciones/
 🗓️ 2026-01-26 • 🏷️ hipertextual.com
+
+### 2026-01-27T13:49:31.980Z
+📰 Todos lo hacemos a diario y es peor que chupar un váter limpio: los riesgos que conllevan las botellas reutilizables si no se limpian a diario
+En un intento por reducir el uso de plásticos desechables, las botellas de agua reutilizables se han convertido en un básico de la mayoría de hogares. Los niños las llevan al colegio, los adultos al trabajo, al gimnasio… Suelen estar en cua…
+https://hipertextual.com/ciencia/lavar-botellas-de-agua-2/
+🗓️ 2026-01-27 • 🏷️ hipertextual.com
