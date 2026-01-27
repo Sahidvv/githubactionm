@@ -2680,3 +2680,19 @@ https://www.muycomputer.com/2026/01/25/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-01-25 • 🏷️ muycomputer.com
 
 ---
+## 2026-01-27
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Se filtra el Galaxy A57: así será el nuevo superventas de Samsung
+A unos días de que se conocieran los primeros detalles del Galaxy A57, una nueva filtración muestra a todo detalle el próximo superventas de Samsung. Un registro en el órgano certificador de China incluyó imágenes del terminal de gama media…
+https://hipertextual.com/mobile/galaxy-a57-filtracion-diseno-especificaciones/
+🗓️ 2026-01-26 • 🏷️ hipertextual.com
+
+---

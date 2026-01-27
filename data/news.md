@@ -3031,3 +3031,9 @@ https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-historia-voz-ia
 Microsoft ha presentado un nuevo chip de IA que podría convertirse en una alternativa a NVIDIA y Google. Conocido como Maia 200, este acelerador llega como reemplazo al Maia 100 de 2023 y promete una mejora de rendimiento de hasta el 30% en…
 https://hipertextual.com/inteligencia-artificial/microsoft-maia-200-chip-ia-impulsara-chatgpt/
 🗓️ 2026-01-26 • 🏷️ hipertextual.com
+
+### 2026-01-27T03:05:03.161Z
+📰 Se filtra el Galaxy A57: así será el nuevo superventas de Samsung
+A unos días de que se conocieran los primeros detalles del Galaxy A57, una nueva filtración muestra a todo detalle el próximo superventas de Samsung. Un registro en el órgano certificador de China incluyó imágenes del terminal de gama media…
+https://hipertextual.com/mobile/galaxy-a57-filtracion-diseno-especificaciones/
+🗓️ 2026-01-26 • 🏷️ hipertextual.com
