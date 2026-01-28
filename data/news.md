@@ -3061,3 +3061,9 @@ https://hipertextual.com/mobile/frio-extremo-dana-galaxy-z-fold-z-flip/
 Amazon ha concretado una nueva ola de despidos masivos que impacta sobre 16.000 empleados. De esta forma, la compañía completa el plan que se había puesto en marcha en octubre pasado con la salida de 14.000 trabajadores. De modo que en solo…
 https://hipertextual.com/economia-empresas/nueva-ola-despidos-amazon-16000-empleados/
 🗓️ 2026-01-28 • 🏷️ hipertextual.com
+
+### 2026-01-28T19:28:55.371Z
+📰 Gemini da un salto descomunal en Google Chrome y ya puede navegar la web por ti
+La experiencia de usar Gemini en Google Chrome acaba de dar un salto descomunal. La nueva versión del navegador web estrena una integración mucho más estrecha con la inteligencia artificial, incluyendo una función que le permite navegar la …
+https://hipertextual.com/inteligencia-artificial/google-chrome-gemini-navegacion-autonoma/
+🗓️ 2026-01-28 • 🏷️ hipertextual.com
