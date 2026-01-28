@@ -3049,3 +3049,9 @@ https://hipertextual.com/ciencia/lavar-botellas-de-agua-2/
 Usar un ordenador con Windows 11 se está convirtiendo en una odisea desde principios de 2026, cuando Microsoft lanzó una actualización de seguridad que ha resultado estar repleta de fallos que están afectando a miles de usuarios. Estos cons…
 https://hipertextual.com/tecnologia/microsoft-avisa-instala-ya-esta-actualizacion-de-emergencia-en-windows-11-si-no-quieres-quedarte-sin-pc/
 🗓️ 2026-01-27 • 🏷️ hipertextual.com
+
+### 2026-01-28T03:02:31.363Z
+📰 Nuevo miedo desbloqueado con los móviles plegables: su pantalla se rompe si lo usas a esta temperatura
+Samsung está enfrentando una nueva crisis con uno de sus móviles más populares. Una oleada de reportes en Corea del Sur ha destapado un problema que aqueja a los Galaxy Z Fold y Galaxy Z Flip. Según los usuarios, los plegables se están romp…
+https://hipertextual.com/mobile/frio-extremo-dana-galaxy-z-fold-z-flip/
+🗓️ 2026-01-27 • 🏷️ hipertextual.com

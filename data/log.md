@@ -2696,3 +2696,19 @@ https://hipertextual.com/mobile/galaxy-a57-filtracion-diseno-especificaciones/
 🗓️ 2026-01-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-28
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Nuevo miedo desbloqueado con los móviles plegables: su pantalla se rompe si lo usas a esta temperatura
+Samsung está enfrentando una nueva crisis con uno de sus móviles más populares. Una oleada de reportes en Corea del Sur ha destapado un problema que aqueja a los Galaxy Z Fold y Galaxy Z Flip. Según los usuarios, los plegables se están romp…
+https://hipertextual.com/mobile/frio-extremo-dana-galaxy-z-fold-z-flip/
+🗓️ 2026-01-27 • 🏷️ hipertextual.com
+
+---
