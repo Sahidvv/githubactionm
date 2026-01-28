@@ -3055,3 +3055,9 @@ https://hipertextual.com/tecnologia/microsoft-avisa-instala-ya-esta-actualizacio
 Samsung está enfrentando una nueva crisis con uno de sus móviles más populares. Una oleada de reportes en Corea del Sur ha destapado un problema que aqueja a los Galaxy Z Fold y Galaxy Z Flip. Según los usuarios, los plegables se están romp…
 https://hipertextual.com/mobile/frio-extremo-dana-galaxy-z-fold-z-flip/
 🗓️ 2026-01-27 • 🏷️ hipertextual.com
+
+### 2026-01-28T13:49:51.668Z
+📰 Amazon despide otros 16.000 empleados ante el auge de la IA
+Amazon ha concretado una nueva ola de despidos masivos que impacta sobre 16.000 empleados. De esta forma, la compañía completa el plan que se había puesto en marcha en octubre pasado con la salida de 14.000 trabajadores. De modo que en solo…
+https://hipertextual.com/economia-empresas/nueva-ola-despidos-amazon-16000-empleados/
+🗓️ 2026-01-28 • 🏷️ hipertextual.com
