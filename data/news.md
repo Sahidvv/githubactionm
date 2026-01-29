@@ -3079,3 +3079,9 @@ https://hipertextual.com/tecnologia/tesla-optimus-produccion-robot-humanoide-202
 Si te gustan Yellowstone y el western y vives en España, estás de enhorabuena. Y es que llega a la televisión el primer canal dedicado exclusivamente al género. Paisajes infinitos, duelos al sol, héroes solitarios, los inconfundibles silbid…
 https://hipertextual.com/cine-television/llega-a-espana-canal-de-television-amc-western-premium-perfecto-para-fans-de-yellowstone/
 🗓️ 2026-01-29 • 🏷️ hipertextual.com
+
+### 2026-01-29T19:30:44.001Z
+📰 Universal Music demanda a los creadores de Claude por piratear miles de canciones
+Anthropic, la empresa de IA detrás de Claude, ha sido demandada por piratear música. Un grupo de disqueras liderado por Universal Music acusó a la compañía francesa de infracción masiva de derechos de autor. Según la demanda, Anthropic desc…
+https://hipertextual.com/inteligencia-artificial/anthropic-demanda-pirateria-musica-entrenar-ia/
+🗓️ 2026-01-29 • 🏷️ hipertextual.com
