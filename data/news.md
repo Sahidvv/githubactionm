@@ -3067,3 +3067,9 @@ https://hipertextual.com/economia-empresas/nueva-ola-despidos-amazon-16000-emple
 La experiencia de usar Gemini en Google Chrome acaba de dar un salto descomunal. La nueva versión del navegador web estrena una integración mucho más estrecha con la inteligencia artificial, incluyendo una función que le permite navegar la …
 https://hipertextual.com/inteligencia-artificial/google-chrome-gemini-navegacion-autonoma/
 🗓️ 2026-01-28 • 🏷️ hipertextual.com
+
+### 2026-01-29T03:26:19.529Z
+📰 El robot humanoide de Tesla está más cerca: Optimus dará el gran salto en 2026
+Optimus, el robot humanoide de Tesla, podría debutar muy pronto. Elon Musk reveló que su primer robot inspirado en los androides de Star Wars comenzará su producción en masa antes de que finalice el año. El CEO de la compañía adelantó que l…
+https://hipertextual.com/tecnologia/tesla-optimus-produccion-robot-humanoide-2026/
+🗓️ 2026-01-28 • 🏷️ hipertextual.com

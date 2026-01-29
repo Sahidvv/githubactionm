@@ -2712,3 +2712,19 @@ https://hipertextual.com/mobile/frio-extremo-dana-galaxy-z-fold-z-flip/
 🗓️ 2026-01-27 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-29
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El robot humanoide de Tesla está más cerca: Optimus dará el gran salto en 2026
+Optimus, el robot humanoide de Tesla, podría debutar muy pronto. Elon Musk reveló que su primer robot inspirado en los androides de Star Wars comenzará su producción en masa antes de que finalice el año. El CEO de la compañía adelantó que l…
+https://hipertextual.com/tecnologia/tesla-optimus-produccion-robot-humanoide-2026/
+🗓️ 2026-01-28 • 🏷️ hipertextual.com
+
+---
