@@ -3097,3 +3097,9 @@ https://elpais.com/salud-y-bienestar/2026-01-29/el-cribado-con-ayuda-de-la-ia-me
 En este episodio hablamos de compañías especializadas en crear voces artificiales que parecen humanasRegresa el mítico podcast ‘Catástrofe Ultravioleta’ con una nueva temporada en elDiario.es Hace no tanto tiempo, empezamos a escuchar voces…
 https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-dia-puedan-suplantar-voz_1_12936434.html
 🗓️ 2026-01-30 • 🏷️ eldiario.es
+
+### 2026-01-30T19:32:31.726Z
+📰 ClawdBot cambia de nombre por segunda vez y ahora pone en riesgo tus datos
+Clawdbot, el asistente de IA que se volvió viral este año, ha vuelto a cambiar de nombre. A unos días de anunciar que se llamaría Moltbot para evitar problemas con Anthropic, su creador eligió un nuevo nombre. Clawdbot ahora se llama OpenCl…
+https://hipertextual.com/inteligencia-artificial/clawdbot-openclaw-problemas-seguridad/
+🗓️ 2026-01-30 • 🏷️ hipertextual.com
