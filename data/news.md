@@ -3091,3 +3091,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-demanda-pirateria-mus
 Un ensayo demuestra que leer mamografías con su apoyo reduce la aparición de tumores agresivos, pero los autores niegan que sirva para sustituir personal sanitario
 https://elpais.com/salud-y-bienestar/2026-01-29/el-cribado-con-ayuda-de-la-ia-mejora-la-deteccion-temprana-del-cancer-de-mama.html
 🗓️ 2026-01-29 • 🏷️ elpais.com
+
+### 2026-01-30T13:56:22.475Z
+📰 🎙 PODCAST | El día en que te puedan suplantar por la voz ya está aquí
+En este episodio hablamos de compañías especializadas en crear voces artificiales que parecen humanasRegresa el mítico podcast ‘Catástrofe Ultravioleta’ con una nueva temporada en elDiario.es Hace no tanto tiempo, empezamos a escuchar voces…
+https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-dia-puedan-suplantar-voz_1_12936434.html
+🗓️ 2026-01-30 • 🏷️ eldiario.es
