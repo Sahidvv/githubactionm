@@ -3085,3 +3085,9 @@ https://hipertextual.com/cine-television/llega-a-espana-canal-de-television-amc-
 Anthropic, la empresa de IA detrás de Claude, ha sido demandada por piratear música. Un grupo de disqueras liderado por Universal Music acusó a la compañía francesa de infracción masiva de derechos de autor. Según la demanda, Anthropic desc…
 https://hipertextual.com/inteligencia-artificial/anthropic-demanda-pirateria-musica-entrenar-ia/
 🗓️ 2026-01-29 • 🏷️ hipertextual.com
+
+### 2026-01-30T03:26:58.078Z
+📰 El cribado con ayuda de la IA mejora la detección temprana del cáncer de mama
+Un ensayo demuestra que leer mamografías con su apoyo reduce la aparición de tumores agresivos, pero los autores niegan que sirva para sustituir personal sanitario
+https://elpais.com/salud-y-bienestar/2026-01-29/el-cribado-con-ayuda-de-la-ia-mejora-la-deteccion-temprana-del-cancer-de-mama.html
+🗓️ 2026-01-29 • 🏷️ elpais.com

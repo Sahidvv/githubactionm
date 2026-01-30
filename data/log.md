@@ -2728,3 +2728,19 @@ https://hipertextual.com/tecnologia/tesla-optimus-produccion-robot-humanoide-202
 🗓️ 2026-01-28 • 🏷️ hipertextual.com
 
 ---
+## 2026-01-30
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 El cribado con ayuda de la IA mejora la detección temprana del cáncer de mama
+Un ensayo demuestra que leer mamografías con su apoyo reduce la aparición de tumores agresivos, pero los autores niegan que sirva para sustituir personal sanitario
+https://elpais.com/salud-y-bienestar/2026-01-29/el-cribado-con-ayuda-de-la-ia-mejora-la-deteccion-temprana-del-cancer-de-mama.html
+🗓️ 2026-01-29 • 🏷️ elpais.com
+
+---
