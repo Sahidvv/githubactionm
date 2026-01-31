@@ -2744,3 +2744,19 @@ https://elpais.com/salud-y-bienestar/2026-01-29/el-cribado-con-ayuda-de-la-ia-me
 🗓️ 2026-01-29 • 🏷️ elpais.com
 
 ---
+## 2026-01-31
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ClawdBot se sale de control: la IA propone crear un idioma secreto, sin humanos
+La primera evidencia de que la IA podría salirse de control ha ocurrido gracias a ClawdBot. El asistente de IA, que ahora se llama OpenClaw, está en boca de todos gracias a sus funciones de agente que le permiten controlar tu PC. Lo que poc…
+https://hipertextual.com/inteligencia-artificial/clawdbot-ia-idioma-secreto-agentes/
+🗓️ 2026-01-31 • 🏷️ hipertextual.com
+
+---

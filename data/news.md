@@ -3103,3 +3103,9 @@ https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-dia-puedan-supl
 Clawdbot, el asistente de IA que se volvió viral este año, ha vuelto a cambiar de nombre. A unos días de anunciar que se llamaría Moltbot para evitar problemas con Anthropic, su creador eligió un nuevo nombre. Clawdbot ahora se llama OpenCl…
 https://hipertextual.com/inteligencia-artificial/clawdbot-openclaw-problemas-seguridad/
 🗓️ 2026-01-30 • 🏷️ hipertextual.com
+
+### 2026-01-31T03:21:55.715Z
+📰 ClawdBot se sale de control: la IA propone crear un idioma secreto, sin humanos
+La primera evidencia de que la IA podría salirse de control ha ocurrido gracias a ClawdBot. El asistente de IA, que ahora se llama OpenClaw, está en boca de todos gracias a sus funciones de agente que le permiten controlar tu PC. Lo que poc…
+https://hipertextual.com/inteligencia-artificial/clawdbot-ia-idioma-secreto-agentes/
+🗓️ 2026-01-31 • 🏷️ hipertextual.com

@@ -1,6 +1,5 @@
 {
   "seenLinks": [
-    "https://computerhoy.20minutos.es/tecnologia/ucrania-ha-desmontado-pieza-pieza-dron-ruso-inmune-guerra-electronica-sorpresa-ha-sido-enorme-1484528",
     "https://hipertextual.com/tecnologia/openai-jony-ive-gafas-ia-altavoz-inteligente-homepod/",
     "https://computerhoy.20minutos.es/tecnologia/temor-gamers-linux-compatibilidad-pero-windows-11-sigue-teniendo-menos-rendimiento-1484635",
     "https://computerhoy.20minutos.es/ciberseguridad/estafadores-usan-torres-falsas-telefonia-enviar-100000-sms-infectar-movil-1484692",
@@ -399,10 +398,10 @@
     "https://hipertextual.com/inteligencia-artificial/anthropic-demanda-pirateria-musica-entrenar-ia/",
     "https://elpais.com/salud-y-bienestar/2026-01-29/el-cribado-con-ayuda-de-la-ia-mejora-la-deteccion-temprana-del-cancer-de-mama.html",
     "https://www.eldiario.es/sociedad/catastrofe-ultravioleta/podcast-dia-puedan-suplantar-voz_1_12936434.html",
-    "https://hipertextual.com/inteligencia-artificial/clawdbot-openclaw-problemas-seguridad/"
+    "https://hipertextual.com/inteligencia-artificial/clawdbot-openclaw-problemas-seguridad/",
+    "https://hipertextual.com/inteligencia-artificial/clawdbot-ia-idioma-secreto-agentes/"
   ],
   "seenTitles": [
-    "ucrania ha desmontado pieza a pieza el dron ruso inmune a la guerra electronica la sorpresa ha sido enorme",
     "no solo meta openai ya desarrolla unas gafas con ia disenadas por jony ive",
     "el temor de los gamers hacia linux es la compatibilidad pero windows 11 sigue teniendo menos rendimiento",
     "estafadores usan torres falsas de telefonia para enviar 100 000 sms para infectar tu movil",
@@ -801,6 +800,7 @@
     "universal music demanda a los creadores de claude por piratear miles de canciones",
     "el cribado con ayuda de la ia mejora la deteccion temprana del cancer de mama",
     "podcast el dia en que te puedan suplantar por la voz ya esta aqui",
-    "clawdbot cambia de nombre por segunda vez y ahora pone en riesgo tus datos"
+    "clawdbot cambia de nombre por segunda vez y ahora pone en riesgo tus datos",
+    "clawdbot se sale de control la ia propone crear un idioma secreto sin humanos"
   ]
 }
