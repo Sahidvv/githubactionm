@@ -3133,3 +3133,9 @@ https://hipertextual.com/cine-television/5-cosas-que-los-bridgerton-hace-muy-mal
 El anime ocupa un lugar de considerable importancia en la cultura pop actual. Eso, en buena parte, gracias a que el género de animación se ha vuelto fuente de inspiración para todo tipo de películas y series. Pero también, al hecho de que, …
 https://hipertextual.com/tecnologia/los-10-mejores-animes-que-puedes-ver-en-crunchyroll/
 🗓️ 2026-02-01 • 🏷️ hipertextual.com
+
+### 2026-02-01T19:24:49.813Z
+📰 Ashes of Creation se desmorona a los 52 días de su debut
+Ashes of Creation era uno de los últimos grandes nombres en los que el género MMORPG había depositado sus esperanzas. Un proyecto que prometía devolver la ambición, el riesgo y la épica a un estilo de juego que lleva años tratando de reenco…
+https://www.muycomputer.com/2026/02/01/ashes-of-creation-se-desmorona-a-los-52-dias-de-su-debut/
+🗓️ 2026-02-01 • 🏷️ muycomputer.com
