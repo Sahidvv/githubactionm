@@ -2760,3 +2760,19 @@ https://hipertextual.com/inteligencia-artificial/clawdbot-ia-idioma-secreto-agen
 🗓️ 2026-01-31 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-01
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 5 cosas que ‘Los Bridgerton’ hace muy mal esta temporada
+Los Bridgerton han vuelto con una temporada que ha sorprendido para bien. Eso, al recuperar el espíritu desenfadado, provocador y divertido de su muy elogiada primera temporada. Pero a la vez, incorporar a la trama todos los puntos que le h…
+https://hipertextual.com/cine-television/5-cosas-que-los-bridgerton-hace-muy-mal-esta-temporada/
+🗓️ 2026-01-31 • 🏷️ hipertextual.com
+
+---

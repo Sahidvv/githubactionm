@@ -3121,3 +3121,9 @@ https://hipertextual.com/cine-television/esta-es-la-serie-perfecta-que-debes-ver
 Wonder Man se estrenó sin mucha fanfarría en Disney+, pero pronto se convirtió en una rareza que comienza a llamar la atención. Con un 90 % de críticas en Rotten Tomatoes y un punto de vista muy poco convencional sobre el mundo de los super…
 https://hipertextual.com/cine-television/todos-los-cameos-de-la-serie-de-wonder-man-explicados/
 🗓️ 2026-01-31 • 🏷️ hipertextual.com
+
+### 2026-02-01T03:47:48.769Z
+📰 5 cosas que ‘Los Bridgerton’ hace muy mal esta temporada
+Los Bridgerton han vuelto con una temporada que ha sorprendido para bien. Eso, al recuperar el espíritu desenfadado, provocador y divertido de su muy elogiada primera temporada. Pero a la vez, incorporar a la trama todos los puntos que le h…
+https://hipertextual.com/cine-television/5-cosas-que-los-bridgerton-hace-muy-mal-esta-temporada/
+🗓️ 2026-01-31 • 🏷️ hipertextual.com
