@@ -3127,3 +3127,9 @@ https://hipertextual.com/cine-television/todos-los-cameos-de-la-serie-de-wonder-
 Los Bridgerton han vuelto con una temporada que ha sorprendido para bien. Eso, al recuperar el espíritu desenfadado, provocador y divertido de su muy elogiada primera temporada. Pero a la vez, incorporar a la trama todos los puntos que le h…
 https://hipertextual.com/cine-television/5-cosas-que-los-bridgerton-hace-muy-mal-esta-temporada/
 🗓️ 2026-01-31 • 🏷️ hipertextual.com
+
+### 2026-02-01T13:43:42.067Z
+📰 Los 10 mejores animes que puedes ver en Crunchyroll
+El anime ocupa un lugar de considerable importancia en la cultura pop actual. Eso, en buena parte, gracias a que el género de animación se ha vuelto fuente de inspiración para todo tipo de películas y series. Pero también, al hecho de que, …
+https://hipertextual.com/tecnologia/los-10-mejores-animes-que-puedes-ver-en-crunchyroll/
+🗓️ 2026-02-01 • 🏷️ hipertextual.com
