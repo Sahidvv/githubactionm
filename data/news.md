@@ -3145,3 +3145,9 @@ https://www.muycomputer.com/2026/02/01/ashes-of-creation-se-desmorona-a-los-52-d
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: El RE Engine deja en ridículo al Unreal Engine 5. P…
 https://www.muycomputer.com/2026/02/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dix/
 🗓️ 2026-02-01 • 🏷️ muycomputer.com
+
+### 2026-02-02T14:02:21.858Z
+📰 Alerta por hackeo masivo a Hacienda: habrían robado los datos de más de 47 millones de personas
+Un nuevo hackeo pondría en jaque al Ministerio de Hacienda de España. Según publica Hackmanac, un pirata informático afirma haber robado una base de datos actualizada con los datos personales de más de 47 millones de personas. Toda la infor…
+https://hipertextual.com/seguridad/nuevo-hackeo-hacienda-espana-2026/
+🗓️ 2026-02-02 • 🏷️ hipertextual.com
