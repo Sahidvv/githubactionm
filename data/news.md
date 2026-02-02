@@ -3139,3 +3139,9 @@ https://hipertextual.com/tecnologia/los-10-mejores-animes-que-puedes-ver-en-crun
 Ashes of Creation era uno de los últimos grandes nombres en los que el género MMORPG había depositado sus esperanzas. Un proyecto que prometía devolver la ambición, el riesgo y la épica a un estilo de juego que lleva años tratando de reenco…
 https://www.muycomputer.com/2026/02/01/ashes-of-creation-se-desmorona-a-los-52-dias-de-su-debut/
 🗓️ 2026-02-01 • 🏷️ muycomputer.com
+
+### 2026-02-02T03:40:43.619Z
+📰 Los mejores contenidos de la semana en MuyComputer (DIX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: El RE Engine deja en ridículo al Unreal Engine 5. P…
+https://www.muycomputer.com/2026/02/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dix/
+🗓️ 2026-02-01 • 🏷️ muycomputer.com

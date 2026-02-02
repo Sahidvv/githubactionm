@@ -2776,3 +2776,19 @@ https://hipertextual.com/cine-television/5-cosas-que-los-bridgerton-hace-muy-mal
 🗓️ 2026-01-31 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-02
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DIX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: El RE Engine deja en ridículo al Unreal Engine 5. P…
+https://www.muycomputer.com/2026/02/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dix/
+🗓️ 2026-02-01 • 🏷️ muycomputer.com
+
+---
