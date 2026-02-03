@@ -2792,3 +2792,19 @@ https://www.muycomputer.com/2026/02/01/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-02-01 • 🏷️ muycomputer.com
 
 ---
+## 2026-02-03
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Musk fusiona SpaceX con xAI para crear una nueva empresa valorada en 1,25 billones de dólares
+SpaceX declara que adquiere xAI para "formar el motor de innovación verticalmente integrado más ambicioso de la Tierra (y fuera de ella), con IA, cohetes, internet espacial, comunicaciones directas a dispositivos móviles y la plataforma de …
+https://www.eldiario.es/tecnologia/musk-fusiona-spacex-xai-crear-nueva-empresa-valorada-1-25-billones-dolares_1_12957682.html
+🗓️ 2026-02-03 • 🏷️ eldiario.es
+
+---

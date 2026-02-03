@@ -3151,3 +3151,9 @@ https://www.muycomputer.com/2026/02/01/los-mejores-contenidos-de-la-semana-en-mu
 Un nuevo hackeo pondría en jaque al Ministerio de Hacienda de España. Según publica Hackmanac, un pirata informático afirma haber robado una base de datos actualizada con los datos personales de más de 47 millones de personas. Toda la infor…
 https://hipertextual.com/seguridad/nuevo-hackeo-hacienda-espana-2026/
 🗓️ 2026-02-02 • 🏷️ hipertextual.com
+
+### 2026-02-03T03:33:43.314Z
+📰 Musk fusiona SpaceX con xAI para crear una nueva empresa valorada en 1,25 billones de dólares
+SpaceX declara que adquiere xAI para "formar el motor de innovación verticalmente integrado más ambicioso de la Tierra (y fuera de ella), con IA, cohetes, internet espacial, comunicaciones directas a dispositivos móviles y la plataforma de …
+https://www.eldiario.es/tecnologia/musk-fusiona-spacex-xai-crear-nueva-empresa-valorada-1-25-billones-dolares_1_12957682.html
+🗓️ 2026-02-03 • 🏷️ eldiario.es
