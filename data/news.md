@@ -3157,3 +3157,9 @@ https://hipertextual.com/seguridad/nuevo-hackeo-hacienda-espana-2026/
 SpaceX declara que adquiere xAI para "formar el motor de innovación verticalmente integrado más ambicioso de la Tierra (y fuera de ella), con IA, cohetes, internet espacial, comunicaciones directas a dispositivos móviles y la plataforma de …
 https://www.eldiario.es/tecnologia/musk-fusiona-spacex-xai-crear-nueva-empresa-valorada-1-25-billones-dolares_1_12957682.html
 🗓️ 2026-02-03 • 🏷️ eldiario.es
+
+### 2026-02-03T14:04:51.273Z
+📰 Hazte tu propia Batcueva sin arruinarte con los periféricos GXTrust Batman
+La marca Trust prepara una importante renovación de catálogo dentro de sus series más importantes de periféricos con la nueva línea GXTrust Batman. Esta nueva línea se inspira en el conocido héroe de Gotham, cuentan con licencia oficial y h…
+https://www.muycomputer.com/2026/02/03/hazte-tu-propia-batcueva-sin-arruinarte-con-los-perifericos-gxtrust-batman/
+🗓️ 2026-02-03 • 🏷️ muycomputer.com
