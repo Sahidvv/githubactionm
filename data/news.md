@@ -3163,3 +3163,9 @@ https://www.eldiario.es/tecnologia/musk-fusiona-spacex-xai-crear-nueva-empresa-v
 La marca Trust prepara una importante renovación de catálogo dentro de sus series más importantes de periféricos con la nueva línea GXTrust Batman. Esta nueva línea se inspira en el conocido héroe de Gotham, cuentan con licencia oficial y h…
 https://www.muycomputer.com/2026/02/03/hazte-tu-propia-batcueva-sin-arruinarte-con-los-perifericos-gxtrust-batman/
 🗓️ 2026-02-03 • 🏷️ muycomputer.com
+
+### 2026-02-03T19:44:09.085Z
+📰 Titán X arrasa con todo a su paso en el bestial tráiler de &#8216;Monarch&#8217;, temporada 2. ¿Podrán Kong y Godzilla detenerlo?
+Monarch: Legacy of Monsters, temporada 2, está a la vuelta de la esquina y Apple TV acaba de lanzar un bestial nuevo tráiler. El avance no solo hace hincapié en la magnitud y el peligro de Titán X, la nueva amenaza de la serie, sino que tam…
+https://hipertextual.com/cine-television/trailer-monarch-temporada-2-titan-x-godzilla-kong/
+🗓️ 2026-02-03 • 🏷️ hipertextual.com
