@@ -2808,3 +2808,19 @@ https://www.eldiario.es/tecnologia/musk-fusiona-spacex-xai-crear-nueva-empresa-v
 🗓️ 2026-02-03 • 🏷️ eldiario.es
 
 ---
+## 2026-02-04
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Take-Two acaba con los rumores y confirma cuándo sale GTA 6
+Grand Theft Auto 6 se lanzará en 2026. Tras meses de rumores y especulaciones que anticipaban un nuevo retraso, Take-Two Interactive confirmó que el juego llegará a las tiendas antes de que finalice el año. La compañía añadió que el popular…
+https://hipertextual.com/videojuegos/gta-6-fecha-lanzamiento-19-noviembre-2026/
+🗓️ 2026-02-03 • 🏷️ hipertextual.com
+
+---

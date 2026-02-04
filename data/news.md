@@ -3169,3 +3169,9 @@ https://www.muycomputer.com/2026/02/03/hazte-tu-propia-batcueva-sin-arruinarte-c
 Monarch: Legacy of Monsters, temporada 2, está a la vuelta de la esquina y Apple TV acaba de lanzar un bestial nuevo tráiler. El avance no solo hace hincapié en la magnitud y el peligro de Titán X, la nueva amenaza de la serie, sino que tam…
 https://hipertextual.com/cine-television/trailer-monarch-temporada-2-titan-x-godzilla-kong/
 🗓️ 2026-02-03 • 🏷️ hipertextual.com
+
+### 2026-02-04T03:31:15.263Z
+📰 Take-Two acaba con los rumores y confirma cuándo sale GTA 6
+Grand Theft Auto 6 se lanzará en 2026. Tras meses de rumores y especulaciones que anticipaban un nuevo retraso, Take-Two Interactive confirmó que el juego llegará a las tiendas antes de que finalice el año. La compañía añadió que el popular…
+https://hipertextual.com/videojuegos/gta-6-fecha-lanzamiento-19-noviembre-2026/
+🗓️ 2026-02-03 • 🏷️ hipertextual.com
