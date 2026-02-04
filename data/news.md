@@ -3175,3 +3175,9 @@ https://hipertextual.com/cine-television/trailer-monarch-temporada-2-titan-x-god
 Grand Theft Auto 6 se lanzará en 2026. Tras meses de rumores y especulaciones que anticipaban un nuevo retraso, Take-Two Interactive confirmó que el juego llegará a las tiendas antes de que finalice el año. La compañía añadió que el popular…
 https://hipertextual.com/videojuegos/gta-6-fecha-lanzamiento-19-noviembre-2026/
 🗓️ 2026-02-03 • 🏷️ hipertextual.com
+
+### 2026-02-04T14:03:38.027Z
+📰 Nueva Xbox a la vista: AMD revela su posible fecha de lanzamiento
+Que la Xbox de siguiente generación se encuentra en desarrollo, no es novedad. Microsoft lleva algún tiempo trabajando en su nueva consola y AMD ahora ha revelado un detalle clave sobre su posible fecha de lanzamiento. Y si bien no se produ…
+https://hipertextual.com/videojuegos/nueva-xbox-amd-lanzamiento-2027/
+🗓️ 2026-02-04 • 🏷️ hipertextual.com
