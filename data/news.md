@@ -3181,3 +3181,9 @@ https://hipertextual.com/videojuegos/gta-6-fecha-lanzamiento-19-noviembre-2026/
 Que la Xbox de siguiente generación se encuentra en desarrollo, no es novedad. Microsoft lleva algún tiempo trabajando en su nueva consola y AMD ahora ha revelado un detalle clave sobre su posible fecha de lanzamiento. Y si bien no se produ…
 https://hipertextual.com/videojuegos/nueva-xbox-amd-lanzamiento-2027/
 🗓️ 2026-02-04 • 🏷️ hipertextual.com
+
+### 2026-02-04T19:38:38.039Z
+📰 ¿Tendrá &#8216;Fallout&#8217; tercera temporada? Esto es todo lo que sabemos
+Con el estreno del octavo episodio, la segunda temporada de Fallout ya ha llegado a su fin, pero los fans solo piensan en si habrá tercera. La serie de Amazon Prime Video conquistó a la audiencia en su primera entrega allá por 2024. Ahora, …
+https://hipertextual.com/cine-television/tendra-fallout-tercera-temporada-esto-es-todo-lo-que-sabemos/
+🗓️ 2026-02-04 • 🏷️ hipertextual.com
