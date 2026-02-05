@@ -3199,3 +3199,9 @@ https://hipertextual.com/tecnologia/youtube-ya-permite-evitar-el-doblaje-automat
 Malas noticias, jugadores. Valve se ha visto obligada a retrasar el lanzamiento de la Steam Machine, al igual que la confirmación de su precio de venta al público. El motivo detrás de la decisión es la crisis que está golpeando a la provisi…
 https://hipertextual.com/videojuegos/steam-machine-valve-retraso-crisis-ram/
 🗓️ 2026-02-05 • 🏷️ hipertextual.com
+
+### 2026-02-05T19:37:20.832Z
+📰 Suspenden 16 Zonas de Bajas Emisiones en España: las multas y restricciones quedan anuladas de inmediato
+El funcionamiento de las Zonas de Bajas Emisiones en España es un tema que suele estar en el centro de la escena por críticas de los conductores que no tienen un coche habilitado para transitar por dichas áreas, como también por los vaivene…
+https://hipertextual.com/movilidad/suspenden-16-zonas-de-bajas-emisiones-espana-cataluna/
+🗓️ 2026-02-05 • 🏷️ hipertextual.com
