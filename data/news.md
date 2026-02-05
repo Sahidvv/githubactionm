@@ -3187,3 +3187,9 @@ https://hipertextual.com/videojuegos/nueva-xbox-amd-lanzamiento-2027/
 Con el estreno del octavo episodio, la segunda temporada de Fallout ya ha llegado a su fin, pero los fans solo piensan en si habrá tercera. La serie de Amazon Prime Video conquistó a la audiencia en su primera entrega allá por 2024. Ahora, …
 https://hipertextual.com/cine-television/tendra-fallout-tercera-temporada-esto-es-todo-lo-que-sabemos/
 🗓️ 2026-02-04 • 🏷️ hipertextual.com
+
+### 2026-02-05T03:32:37.350Z
+📰 YouTube ya permite evitar el doblaje automático con IA, pero no como esperabas
+El doblaje automático de YouTube es una de las funciones más molestas que ha implementado la plataforma en mucho tiempo. Si bien esta opción ayuda a que las personas puedan disfrutar videos en su idioma natal, muchos usuarios se han quejado…
+https://hipertextual.com/tecnologia/youtube-ya-permite-evitar-el-doblaje-automatico-con-ia-pero-no-como-esperabas/
+🗓️ 2026-02-04 • 🏷️ hipertextual.com

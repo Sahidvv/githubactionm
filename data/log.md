@@ -2824,3 +2824,19 @@ https://hipertextual.com/videojuegos/gta-6-fecha-lanzamiento-19-noviembre-2026/
 🗓️ 2026-02-03 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-05
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 YouTube ya permite evitar el doblaje automático con IA, pero no como esperabas
+El doblaje automático de YouTube es una de las funciones más molestas que ha implementado la plataforma en mucho tiempo. Si bien esta opción ayuda a que las personas puedan disfrutar videos en su idioma natal, muchos usuarios se han quejado…
+https://hipertextual.com/tecnologia/youtube-ya-permite-evitar-el-doblaje-automatico-con-ia-pero-no-como-esperabas/
+🗓️ 2026-02-04 • 🏷️ hipertextual.com
+
+---
