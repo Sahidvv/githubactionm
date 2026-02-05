@@ -3193,3 +3193,9 @@ https://hipertextual.com/cine-television/tendra-fallout-tercera-temporada-esto-e
 El doblaje automático de YouTube es una de las funciones más molestas que ha implementado la plataforma en mucho tiempo. Si bien esta opción ayuda a que las personas puedan disfrutar videos en su idioma natal, muchos usuarios se han quejado…
 https://hipertextual.com/tecnologia/youtube-ya-permite-evitar-el-doblaje-automatico-con-ia-pero-no-como-esperabas/
 🗓️ 2026-02-04 • 🏷️ hipertextual.com
+
+### 2026-02-05T14:05:29.053Z
+📰 La crisis de la RAM se cobra su primera víctima. Valve retrasa la Steam Machine y su precio aún es un misterio
+Malas noticias, jugadores. Valve se ha visto obligada a retrasar el lanzamiento de la Steam Machine, al igual que la confirmación de su precio de venta al público. El motivo detrás de la decisión es la crisis que está golpeando a la provisi…
+https://hipertextual.com/videojuegos/steam-machine-valve-retraso-crisis-ram/
+🗓️ 2026-02-05 • 🏷️ hipertextual.com
