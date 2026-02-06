@@ -3205,3 +3205,9 @@ https://hipertextual.com/videojuegos/steam-machine-valve-retraso-crisis-ram/
 El funcionamiento de las Zonas de Bajas Emisiones en España es un tema que suele estar en el centro de la escena por críticas de los conductores que no tienen un coche habilitado para transitar por dichas áreas, como también por los vaivene…
 https://hipertextual.com/movilidad/suspenden-16-zonas-de-bajas-emisiones-espana-cataluna/
 🗓️ 2026-02-05 • 🏷️ hipertextual.com
+
+### 2026-02-06T03:31:20.079Z
+📰 Tim Cook ya prepara su salida de Apple: “pienso mucho en quién seguirá”
+Los rumores sobre un posible retiro de Tim Cook comienzan a sonar en Apple. Desde hace meses, diversas fuentes reportan que el gigante tecnológico ya puso en marcha un plan de transición con miras a encontrar al nuevo CEO. Mientras que John…
+https://hipertextual.com/apple/tim-cook-sucesion-apple-john-ternus-ceo/
+🗓️ 2026-02-05 • 🏷️ hipertextual.com

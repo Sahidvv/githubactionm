@@ -2840,3 +2840,19 @@ https://hipertextual.com/tecnologia/youtube-ya-permite-evitar-el-doblaje-automat
 🗓️ 2026-02-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-06
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Tim Cook ya prepara su salida de Apple: “pienso mucho en quién seguirá”
+Los rumores sobre un posible retiro de Tim Cook comienzan a sonar en Apple. Desde hace meses, diversas fuentes reportan que el gigante tecnológico ya puso en marcha un plan de transición con miras a encontrar al nuevo CEO. Mientras que John…
+https://hipertextual.com/apple/tim-cook-sucesion-apple-john-ternus-ceo/
+🗓️ 2026-02-05 • 🏷️ hipertextual.com
+
+---
