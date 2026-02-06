@@ -3211,3 +3211,9 @@ https://hipertextual.com/movilidad/suspenden-16-zonas-de-bajas-emisiones-espana-
 Los rumores sobre un posible retiro de Tim Cook comienzan a sonar en Apple. Desde hace meses, diversas fuentes reportan que el gigante tecnológico ya puso en marcha un plan de transición con miras a encontrar al nuevo CEO. Mientras que John…
 https://hipertextual.com/apple/tim-cook-sucesion-apple-john-ternus-ceo/
 🗓️ 2026-02-05 • 🏷️ hipertextual.com
+
+### 2026-02-06T14:01:58.205Z
+📰 Filtración de &#8216;Avengers: Secret Wars&#8217; confirma el importante papel de este héroe de Marvel y los planes con Spider-Man
+Marvel quiere darlo todo con Avengers: Secret Wars y ofrecernos el mayor crossover de superhéroes posible. Por el momento no sabemos qué personajes aparecerán exactamente, ya que antes la compañía tiene que estrenar Avengers: Doomsday, dond…
+https://hipertextual.com/cine-television/filtracion-avengers-secret-wars-importante-papel-heroe-de-marvel-planes-spider-man/
+🗓️ 2026-02-06 • 🏷️ hipertextual.com
