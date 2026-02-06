@@ -3217,3 +3217,9 @@ https://hipertextual.com/apple/tim-cook-sucesion-apple-john-ternus-ceo/
 Marvel quiere darlo todo con Avengers: Secret Wars y ofrecernos el mayor crossover de superhéroes posible. Por el momento no sabemos qué personajes aparecerán exactamente, ya que antes la compañía tiene que estrenar Avengers: Doomsday, dond…
 https://hipertextual.com/cine-television/filtracion-avengers-secret-wars-importante-papel-heroe-de-marvel-planes-spider-man/
 🗓️ 2026-02-06 • 🏷️ hipertextual.com
+
+### 2026-02-06T19:37:39.294Z
+📰 ChatGPT prepara una red social y podría pedir tus datos biométricos
+Los rumores sobre una red social de OpenAI han vuelto a surgir, aunque en esta ocasión no son alentadores. Un reporte de Forbes afirma que los creadores de ChatGPT están considerando usar la verificación biométrica para evitar la proliferac…
+https://hipertextual.com/inteligencia-artificial/openai-red-social-verificacion-biometrica/
+🗓️ 2026-02-06 • 🏷️ hipertextual.com
