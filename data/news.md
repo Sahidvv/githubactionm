@@ -3229,3 +3229,9 @@ https://hipertextual.com/inteligencia-artificial/openai-red-social-verificacion-
 Apple te permitirá usar ChatGPT y Gemini dentro de CarPlay muy pronto. Según informa el periodista Mark Gurman, la empresa de Cupertino está trabajando en una función para hablar con los chatbots de IA a través de la interfaz del coche. La …
 https://hipertextual.com/apple/apple-carplay-integracion-chatgpt-gemini-ia/
 🗓️ 2026-02-06 • 🏷️ hipertextual.com
+
+### 2026-02-07T13:43:54.251Z
+📰 Cómo usar el bloqueo remoto de Android si pierdes o te roban el móvil
+Perder el móvil puede ser un problemón, pero que te lo roben es todavía peor. En los últimos tiempos, Android ha implementado varias funciones interesante como parte de su sistema de protección antirrobo; entre ellas, el bloqueo remoto desd…
+https://hipertextual.com/mobile/como-usar-bloqueo-remoto-android/
+🗓️ 2026-02-07 • 🏷️ hipertextual.com
