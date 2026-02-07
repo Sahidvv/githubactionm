@@ -3223,3 +3223,9 @@ https://hipertextual.com/cine-television/filtracion-avengers-secret-wars-importa
 Los rumores sobre una red social de OpenAI han vuelto a surgir, aunque en esta ocasión no son alentadores. Un reporte de Forbes afirma que los creadores de ChatGPT están considerando usar la verificación biométrica para evitar la proliferac…
 https://hipertextual.com/inteligencia-artificial/openai-red-social-verificacion-biometrica/
 🗓️ 2026-02-06 • 🏷️ hipertextual.com
+
+### 2026-02-07T03:24:40.335Z
+📰 Apple abrirá CarPlay a la IA: podrás hablar con ChatGPT y Gemini mientras conduces
+Apple te permitirá usar ChatGPT y Gemini dentro de CarPlay muy pronto. Según informa el periodista Mark Gurman, la empresa de Cupertino está trabajando en una función para hablar con los chatbots de IA a través de la interfaz del coche. La …
+https://hipertextual.com/apple/apple-carplay-integracion-chatgpt-gemini-ia/
+🗓️ 2026-02-06 • 🏷️ hipertextual.com

@@ -2856,3 +2856,19 @@ https://hipertextual.com/apple/tim-cook-sucesion-apple-john-ternus-ceo/
 🗓️ 2026-02-05 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-07
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Apple abrirá CarPlay a la IA: podrás hablar con ChatGPT y Gemini mientras conduces
+Apple te permitirá usar ChatGPT y Gemini dentro de CarPlay muy pronto. Según informa el periodista Mark Gurman, la empresa de Cupertino está trabajando en una función para hablar con los chatbots de IA a través de la interfaz del coche. La …
+https://hipertextual.com/apple/apple-carplay-integracion-chatgpt-gemini-ia/
+🗓️ 2026-02-06 • 🏷️ hipertextual.com
+
+---
