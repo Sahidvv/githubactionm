@@ -3247,3 +3247,9 @@ https://hipertextual.com/cine-television/los-10-grandes-villanos-del-cine-de-los
 La Xbox de próxima generación está avanzando a buen ritmo, después de rumores y señales bastante contradictorias sobre su futuro. Esta semana, AMD confirmó que el desarrollo de la nueva consola de Microsoft va por la senda correcta con mira…
 https://hipertextual.com/videojuegos/xbox-proxima-generacion-2027-todo-lo-que-sabemos/
 🗓️ 2026-02-08 • 🏷️ hipertextual.com
+
+### 2026-02-08T19:26:04.962Z
+📰 Tres razones para ver ‘Primate’, la brutal película de terror que se estrena ahora en España
+Primate, del director Johannes Roberts, vuelve al subgénero de animales brutales y peligrosos tan popular en el cine de terror, con un giro novedoso. Eso, al convertir la amenaza de un chimpancé contagiado de rabia en algo más que la excusa…
+https://hipertextual.com/cine-television/tres-razones-para-ver-primate-la-brutal-pelicula-de-terror-que-se-estrena-ahora-en-espana/
+🗓️ 2026-02-08 • 🏷️ hipertextual.com
