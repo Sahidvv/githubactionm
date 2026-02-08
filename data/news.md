@@ -3235,3 +3235,9 @@ https://hipertextual.com/apple/apple-carplay-integracion-chatgpt-gemini-ia/
 Perder el móvil puede ser un problemón, pero que te lo roben es todavía peor. En los últimos tiempos, Android ha implementado varias funciones interesante como parte de su sistema de protección antirrobo; entre ellas, el bloqueo remoto desd…
 https://hipertextual.com/mobile/como-usar-bloqueo-remoto-android/
 🗓️ 2026-02-07 • 🏷️ hipertextual.com
+
+### 2026-02-08T03:53:03.217Z
+📰 Los 10 grandes villanos del cine de los últimos cincuenta años
+Cuando Darth Vader hizo su primera y ya clásica aparición en Star Wars: Episodio IV-- Una nueva esperanza en 1977 sorprendió. No solo por ser un personaje con un diseño visual muy poco común para la época —armadura mecánica negra, máscara—,…
+https://hipertextual.com/cine-television/los-10-grandes-villanos-del-cine-de-los-ultimos-cincuenta-anos/
+🗓️ 2026-02-07 • 🏷️ hipertextual.com

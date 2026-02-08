@@ -2872,3 +2872,19 @@ https://hipertextual.com/apple/apple-carplay-integracion-chatgpt-gemini-ia/
 🗓️ 2026-02-06 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-08
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Los 10 grandes villanos del cine de los últimos cincuenta años
+Cuando Darth Vader hizo su primera y ya clásica aparición en Star Wars: Episodio IV-- Una nueva esperanza en 1977 sorprendió. No solo por ser un personaje con un diseño visual muy poco común para la época —armadura mecánica negra, máscara—,…
+https://hipertextual.com/cine-television/los-10-grandes-villanos-del-cine-de-los-ultimos-cincuenta-anos/
+🗓️ 2026-02-07 • 🏷️ hipertextual.com
+
+---
