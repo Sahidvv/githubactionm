@@ -3241,3 +3241,9 @@ https://hipertextual.com/mobile/como-usar-bloqueo-remoto-android/
 Cuando Darth Vader hizo su primera y ya clásica aparición en Star Wars: Episodio IV-- Una nueva esperanza en 1977 sorprendió. No solo por ser un personaje con un diseño visual muy poco común para la época —armadura mecánica negra, máscara—,…
 https://hipertextual.com/cine-television/los-10-grandes-villanos-del-cine-de-los-ultimos-cincuenta-anos/
 🗓️ 2026-02-07 • 🏷️ hipertextual.com
+
+### 2026-02-08T13:45:48.232Z
+📰 Todo lo que sabemos de la nueva Xbox que llegaría en 2027: características, fecha de lanzamiento y más
+La Xbox de próxima generación está avanzando a buen ritmo, después de rumores y señales bastante contradictorias sobre su futuro. Esta semana, AMD confirmó que el desarrollo de la nueva consola de Microsoft va por la senda correcta con mira…
+https://hipertextual.com/videojuegos/xbox-proxima-generacion-2027-todo-lo-que-sabemos/
+🗓️ 2026-02-08 • 🏷️ hipertextual.com
