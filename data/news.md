@@ -3265,3 +3265,9 @@ https://www.muycomputer.com/2026/02/08/los-mejores-contenidos-de-la-semana-en-mu
 Las primeras informaciones decían que PS6 iba a contar con 24 GB de memoria unificada, una información que venía de fuentes tan fiables como Digital Foundry, y se basaba en un argumento muy claro y directo: esta cantidad sería suficiente pa…
 https://www.muycomputer.com/2026/02/09/ps6-tendra-mas-memoria-de-lo-esperado-pero-sera-suficiente/
 🗓️ 2026-02-09 • 🏷️ muycomputer.com
+
+### 2026-02-09T20:01:22.624Z
+📰 15 series españolas geniales que llegan este año (y dónde verlas)
+El año 2025, sorprendió por la cantidad, variedad y calidad de series de factura española. De la popular Pubertat, a Anatomía de una escena, pasando por la durísima Furia. Lo cierto es que hubo opciones para todos los gustos, que se disting…
+https://hipertextual.com/cine-television/15-series-espanolas-geniales-que-llegan-este-ano-y-donde-verlas/
+🗓️ 2026-02-09 • 🏷️ hipertextual.com
