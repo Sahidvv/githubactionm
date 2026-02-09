@@ -3253,3 +3253,9 @@ https://hipertextual.com/videojuegos/xbox-proxima-generacion-2027-todo-lo-que-sa
 Primate, del director Johannes Roberts, vuelve al subgénero de animales brutales y peligrosos tan popular en el cine de terror, con un giro novedoso. Eso, al convertir la amenaza de un chimpancé contagiado de rabia en algo más que la excusa…
 https://hipertextual.com/cine-television/tres-razones-para-ver-primate-la-brutal-pelicula-de-terror-que-se-estrena-ahora-en-espana/
 🗓️ 2026-02-08 • 🏷️ hipertextual.com
+
+### 2026-02-09T03:42:27.420Z
+📰 Los mejores contenidos de la semana en MuyComputer (DX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: DirectX, ¿Cómo actualizar las librerías imprescindi…
+https://www.muycomputer.com/2026/02/08/los-mejores-contenidos-de-la-semana-en-muycomputer-dx/
+🗓️ 2026-02-08 • 🏷️ muycomputer.com

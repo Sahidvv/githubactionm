@@ -2888,3 +2888,19 @@ https://hipertextual.com/cine-television/los-10-grandes-villanos-del-cine-de-los
 🗓️ 2026-02-07 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-09
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: DirectX, ¿Cómo actualizar las librerías imprescindi…
+https://www.muycomputer.com/2026/02/08/los-mejores-contenidos-de-la-semana-en-muycomputer-dx/
+🗓️ 2026-02-08 • 🏷️ muycomputer.com
+
+---
