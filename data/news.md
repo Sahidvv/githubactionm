@@ -3259,3 +3259,9 @@ https://hipertextual.com/cine-television/tres-razones-para-ver-primate-la-brutal
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: DirectX, ¿Cómo actualizar las librerías imprescindi…
 https://www.muycomputer.com/2026/02/08/los-mejores-contenidos-de-la-semana-en-muycomputer-dx/
 🗓️ 2026-02-08 • 🏷️ muycomputer.com
+
+### 2026-02-09T14:14:20.401Z
+📰 PS6 tendrá más memoria de lo esperado, ¿pero será suficiente?
+Las primeras informaciones decían que PS6 iba a contar con 24 GB de memoria unificada, una información que venía de fuentes tan fiables como Digital Foundry, y se basaba en un argumento muy claro y directo: esta cantidad sería suficiente pa…
+https://www.muycomputer.com/2026/02/09/ps6-tendra-mas-memoria-de-lo-esperado-pero-sera-suficiente/
+🗓️ 2026-02-09 • 🏷️ muycomputer.com
