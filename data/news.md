@@ -3283,3 +3283,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-ya-muestra-anuncios-en-
 A falta de exactamente un mes para su estreno, Netflix acaba de lanzar el nuevo y esperado tráiler de la temporada 2 del live-action de One Piece. La serie continuará con la adaptación del querido manga de Eiichiro Oda, expandiendo como nun…
 https://hipertextual.com/cine-television/impresionante-trailer-one-piece-live-action-netflix-nueva-forma-chopper/
 🗓️ 2026-02-10 • 🏷️ hipertextual.com
+
+### 2026-02-10T19:59:09.459Z
+📰 3 libros de ciencia ficción de 2026 que necesitan convertirse en película cuanto antes
+La ciencia ficción es uno de los grandes géneros del cine y razones no faltan. No solo es fundacional en toda su historia. Como lo demuestra la obra de Georges Méliès. También, que además, uno de los que ha permitido el mayor número de inno…
+https://hipertextual.com/cine-television/3-libros-de-ciencia-ficcion-de-2026-que-necesitan-convertirse-en-pelicula-cuanto-antes/
+🗓️ 2026-02-10 • 🏷️ hipertextual.com
