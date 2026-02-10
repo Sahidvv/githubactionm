@@ -2904,3 +2904,19 @@ https://www.muycomputer.com/2026/02/08/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-02-08 • 🏷️ muycomputer.com
 
 ---
+## 2026-02-10
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ChatGPT ya muestra anuncios en tus chats, te guste o no
+Solo era cuestión de tiempo para que ChatGPT empezara a mostrar anuncios en tus chats, y el momento ha llegado. Este lunes, OpenAI puso en marcha el despliegue de publicidades en su popular chatbot de inteligencia artificial. Una medida que…
+https://hipertextual.com/inteligencia-artificial/chatgpt-ya-muestra-anuncios-en-tus-chats/
+🗓️ 2026-02-09 • 🏷️ hipertextual.com
+
+---

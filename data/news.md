@@ -3271,3 +3271,9 @@ https://www.muycomputer.com/2026/02/09/ps6-tendra-mas-memoria-de-lo-esperado-per
 El año 2025, sorprendió por la cantidad, variedad y calidad de series de factura española. De la popular Pubertat, a Anatomía de una escena, pasando por la durísima Furia. Lo cierto es que hubo opciones para todos los gustos, que se disting…
 https://hipertextual.com/cine-television/15-series-espanolas-geniales-que-llegan-este-ano-y-donde-verlas/
 🗓️ 2026-02-09 • 🏷️ hipertextual.com
+
+### 2026-02-10T03:49:44.070Z
+📰 ChatGPT ya muestra anuncios en tus chats, te guste o no
+Solo era cuestión de tiempo para que ChatGPT empezara a mostrar anuncios en tus chats, y el momento ha llegado. Este lunes, OpenAI puso en marcha el despliegue de publicidades en su popular chatbot de inteligencia artificial. Una medida que…
+https://hipertextual.com/inteligencia-artificial/chatgpt-ya-muestra-anuncios-en-tus-chats/
+🗓️ 2026-02-09 • 🏷️ hipertextual.com
