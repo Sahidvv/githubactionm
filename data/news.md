@@ -3277,3 +3277,9 @@ https://hipertextual.com/cine-television/15-series-espanolas-geniales-que-llegan
 Solo era cuestión de tiempo para que ChatGPT empezara a mostrar anuncios en tus chats, y el momento ha llegado. Este lunes, OpenAI puso en marcha el despliegue de publicidades en su popular chatbot de inteligencia artificial. Una medida que…
 https://hipertextual.com/inteligencia-artificial/chatgpt-ya-muestra-anuncios-en-tus-chats/
 🗓️ 2026-02-09 • 🏷️ hipertextual.com
+
+### 2026-02-10T14:21:27.876Z
+📰 Impresionante tráiler del live-action de &#8216;One Piece&#8217; de Netflix con una nueva forma de Chopper
+A falta de exactamente un mes para su estreno, Netflix acaba de lanzar el nuevo y esperado tráiler de la temporada 2 del live-action de One Piece. La serie continuará con la adaptación del querido manga de Eiichiro Oda, expandiendo como nun…
+https://hipertextual.com/cine-television/impresionante-trailer-one-piece-live-action-netflix-nueva-forma-chopper/
+🗓️ 2026-02-10 • 🏷️ hipertextual.com
