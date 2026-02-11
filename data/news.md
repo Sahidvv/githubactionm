@@ -3301,3 +3301,9 @@ https://hipertextual.com/internet/facebook-animar-foto-perfil-meta-ai/
 Si comparamos el diseño de Ada Wong en Resident Evil 4 original y en el remake nos damos cuenta de que las diferencias son muy grandes. En el juego original este personaje lleva un vestido largo con una falda muy abierta y tacones, una vest…
 https://www.muycomputer.com/2026/02/11/ada-wong-sufrio-una-censura-ridicula-en-resident-evil-4-remake-asi-iba-a-ser-originalmente/
 🗓️ 2026-02-11 • 🏷️ muycomputer.com
+
+### 2026-02-11T19:54:29.555Z
+📰 Microsoft corrige una vulnerabilidad crítica del Bloc de Notas en Windows 11: actualiza ahora
+Por increíble que parezca, el Bloc de notas de Windows 11 estuvo a merced de una vulnerabilidad crítica que pudo permitir la ejecución remota de código por parte de un actor malicioso. Afortunadamente, la brecha de seguridad fue resuelta po…
+https://hipertextual.com/software/bloc-de-notas-vulnerabilidad-windows-11/
+🗓️ 2026-02-11 • 🏷️ hipertextual.com
