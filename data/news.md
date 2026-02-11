@@ -3295,3 +3295,9 @@ https://hipertextual.com/cine-television/3-libros-de-ciencia-ficcion-de-2026-que
 Meta acaba de lanzar una nueva función para Facebook que permitirá transformar tu foto de perfil en un video animado. La compañía anunció que usará la IA de Meta AI para convertir imágenes estáticas en animaciones, las cuales podrán usarse …
 https://hipertextual.com/internet/facebook-animar-foto-perfil-meta-ai/
 🗓️ 2026-02-10 • 🏷️ hipertextual.com
+
+### 2026-02-11T14:15:37.194Z
+📰 Ada Wong sufrió una censura ridícula en Resident Evil 4 Remake: así iba a ser originalmente
+Si comparamos el diseño de Ada Wong en Resident Evil 4 original y en el remake nos damos cuenta de que las diferencias son muy grandes. En el juego original este personaje lleva un vestido largo con una falda muy abierta y tacones, una vest…
+https://www.muycomputer.com/2026/02/11/ada-wong-sufrio-una-censura-ridicula-en-resident-evil-4-remake-asi-iba-a-ser-originalmente/
+🗓️ 2026-02-11 • 🏷️ muycomputer.com
