@@ -3289,3 +3289,9 @@ https://hipertextual.com/cine-television/impresionante-trailer-one-piece-live-ac
 La ciencia ficción es uno de los grandes géneros del cine y razones no faltan. No solo es fundacional en toda su historia. Como lo demuestra la obra de Georges Méliès. También, que además, uno de los que ha permitido el mayor número de inno…
 https://hipertextual.com/cine-television/3-libros-de-ciencia-ficcion-de-2026-que-necesitan-convertirse-en-pelicula-cuanto-antes/
 🗓️ 2026-02-10 • 🏷️ hipertextual.com
+
+### 2026-02-11T03:47:18.376Z
+📰 Facebook ya permite convertir tu foto de perfil en una animación con ayuda de la IA
+Meta acaba de lanzar una nueva función para Facebook que permitirá transformar tu foto de perfil en un video animado. La compañía anunció que usará la IA de Meta AI para convertir imágenes estáticas en animaciones, las cuales podrán usarse …
+https://hipertextual.com/internet/facebook-animar-foto-perfil-meta-ai/
+🗓️ 2026-02-10 • 🏷️ hipertextual.com

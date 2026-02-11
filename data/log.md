@@ -2920,3 +2920,19 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-ya-muestra-anuncios-en-
 🗓️ 2026-02-09 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-11
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Facebook ya permite convertir tu foto de perfil en una animación con ayuda de la IA
+Meta acaba de lanzar una nueva función para Facebook que permitirá transformar tu foto de perfil en un video animado. La compañía anunció que usará la IA de Meta AI para convertir imágenes estáticas en animaciones, las cuales podrán usarse …
+https://hipertextual.com/internet/facebook-animar-foto-perfil-meta-ai/
+🗓️ 2026-02-10 • 🏷️ hipertextual.com
+
+---
