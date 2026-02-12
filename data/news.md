@@ -3319,3 +3319,9 @@ https://hipertextual.com/apple/ios-26-3-novedades-iphone-android-rcs/
 Microsoft ha introducido mejoras importantes en aplicaciones clásicas tan básicas como Paint y el Bloc de Notas. Esto ha tenido un efecto positivo, ya que ha mejorado sus prestaciones y la experiencia de uso, pero también tiene un lado posi…
 https://www.muycomputer.com/2026/02/12/microsoft-ha-mejorado-tanto-el-bloc-de-notas-de-windows-11-que-lo-ha-hecho-vulnerable-a-malware-y-a-ciberataques/
 🗓️ 2026-02-12 • 🏷️ muycomputer.com
+
+### 2026-02-12T19:49:21.509Z
+📰 Google lanza una IA que piensa antes de responder y resuelve problemas científicos
+Google ha lanzado una nueva versión de su modelo de razonamiento más potente. El gigante tecnológico anunció que Gemini 3 Deep Think se actualizará para resolver problemas científicos, de investigación y de ingeniería. En las primeras prueb…
+https://hipertextual.com/inteligencia-artificial/gemini-3-deep-think-razonamiento-avanzado-google/
+🗓️ 2026-02-12 • 🏷️ hipertextual.com
