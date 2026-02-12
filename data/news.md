@@ -3313,3 +3313,9 @@ https://hipertextual.com/software/bloc-de-notas-vulnerabilidad-windows-11/
 A unas semanas de lanzar una actualización que ofrecía compatibilidad con el nuevo AirTag, Apple vuelve a la carga. Los de Cupertino han lanzado oficialmente iOS 26.3 para el iPhone, una versión que permite una mayor interoperabilidad con d…
 https://hipertextual.com/apple/ios-26-3-novedades-iphone-android-rcs/
 🗓️ 2026-02-11 • 🏷️ hipertextual.com
+
+### 2026-02-12T14:10:44.496Z
+📰 Microsoft ha mejorado tanto el Bloc de Notas de Windows 11 que lo ha hecho vulnerable a malware y a ciberataques
+Microsoft ha introducido mejoras importantes en aplicaciones clásicas tan básicas como Paint y el Bloc de Notas. Esto ha tenido un efecto positivo, ya que ha mejorado sus prestaciones y la experiencia de uso, pero también tiene un lado posi…
+https://www.muycomputer.com/2026/02/12/microsoft-ha-mejorado-tanto-el-bloc-de-notas-de-windows-11-que-lo-ha-hecho-vulnerable-a-malware-y-a-ciberataques/
+🗓️ 2026-02-12 • 🏷️ muycomputer.com
