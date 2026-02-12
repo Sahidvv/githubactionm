@@ -2936,3 +2936,19 @@ https://hipertextual.com/internet/facebook-animar-foto-perfil-meta-ai/
 🗓️ 2026-02-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-12
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Apple lanza iOS 26.3: ahora es más fácil abandonar el iPhone y pasarse a Android
+A unas semanas de lanzar una actualización que ofrecía compatibilidad con el nuevo AirTag, Apple vuelve a la carga. Los de Cupertino han lanzado oficialmente iOS 26.3 para el iPhone, una versión que permite una mayor interoperabilidad con d…
+https://hipertextual.com/apple/ios-26-3-novedades-iphone-android-rcs/
+🗓️ 2026-02-11 • 🏷️ hipertextual.com
+
+---

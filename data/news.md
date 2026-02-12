@@ -3307,3 +3307,9 @@ https://www.muycomputer.com/2026/02/11/ada-wong-sufrio-una-censura-ridicula-en-r
 Por increíble que parezca, el Bloc de notas de Windows 11 estuvo a merced de una vulnerabilidad crítica que pudo permitir la ejecución remota de código por parte de un actor malicioso. Afortunadamente, la brecha de seguridad fue resuelta po…
 https://hipertextual.com/software/bloc-de-notas-vulnerabilidad-windows-11/
 🗓️ 2026-02-11 • 🏷️ hipertextual.com
+
+### 2026-02-12T03:42:45.036Z
+📰 Apple lanza iOS 26.3: ahora es más fácil abandonar el iPhone y pasarse a Android
+A unas semanas de lanzar una actualización que ofrecía compatibilidad con el nuevo AirTag, Apple vuelve a la carga. Los de Cupertino han lanzado oficialmente iOS 26.3 para el iPhone, una versión que permite una mayor interoperabilidad con d…
+https://hipertextual.com/apple/ios-26-3-novedades-iphone-android-rcs/
+🗓️ 2026-02-11 • 🏷️ hipertextual.com
