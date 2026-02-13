@@ -3331,3 +3331,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-3-deep-think-razonamient
 El Pixel 10a es uno de los móviles de 2026 que apunta a superventas y las filtraciones respecto de sus características no se detienen. Hoy no solo conocimos al detalle sus diferentes colores, sino que también ha salido a la luz un detalle b…
 https://hipertextual.com/mobile/pixel-10a-bateria-autonomia-una-sola-carga/
 🗓️ 2026-02-12 • 🏷️ hipertextual.com
+
+### 2026-02-13T14:02:08.463Z
+📰 Corsair toma medidas para evitar las estafas con memorias DDR5
+El aumento del precio de la memoria DDR5 ha disparado los casos de estafas, un problema que Corsair tiene perfectamente identificado, y al que la compañía estadounidense ya ha empezado a hacer frente de una manera tan sencilla como efectiva…
+https://www.muycomputer.com/2026/02/13/corsair-toma-medidas-para-evitar-las-estafas-con-memorias-ddr5/
+🗓️ 2026-02-13 • 🏷️ muycomputer.com
