@@ -3325,3 +3325,9 @@ https://www.muycomputer.com/2026/02/12/microsoft-ha-mejorado-tanto-el-bloc-de-no
 Google ha lanzado una nueva versión de su modelo de razonamiento más potente. El gigante tecnológico anunció que Gemini 3 Deep Think se actualizará para resolver problemas científicos, de investigación y de ingeniería. En las primeras prueb…
 https://hipertextual.com/inteligencia-artificial/gemini-3-deep-think-razonamiento-avanzado-google/
 🗓️ 2026-02-12 • 🏷️ hipertextual.com
+
+### 2026-02-13T03:39:34.278Z
+📰 ¿Sorpresa con la batería del Pixel 10a? Su autonomía va a dar que hablar
+El Pixel 10a es uno de los móviles de 2026 que apunta a superventas y las filtraciones respecto de sus características no se detienen. Hoy no solo conocimos al detalle sus diferentes colores, sino que también ha salido a la luz un detalle b…
+https://hipertextual.com/mobile/pixel-10a-bateria-autonomia-una-sola-carga/
+🗓️ 2026-02-12 • 🏷️ hipertextual.com

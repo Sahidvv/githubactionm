@@ -2952,3 +2952,19 @@ https://hipertextual.com/apple/ios-26-3-novedades-iphone-android-rcs/
 🗓️ 2026-02-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-13
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Sorpresa con la batería del Pixel 10a? Su autonomía va a dar que hablar
+El Pixel 10a es uno de los móviles de 2026 que apunta a superventas y las filtraciones respecto de sus características no se detienen. Hoy no solo conocimos al detalle sus diferentes colores, sino que también ha salido a la luz un detalle b…
+https://hipertextual.com/mobile/pixel-10a-bateria-autonomia-una-sola-carga/
+🗓️ 2026-02-12 • 🏷️ hipertextual.com
+
+---
