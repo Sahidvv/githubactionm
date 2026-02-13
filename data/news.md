@@ -3337,3 +3337,9 @@ https://hipertextual.com/mobile/pixel-10a-bateria-autonomia-una-sola-carga/
 El aumento del precio de la memoria DDR5 ha disparado los casos de estafas, un problema que Corsair tiene perfectamente identificado, y al que la compañía estadounidense ya ha empezado a hacer frente de una manera tan sencilla como efectiva…
 https://www.muycomputer.com/2026/02/13/corsair-toma-medidas-para-evitar-las-estafas-con-memorias-ddr5/
 🗓️ 2026-02-13 • 🏷️ muycomputer.com
+
+### 2026-02-13T19:41:53.568Z
+📰 Google critica el plan de Europa para adoptar el software libre: «Sería contraproducente»
+Google ha criticado las intenciones de la Unión Europea por conseguir la soberanía digital a través del software libre. La compañía advirtió que las políticas de Bruselas, destinadas a reducir la dependencia de las tecnológicas estadouniden…
+https://hipertextual.com/economia-empresas/google-advierte-ue-soberania-digital-software-libre/
+🗓️ 2026-02-13 • 🏷️ hipertextual.com
