@@ -2968,3 +2968,19 @@ https://hipertextual.com/mobile/pixel-10a-bateria-autonomia-una-sola-carga/
 🗓️ 2026-02-12 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-14
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Ni fracaso ni récord: Apple revela cuántos iPhone usan iOS 26
+Apple ha publicado las cifras de adopción de iOS 26, el primer reporte desde su lanzamiento en septiembre de 2025. Según los datos medidos a través de la App Store, el 74% de los iPhone lanzados en los últimos cuatro años ya ejecutan la últ…
+https://hipertextual.com/apple/ni-fracaso-ni-record-apple-revela-cuantos-iphone-usan-ios-26/
+🗓️ 2026-02-13 • 🏷️ hipertextual.com
+
+---

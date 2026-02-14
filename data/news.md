@@ -3343,3 +3343,9 @@ https://www.muycomputer.com/2026/02/13/corsair-toma-medidas-para-evitar-las-esta
 Google ha criticado las intenciones de la Unión Europea por conseguir la soberanía digital a través del software libre. La compañía advirtió que las políticas de Bruselas, destinadas a reducir la dependencia de las tecnológicas estadouniden…
 https://hipertextual.com/economia-empresas/google-advierte-ue-soberania-digital-software-libre/
 🗓️ 2026-02-13 • 🏷️ hipertextual.com
+
+### 2026-02-14T03:27:39.646Z
+📰 Ni fracaso ni récord: Apple revela cuántos iPhone usan iOS 26
+Apple ha publicado las cifras de adopción de iOS 26, el primer reporte desde su lanzamiento en septiembre de 2025. Según los datos medidos a través de la App Store, el 74% de los iPhone lanzados en los últimos cuatro años ya ejecutan la últ…
+https://hipertextual.com/apple/ni-fracaso-ni-record-apple-revela-cuantos-iphone-usan-ios-26/
+🗓️ 2026-02-13 • 🏷️ hipertextual.com
