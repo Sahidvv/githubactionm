@@ -3355,3 +3355,9 @@ https://hipertextual.com/apple/ni-fracaso-ni-record-apple-revela-cuantos-iphone-
 Enviar fotos, vídeos o cualquier otro tipo de archivo entre móviles suele ser más complicado de lo que debería. AirDrop es la opción por excelencia en los dispositivos de Apple, pero a menudo falla o es demasiado lenta. En Android tenemos Q…
 https://hipertextual.com/tecnologia/ni-whatsapp-ni-telegram-ni-airdrop-esta-app-desconocida-es-la-mejor-para-pasar-fotos-es-rapidisima/
 🗓️ 2026-02-14 • 🏷️ hipertextual.com
+
+### 2026-02-14T19:24:43.363Z
+📰 Las 7 peores secuelas del cine contemporáneo
+Desde que Georges Méliès filmó la primera película del cine, el séptimo arte se enfrenta a un dilema. Ser original. O al menos, tener la capacidad de contar historias que, sin ser del todo desconocidas o sorprendentes, sean capaces de cauti…
+https://hipertextual.com/cine-television/las-7-peores-secuelas-del-cine-contemporaneo/
+🗓️ 2026-02-14 • 🏷️ hipertextual.com
