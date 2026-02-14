@@ -3349,3 +3349,9 @@ https://hipertextual.com/economia-empresas/google-advierte-ue-soberania-digital-
 Apple ha publicado las cifras de adopción de iOS 26, el primer reporte desde su lanzamiento en septiembre de 2025. Según los datos medidos a través de la App Store, el 74% de los iPhone lanzados en los últimos cuatro años ya ejecutan la últ…
 https://hipertextual.com/apple/ni-fracaso-ni-record-apple-revela-cuantos-iphone-usan-ios-26/
 🗓️ 2026-02-13 • 🏷️ hipertextual.com
+
+### 2026-02-14T13:45:03.515Z
+📰 Ni WhatsApp, ni Telegram, ni AirDrop: esta app desconocida es la mejor para pasar fotos (es rapidísima)
+Enviar fotos, vídeos o cualquier otro tipo de archivo entre móviles suele ser más complicado de lo que debería. AirDrop es la opción por excelencia en los dispositivos de Apple, pero a menudo falla o es demasiado lenta. En Android tenemos Q…
+https://hipertextual.com/tecnologia/ni-whatsapp-ni-telegram-ni-airdrop-esta-app-desconocida-es-la-mejor-para-pasar-fotos-es-rapidisima/
+🗓️ 2026-02-14 • 🏷️ hipertextual.com
