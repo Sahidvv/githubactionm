@@ -3367,3 +3367,9 @@ https://hipertextual.com/cine-television/las-7-peores-secuelas-del-cine-contempo
 Discord es una de las plataformas más usadas del mundo. Si bien no es la más segura o confiable, millones la utilizan para comunicarse a diario y poco a poco se ha convertido en un reemplazo de los viejos foros de la web. Lamentablemente, e…
 https://hipertextual.com/internet/spacebar-alternativa-software-libre-discord/
 🗓️ 2026-02-14 • 🏷️ hipertextual.com
+
+### 2026-02-15T13:46:53.980Z
+📰 ‘El asesino de TikTok’: así es el nuevo true crime de Netflix que cuenta la historia del asesino en serie español
+Netflix estrenará en marzo un nuevo true crime y esta vez, uno que toca de cerca a España. Se trata del caso de José Jurado Montilla, mucho más conocido por su user en la plataforma TikTok, Dinamita Montilla. El creador de contenido se hizo…
+https://hipertextual.com/cine-television/el-asesino-de-tiktok-asi-es-el-nuevo-true-crime-de-netflix-que-cuenta-la-historia-del-asesino-en-serie-espanol/
+🗓️ 2026-02-15 • 🏷️ hipertextual.com
