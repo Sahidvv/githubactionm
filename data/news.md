@@ -3361,3 +3361,9 @@ https://hipertextual.com/tecnologia/ni-whatsapp-ni-telegram-ni-airdrop-esta-app-
 Desde que Georges Méliès filmó la primera película del cine, el séptimo arte se enfrenta a un dilema. Ser original. O al menos, tener la capacidad de contar historias que, sin ser del todo desconocidas o sorprendentes, sean capaces de cauti…
 https://hipertextual.com/cine-television/las-7-peores-secuelas-del-cine-contemporaneo/
 🗓️ 2026-02-14 • 🏷️ hipertextual.com
+
+### 2026-02-15T03:41:26.388Z
+📰 La alternativa de software libre a Discord ya existe: así es Spacebar
+Discord es una de las plataformas más usadas del mundo. Si bien no es la más segura o confiable, millones la utilizan para comunicarse a diario y poco a poco se ha convertido en un reemplazo de los viejos foros de la web. Lamentablemente, e…
+https://hipertextual.com/internet/spacebar-alternativa-software-libre-discord/
+🗓️ 2026-02-14 • 🏷️ hipertextual.com

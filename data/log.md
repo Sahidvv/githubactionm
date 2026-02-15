@@ -2984,3 +2984,19 @@ https://hipertextual.com/apple/ni-fracaso-ni-record-apple-revela-cuantos-iphone-
 🗓️ 2026-02-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-15
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La alternativa de software libre a Discord ya existe: así es Spacebar
+Discord es una de las plataformas más usadas del mundo. Si bien no es la más segura o confiable, millones la utilizan para comunicarse a diario y poco a poco se ha convertido en un reemplazo de los viejos foros de la web. Lamentablemente, e…
+https://hipertextual.com/internet/spacebar-alternativa-software-libre-discord/
+🗓️ 2026-02-14 • 🏷️ hipertextual.com
+
+---
