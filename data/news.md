@@ -3373,3 +3373,9 @@ https://hipertextual.com/internet/spacebar-alternativa-software-libre-discord/
 Netflix estrenará en marzo un nuevo true crime y esta vez, uno que toca de cerca a España. Se trata del caso de José Jurado Montilla, mucho más conocido por su user en la plataforma TikTok, Dinamita Montilla. El creador de contenido se hizo…
 https://hipertextual.com/cine-television/el-asesino-de-tiktok-asi-es-el-nuevo-true-crime-de-netflix-que-cuenta-la-historia-del-asesino-en-serie-espanol/
 🗓️ 2026-02-15 • 🏷️ hipertextual.com
+
+### 2026-02-15T19:25:54.961Z
+📰 Cuidado con las reviews por IA de Google
+Google lleva tiempo impulsando una transformación profunda en su buscador, apoyándose en inteligencia artificial para ofrecer respuestas más directas y resumidas a través de los llamados AI Overviews, que llegaron a España el pasado mes de …
+https://www.muycomputer.com/2026/02/15/cuidado-con-las-reviews-por-ia-de-google/
+🗓️ 2026-02-15 • 🏷️ muycomputer.com
