@@ -3000,3 +3000,19 @@ https://hipertextual.com/internet/spacebar-alternativa-software-libre-discord/
 🗓️ 2026-02-14 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-16
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Los mejores anuncios de la Super Bowl 2026 y el sho…
+https://www.muycomputer.com/2026/02/15/los-mejores-contenidos-de-la-semana-en-muycomputer-dxi/
+🗓️ 2026-02-15 • 🏷️ muycomputer.com
+
+---
