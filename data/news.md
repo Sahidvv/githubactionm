@@ -3391,3 +3391,9 @@ https://www.muycomputer.com/2026/02/15/los-mejores-contenidos-de-la-semana-en-mu
 AMD confirmó que la APU Magnus que utilizará Xbox Next estará lista para permitir el lanzamiento de la consola en 2027. Si leemos entre líneas este comentario implica también que la arquitectura RDNA 5 estará lista para 2027, y que por tant…
 https://www.muycomputer.com/2026/02/16/radeon-rx-10000-especificaciones-rendimiento-equivalencias-graficas-y-fecha-de-lanzamiento/
 🗓️ 2026-02-16 • 🏷️ muycomputer.com
+
+### 2026-02-16T19:31:52.408Z
+📰 Muere Robert Duvall a los 95 años: adiós al actor de &#8216;El Padrino&#8217;
+Robert Duvall, el reconocido actor que interpretó a Tom Hangen en El Padrino y al coronel Kilgore en Apocalypse Now, murió a los 95 años. Según Variety, el actor murió de causas naturales en su casa de California. Con su pérdida desaparece …
+https://hipertextual.com/cine-television/muere-robert-duvall-95-anos-actor-padrino/
+🗓️ 2026-02-16 • 🏷️ hipertextual.com
