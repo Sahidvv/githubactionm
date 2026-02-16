@@ -3385,3 +3385,9 @@ https://www.muycomputer.com/2026/02/15/cuidado-con-las-reviews-por-ia-de-google/
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Los mejores anuncios de la Super Bowl 2026 y el sho…
 https://www.muycomputer.com/2026/02/15/los-mejores-contenidos-de-la-semana-en-muycomputer-dxi/
 🗓️ 2026-02-15 • 🏷️ muycomputer.com
+
+### 2026-02-16T14:05:16.163Z
+📰 Radeon RX 10000: especificaciones, rendimiento, equivalencias gráficas y fecha de lanzamiento
+AMD confirmó que la APU Magnus que utilizará Xbox Next estará lista para permitir el lanzamiento de la consola en 2027. Si leemos entre líneas este comentario implica también que la arquitectura RDNA 5 estará lista para 2027, y que por tant…
+https://www.muycomputer.com/2026/02/16/radeon-rx-10000-especificaciones-rendimiento-equivalencias-graficas-y-fecha-de-lanzamiento/
+🗓️ 2026-02-16 • 🏷️ muycomputer.com
