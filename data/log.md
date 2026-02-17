@@ -3016,3 +3016,19 @@ https://www.muycomputer.com/2026/02/15/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-02-15 • 🏷️ muycomputer.com
 
 ---
+## 2026-02-17
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 SpaceX quiere desarrollar drones autónomos para el ejército de EE. UU.
+Elon Musk ha seguido los pasos de Mark Zuckerberg y decidió entrar en la carrera por construir armamento con IA. Según Bloomberg, SpaceX participará en una competición secreta del Pentágono diseñada para elegir software de drones autónomos.…
+https://hipertextual.com/tecnologia/spacex-drones-autonomos-pentagono-ejercito/
+🗓️ 2026-02-16 • 🏷️ hipertextual.com
+
+---

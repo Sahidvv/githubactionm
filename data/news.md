@@ -3397,3 +3397,9 @@ https://www.muycomputer.com/2026/02/16/radeon-rx-10000-especificaciones-rendimie
 Robert Duvall, el reconocido actor que interpretó a Tom Hangen en El Padrino y al coronel Kilgore en Apocalypse Now, murió a los 95 años. Según Variety, el actor murió de causas naturales en su casa de California. Con su pérdida desaparece …
 https://hipertextual.com/cine-television/muere-robert-duvall-95-anos-actor-padrino/
 🗓️ 2026-02-16 • 🏷️ hipertextual.com
+
+### 2026-02-17T03:35:17.770Z
+📰 SpaceX quiere desarrollar drones autónomos para el ejército de EE. UU.
+Elon Musk ha seguido los pasos de Mark Zuckerberg y decidió entrar en la carrera por construir armamento con IA. Según Bloomberg, SpaceX participará en una competición secreta del Pentágono diseñada para elegir software de drones autónomos.…
+https://hipertextual.com/tecnologia/spacex-drones-autonomos-pentagono-ejercito/
+🗓️ 2026-02-16 • 🏷️ hipertextual.com
