@@ -3409,3 +3409,9 @@ https://hipertextual.com/tecnologia/spacex-drones-autonomos-pentagono-ejercito/
 La presentación de los Galaxy S26 está cada vez más cerca. Se espera que Samsung anuncie sus nuevos terminales el 25 de febrero, y la verdad es que ya tenemos bastante claras sus posibles especificaciones, pero hay dudas sobre el precio de …
 https://www.muycomputer.com/2026/02/17/el-precio-de-los-galaxy-s26-en-duda-seran-mas-caros-o-costaran-lo-mismo-que-los-galaxy-s25/
 🗓️ 2026-02-17 • 🏷️ muycomputer.com
+
+### 2026-02-17T19:47:16.161Z
+📰 Anthropic lanza Claude 4.6 Sonnet: ahora programa mejor y puede usar un ordenador como tú
+Anthropic ha presentado Claude 4.6 Sonnet, la nueva versión de su modelo de IA. A unas semanas de anunciar Opus 4.6, ahora toca el turno del modelo que utilizará la mayoría de las personas en la app de Claude. La actualización incluye mejor…
+https://hipertextual.com/inteligencia-artificial/claude-4-6-sonnet-lanzamiento-anthropic/
+🗓️ 2026-02-17 • 🏷️ hipertextual.com
