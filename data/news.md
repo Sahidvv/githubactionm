@@ -3427,3 +3427,9 @@ https://hipertextual.com/apple/apple-gafas-inteligentes-airpods-camara-colgante-
 Estamos a siete días de la presentación oficial de los Galaxy S26, y con casi todos sus detalles y características filtradas y publicadas Samsung ha decidido aprovechar para revelar un «secreto» de esta nueva generación. Dicho secreto simpl…
 https://www.muycomputer.com/2026/02/18/samsung-confirma-un-secreto-a-voces-de-los-galaxy-s26/
 🗓️ 2026-02-18 • 🏷️ muycomputer.com
+
+### 2026-02-18T19:48:55.535Z
+📰 Movistar Plus+ lanza un nuevo canal con las mejores películas de la historia
+Movistar Plus+ anunció el lanzamiento de un nuevo canal dedicado a las grandes películas del cine. Conocido como Los Oscar por M+, la señal comenzará a emitirse este jueves 19 de febrero y transmitirá los grandes éxitos del séptimo arte. La…
+https://hipertextual.com/cine-television/movistar-plus-nuevo-canal-cine-oscar-2026/
+🗓️ 2026-02-18 • 🏷️ hipertextual.com
