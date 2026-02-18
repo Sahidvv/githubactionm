@@ -3421,3 +3421,9 @@ https://hipertextual.com/inteligencia-artificial/claude-4-6-sonnet-lanzamiento-a
 Apple está desarrollando tres dispositivos que aprovecharán las nuevas capacidades de IA de Siri. Según reporta Bloomberg, los de Cupertino trabajan en unas gafas inteligentes, un colgante y una nueva versión de los AirPods. Los wearables p…
 https://hipertextual.com/apple/apple-gafas-inteligentes-airpods-camara-colgante-ia/
 🗓️ 2026-02-17 • 🏷️ hipertextual.com
+
+### 2026-02-18T14:06:48.667Z
+📰 Samsung confirma un secreto a voces de los Galaxy S26
+Estamos a siete días de la presentación oficial de los Galaxy S26, y con casi todos sus detalles y características filtradas y publicadas Samsung ha decidido aprovechar para revelar un «secreto» de esta nueva generación. Dicho secreto simpl…
+https://www.muycomputer.com/2026/02/18/samsung-confirma-un-secreto-a-voces-de-los-galaxy-s26/
+🗓️ 2026-02-18 • 🏷️ muycomputer.com
