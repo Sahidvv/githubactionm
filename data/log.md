@@ -3032,3 +3032,19 @@ https://hipertextual.com/tecnologia/spacex-drones-autonomos-pentagono-ejercito/
 🗓️ 2026-02-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-18
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Ni iPhone ni Watch: Los tres nuevos inventos de Apple para que su IA pueda «ver» el mundo real
+Apple está desarrollando tres dispositivos que aprovecharán las nuevas capacidades de IA de Siri. Según reporta Bloomberg, los de Cupertino trabajan en unas gafas inteligentes, un colgante y una nueva versión de los AirPods. Los wearables p…
+https://hipertextual.com/apple/apple-gafas-inteligentes-airpods-camara-colgante-ia/
+🗓️ 2026-02-17 • 🏷️ hipertextual.com
+
+---

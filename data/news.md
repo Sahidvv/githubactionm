@@ -3415,3 +3415,9 @@ https://www.muycomputer.com/2026/02/17/el-precio-de-los-galaxy-s26-en-duda-seran
 Anthropic ha presentado Claude 4.6 Sonnet, la nueva versión de su modelo de IA. A unas semanas de anunciar Opus 4.6, ahora toca el turno del modelo que utilizará la mayoría de las personas en la app de Claude. La actualización incluye mejor…
 https://hipertextual.com/inteligencia-artificial/claude-4-6-sonnet-lanzamiento-anthropic/
 🗓️ 2026-02-17 • 🏷️ hipertextual.com
+
+### 2026-02-18T03:37:16.300Z
+📰 Ni iPhone ni Watch: Los tres nuevos inventos de Apple para que su IA pueda «ver» el mundo real
+Apple está desarrollando tres dispositivos que aprovecharán las nuevas capacidades de IA de Siri. Según reporta Bloomberg, los de Cupertino trabajan en unas gafas inteligentes, un colgante y una nueva versión de los AirPods. Los wearables p…
+https://hipertextual.com/apple/apple-gafas-inteligentes-airpods-camara-colgante-ia/
+🗓️ 2026-02-17 • 🏷️ hipertextual.com
