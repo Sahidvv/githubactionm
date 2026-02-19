@@ -3048,3 +3048,19 @@ https://hipertextual.com/apple/apple-gafas-inteligentes-airpods-camara-colgante-
 🗓️ 2026-02-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-19
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 ChatGPT y Gemini llegarán de forma nativa a CarPlay en iOS 26.4
+Apple ha liberado la beta de iOS 26.4 y con ello se ha confirmado uno de los rumores más fuertes sobre esta actualización. Tal y como se adelantó hace unos días, CarPlay ofrecerá soporte nativo para ChatGPT y otras apps de IA para comunicar…
+https://hipertextual.com/apple/ios-26-4-carplay-soporte-chatgpt-claude-gemini/
+🗓️ 2026-02-18 • 🏷️ hipertextual.com
+
+---

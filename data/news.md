@@ -3433,3 +3433,9 @@ https://www.muycomputer.com/2026/02/18/samsung-confirma-un-secreto-a-voces-de-lo
 Movistar Plus+ anunció el lanzamiento de un nuevo canal dedicado a las grandes películas del cine. Conocido como Los Oscar por M+, la señal comenzará a emitirse este jueves 19 de febrero y transmitirá los grandes éxitos del séptimo arte. La…
 https://hipertextual.com/cine-television/movistar-plus-nuevo-canal-cine-oscar-2026/
 🗓️ 2026-02-18 • 🏷️ hipertextual.com
+
+### 2026-02-19T03:36:27.719Z
+📰 ChatGPT y Gemini llegarán de forma nativa a CarPlay en iOS 26.4
+Apple ha liberado la beta de iOS 26.4 y con ello se ha confirmado uno de los rumores más fuertes sobre esta actualización. Tal y como se adelantó hace unos días, CarPlay ofrecerá soporte nativo para ChatGPT y otras apps de IA para comunicar…
+https://hipertextual.com/apple/ios-26-4-carplay-soporte-chatgpt-claude-gemini/
+🗓️ 2026-02-18 • 🏷️ hipertextual.com
