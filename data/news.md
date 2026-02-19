@@ -3445,3 +3445,9 @@ https://hipertextual.com/apple/ios-26-4-carplay-soporte-chatgpt-claude-gemini/
 Recuperar espacio en Windows es una buena manera de ahorrar en la compra de dispositivos de almacenamiento adicionales en una época donde los precios están por las nubes. Los sistemas operativos de Microsoft tienen funciones para liberar es…
 https://www.muycomputer.com/2026/02/19/asi-puedes-recuperar-espacio-en-windows-para-superar-la-crisis-de-precios/
 🗓️ 2026-02-19 • 🏷️ muycomputer.com
+
+### 2026-02-19T19:39:12.509Z
+📰 GeForce Now suma 12 juegos en plena celebración
+GeForce Now no pierde el ritmo. Semana tras semana, NVIDIA mantiene su cita con los jueves de actualizaciones y vuelve a reforzar su catálogo en la nube con una regularidad que ya forma parte de la identidad del servicio. En plena celebraci…
+https://www.muycomputer.com/2026/02/19/geforce-now-suma-12-juegos-en-plena-celebracion/
+🗓️ 2026-02-19 • 🏷️ muycomputer.com
