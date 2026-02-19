@@ -3439,3 +3439,9 @@ https://hipertextual.com/cine-television/movistar-plus-nuevo-canal-cine-oscar-20
 Apple ha liberado la beta de iOS 26.4 y con ello se ha confirmado uno de los rumores más fuertes sobre esta actualización. Tal y como se adelantó hace unos días, CarPlay ofrecerá soporte nativo para ChatGPT y otras apps de IA para comunicar…
 https://hipertextual.com/apple/ios-26-4-carplay-soporte-chatgpt-claude-gemini/
 🗓️ 2026-02-18 • 🏷️ hipertextual.com
+
+### 2026-02-19T14:08:37.454Z
+📰 Así puedes recuperar espacio en Windows para superar la crisis de precios
+Recuperar espacio en Windows es una buena manera de ahorrar en la compra de dispositivos de almacenamiento adicionales en una época donde los precios están por las nubes. Los sistemas operativos de Microsoft tienen funciones para liberar es…
+https://www.muycomputer.com/2026/02/19/asi-puedes-recuperar-espacio-en-windows-para-superar-la-crisis-de-precios/
+🗓️ 2026-02-19 • 🏷️ muycomputer.com
