@@ -3463,3 +3463,9 @@ https://hipertextual.com/internet/freedom-gov-vpn-estados-unidos-censura-europa/
 El 2026 no podía empezar mejor para HBO y HBO Max. La compañía ha arrancado el año a un ritmo inmejorable con el estreno de títulos potentísimos que han atraído a más audiencia que nunca. Y es que series como El Caballero de los Siete Reino…
 https://hipertextual.com/cine-television/hbo-imparable-nuevos-records-el-caballero-de-los-siete-reinos-y-the-pitt/
 🗓️ 2026-02-20 • 🏷️ hipertextual.com
+
+### 2026-02-20T19:36:35.818Z
+📰 Apple imagina un iPhone con funda capaz de conectarse al espacio
+Apple ha registrado una patente que podría mejorar la conectividad satelital del iPhone. Los de Cupertino se las han ingeniado para diseñar una funda extraíble que no solo protege el dispositivo, sino que integra una serie de antenas para c…
+https://hipertextual.com/apple/apple-funda-satelital-iphone-patente/
+🗓️ 2026-02-20 • 🏷️ hipertextual.com
