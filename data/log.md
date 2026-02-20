@@ -3064,3 +3064,19 @@ https://hipertextual.com/apple/ios-26-4-carplay-soporte-chatgpt-claude-gemini/
 🗓️ 2026-02-18 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-20
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Estados Unidos prepara una VPN para evadir los bloqueos en España y otros países
+El Gobierno de Estados Unidos está desarrollando una VPN para saltarse el bloqueo en Europa y otras regiones. El proyecto, conocido como freedom.gov, permitirá que los usuarios de España y otros países accedan a contenido que los gobiernos …
+https://hipertextual.com/internet/freedom-gov-vpn-estados-unidos-censura-europa/
+🗓️ 2026-02-19 • 🏷️ hipertextual.com
+
+---

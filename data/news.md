@@ -3451,3 +3451,9 @@ https://www.muycomputer.com/2026/02/19/asi-puedes-recuperar-espacio-en-windows-p
 GeForce Now no pierde el ritmo. Semana tras semana, NVIDIA mantiene su cita con los jueves de actualizaciones y vuelve a reforzar su catálogo en la nube con una regularidad que ya forma parte de la identidad del servicio. En plena celebraci…
 https://www.muycomputer.com/2026/02/19/geforce-now-suma-12-juegos-en-plena-celebracion/
 🗓️ 2026-02-19 • 🏷️ muycomputer.com
+
+### 2026-02-20T03:32:00.874Z
+📰 Estados Unidos prepara una VPN para evadir los bloqueos en España y otros países
+El Gobierno de Estados Unidos está desarrollando una VPN para saltarse el bloqueo en Europa y otras regiones. El proyecto, conocido como freedom.gov, permitirá que los usuarios de España y otros países accedan a contenido que los gobiernos …
+https://hipertextual.com/internet/freedom-gov-vpn-estados-unidos-censura-europa/
+🗓️ 2026-02-19 • 🏷️ hipertextual.com
