@@ -3457,3 +3457,9 @@ https://www.muycomputer.com/2026/02/19/geforce-now-suma-12-juegos-en-plena-celeb
 El Gobierno de Estados Unidos está desarrollando una VPN para saltarse el bloqueo en Europa y otras regiones. El proyecto, conocido como freedom.gov, permitirá que los usuarios de España y otros países accedan a contenido que los gobiernos …
 https://hipertextual.com/internet/freedom-gov-vpn-estados-unidos-censura-europa/
 🗓️ 2026-02-19 • 🏷️ hipertextual.com
+
+### 2026-02-20T14:00:40.838Z
+📰 HBO está imparable gracias a los nuevos récords de &#8216;El Caballero de los Siete Reinos&#8217; y &#8216;The Pitt&#8217;
+El 2026 no podía empezar mejor para HBO y HBO Max. La compañía ha arrancado el año a un ritmo inmejorable con el estreno de títulos potentísimos que han atraído a más audiencia que nunca. Y es que series como El Caballero de los Siete Reino…
+https://hipertextual.com/cine-television/hbo-imparable-nuevos-records-el-caballero-de-los-siete-reinos-y-the-pitt/
+🗓️ 2026-02-20 • 🏷️ hipertextual.com
