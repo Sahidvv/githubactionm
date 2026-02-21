@@ -3080,3 +3080,19 @@ https://hipertextual.com/internet/freedom-gov-vpn-estados-unidos-censura-europa/
 🗓️ 2026-02-19 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-21
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Tsunami en Xbox: Phil Spencer anuncia su retiro y la heredera al cargo renuncia por sorpresa
+Se acabó la era de Phil Spencer en Xbox. A casi 12 años de que Satya Nadella lo nombrara como jefe de la división de juegos de Microsoft, el 'Tío Phil' anunció su retiro. Si bien los rumores sobre su salida habían tomado fuerza en los últim…
+https://hipertextual.com/videojuegos/tsunami-en-xbox-phil-spencer-anuncia-su-retiro-y-la-heredera-al-cargo-renuncia-por-sorpresa/
+🗓️ 2026-02-20 • 🏷️ hipertextual.com
+
+---

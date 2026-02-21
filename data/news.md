@@ -3469,3 +3469,9 @@ https://hipertextual.com/cine-television/hbo-imparable-nuevos-records-el-caballe
 Apple ha registrado una patente que podría mejorar la conectividad satelital del iPhone. Los de Cupertino se las han ingeniado para diseñar una funda extraíble que no solo protege el dispositivo, sino que integra una serie de antenas para c…
 https://hipertextual.com/apple/apple-funda-satelital-iphone-patente/
 🗓️ 2026-02-20 • 🏷️ hipertextual.com
+
+### 2026-02-21T03:22:56.600Z
+📰 Tsunami en Xbox: Phil Spencer anuncia su retiro y la heredera al cargo renuncia por sorpresa
+Se acabó la era de Phil Spencer en Xbox. A casi 12 años de que Satya Nadella lo nombrara como jefe de la división de juegos de Microsoft, el 'Tío Phil' anunció su retiro. Si bien los rumores sobre su salida habían tomado fuerza en los últim…
+https://hipertextual.com/videojuegos/tsunami-en-xbox-phil-spencer-anuncia-su-retiro-y-la-heredera-al-cargo-renuncia-por-sorpresa/
+🗓️ 2026-02-20 • 🏷️ hipertextual.com
