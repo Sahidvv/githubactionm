@@ -3475,3 +3475,9 @@ https://hipertextual.com/apple/apple-funda-satelital-iphone-patente/
 Se acabó la era de Phil Spencer en Xbox. A casi 12 años de que Satya Nadella lo nombrara como jefe de la división de juegos de Microsoft, el 'Tío Phil' anunció su retiro. Si bien los rumores sobre su salida habían tomado fuerza en los últim…
 https://hipertextual.com/videojuegos/tsunami-en-xbox-phil-spencer-anuncia-su-retiro-y-la-heredera-al-cargo-renuncia-por-sorpresa/
 🗓️ 2026-02-20 • 🏷️ hipertextual.com
+
+### 2026-02-21T13:42:03.641Z
+📰 10 clásicos de acción que deberías ver si eres fan del género
+En 1903, el cine era un arte recién nacido. Y tal vez por eso El gran robo del tren, dirigida por Edwin S. Porter, sorprendió al escasísimo público de Nueva Jersey que disfrutó de su estreno. Eso, a pesar de su sencilla trama, que seguía a …
+https://hipertextual.com/cine-television/10-clasicos-de-accion-que-deberias-ver-si-eres-fan-del-genero/
+🗓️ 2026-02-21 • 🏷️ hipertextual.com
