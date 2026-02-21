@@ -3481,3 +3481,9 @@ https://hipertextual.com/videojuegos/tsunami-en-xbox-phil-spencer-anuncia-su-ret
 En 1903, el cine era un arte recién nacido. Y tal vez por eso El gran robo del tren, dirigida por Edwin S. Porter, sorprendió al escasísimo público de Nueva Jersey que disfrutó de su estreno. Eso, a pesar de su sencilla trama, que seguía a …
 https://hipertextual.com/cine-television/10-clasicos-de-accion-que-deberias-ver-si-eres-fan-del-genero/
 🗓️ 2026-02-21 • 🏷️ hipertextual.com
+
+### 2026-02-21T19:24:20.708Z
+📰 La IA es cada vez más inteligente, pero hay algo con lo que nunca va a poder: la estupidez humana
+Muy probablemente uses Gemini o ChatGPT a diario: para pedirle consejos, recomendaciones, resolver dudas, que te revise los deberes, los trabajos, que te cuente sobre un hecho histórico… No hay duda de que la IA es muy inteligente, y los úl…
+https://hipertextual.com/tecnologia/la-ia-es-cada-vez-mas-inteligente-pero-hay-algo-con-lo-que-nunca-va-a-poder-la-estupidez-humana/
+🗓️ 2026-02-21 • 🏷️ hipertextual.com
