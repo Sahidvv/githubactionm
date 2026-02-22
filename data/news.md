@@ -3499,3 +3499,9 @@ https://hipertextual.com/cine-television/7-peliculas-de-fantasia-raras-que-deber
 Xiaomi ha hecho un gran trabajo con HyperOS 3. Con un aspecto visual renovado, y claramente inspirado en Liquid Glass de Apple, la gran actualización de HyperOS viene cargada de novedades. Fondos dinámicos, pantalla de inicio personalizable…
 https://hipertextual.com/guias/conectividad-con-apple-xiaomi-hyperos-3/
 🗓️ 2026-02-22 • 🏷️ hipertextual.com
+
+### 2026-02-22T19:25:32.899Z
+📰 Google Maps lleva años con esta función y nadie sabe para qué sirve: es más útil de lo que crees
+Google Maps es una de las aplicaciones de Google que más funcione tiene, y no hablamos de aquellas relacionadas con la IA, sino de las que llevan años y años en la plataforma. Muchas de ellas, incluso, son desconocidas para algunos usuarios…
+https://hipertextual.com/mobile/google-maps-lleva-anos-con-esta-funcion-y-nadie-sabe-para-que-sirve-es-mas-util-de-lo-que-crees/
+🗓️ 2026-02-22 • 🏷️ hipertextual.com
