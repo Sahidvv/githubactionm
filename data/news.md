@@ -3493,3 +3493,9 @@ https://hipertextual.com/tecnologia/la-ia-es-cada-vez-mas-inteligente-pero-hay-a
 La fantasía es un género capital para entender el cine. En especial, porque desde sus comienzos, el mundo cinematográfico ha dedicado tiempo, interés y esfuerzo en crear historias asombrosas. La mayoría, poblada por lugares extraordinarios …
 https://hipertextual.com/cine-television/7-peliculas-de-fantasia-raras-que-deberias-ver/
 🗓️ 2026-02-21 • 🏷️ hipertextual.com
+
+### 2026-02-22T13:43:49.635Z
+📰 Las 5 sorpresas que esconde HyperOS 3 para conectar tu Xiaomi con un iPhone, iPad o Mac de Apple
+Xiaomi ha hecho un gran trabajo con HyperOS 3. Con un aspecto visual renovado, y claramente inspirado en Liquid Glass de Apple, la gran actualización de HyperOS viene cargada de novedades. Fondos dinámicos, pantalla de inicio personalizable…
+https://hipertextual.com/guias/conectividad-con-apple-xiaomi-hyperos-3/
+🗓️ 2026-02-22 • 🏷️ hipertextual.com
