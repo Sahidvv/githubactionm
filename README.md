@@ -89,7 +89,7 @@ Xataka, Xataka Android, Xataka Móvil, Genbeta, Hipertextual, El Español (Tecno
 
 ---
 
-> Última actualización automática: 2026-02-21
+> Última actualización automática: 2026-02-22
 
 ---
 

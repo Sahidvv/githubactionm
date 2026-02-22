@@ -3487,3 +3487,9 @@ https://hipertextual.com/cine-television/10-clasicos-de-accion-que-deberias-ver-
 Muy probablemente uses Gemini o ChatGPT a diario: para pedirle consejos, recomendaciones, resolver dudas, que te revise los deberes, los trabajos, que te cuente sobre un hecho histórico… No hay duda de que la IA es muy inteligente, y los úl…
 https://hipertextual.com/tecnologia/la-ia-es-cada-vez-mas-inteligente-pero-hay-algo-con-lo-que-nunca-va-a-poder-la-estupidez-humana/
 🗓️ 2026-02-21 • 🏷️ hipertextual.com
+
+### 2026-02-22T03:35:51.075Z
+📰 7 películas de fantasía raras que deberías ver
+La fantasía es un género capital para entender el cine. En especial, porque desde sus comienzos, el mundo cinematográfico ha dedicado tiempo, interés y esfuerzo en crear historias asombrosas. La mayoría, poblada por lugares extraordinarios …
+https://hipertextual.com/cine-television/7-peliculas-de-fantasia-raras-que-deberias-ver/
+🗓️ 2026-02-21 • 🏷️ hipertextual.com
