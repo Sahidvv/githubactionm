@@ -3505,3 +3505,9 @@ https://hipertextual.com/guias/conectividad-con-apple-xiaomi-hyperos-3/
 Google Maps es una de las aplicaciones de Google que más funcione tiene, y no hablamos de aquellas relacionadas con la IA, sino de las que llevan años y años en la plataforma. Muchas de ellas, incluso, son desconocidas para algunos usuarios…
 https://hipertextual.com/mobile/google-maps-lleva-anos-con-esta-funcion-y-nadie-sabe-para-que-sirve-es-mas-util-de-lo-que-crees/
 🗓️ 2026-02-22 • 🏷️ hipertextual.com
+
+### 2026-02-23T03:40:00.434Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo funciona una SSD y qué vida útil tiene. Pasar …
+https://www.muycomputer.com/2026/02/22/los-mejores-contenidos-de-la-semana-en-muycomputer-dxii/
+🗓️ 2026-02-22 • 🏷️ muycomputer.com

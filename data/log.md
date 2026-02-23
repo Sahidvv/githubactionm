@@ -3112,3 +3112,19 @@ https://hipertextual.com/cine-television/7-peliculas-de-fantasia-raras-que-deber
 🗓️ 2026-02-21 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-23
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo funciona una SSD y qué vida útil tiene. Pasar …
+https://www.muycomputer.com/2026/02/22/los-mejores-contenidos-de-la-semana-en-muycomputer-dxii/
+🗓️ 2026-02-22 • 🏷️ muycomputer.com
+
+---
