@@ -3511,3 +3511,9 @@ https://hipertextual.com/mobile/google-maps-lleva-anos-con-esta-funcion-y-nadie-
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo funciona una SSD y qué vida útil tiene. Pasar …
 https://www.muycomputer.com/2026/02/22/los-mejores-contenidos-de-la-semana-en-muycomputer-dxii/
 🗓️ 2026-02-22 • 🏷️ muycomputer.com
+
+### 2026-02-23T14:07:20.188Z
+📰 Intel confirma Unified Core, la vuelta a un solo tipo de núcleos CPU
+Hace casi un año os contamos que Intel estaba trabajando en lago llamado «Unified Core», y que esto podría suponer el abandono del diseño actual basado en dos tipos de núcleos que la compañía utiliza en sus CPUs de consumo, y la vuelta a un…
+https://www.muycomputer.com/2026/02/23/intel-confirma-unified-core-la-vuelta-a-un-solo-tipo-de-nucleos-cpu/
+🗓️ 2026-02-23 • 🏷️ muycomputer.com
