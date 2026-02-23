@@ -3517,3 +3517,9 @@ https://www.muycomputer.com/2026/02/22/los-mejores-contenidos-de-la-semana-en-mu
 Hace casi un año os contamos que Intel estaba trabajando en lago llamado «Unified Core», y que esto podría suponer el abandono del diseño actual basado en dos tipos de núcleos que la compañía utiliza en sus CPUs de consumo, y la vuelta a un…
 https://www.muycomputer.com/2026/02/23/intel-confirma-unified-core-la-vuelta-a-un-solo-tipo-de-nucleos-cpu/
 🗓️ 2026-02-23 • 🏷️ muycomputer.com
+
+### 2026-02-23T19:56:26.498Z
+📰 Otra marca de televisiones histórica abandona el mercado: Panasonic se alía con Skyworth y cambia de rumbo
+El mercado de las TVs ha registrado un nuevo bombazo. A unas semanas de que Sony le entregara las llaves de Bravia a TCL, otra compañía llevó a cabo un movimiento similar. Panasonic confirmó que se cerró un acuerdo con Shenzhen Skyworth Dis…
+https://hipertextual.com/tecnologia/panasonic-skyworth-alianza-televisores-europ/
+🗓️ 2026-02-23 • 🏷️ hipertextual.com
