@@ -3529,3 +3529,9 @@ https://hipertextual.com/tecnologia/panasonic-skyworth-alianza-televisores-europ
 Discord está envuelto en una polémica relacionada con sus nuevos planes de seguridad. Tras una serie de críticas, la plataforma marcó distancia con un socio de verificación de edad que implementó en una prueba piloto en Reino Unido. El rech…
 https://hipertextual.com/internet/discord-polemica-verificacion-edad-privacidad/
 🗓️ 2026-02-23 • 🏷️ hipertextual.com
+
+### 2026-02-24T14:11:20.533Z
+📰 Xiaomi mata a MIUI: su sistema operativo deja de existir después de 16 años. ¿Qué pasa con los móviles que aún lo tienen?
+Después de 16 años, y tras convertirse en una de las capas de personalización más populares del mercado, Xiaomi le dice adiós a MIUI. La interfaz pasará a mejor vida después de que el único modelo con esta versión, reciba la última actualiz…
+https://hipertextual.com/mobile/xiaomi-mata-a-miui-su-sistema-operativo-deja-de-existir-despues-de-16-anos-que-pasa-con-los-moviles-que-aun-lo-tienen/
+🗓️ 2026-02-24 • 🏷️ hipertextual.com
