@@ -3535,3 +3535,9 @@ https://hipertextual.com/internet/discord-polemica-verificacion-edad-privacidad/
 Después de 16 años, y tras convertirse en una de las capas de personalización más populares del mercado, Xiaomi le dice adiós a MIUI. La interfaz pasará a mejor vida después de que el único modelo con esta versión, reciba la última actualiz…
 https://hipertextual.com/mobile/xiaomi-mata-a-miui-su-sistema-operativo-deja-de-existir-despues-de-16-anos-que-pasa-con-los-moviles-que-aun-lo-tienen/
 🗓️ 2026-02-24 • 🏷️ hipertextual.com
+
+### 2026-02-24T19:48:12.190Z
+📰 Marvel&#8217;s Wolverine confirma su fecha de lanzamiento en PS5
+Sony ha confirmado la fecha de lanzamiento de Marvel’s Wolverine. A unos meses de que se liberara un tráiler con jugabilidad y la promesa de que lo jugaríamos en 2026, el nuevo título de Insomniac Games ya tiene día asegurado. Marvel lanzó …
+https://hipertextual.com/videojuegos/marvel-wolverine-fecha-lanzamiento-ps5-sony/
+🗓️ 2026-02-24 • 🏷️ hipertextual.com
