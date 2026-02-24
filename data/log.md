@@ -3128,3 +3128,19 @@ https://www.muycomputer.com/2026/02/22/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-02-22 • 🏷️ muycomputer.com
 
 ---
+## 2026-02-24
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Discord bajo presión por su polémico sistema de verificación de edad
+Discord está envuelto en una polémica relacionada con sus nuevos planes de seguridad. Tras una serie de críticas, la plataforma marcó distancia con un socio de verificación de edad que implementó en una prueba piloto en Reino Unido. El rech…
+https://hipertextual.com/internet/discord-polemica-verificacion-edad-privacidad/
+🗓️ 2026-02-23 • 🏷️ hipertextual.com
+
+---

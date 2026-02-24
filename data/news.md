@@ -3523,3 +3523,9 @@ https://www.muycomputer.com/2026/02/23/intel-confirma-unified-core-la-vuelta-a-u
 El mercado de las TVs ha registrado un nuevo bombazo. A unas semanas de que Sony le entregara las llaves de Bravia a TCL, otra compañía llevó a cabo un movimiento similar. Panasonic confirmó que se cerró un acuerdo con Shenzhen Skyworth Dis…
 https://hipertextual.com/tecnologia/panasonic-skyworth-alianza-televisores-europ/
 🗓️ 2026-02-23 • 🏷️ hipertextual.com
+
+### 2026-02-24T03:35:37.646Z
+📰 Discord bajo presión por su polémico sistema de verificación de edad
+Discord está envuelto en una polémica relacionada con sus nuevos planes de seguridad. Tras una serie de críticas, la plataforma marcó distancia con un socio de verificación de edad que implementó en una prueba piloto en Reino Unido. El rech…
+https://hipertextual.com/internet/discord-polemica-verificacion-edad-privacidad/
+🗓️ 2026-02-23 • 🏷️ hipertextual.com
