@@ -3144,3 +3144,19 @@ https://hipertextual.com/internet/discord-polemica-verificacion-edad-privacidad/
 🗓️ 2026-02-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-25
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Samsung presenta la nueva Bixby con IA en One UI 8.5
+Samsung no ha querido esperar a la presentación de los Galaxy S26 y decidió adelantar el anuncio de Bixby. A unos días de que se filtrara un supuesto comando que sustituye al "Ok Google", la surcoreana anunció el inicio del programa beta de…
+https://hipertextual.com/mobile/samsung-bixby-ia-galaxy-s25-s26/
+🗓️ 2026-02-24 • 🏷️ hipertextual.com
+
+---

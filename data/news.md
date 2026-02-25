@@ -3541,3 +3541,9 @@ https://hipertextual.com/mobile/xiaomi-mata-a-miui-su-sistema-operativo-deja-de-
 Sony ha confirmado la fecha de lanzamiento de Marvel’s Wolverine. A unos meses de que se liberara un tráiler con jugabilidad y la promesa de que lo jugaríamos en 2026, el nuevo título de Insomniac Games ya tiene día asegurado. Marvel lanzó …
 https://hipertextual.com/videojuegos/marvel-wolverine-fecha-lanzamiento-ps5-sony/
 🗓️ 2026-02-24 • 🏷️ hipertextual.com
+
+### 2026-02-25T03:35:19.078Z
+📰 Samsung presenta la nueva Bixby con IA en One UI 8.5
+Samsung no ha querido esperar a la presentación de los Galaxy S26 y decidió adelantar el anuncio de Bixby. A unos días de que se filtrara un supuesto comando que sustituye al "Ok Google", la surcoreana anunció el inicio del programa beta de…
+https://hipertextual.com/mobile/samsung-bixby-ia-galaxy-s25-s26/
+🗓️ 2026-02-24 • 🏷️ hipertextual.com
