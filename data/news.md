@@ -3565,3 +3565,9 @@ https://hipertextual.com/mobile/precios-samsung-galaxy-s26-mexico/
 Con la presentación de los nuevos Samsung Galaxy S26, S26+ y S26 Ultra, Google aprovechó el escenario para revelar una nueva función de Gemini que promete cambiarlo todo. Los de Mountain View anunciaron que su chatbot de IA va a incorporar …
 https://hipertextual.com/inteligencia-artificial/gemini-modo-agentico-android/
 🗓️ 2026-02-25 • 🏷️ hipertextual.com
+
+### 2026-02-26T14:09:09.083Z
+📰 ASUS confirma sus novedades para 2026
+Ayer tuvimos la oportunidad de asistir a un evento especial de ASUS en Barcelona, donde la marca realizó un resumen de las novedades más importantes que tiene previsto lanzar este año dentro de sus diferentes líneas de portátiles, y también…
+https://www.muycomputer.com/2026/02/26/asus-confirma-sus-novedades-para-2026/
+🗓️ 2026-02-26 • 🏷️ muycomputer.com
