@@ -3160,3 +3160,19 @@ https://hipertextual.com/mobile/samsung-bixby-ia-galaxy-s25-s26/
 🗓️ 2026-02-24 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-26
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Gemini logra lo que Siri no pudo: su nuevo modo agéntico toma el control de tus apps y hace todo por ti
+Con la presentación de los nuevos Samsung Galaxy S26, S26+ y S26 Ultra, Google aprovechó el escenario para revelar una nueva función de Gemini que promete cambiarlo todo. Los de Mountain View anunciaron que su chatbot de IA va a incorporar …
+https://hipertextual.com/inteligencia-artificial/gemini-modo-agentico-android/
+🗓️ 2026-02-25 • 🏷️ hipertextual.com
+
+---

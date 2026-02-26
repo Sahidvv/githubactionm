@@ -3559,3 +3559,9 @@ https://www.muycomputer.com/2026/02/25/que-servicios-de-windows-deberias-deshabi
 No hay plazo que no se cumpla y Samsung ha anunciado los nuevos Galaxy S26. La espera ha sido larga para muchos que estaban acostumbrados a recibir la esperada actualización a finales de enero. La cancelación del Galaxy S26 Edge fue suficie…
 https://hipertextual.com/mobile/precios-samsung-galaxy-s26-mexico/
 🗓️ 2026-02-25 • 🏷️ hipertextual.com
+
+### 2026-02-26T03:32:31.263Z
+📰 Gemini logra lo que Siri no pudo: su nuevo modo agéntico toma el control de tus apps y hace todo por ti
+Con la presentación de los nuevos Samsung Galaxy S26, S26+ y S26 Ultra, Google aprovechó el escenario para revelar una nueva función de Gemini que promete cambiarlo todo. Los de Mountain View anunciaron que su chatbot de IA va a incorporar …
+https://hipertextual.com/inteligencia-artificial/gemini-modo-agentico-android/
+🗓️ 2026-02-25 • 🏷️ hipertextual.com
