@@ -3589,3 +3589,9 @@ https://hipertextual.com/mobile/subida-precios-xiaomi-oppo-vivo-marzo-2026/
 Como cada viernes nos hemos lanzado a la caza de las mejores ofertas de la semana para traeros un nuevo Red Friday, todo un clásico donde encontraréis cada una de esas ofertas a un solo clic de distancia. Si os gusta algo os recomiendo que …
 https://www.muycomputer.com/2026/02/27/las-mejores-ofertas-de-la-semana-en-un-nuevo-red-friday-49/
 🗓️ 2026-02-27 • 🏷️ muycomputer.com
+
+### 2026-02-27T19:33:51.219Z
+📰 Las favoritas para los Premios Goya 2026: estas son nuestras predicciones
+Los Premios Goya 2026 ya están a la vuelta de la esquina. La ceremonia tendrá lugar la noche del 28 de febrero. Y los nominados ya ultiman los detalles de su discurso en caso de que sea su nombre el que salga del sobre del ganador. Por el m…
+https://hipertextual.com/cine-television/las-favoritas-para-los-premios-goya-2026-estas-son-nuestras-predicciones/
+🗓️ 2026-02-27 • 🏷️ hipertextual.com
