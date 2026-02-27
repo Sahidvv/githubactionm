@@ -3583,3 +3583,9 @@ https://www.muycomputer.com/2026/02/26/fsr-4-1-se-deja-ver-antes-de-su-anuncio-o
 Se acabó la era de los móviles chinos baratos. Tras meses de estira y afloje, Xiaomi, OPPO, vivo, Honor y OnePlus han decidido que ya no pueden absorber más costes por su cuenta. La crisis de memoria que está impactando a toda la industria …
 https://hipertextual.com/mobile/subida-precios-xiaomi-oppo-vivo-marzo-2026/
 🗓️ 2026-02-26 • 🏷️ hipertextual.com
+
+### 2026-02-27T13:59:48.567Z
+📰 Las mejores ofertas de la semana en un nuevo Red Friday
+Como cada viernes nos hemos lanzado a la caza de las mejores ofertas de la semana para traeros un nuevo Red Friday, todo un clásico donde encontraréis cada una de esas ofertas a un solo clic de distancia. Si os gusta algo os recomiendo que …
+https://www.muycomputer.com/2026/02/27/las-mejores-ofertas-de-la-semana-en-un-nuevo-red-friday-49/
+🗓️ 2026-02-27 • 🏷️ muycomputer.com
