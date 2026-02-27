@@ -3176,3 +3176,19 @@ https://hipertextual.com/inteligencia-artificial/gemini-modo-agentico-android/
 🗓️ 2026-02-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-27
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Se acabó el móvil barato: Xiaomi, OPPO y otros fabricantes subirán sus precios en pocos días
+Se acabó la era de los móviles chinos baratos. Tras meses de estira y afloje, Xiaomi, OPPO, vivo, Honor y OnePlus han decidido que ya no pueden absorber más costes por su cuenta. La crisis de memoria que está impactando a toda la industria …
+https://hipertextual.com/mobile/subida-precios-xiaomi-oppo-vivo-marzo-2026/
+🗓️ 2026-02-26 • 🏷️ hipertextual.com
+
+---
