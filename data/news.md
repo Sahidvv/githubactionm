@@ -3607,3 +3607,9 @@ https://hipertextual.com/videojuegos/ps5-pro-pssr-2-0-actualizacion-resident-evi
 Es uno de los juegos más esperados, y más deseados, del año. Resident Evil Requiem por fin está disponible, y he podido jugarlo durante más de una semana antes de su lanzamiento para prepararos este análisis, donde os voy a contar todo lo q…
 https://www.muycomputer.com/2026/02/28/resident-evil-requiem-analisis-completo-en-pc/
 🗓️ 2026-02-28 • 🏷️ muycomputer.com
+
+### 2026-02-28T19:20:48.787Z
+📰 El final de ‘Scream 7’, explicado: ¿Quién es el asesino?
+Scream 7 más que un nuevo capítulo de la longeva saga de terror, es un aparente reinicio que no funciona del todo. En especial, porque mucho de su impacto reside en apostar a la nostalgia y profundizar en su propia mitología. Por lo que tra…
+https://hipertextual.com/cine-television/el-final-de-scream-7-explicado-quien-es-el-asesino/
+🗓️ 2026-02-28 • 🏷️ hipertextual.com
