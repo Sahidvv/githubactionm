@@ -3601,3 +3601,9 @@ https://hipertextual.com/cine-television/las-favoritas-para-los-premios-goya-202
 Sony ha anunciado una actualización que mejora una de las funciones clave de la PS5 Pro. Aprovechando el lanzamiento de Resident Evil Requiem, la compañía confirmó la llegada del PSSR 2.0, el sistema de escalado inteligente basado en IA. La…
 https://hipertextual.com/videojuegos/ps5-pro-pssr-2-0-actualizacion-resident-evil-requiem/
 🗓️ 2026-02-27 • 🏷️ hipertextual.com
+
+### 2026-02-28T13:36:45.192Z
+📰 Resident Evil Requiem análisis completo en PC
+Es uno de los juegos más esperados, y más deseados, del año. Resident Evil Requiem por fin está disponible, y he podido jugarlo durante más de una semana antes de su lanzamiento para prepararos este análisis, donde os voy a contar todo lo q…
+https://www.muycomputer.com/2026/02/28/resident-evil-requiem-analisis-completo-en-pc/
+🗓️ 2026-02-28 • 🏷️ muycomputer.com
