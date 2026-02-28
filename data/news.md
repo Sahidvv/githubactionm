@@ -3595,3 +3595,9 @@ https://www.muycomputer.com/2026/02/27/las-mejores-ofertas-de-la-semana-en-un-nu
 Los Premios Goya 2026 ya están a la vuelta de la esquina. La ceremonia tendrá lugar la noche del 28 de febrero. Y los nominados ya ultiman los detalles de su discurso en caso de que sea su nombre el que salga del sobre del ganador. Por el m…
 https://hipertextual.com/cine-television/las-favoritas-para-los-premios-goya-2026-estas-son-nuestras-predicciones/
 🗓️ 2026-02-27 • 🏷️ hipertextual.com
+
+### 2026-02-28T03:09:09.683Z
+📰 Sony actualiza la mejor función de la PS5 Pro con Resident Evil Requiem
+Sony ha anunciado una actualización que mejora una de las funciones clave de la PS5 Pro. Aprovechando el lanzamiento de Resident Evil Requiem, la compañía confirmó la llegada del PSSR 2.0, el sistema de escalado inteligente basado en IA. La…
+https://hipertextual.com/videojuegos/ps5-pro-pssr-2-0-actualizacion-resident-evil-requiem/
+🗓️ 2026-02-27 • 🏷️ hipertextual.com

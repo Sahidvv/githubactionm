@@ -3192,3 +3192,19 @@ https://hipertextual.com/mobile/subida-precios-xiaomi-oppo-vivo-marzo-2026/
 🗓️ 2026-02-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-02-28
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Sony actualiza la mejor función de la PS5 Pro con Resident Evil Requiem
+Sony ha anunciado una actualización que mejora una de las funciones clave de la PS5 Pro. Aprovechando el lanzamiento de Resident Evil Requiem, la compañía confirmó la llegada del PSSR 2.0, el sistema de escalado inteligente basado en IA. La…
+https://hipertextual.com/videojuegos/ps5-pro-pssr-2-0-actualizacion-resident-evil-requiem/
+🗓️ 2026-02-27 • 🏷️ hipertextual.com
+
+---
