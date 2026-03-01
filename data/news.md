@@ -3625,3 +3625,9 @@ https://hipertextual.com/cine-television/lista-de-ganadores-de-los-premios-goya-
 Optimus de Tesla tiene competencia. Junto con el Robot Phone y su nuevo plegable, Honor ha anunciado en el marco del Mobile World Congress su primer robot humanoide, una alternativa al modelo que está diseñando la compañía de Elon Musk y qu…
 https://hipertextual.com/tecnologia/honor-presenta-su-robot-humanoide-la-alternativa-al-optimus-de-tesla-que-samsung-y-apple-no-han-podido-crear/
 🗓️ 2026-03-01 • 🏷️ hipertextual.com
+
+### 2026-03-01T19:22:27.035Z
+📰 Olvídate de los coches chinos, tu próximo vehículo eléctrico se hará en un país que va a destrozar el mercado
+Con un parque europeo cada vez más caro y un mercado chino aprovechando la situación con cifras millonarias, era cuestión de tiempo que más interesados se uniesen a la guerra de los vehñiculos eléctricos. Los coches chinos pronto podrían te…
+https://hipertextual.com/tecnologia/olvidate-de-los-coches-chinos-tu-proximo-vehiculo-electrico-se-hara-en-un-pais-que-va-a-destrozar-el-mercado/
+🗓️ 2026-03-01 • 🏷️ hipertextual.com
