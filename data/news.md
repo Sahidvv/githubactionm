@@ -3619,3 +3619,9 @@ https://hipertextual.com/cine-television/el-final-de-scream-7-explicado-quien-es
 Ya conocemos a los ganadores de los Premios Goya 2026. La fiesta del cine español ha celebrado una vez más su gran noche, en la que se han entregado los codiciados cabezones que consagran a lo mejor de la industria patria. Este año, todos l…
 https://hipertextual.com/cine-television/lista-de-ganadores-de-los-premios-goya-2026/
 🗓️ 2026-02-28 • 🏷️ hipertextual.com
+
+### 2026-03-01T13:38:53.704Z
+📰 Honor presenta su robot humanoide: la alternativa al Optimus de Tesla que Samsung y Apple no han podido crear
+Optimus de Tesla tiene competencia. Junto con el Robot Phone y su nuevo plegable, Honor ha anunciado en el marco del Mobile World Congress su primer robot humanoide, una alternativa al modelo que está diseñando la compañía de Elon Musk y qu…
+https://hipertextual.com/tecnologia/honor-presenta-su-robot-humanoide-la-alternativa-al-optimus-de-tesla-que-samsung-y-apple-no-han-podido-crear/
+🗓️ 2026-03-01 • 🏷️ hipertextual.com
