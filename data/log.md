@@ -3208,3 +3208,19 @@ https://hipertextual.com/videojuegos/ps5-pro-pssr-2-0-actualizacion-resident-evi
 🗓️ 2026-02-27 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-01
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Lista de ganadores de los Premios Goya 2026: &#8216;Los domingos&#8217; se impone a &#8216;Sirat&#8217;
+Ya conocemos a los ganadores de los Premios Goya 2026. La fiesta del cine español ha celebrado una vez más su gran noche, en la que se han entregado los codiciados cabezones que consagran a lo mejor de la industria patria. Este año, todos l…
+https://hipertextual.com/cine-television/lista-de-ganadores-de-los-premios-goya-2026/
+🗓️ 2026-02-28 • 🏷️ hipertextual.com
+
+---

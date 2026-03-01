@@ -3613,3 +3613,9 @@ https://www.muycomputer.com/2026/02/28/resident-evil-requiem-analisis-completo-e
 Scream 7 más que un nuevo capítulo de la longeva saga de terror, es un aparente reinicio que no funciona del todo. En especial, porque mucho de su impacto reside en apostar a la nostalgia y profundizar en su propia mitología. Por lo que tra…
 https://hipertextual.com/cine-television/el-final-de-scream-7-explicado-quien-es-el-asesino/
 🗓️ 2026-02-28 • 🏷️ hipertextual.com
+
+### 2026-03-01T03:40:46.147Z
+📰 Lista de ganadores de los Premios Goya 2026: &#8216;Los domingos&#8217; se impone a &#8216;Sirat&#8217;
+Ya conocemos a los ganadores de los Premios Goya 2026. La fiesta del cine español ha celebrado una vez más su gran noche, en la que se han entregado los codiciados cabezones que consagran a lo mejor de la industria patria. Este año, todos l…
+https://hipertextual.com/cine-television/lista-de-ganadores-de-los-premios-goya-2026/
+🗓️ 2026-02-28 • 🏷️ hipertextual.com
