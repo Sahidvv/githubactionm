@@ -3643,3 +3643,9 @@ https://www.muycomputer.com/2026/03/01/los-mejores-contenidos-de-la-semana-en-mu
 Google Fotos acaba de hacerle un jaque mate a todas las aplicaciones de la Play Store para crear stickers. De hecho, si tienes alguna instalada en tu móvil, probablemente quieras ir borrándola para hacer espacio y sacarle provecho a la nuev…
 https://hipertextual.com/tecnologia/borra-ahora-mismo-todas-las-apps-para-hacer-stickers-google-fotos-ya-los-hace-en-segundos/
 🗓️ 2026-03-02 • 🏷️ hipertextual.com
+
+### 2026-03-02T19:37:07.465Z
+📰 Olvídate de comprar un portátil barato: los PC de menos de 500 euros desaparecerán pronto
+Las portátiles de menos de 500 euros serán cosa del pasado. La crisis de memoria que atraviesa la industria está provocando estragos en todos los sectores, incluido el de los ordenadores baratos. Un reporte de Gartner afirma que el segmento…
+https://hipertextual.com/tecnologia/crisis-memoria-pc-baratos-2028/
+🗓️ 2026-03-02 • 🏷️ hipertextual.com
