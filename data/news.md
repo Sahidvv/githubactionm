@@ -3637,3 +3637,9 @@ https://hipertextual.com/tecnologia/olvidate-de-los-coches-chinos-tu-proximo-veh
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cinco aplicaciones de rescate gratuitas para soluci…
 https://www.muycomputer.com/2026/03/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dxiii/
 🗓️ 2026-03-01 • 🏷️ muycomputer.com
+
+### 2026-03-02T14:00:26.264Z
+📰 Borra ahora mismo todas las apps para hacer stickers: Google Fotos ya los hace en segundos
+Google Fotos acaba de hacerle un jaque mate a todas las aplicaciones de la Play Store para crear stickers. De hecho, si tienes alguna instalada en tu móvil, probablemente quieras ir borrándola para hacer espacio y sacarle provecho a la nuev…
+https://hipertextual.com/tecnologia/borra-ahora-mismo-todas-las-apps-para-hacer-stickers-google-fotos-ya-los-hace-en-segundos/
+🗓️ 2026-03-02 • 🏷️ hipertextual.com
