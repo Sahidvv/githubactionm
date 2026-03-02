@@ -3224,3 +3224,19 @@ https://hipertextual.com/cine-television/lista-de-ganadores-de-los-premios-goya-
 🗓️ 2026-02-28 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-02
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXIII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cinco aplicaciones de rescate gratuitas para soluci…
+https://www.muycomputer.com/2026/03/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dxiii/
+🗓️ 2026-03-01 • 🏷️ muycomputer.com
+
+---
