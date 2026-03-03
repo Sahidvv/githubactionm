@@ -3655,3 +3655,9 @@ https://hipertextual.com/tecnologia/crisis-memoria-pc-baratos-2028/
 Starlink se está preparando para lanzar su segunda generación de satélites, la cual ofrecerá velocidades 5G a los móviles. SpaceX anunció oficialmente Starlink Mobile, un servicio que llevará el internet de banda ancha directamente a tu sma…
 https://hipertextual.com/mobile/starlink-mobile-internet-5g-satelital-movil/
 🗓️ 2026-03-02 • 🏷️ hipertextual.com
+
+### 2026-03-03T13:59:49.920Z
+📰 Una de las funciones más útiles de Claude ahora es gratis para todos. Adiós, ChatGPT
+Anthropic acaba de actualizar la versión gratis de Claude con una de las funciones más útiles de sus planes de pago. A partir de ahora, los usuarios de su chatbot pueden importar la memoria de plataformas rivales, como ChatGPT y Gemini, sin…
+https://hipertextual.com/inteligencia-artificial/importar-memoria-claude-gratis/
+🗓️ 2026-03-03 • 🏷️ hipertextual.com
