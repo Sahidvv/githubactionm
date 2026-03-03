@@ -3661,3 +3661,9 @@ https://hipertextual.com/mobile/starlink-mobile-internet-5g-satelital-movil/
 Anthropic acaba de actualizar la versión gratis de Claude con una de las funciones más útiles de sus planes de pago. A partir de ahora, los usuarios de su chatbot pueden importar la memoria de plataformas rivales, como ChatGPT y Gemini, sin…
 https://hipertextual.com/inteligencia-artificial/importar-memoria-claude-gratis/
 🗓️ 2026-03-03 • 🏷️ hipertextual.com
+
+### 2026-03-03T19:39:37.436Z
+📰 Google presenta Gemini 3.1 Flash-Lite, su IA más rápida y barata a la fecha
+Google ha presentado oficialmente Gemini 3.1 Flash-Lite, una versión optimizada del modelo que usamos casi todos en la app de Gemini. La nueva IA se posiciona como la opción más rápida y barata de la familia, ofreciendo un rendimiento a la …
+https://hipertextual.com/inteligencia-artificial/gemini-3-1-flash-lite-lanzamiento-precio-velocidad/
+🗓️ 2026-03-03 • 🏷️ hipertextual.com
