@@ -3240,3 +3240,19 @@ https://www.muycomputer.com/2026/03/01/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-03-01 • 🏷️ muycomputer.com
 
 ---
+## 2026-03-03
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 SpaceX presenta Starlink Mobile: internet 5G desde el espacio directo a tu móvil
+Starlink se está preparando para lanzar su segunda generación de satélites, la cual ofrecerá velocidades 5G a los móviles. SpaceX anunció oficialmente Starlink Mobile, un servicio que llevará el internet de banda ancha directamente a tu sma…
+https://hipertextual.com/mobile/starlink-mobile-internet-5g-satelital-movil/
+🗓️ 2026-03-02 • 🏷️ hipertextual.com
+
+---

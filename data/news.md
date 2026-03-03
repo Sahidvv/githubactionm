@@ -3649,3 +3649,9 @@ https://hipertextual.com/tecnologia/borra-ahora-mismo-todas-las-apps-para-hacer-
 Las portátiles de menos de 500 euros serán cosa del pasado. La crisis de memoria que atraviesa la industria está provocando estragos en todos los sectores, incluido el de los ordenadores baratos. Un reporte de Gartner afirma que el segmento…
 https://hipertextual.com/tecnologia/crisis-memoria-pc-baratos-2028/
 🗓️ 2026-03-02 • 🏷️ hipertextual.com
+
+### 2026-03-03T03:33:16.342Z
+📰 SpaceX presenta Starlink Mobile: internet 5G desde el espacio directo a tu móvil
+Starlink se está preparando para lanzar su segunda generación de satélites, la cual ofrecerá velocidades 5G a los móviles. SpaceX anunció oficialmente Starlink Mobile, un servicio que llevará el internet de banda ancha directamente a tu sma…
+https://hipertextual.com/mobile/starlink-mobile-internet-5g-satelital-movil/
+🗓️ 2026-03-02 • 🏷️ hipertextual.com
