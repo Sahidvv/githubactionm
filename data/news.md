@@ -3679,3 +3679,9 @@ https://hipertextual.com/internet/google-find-hub-rastreo-maletas-aerolineas/
 La crisis de la DRAM y la escasez de memoria NAND Flash han hecho que los precios de componentes tan básicos como la RAM, la VRAM (memoria gráfica) y los SSDs se disparen. A pesar de todo, la demanda de procesadores (CPUs) ha crecido, hasta…
 https://www.muycomputer.com/2026/03/04/amd-alerta-de-una-posible-escasez-de-cpus-por-que/
 🗓️ 2026-03-04 • 🏷️ muycomputer.com
+
+### 2026-03-04T19:38:12.691Z
+📰 Microsoft actualiza Windows 10 para resolver un fallo crítico de su versión final
+Por si no fueran suficientes los problemas que aparecen cada vez que se actualiza Windows 11, se ha sumado un inconveniente grave con Windows 10. Los de Redmond acaban de lanzar una actualización que corrige un fallo crítico que se presentó…
+https://hipertextual.com/software/actualizacion-windows-10-fallo-entorno-recuperacion-windows/
+🗓️ 2026-03-04 • 🏷️ hipertextual.com
