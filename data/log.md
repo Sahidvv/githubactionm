@@ -3256,3 +3256,19 @@ https://hipertextual.com/mobile/starlink-mobile-internet-5g-satelital-movil/
 🗓️ 2026-03-02 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-04
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Adiós a las maletas perdidas: Google permitirá que las aerolíneas rastreen tu equipaje
+Google ha decidido atacar uno de los mayores dolores de cabeza de cualquier viajero: que tu maleta se quede en una escala mientras tú ya estás en el destino. A partir de ahora, los usuarios de Android podrán compartir la ubicación de su equ…
+https://hipertextual.com/internet/google-find-hub-rastreo-maletas-aerolineas/
+🗓️ 2026-03-03 • 🏷️ hipertextual.com
+
+---

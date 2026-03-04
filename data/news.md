@@ -3667,3 +3667,9 @@ https://hipertextual.com/inteligencia-artificial/importar-memoria-claude-gratis/
 Google ha presentado oficialmente Gemini 3.1 Flash-Lite, una versión optimizada del modelo que usamos casi todos en la app de Gemini. La nueva IA se posiciona como la opción más rápida y barata de la familia, ofreciendo un rendimiento a la …
 https://hipertextual.com/inteligencia-artificial/gemini-3-1-flash-lite-lanzamiento-precio-velocidad/
 🗓️ 2026-03-03 • 🏷️ hipertextual.com
+
+### 2026-03-04T03:25:30.734Z
+📰 Adiós a las maletas perdidas: Google permitirá que las aerolíneas rastreen tu equipaje
+Google ha decidido atacar uno de los mayores dolores de cabeza de cualquier viajero: que tu maleta se quede en una escala mientras tú ya estás en el destino. A partir de ahora, los usuarios de Android podrán compartir la ubicación de su equ…
+https://hipertextual.com/internet/google-find-hub-rastreo-maletas-aerolineas/
+🗓️ 2026-03-03 • 🏷️ hipertextual.com
