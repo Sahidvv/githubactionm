@@ -3673,3 +3673,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-3-1-flash-lite-lanzamien
 Google ha decidido atacar uno de los mayores dolores de cabeza de cualquier viajero: que tu maleta se quede en una escala mientras tú ya estás en el destino. A partir de ahora, los usuarios de Android podrán compartir la ubicación de su equ…
 https://hipertextual.com/internet/google-find-hub-rastreo-maletas-aerolineas/
 🗓️ 2026-03-03 • 🏷️ hipertextual.com
+
+### 2026-03-04T13:58:50.700Z
+📰 AMD alerta de una posible escasez de CPUs, ¿por qué?
+La crisis de la DRAM y la escasez de memoria NAND Flash han hecho que los precios de componentes tan básicos como la RAM, la VRAM (memoria gráfica) y los SSDs se disparen. A pesar de todo, la demanda de procesadores (CPUs) ha crecido, hasta…
+https://www.muycomputer.com/2026/03/04/amd-alerta-de-una-posible-escasez-de-cpus-por-que/
+🗓️ 2026-03-04 • 🏷️ muycomputer.com
