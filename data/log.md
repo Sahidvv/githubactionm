@@ -3272,3 +3272,19 @@ https://hipertextual.com/internet/google-find-hub-rastreo-maletas-aerolineas/
 🗓️ 2026-03-03 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-05
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Xiaomi ya utiliza robots humanoides para fabricar el SU7: son «becarios», según su presidente
+Xiaomi ha comenzado a probar sus robots humanoides en el campo de la producción real. El gigante asiático confirmó que integró las primeras unidades directamente en las plantas donde fabrica el SU7. Al igual que los trabajadores humanos, lo…
+https://hipertextual.com/tecnologia/xiaomi-robots-humanoides-fabrica-coches-electricos/
+🗓️ 2026-03-04 • 🏷️ hipertextual.com
+
+---

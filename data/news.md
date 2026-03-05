@@ -3685,3 +3685,9 @@ https://www.muycomputer.com/2026/03/04/amd-alerta-de-una-posible-escasez-de-cpus
 Por si no fueran suficientes los problemas que aparecen cada vez que se actualiza Windows 11, se ha sumado un inconveniente grave con Windows 10. Los de Redmond acaban de lanzar una actualización que corrige un fallo crítico que se presentó…
 https://hipertextual.com/software/actualizacion-windows-10-fallo-entorno-recuperacion-windows/
 🗓️ 2026-03-04 • 🏷️ hipertextual.com
+
+### 2026-03-05T03:28:25.160Z
+📰 Xiaomi ya utiliza robots humanoides para fabricar el SU7: son «becarios», según su presidente
+Xiaomi ha comenzado a probar sus robots humanoides en el campo de la producción real. El gigante asiático confirmó que integró las primeras unidades directamente en las plantas donde fabrica el SU7. Al igual que los trabajadores humanos, lo…
+https://hipertextual.com/tecnologia/xiaomi-robots-humanoides-fabrica-coches-electricos/
+🗓️ 2026-03-04 • 🏷️ hipertextual.com
