@@ -3697,3 +3697,9 @@ https://hipertextual.com/tecnologia/xiaomi-robots-humanoides-fabrica-coches-elec
 OpenAI está viviendo un momento de crisis después de uno de sus anuncios más polémicos de los últimos años, que ha hecho que ChatGPT no pare de perder usuarios durante las últimas horas. De hecho, una famosa firma de investigación y analíti…
 https://hipertextual.com/tecnologia/las-desinstalaciones-de-chatgpt-se-disparan-despues-de-que-openai-anunciara-un-acuerdo-con-el-pentagono/
 🗓️ 2026-03-05 • 🏷️ hipertextual.com
+
+### 2026-03-05T19:51:40.668Z
+📰 OpenAI lanza GPT-5.4: su IA más avanzada ahora puede controlar tu ordenador
+OpenAI acaba de lanzar GPT-5.4, la versión más reciente y avanzada de la inteligencia artificial que impulsa a ChatGPT. Para este lanzamiento, la empresa que lidera Sam Altman se ha enfocado especialmente en el uso de la tecnología en entor…
+https://hipertextual.com/inteligencia-artificial/nuevo-gpt-5-4-chatgpt/
+🗓️ 2026-03-05 • 🏷️ hipertextual.com
