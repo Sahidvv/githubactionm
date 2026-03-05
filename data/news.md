@@ -3691,3 +3691,9 @@ https://hipertextual.com/software/actualizacion-windows-10-fallo-entorno-recuper
 Xiaomi ha comenzado a probar sus robots humanoides en el campo de la producción real. El gigante asiático confirmó que integró las primeras unidades directamente en las plantas donde fabrica el SU7. Al igual que los trabajadores humanos, lo…
 https://hipertextual.com/tecnologia/xiaomi-robots-humanoides-fabrica-coches-electricos/
 🗓️ 2026-03-04 • 🏷️ hipertextual.com
+
+### 2026-03-05T14:01:19.088Z
+📰 Las desinstalaciones de ChatGPT se disparan después de que OpenAI anunciara un acuerdo con el Pentágono
+OpenAI está viviendo un momento de crisis después de uno de sus anuncios más polémicos de los últimos años, que ha hecho que ChatGPT no pare de perder usuarios durante las últimas horas. De hecho, una famosa firma de investigación y analíti…
+https://hipertextual.com/tecnologia/las-desinstalaciones-de-chatgpt-se-disparan-despues-de-que-openai-anunciara-un-acuerdo-con-el-pentagono/
+🗓️ 2026-03-05 • 🏷️ hipertextual.com
