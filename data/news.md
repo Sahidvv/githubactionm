@@ -3703,3 +3703,9 @@ https://hipertextual.com/tecnologia/las-desinstalaciones-de-chatgpt-se-disparan-
 OpenAI acaba de lanzar GPT-5.4, la versión más reciente y avanzada de la inteligencia artificial que impulsa a ChatGPT. Para este lanzamiento, la empresa que lidera Sam Altman se ha enfocado especialmente en el uso de la tecnología en entor…
 https://hipertextual.com/inteligencia-artificial/nuevo-gpt-5-4-chatgpt/
 🗓️ 2026-03-05 • 🏷️ hipertextual.com
+
+### 2026-03-06T03:26:26.762Z
+📰 La jefa de Xbox confirma los primeros detalles de Project Helix, la próxima consola de Microsoft
+Los primeros detalles de la próxima Xbox han sido confirmados por Asha Sharma, la flamante directora ejecutiva de Microsoft Gaming. A través de una publicación en X (Twitter), la reemplazante de Phil Spencer anunció que la consola de siguie…
+https://hipertextual.com/videojuegos/xbox-project-helix/
+🗓️ 2026-03-05 • 🏷️ hipertextual.com

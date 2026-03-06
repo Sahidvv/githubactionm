@@ -3288,3 +3288,19 @@ https://hipertextual.com/tecnologia/xiaomi-robots-humanoides-fabrica-coches-elec
 🗓️ 2026-03-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-06
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La jefa de Xbox confirma los primeros detalles de Project Helix, la próxima consola de Microsoft
+Los primeros detalles de la próxima Xbox han sido confirmados por Asha Sharma, la flamante directora ejecutiva de Microsoft Gaming. A través de una publicación en X (Twitter), la reemplazante de Phil Spencer anunció que la consola de siguie…
+https://hipertextual.com/videojuegos/xbox-project-helix/
+🗓️ 2026-03-05 • 🏷️ hipertextual.com
+
+---
