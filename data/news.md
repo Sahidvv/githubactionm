@@ -3715,3 +3715,9 @@ https://hipertextual.com/videojuegos/xbox-project-helix/
 Los últimos datos de Jon Peddie Research confirman que NVIDIA cerró el cuarto trimestre de 2025 con una cuota de mercado del 94% en GPUs, una cifra que representa una mejora del 2% frente a los resultados del tercer trimestre de 2025. Puede…
 https://www.muycomputer.com/2026/03/06/nvidia-incontestable-en-gpus-su-cuota-de-mercado-sube-al-94/
 🗓️ 2026-03-06 • 🏷️ muycomputer.com
+
+### 2026-03-06T19:34:14.466Z
+📰 ChatGPT pisa el freno con su modo para adultos (por ahora)
+Uno de los anuncios más curiosos que hizo OpenAI a finales del año pasado fue el del modo para adultos de ChatGPT. La startup de inteligencia artificial confirmó que estaba trabajando en una opción para permitir las conversaciones explícita…
+https://hipertextual.com/inteligencia-artificial/openai-retrasa-modo-adulto-chatgpt/
+🗓️ 2026-03-06 • 🏷️ hipertextual.com
