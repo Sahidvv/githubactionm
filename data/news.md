@@ -3709,3 +3709,9 @@ https://hipertextual.com/inteligencia-artificial/nuevo-gpt-5-4-chatgpt/
 Los primeros detalles de la próxima Xbox han sido confirmados por Asha Sharma, la flamante directora ejecutiva de Microsoft Gaming. A través de una publicación en X (Twitter), la reemplazante de Phil Spencer anunció que la consola de siguie…
 https://hipertextual.com/videojuegos/xbox-project-helix/
 🗓️ 2026-03-05 • 🏷️ hipertextual.com
+
+### 2026-03-06T13:56:08.090Z
+📰 NVIDIA incontestable en GPUs: su cuota de mercado sube al 94%
+Los últimos datos de Jon Peddie Research confirman que NVIDIA cerró el cuarto trimestre de 2025 con una cuota de mercado del 94% en GPUs, una cifra que representa una mejora del 2% frente a los resultados del tercer trimestre de 2025. Puede…
+https://www.muycomputer.com/2026/03/06/nvidia-incontestable-en-gpus-su-cuota-de-mercado-sube-al-94/
+🗓️ 2026-03-06 • 🏷️ muycomputer.com
