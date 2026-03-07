@@ -3727,3 +3727,9 @@ https://hipertextual.com/inteligencia-artificial/openai-retrasa-modo-adulto-chat
 Samsung ha revelado los primeros detalles de sus gafas inteligentes con IA. Tras meses de rumores y especulaciones, el fabricante surcoreano confirmó algunas especificaciones de las Galaxy Glass, incluida su posible fecha de lanzamiento. La…
 https://hipertextual.com/tecnologia/samsung-gafas-inteligentes-galaxy-glass-caracteristicas-disponibilidad/
 🗓️ 2026-03-06 • 🏷️ hipertextual.com
+
+### 2026-03-07T13:38:59.035Z
+📰 Adiós a las pelusas. Xiaomi lanza en España un producto baratísimo que, sí o sí, vas a querer en tu armario
+Xiaomi ha vuelto a hacerlo. Su último producto no tiene nada que ver con móviles, tablets o auriculares: es algo que poco tiene que ver con la tecnología, pero que vas a querer tener a toda costa. Vuelve a sumar tres de las claves que hacen…
+https://hipertextual.com/tecnologia/adios-a-las-pelusas-xiaomi-lanza-en-espana-un-producto-baratisimo-que-si-o-si-vas-a-querer-en-tu-armario/
+🗓️ 2026-03-07 • 🏷️ hipertextual.com
