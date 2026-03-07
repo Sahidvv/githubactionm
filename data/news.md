@@ -3721,3 +3721,9 @@ https://www.muycomputer.com/2026/03/06/nvidia-incontestable-en-gpus-su-cuota-de-
 Uno de los anuncios más curiosos que hizo OpenAI a finales del año pasado fue el del modo para adultos de ChatGPT. La startup de inteligencia artificial confirmó que estaba trabajando en una opción para permitir las conversaciones explícita…
 https://hipertextual.com/inteligencia-artificial/openai-retrasa-modo-adulto-chatgpt/
 🗓️ 2026-03-06 • 🏷️ hipertextual.com
+
+### 2026-03-07T03:15:25.334Z
+📰 Samsung filtra los primeros detalles de sus gafas inteligentes con IA, incluido su lanzamiento
+Samsung ha revelado los primeros detalles de sus gafas inteligentes con IA. Tras meses de rumores y especulaciones, el fabricante surcoreano confirmó algunas especificaciones de las Galaxy Glass, incluida su posible fecha de lanzamiento. La…
+https://hipertextual.com/tecnologia/samsung-gafas-inteligentes-galaxy-glass-caracteristicas-disponibilidad/
+🗓️ 2026-03-06 • 🏷️ hipertextual.com

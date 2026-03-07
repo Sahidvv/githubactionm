@@ -3304,3 +3304,19 @@ https://hipertextual.com/videojuegos/xbox-project-helix/
 🗓️ 2026-03-05 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-07
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Samsung filtra los primeros detalles de sus gafas inteligentes con IA, incluido su lanzamiento
+Samsung ha revelado los primeros detalles de sus gafas inteligentes con IA. Tras meses de rumores y especulaciones, el fabricante surcoreano confirmó algunas especificaciones de las Galaxy Glass, incluida su posible fecha de lanzamiento. La…
+https://hipertextual.com/tecnologia/samsung-gafas-inteligentes-galaxy-glass-caracteristicas-disponibilidad/
+🗓️ 2026-03-06 • 🏷️ hipertextual.com
+
+---
