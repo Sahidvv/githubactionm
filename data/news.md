@@ -3733,3 +3733,9 @@ https://hipertextual.com/tecnologia/samsung-gafas-inteligentes-galaxy-glass-cara
 Xiaomi ha vuelto a hacerlo. Su último producto no tiene nada que ver con móviles, tablets o auriculares: es algo que poco tiene que ver con la tecnología, pero que vas a querer tener a toda costa. Vuelve a sumar tres de las claves que hacen…
 https://hipertextual.com/tecnologia/adios-a-las-pelusas-xiaomi-lanza-en-espana-un-producto-baratisimo-que-si-o-si-vas-a-querer-en-tu-armario/
 🗓️ 2026-03-07 • 🏷️ hipertextual.com
+
+### 2026-03-07T19:22:26.975Z
+📰 El OLED más pequeño del mundo ya es una realidad: puede meter una pantalla Full HD en un solo milímetro
+Uno de los retos más grandes que enfrentan Meta, Apple y otros fabricantes de gafas inteligentes es la integración de pantallas en el cristal. Los paneles microLED u OLED deben ser lo suficientemente pequeños como para caber dentro del lent…
+https://hipertextual.com/ciencia/oled-mas-pequeno-del-mundo-gafas-inteligentes/
+🗓️ 2026-03-07 • 🏷️ hipertextual.com
