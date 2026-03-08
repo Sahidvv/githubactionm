@@ -3320,3 +3320,19 @@ https://hipertextual.com/tecnologia/samsung-gafas-inteligentes-galaxy-glass-cara
 🗓️ 2026-03-06 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-08
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Qué es Anthropic, la startup que planta cara a Trump y su "estilo dictador" por el uso de IA en la guerra
+El presidente amenaza con expulsar del mercado a una de las empresas con más potencial del mundo por negarse a levantar sus protecciones éticas para atacar IránSánchez: “Respeto a EEUU, pero entre aliados es bueno señalar cuando se comete u…
+https://www.eldiario.es/tecnologia/anthropic-startup-planta-cara-trump-estilo-dictador-ia-guerra_1_13045909.html
+🗓️ 2026-03-07 • 🏷️ eldiario.es
+
+---

@@ -3739,3 +3739,9 @@ https://hipertextual.com/tecnologia/adios-a-las-pelusas-xiaomi-lanza-en-espana-u
 Uno de los retos más grandes que enfrentan Meta, Apple y otros fabricantes de gafas inteligentes es la integración de pantallas en el cristal. Los paneles microLED u OLED deben ser lo suficientemente pequeños como para caber dentro del lent…
 https://hipertextual.com/ciencia/oled-mas-pequeno-del-mundo-gafas-inteligentes/
 🗓️ 2026-03-07 • 🏷️ hipertextual.com
+
+### 2026-03-08T03:30:15.144Z
+📰 Qué es Anthropic, la startup que planta cara a Trump y su "estilo dictador" por el uso de IA en la guerra
+El presidente amenaza con expulsar del mercado a una de las empresas con más potencial del mundo por negarse a levantar sus protecciones éticas para atacar IránSánchez: “Respeto a EEUU, pero entre aliados es bueno señalar cuando se comete u…
+https://www.eldiario.es/tecnologia/anthropic-startup-planta-cara-trump-estilo-dictador-ia-guerra_1_13045909.html
+🗓️ 2026-03-07 • 🏷️ eldiario.es
