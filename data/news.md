@@ -3751,3 +3751,9 @@ https://www.eldiario.es/tecnologia/anthropic-startup-planta-cara-trump-estilo-di
 Los anuncios dirigidos son el gran negocio de muchas tecnológicas y con el paso de los años nos hemos acostumbrados a ser absolutamente bombardeados con ellos. En el caso de Windows 11, muchas aplicaciones de uso diario aprovechan para most…
 https://hipertextual.com/software/desactivar-identificador-publicitario-windows-11/
 🗓️ 2026-03-08 • 🏷️ hipertextual.com
+
+### 2026-03-08T19:23:53.741Z
+📰 ¿Qué está pasando con Windows 12? El motivo por el que Microsoft ha frenado su lanzamiento
+El ruido sobre Windows 12 ha chocado de frente con la realidad de los calendarios de Microsoft. A pesar de las filtraciones que daban por hecho un lanzamiento inminente en 2026, los planes de Redmond apuntan en una dirección distinta. La co…
+https://hipertextual.com/software/que-esta-pasando-con-windows-12-freno-microsoft/
+🗓️ 2026-03-08 • 🏷️ hipertextual.com
