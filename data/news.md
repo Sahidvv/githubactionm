@@ -3745,3 +3745,9 @@ https://hipertextual.com/ciencia/oled-mas-pequeno-del-mundo-gafas-inteligentes/
 El presidente amenaza con expulsar del mercado a una de las empresas con más potencial del mundo por negarse a levantar sus protecciones éticas para atacar IránSánchez: “Respeto a EEUU, pero entre aliados es bueno señalar cuando se comete u…
 https://www.eldiario.es/tecnologia/anthropic-startup-planta-cara-trump-estilo-dictador-ia-guerra_1_13045909.html
 🗓️ 2026-03-07 • 🏷️ eldiario.es
+
+### 2026-03-08T13:40:02.248Z
+📰 ¿Cansado de los anuncios dirigidos en tus aplicaciones? Así puedes desactivarlos en Windows 11
+Los anuncios dirigidos son el gran negocio de muchas tecnológicas y con el paso de los años nos hemos acostumbrados a ser absolutamente bombardeados con ellos. En el caso de Windows 11, muchas aplicaciones de uso diario aprovechan para most…
+https://hipertextual.com/software/desactivar-identificador-publicitario-windows-11/
+🗓️ 2026-03-08 • 🏷️ hipertextual.com
