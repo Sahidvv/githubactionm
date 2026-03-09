@@ -3336,3 +3336,19 @@ https://www.eldiario.es/tecnologia/anthropic-startup-planta-cara-trump-estilo-di
 🗓️ 2026-03-07 • 🏷️ eldiario.es
 
 ---
+## 2026-03-09
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXIV)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Lenovo impresiona en el MWC 2026 con sus pruebas de…
+https://www.muycomputer.com/2026/03/08/los-mejores-contenidos-de-la-semana-en-muycomputer-dxiv/
+🗓️ 2026-03-08 • 🏷️ muycomputer.com
+
+---
