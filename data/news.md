@@ -3769,3 +3769,9 @@ https://www.muycomputer.com/2026/03/08/los-mejores-contenidos-de-la-semana-en-mu
 Un parche de Linux ha revelado que los procesadores Zen 6 de AMD utilizarán una nueva extensión de CPPC, siglas de «Collaborative Processor Performance Control», una tecnología que forma parte de la ACPI («Advanced Configuration and Power I…
 https://www.muycomputer.com/2026/03/09/windows-11-26h2-podria-implementar-performance-priority-de-amd-zen-6-por-que-es-importante/
 🗓️ 2026-03-09 • 🏷️ muycomputer.com
+
+### 2026-03-09T19:40:57.405Z
+📰 Microsoft resolverá el fallo más molesto del Explorador de Windows 11 (ya era hora)
+Microsoft ha confirmado que resolverá uno de los problemas más molestos de la interfaz de Windows 11. Tras meses de espera, el gigante tecnológico decidió corregir el fallo que mostraba flashazos aleatorios en el Explorador de archivos. Si …
+https://hipertextual.com/tecnologia/microsoft-resolvera-el-fallo-mas-molesto-del-explorador-de-windows-11-ya-era-hora/
+🗓️ 2026-03-09 • 🏷️ hipertextual.com
