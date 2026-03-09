@@ -3763,3 +3763,9 @@ https://hipertextual.com/software/que-esta-pasando-con-windows-12-freno-microsof
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Lenovo impresiona en el MWC 2026 con sus pruebas de…
 https://www.muycomputer.com/2026/03/08/los-mejores-contenidos-de-la-semana-en-muycomputer-dxiv/
 🗓️ 2026-03-08 • 🏷️ muycomputer.com
+
+### 2026-03-09T14:05:35.931Z
+📰 Windows 11 26H2 podría implementar «Performance Priority» de AMD Zen 6: ¿por qué es importante?
+Un parche de Linux ha revelado que los procesadores Zen 6 de AMD utilizarán una nueva extensión de CPPC, siglas de «Collaborative Processor Performance Control», una tecnología que forma parte de la ACPI («Advanced Configuration and Power I…
+https://www.muycomputer.com/2026/03/09/windows-11-26h2-podria-implementar-performance-priority-de-amd-zen-6-por-que-es-importante/
+🗓️ 2026-03-09 • 🏷️ muycomputer.com
