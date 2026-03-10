@@ -3787,3 +3787,9 @@ https://hipertextual.com/cine-television/elijah-wood-regreso-frodo-the-hunt-for-
 Muchos fanáticos todavía lamentan que Sony no le haya dado más oportunidades a la PS Vita, un dispositivo que se adelantó a su tiempo. Pero Anbernic ha dado el paso al frente para ofrecer un "reemplazo", a falta de una mejor palabra para de…
 https://hipertextual.com/videojuegos/anbernic-rg-vita-clones-ps-vita/
 🗓️ 2026-03-10 • 🏷️ hipertextual.com
+
+### 2026-03-10T19:38:21.601Z
+📰 Oppo y OnePlus disparan el precio de sus móviles por la crisis de memoria
+Tras meses de rumores y especulaciones, los precios de los móviles chinos comenzarán a subir a partir de este mes. Oppo enterró el concepto del móvil barato y anunció que sus modelos de gama de entrada serán más caros. La subida es provocad…
+https://hipertextual.com/mobile/oppo-subida-precios-moviles-crisis-chips/
+🗓️ 2026-03-10 • 🏷️ hipertextual.com
