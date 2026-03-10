@@ -3352,3 +3352,19 @@ https://www.muycomputer.com/2026/03/08/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-03-08 • 🏷️ muycomputer.com
 
 ---
+## 2026-03-10
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Volverá Frodo? Elijah Wood no quiere que nadie más le quite el papel en ‘The Hunt for Gollum’
+Elijah Wood no tiene intención de soltar el anillo. El actor que interpretó a Frodo Bolsón en la trilogía de El Señor de los Anillos de Peter Jackson ha dejado claro que no quiere ver a nadie más en el papel. Sus declaraciones en una entrev…
+https://hipertextual.com/cine-television/elijah-wood-regreso-frodo-the-hunt-for-gollum/
+🗓️ 2026-03-09 • 🏷️ hipertextual.com
+
+---

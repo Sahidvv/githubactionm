@@ -3775,3 +3775,9 @@ https://www.muycomputer.com/2026/03/09/windows-11-26h2-podria-implementar-perfor
 Microsoft ha confirmado que resolverá uno de los problemas más molestos de la interfaz de Windows 11. Tras meses de espera, el gigante tecnológico decidió corregir el fallo que mostraba flashazos aleatorios en el Explorador de archivos. Si …
 https://hipertextual.com/tecnologia/microsoft-resolvera-el-fallo-mas-molesto-del-explorador-de-windows-11-ya-era-hora/
 🗓️ 2026-03-09 • 🏷️ hipertextual.com
+
+### 2026-03-10T03:25:44.316Z
+📰 ¿Volverá Frodo? Elijah Wood no quiere que nadie más le quite el papel en ‘The Hunt for Gollum’
+Elijah Wood no tiene intención de soltar el anillo. El actor que interpretó a Frodo Bolsón en la trilogía de El Señor de los Anillos de Peter Jackson ha dejado claro que no quiere ver a nadie más en el papel. Sus declaraciones en una entrev…
+https://hipertextual.com/cine-television/elijah-wood-regreso-frodo-the-hunt-for-gollum/
+🗓️ 2026-03-09 • 🏷️ hipertextual.com
