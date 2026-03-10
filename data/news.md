@@ -3781,3 +3781,9 @@ https://hipertextual.com/tecnologia/microsoft-resolvera-el-fallo-mas-molesto-del
 Elijah Wood no tiene intención de soltar el anillo. El actor que interpretó a Frodo Bolsón en la trilogía de El Señor de los Anillos de Peter Jackson ha dejado claro que no quiere ver a nadie más en el papel. Sus declaraciones en una entrev…
 https://hipertextual.com/cine-television/elijah-wood-regreso-frodo-the-hunt-for-gollum/
 🗓️ 2026-03-09 • 🏷️ hipertextual.com
+
+### 2026-03-10T14:01:06.798Z
+📰 Sony no nos dará una nueva PS Vita, pero Anbernic sí. Así son las nuevas RG Vita y RG Vita Pro
+Muchos fanáticos todavía lamentan que Sony no le haya dado más oportunidades a la PS Vita, un dispositivo que se adelantó a su tiempo. Pero Anbernic ha dado el paso al frente para ofrecer un "reemplazo", a falta de una mejor palabra para de…
+https://hipertextual.com/videojuegos/anbernic-rg-vita-clones-ps-vita/
+🗓️ 2026-03-10 • 🏷️ hipertextual.com
