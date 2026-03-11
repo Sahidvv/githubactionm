@@ -3805,3 +3805,9 @@ https://hipertextual.com/cine-television/lego-one-piece-fruta-goma-goma-set-2026
 El peso que tiene Steam en el mundo del gaming en PC es incuestionable, pero para entenderlo mejor necesitamos números concretos que nos permitan asimilar la magnitud y el alcance que tiene esta plataforma. Sabemos que cuenta con alrededor …
 https://www.muycomputer.com/2026/03/11/los-juegos-descargados-en-steam-durante-2025-ocuparian-100-millones-de-ssds-de-1-tb/
 🗓️ 2026-03-11 • 🏷️ muycomputer.com
+
+### 2026-03-11T19:41:19.795Z
+📰 Kate Winslet se une al reparto de &#8216;El Señor de los Anillos: The Hunt for Gollum&#8217;
+Kate Winslet viajará a la Tierra Media para unirse al reparto de El Señor de los Anillos: La Caza de Gollum. Según recoge Deadline, la actriz británica tendrá el rol femenino principal en la nueva cinta dirigida por Andy Serkis. Winslet se …
+https://hipertextual.com/cine-television/kate-winslet-actriz-senor-de-los-anillos-the-hunt-for-gollum/
+🗓️ 2026-03-11 • 🏷️ hipertextual.com
