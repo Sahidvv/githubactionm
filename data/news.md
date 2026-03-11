@@ -3799,3 +3799,9 @@ https://hipertextual.com/mobile/oppo-subida-precios-moviles-crisis-chips/
 LEGO ha presentado oficialmente el primer set de One Piece para 2026. La compañía ha aprovechado el estreno de la temporada 2 de la serie live-action de Netflix para anunciar un nuevo fruto de la colaboración que inició hace un año. El nuev…
 https://hipertextual.com/cine-television/lego-one-piece-fruta-goma-goma-set-2026/
 🗓️ 2026-03-10 • 🏷️ hipertextual.com
+
+### 2026-03-11T14:05:50.048Z
+📰 Los juegos descargados en Steam durante 2025 ocuparían 100 millones de SSDs de 1 TB
+El peso que tiene Steam en el mundo del gaming en PC es incuestionable, pero para entenderlo mejor necesitamos números concretos que nos permitan asimilar la magnitud y el alcance que tiene esta plataforma. Sabemos que cuenta con alrededor …
+https://www.muycomputer.com/2026/03/11/los-juegos-descargados-en-steam-durante-2025-ocuparian-100-millones-de-ssds-de-1-tb/
+🗓️ 2026-03-11 • 🏷️ muycomputer.com
