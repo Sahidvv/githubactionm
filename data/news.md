@@ -3793,3 +3793,9 @@ https://hipertextual.com/videojuegos/anbernic-rg-vita-clones-ps-vita/
 Tras meses de rumores y especulaciones, los precios de los móviles chinos comenzarán a subir a partir de este mes. Oppo enterró el concepto del móvil barato y anunció que sus modelos de gama de entrada serán más caros. La subida es provocad…
 https://hipertextual.com/mobile/oppo-subida-precios-moviles-crisis-chips/
 🗓️ 2026-03-10 • 🏷️ hipertextual.com
+
+### 2026-03-11T03:25:37.282Z
+📰 LEGO lanza un set de One Piece basado en la mítica Fruta Gomu Gomu
+LEGO ha presentado oficialmente el primer set de One Piece para 2026. La compañía ha aprovechado el estreno de la temporada 2 de la serie live-action de Netflix para anunciar un nuevo fruto de la colaboración que inició hace un año. El nuev…
+https://hipertextual.com/cine-television/lego-one-piece-fruta-goma-goma-set-2026/
+🗓️ 2026-03-10 • 🏷️ hipertextual.com

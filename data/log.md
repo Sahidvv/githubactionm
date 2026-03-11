@@ -3368,3 +3368,19 @@ https://hipertextual.com/cine-television/elijah-wood-regreso-frodo-the-hunt-for-
 🗓️ 2026-03-09 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-11
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 LEGO lanza un set de One Piece basado en la mítica Fruta Gomu Gomu
+LEGO ha presentado oficialmente el primer set de One Piece para 2026. La compañía ha aprovechado el estreno de la temporada 2 de la serie live-action de Netflix para anunciar un nuevo fruto de la colaboración que inició hace un año. El nuev…
+https://hipertextual.com/cine-television/lego-one-piece-fruta-goma-goma-set-2026/
+🗓️ 2026-03-10 • 🏷️ hipertextual.com
+
+---
