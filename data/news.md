@@ -3823,3 +3823,9 @@ https://hipertextual.com/mobile/android-mas-rapido-optimizacion-autofdo/
 El FRITZ!Box 7690 ocupa una posición muy importante dentro del catálogo de routers de la compañía alemana. Este modelo es uno de los más equilibrados en relación precio-prestaciones, y se dirige a aquellos usuarios que quieran disfrutar de …
 https://www.muycomputer.com/2026/03/12/el-fritzbox-7690-baja-de-precio-pero-mantiene-sus-5-anos-de-garantia/
 🗓️ 2026-03-12 • 🏷️ muycomputer.com
+
+### 2026-03-12T19:42:34.702Z
+📰 Olvídate de ChatGPT: la IA de Claude ahora dibuja lo que le pides para que lo entiendas mejor
+Anthropic ha actualizado Claude con una nueva función que le permite generar gráficos, diagramas y otras visualizaciones dentro de la conversación. Esta función busca que las personas puedan comprender conceptos complejos a través de imágen…
+https://hipertextual.com/inteligencia-artificial/claude-graficos-diagramas-interactivos-anthropic/
+🗓️ 2026-03-12 • 🏷️ hipertextual.com
