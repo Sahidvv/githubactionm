@@ -3384,3 +3384,19 @@ https://hipertextual.com/cine-television/lego-one-piece-fruta-goma-goma-set-2026
 🗓️ 2026-03-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-12
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Google actualiza una función de Android para que tu móvil sea más rápido y eficiente
+Google comenzó a implementar ajustes en el núcleo de Android que harán que tu dispositivo funcione más rápido y le dure más la batería. La última actualización añade una técnica conocida como AutoFDO, que en español se traduciría como "Opti…
+https://hipertextual.com/mobile/android-mas-rapido-optimizacion-autofdo/
+🗓️ 2026-03-11 • 🏷️ hipertextual.com
+
+---

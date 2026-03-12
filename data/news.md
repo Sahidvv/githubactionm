@@ -3811,3 +3811,9 @@ https://www.muycomputer.com/2026/03/11/los-juegos-descargados-en-steam-durante-2
 Kate Winslet viajará a la Tierra Media para unirse al reparto de El Señor de los Anillos: La Caza de Gollum. Según recoge Deadline, la actriz británica tendrá el rol femenino principal en la nueva cinta dirigida por Andy Serkis. Winslet se …
 https://hipertextual.com/cine-television/kate-winslet-actriz-senor-de-los-anillos-the-hunt-for-gollum/
 🗓️ 2026-03-11 • 🏷️ hipertextual.com
+
+### 2026-03-12T03:31:40.508Z
+📰 Google actualiza una función de Android para que tu móvil sea más rápido y eficiente
+Google comenzó a implementar ajustes en el núcleo de Android que harán que tu dispositivo funcione más rápido y le dure más la batería. La última actualización añade una técnica conocida como AutoFDO, que en español se traduciría como "Opti…
+https://hipertextual.com/mobile/android-mas-rapido-optimizacion-autofdo/
+🗓️ 2026-03-11 • 🏷️ hipertextual.com
