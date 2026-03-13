@@ -3835,3 +3835,9 @@ https://hipertextual.com/inteligencia-artificial/claude-graficos-diagramas-inter
 Adobe ha lanzado una nueva función para Photoshop capaz de convertir imágenes 2D en 3D con ayuda de la IA. Esta característica permite tomar una imagen plana y rotarla como si se tratara de un modelo tridimensional. La primera beta ya está …
 https://hipertextual.com/software/photoshop-ia-imagenes-2d-3d/
 🗓️ 2026-03-12 • 🏷️ hipertextual.com
+
+### 2026-03-13T14:00:18.268Z
+📰 Windows 11 se prepara para soportar monitores de más de 1.000 Hz
+La tasa de refresco de los monitores ha mejorado mucho en los últimos años. Lo que conocemos como resolución temporal ha pasado del estándar de 60 Hz a un nivel en el que los 144 Hz ya son algo normal, gracias sobre todo a la importante baj…
+https://www.muycomputer.com/2026/03/13/windows-11-se-prepara-para-soportar-monitores-de-mas-de-1-000-hz/
+🗓️ 2026-03-13 • 🏷️ muycomputer.com
