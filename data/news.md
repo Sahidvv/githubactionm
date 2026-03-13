@@ -3829,3 +3829,9 @@ https://www.muycomputer.com/2026/03/12/el-fritzbox-7690-baja-de-precio-pero-mant
 Anthropic ha actualizado Claude con una nueva función que le permite generar gráficos, diagramas y otras visualizaciones dentro de la conversación. Esta función busca que las personas puedan comprender conceptos complejos a través de imágen…
 https://hipertextual.com/inteligencia-artificial/claude-graficos-diagramas-interactivos-anthropic/
 🗓️ 2026-03-12 • 🏷️ hipertextual.com
+
+### 2026-03-13T03:28:15.283Z
+📰 Photoshop añade una IA que transforma tus fotos en modelos 3D
+Adobe ha lanzado una nueva función para Photoshop capaz de convertir imágenes 2D en 3D con ayuda de la IA. Esta característica permite tomar una imagen plana y rotarla como si se tratara de un modelo tridimensional. La primera beta ya está …
+https://hipertextual.com/software/photoshop-ia-imagenes-2d-3d/
+🗓️ 2026-03-12 • 🏷️ hipertextual.com

@@ -3400,3 +3400,19 @@ https://hipertextual.com/mobile/android-mas-rapido-optimizacion-autofdo/
 🗓️ 2026-03-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-13
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Photoshop añade una IA que transforma tus fotos en modelos 3D
+Adobe ha lanzado una nueva función para Photoshop capaz de convertir imágenes 2D en 3D con ayuda de la IA. Esta característica permite tomar una imagen plana y rotarla como si se tratara de un modelo tridimensional. La primera beta ya está …
+https://hipertextual.com/software/photoshop-ia-imagenes-2d-3d/
+🗓️ 2026-03-12 • 🏷️ hipertextual.com
+
+---
