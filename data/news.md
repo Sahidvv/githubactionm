@@ -3841,3 +3841,9 @@ https://hipertextual.com/software/photoshop-ia-imagenes-2d-3d/
 La tasa de refresco de los monitores ha mejorado mucho en los últimos años. Lo que conocemos como resolución temporal ha pasado del estándar de 60 Hz a un nivel en el que los 144 Hz ya son algo normal, gracias sobre todo a la importante baj…
 https://www.muycomputer.com/2026/03/13/windows-11-se-prepara-para-soportar-monitores-de-mas-de-1-000-hz/
 🗓️ 2026-03-13 • 🏷️ muycomputer.com
+
+### 2026-03-13T19:31:01.891Z
+📰 Ni Samsung ni Xiaomi: el Motorola Edge 70 Fusion+ es el nuevo rey de la gama media
+A unos días de presentar el Edge 70 Fusion en MWC 2026, Motorola vuelve a la carga con un modelo Plus con un procesador más potente. El nuevo Motorola Edge 70 Fusion+ debutó en América Latina y viene con un Snapdragon 7s Gen 4 que ofrece un…
+https://hipertextual.com/mobile/motorola-edge-70-fusion-plus-caracteristicas-precio/
+🗓️ 2026-03-13 • 🏷️ hipertextual.com
