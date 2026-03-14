@@ -3859,3 +3859,9 @@ https://hipertextual.com/cine-television/amazon-prime-video-sin-anuncios-aumento
 Que Claude es uno de los mejores chatbots de inteligencia artificial disponibles actualmente, no es novedad. Es cierto que ChatGPT y Gemini suelen acaparar la mayoría de los titulares, pero la herramienta de Anthropic es de lo más top que p…
 https://hipertextual.com/inteligencia-artificial/como-importar-memoria-chatgpt-gemini-claude/
 🗓️ 2026-03-14 • 🏷️ hipertextual.com
+
+### 2026-03-14T19:27:37.985Z
+📰 Si te gustó ‘La Mesías’, esta es la película que debes ver
+La Mesías se estrenó en 2023 y sorprendió, escandalizó y dejó una larga sombra de preguntas. En especial, por la forma en que la producción a cargo de Los Javis, exploró en los lugares más tenebrosos de la fe. Ahora, El testamento de Ann Le…
+https://hipertextual.com/cine-television/si-te-gusto-la-mesias-esta-es-la-pelicula-que-debes-ver/
+🗓️ 2026-03-14 • 🏷️ hipertextual.com
