@@ -3416,3 +3416,19 @@ https://hipertextual.com/software/photoshop-ia-imagenes-2d-3d/
 🗓️ 2026-03-12 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-14
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Amazon subirá el precio de Prime Video sin anuncios muy pronto
+Amazon subirá de precio el complemento adicional que te permite ver películas y series de Prime Video sin anuncios. La compañía anunció que aplicará un incremento considerable a partir del próximo mes. El ajuste llega con un cambio de nombr…
+https://hipertextual.com/cine-television/amazon-prime-video-sin-anuncios-aumento-precio-2026/
+🗓️ 2026-03-13 • 🏷️ hipertextual.com
+
+---
