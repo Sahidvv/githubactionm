@@ -3871,3 +3871,9 @@ https://hipertextual.com/cine-television/si-te-gusto-la-mesias-esta-es-la-pelicu
 Freepik nació en 2012 como un banco de imágenes en Málaga y hoy es la única empresa europea entre las quince webs de inteligencia artificial más visitadas del planeta¿ChatGPT te hace clickbait? Se llama “mierdificación” y acaba de llegar a …
 https://www.eldiario.es/tecnologia/web-europea-ia-usada-mundo-malaguena-si-estuvieramos-madrid-conoceria-mundo_1_13062851.html
 🗓️ 2026-03-14 • 🏷️ eldiario.es
+
+### 2026-03-15T13:49:19.462Z
+📰 ¿Android te va lento? Te contamos cómo hacer un reinicio inteligente de tu móvil
+Si dependes a diario de tu móvil, no hay peor cosa que se ponga pesado. Esto puede ocurrir por muchos motivos, aunque por lo general sucede cuando lo cargamos de apps, fotos, vídeos u otros datos. Lo bueno es que si Android se pone lento, s…
+https://hipertextual.com/mobile/android-lento-reinicio-inteligente/
+🗓️ 2026-03-15 • 🏷️ hipertextual.com
