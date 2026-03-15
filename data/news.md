@@ -3877,3 +3877,9 @@ https://www.eldiario.es/tecnologia/web-europea-ia-usada-mundo-malaguena-si-estuv
 Si dependes a diario de tu móvil, no hay peor cosa que se ponga pesado. Esto puede ocurrir por muchos motivos, aunque por lo general sucede cuando lo cargamos de apps, fotos, vídeos u otros datos. Lo bueno es que si Android se pone lento, s…
 https://hipertextual.com/mobile/android-lento-reinicio-inteligente/
 🗓️ 2026-03-15 • 🏷️ hipertextual.com
+
+### 2026-03-15T19:28:03.290Z
+📰 De qué va ‘Vladimir’, la escandalosa serie de Netflix que ha levantado polémica
+Vladimir, la más reciente serie de Netflix, es un cuidadoso equilibrio entre varios temas polémicos. Por un lado, el despertar sexual de las mujeres en la edad madura, el poder femenino en centros académicos y la infidelidad. Al otro, la ca…
+https://hipertextual.com/cine-television/de-que-va-vladimir-la-escandalosa-serie-de-netflix-que-ha-levantado-polemica/
+🗓️ 2026-03-15 • 🏷️ hipertextual.com
