@@ -3865,3 +3865,9 @@ https://hipertextual.com/inteligencia-artificial/como-importar-memoria-chatgpt-g
 La Mesías se estrenó en 2023 y sorprendió, escandalizó y dejó una larga sombra de preguntas. En especial, por la forma en que la producción a cargo de Los Javis, exploró en los lugares más tenebrosos de la fe. Ahora, El testamento de Ann Le…
 https://hipertextual.com/cine-television/si-te-gusto-la-mesias-esta-es-la-pelicula-que-debes-ver/
 🗓️ 2026-03-14 • 🏷️ hipertextual.com
+
+### 2026-03-15T03:49:59.001Z
+📰 La web europea de IA más usada del mundo es malagueña: "Si estuviéramos en Madrid nos conocería todo el mundo"
+Freepik nació en 2012 como un banco de imágenes en Málaga y hoy es la única empresa europea entre las quince webs de inteligencia artificial más visitadas del planeta¿ChatGPT te hace clickbait? Se llama “mierdificación” y acaba de llegar a …
+https://www.eldiario.es/tecnologia/web-europea-ia-usada-mundo-malaguena-si-estuvieramos-madrid-conoceria-mundo_1_13062851.html
+🗓️ 2026-03-14 • 🏷️ eldiario.es

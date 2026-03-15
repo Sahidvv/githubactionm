@@ -3432,3 +3432,19 @@ https://hipertextual.com/cine-television/amazon-prime-video-sin-anuncios-aumento
 🗓️ 2026-03-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-15
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La web europea de IA más usada del mundo es malagueña: "Si estuviéramos en Madrid nos conocería todo el mundo"
+Freepik nació en 2012 como un banco de imágenes en Málaga y hoy es la única empresa europea entre las quince webs de inteligencia artificial más visitadas del planeta¿ChatGPT te hace clickbait? Se llama “mierdificación” y acaba de llegar a …
+https://www.eldiario.es/tecnologia/web-europea-ia-usada-mundo-malaguena-si-estuvieramos-madrid-conoceria-mundo_1_13062851.html
+🗓️ 2026-03-14 • 🏷️ eldiario.es
+
+---
