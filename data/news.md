@@ -3895,3 +3895,9 @@ https://hipertextual.com/cine-television/por-que-sean-penn-no-acudio-a-los-premi
 Tras el reciente retraso en el lanzamiento del modo adulto de ChatGPT, se han filtrado nuevos detalles sobre su presunto funcionamiento. Pero no solo eso, pues también se conocieron detalles de la creciente resistencia interna hacia este pl…
 https://hipertextual.com/inteligencia-artificial/modo-adulto-chatgpt-polemica/
 🗓️ 2026-03-16 • 🏷️ hipertextual.com
+
+### 2026-03-16T19:52:11.834Z
+📰 NVIDIA da un golpe sobre la mesa con el nuevo DLSS 5. Tus juegos se verán más realistas que nunca
+NVIDIA acaba de sorprender a todos con la presentación de DLSS 5, la nueva generación de su tecnología gráfica. En este caso, ya no se limita a ser un mero sistema de escalado y generación de fotogramas, sino que también saca provecho de la…
+https://hipertextual.com/videojuegos/nvidia-dlss-5/
+🗓️ 2026-03-16 • 🏷️ hipertextual.com
