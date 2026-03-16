@@ -3889,3 +3889,9 @@ https://hipertextual.com/cine-television/de-que-va-vladimir-la-escandalosa-serie
 El actor Sean Penn ha ganado su tercera estatuilla dorada en los Premios Oscar 2026 por su papel en Una batalla tras otra. Sin embargo, el actor no acudió a la ceremonia, dejando uno de los momentos más curiosos de la gala. Una situación qu…
 https://hipertextual.com/cine-television/por-que-sean-penn-no-acudio-a-los-premios-oscar-2026/
 🗓️ 2026-03-16 • 🏷️ hipertextual.com
+
+### 2026-03-16T14:20:40.504Z
+📰 El modo adulto de ChatGPT no podrá generar porno, aunque eso no evita una nueva polémica dentro de OpenAI
+Tras el reciente retraso en el lanzamiento del modo adulto de ChatGPT, se han filtrado nuevos detalles sobre su presunto funcionamiento. Pero no solo eso, pues también se conocieron detalles de la creciente resistencia interna hacia este pl…
+https://hipertextual.com/inteligencia-artificial/modo-adulto-chatgpt-polemica/
+🗓️ 2026-03-16 • 🏷️ hipertextual.com
