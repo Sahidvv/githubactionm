@@ -3883,3 +3883,9 @@ https://hipertextual.com/mobile/android-lento-reinicio-inteligente/
 Vladimir, la más reciente serie de Netflix, es un cuidadoso equilibrio entre varios temas polémicos. Por un lado, el despertar sexual de las mujeres en la edad madura, el poder femenino en centros académicos y la infidelidad. Al otro, la ca…
 https://hipertextual.com/cine-television/de-que-va-vladimir-la-escandalosa-serie-de-netflix-que-ha-levantado-polemica/
 🗓️ 2026-03-15 • 🏷️ hipertextual.com
+
+### 2026-03-16T03:53:57.305Z
+📰 ¿Por qué Sean Penn no acudió a los Premios Oscar 2026?
+El actor Sean Penn ha ganado su tercera estatuilla dorada en los Premios Oscar 2026 por su papel en Una batalla tras otra. Sin embargo, el actor no acudió a la ceremonia, dejando uno de los momentos más curiosos de la gala. Una situación qu…
+https://hipertextual.com/cine-television/por-que-sean-penn-no-acudio-a-los-premios-oscar-2026/
+🗓️ 2026-03-16 • 🏷️ hipertextual.com

@@ -3448,3 +3448,19 @@ https://www.eldiario.es/tecnologia/web-europea-ia-usada-mundo-malaguena-si-estuv
 🗓️ 2026-03-14 • 🏷️ eldiario.es
 
 ---
+## 2026-03-16
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 ¿Por qué Sean Penn no acudió a los Premios Oscar 2026?
+El actor Sean Penn ha ganado su tercera estatuilla dorada en los Premios Oscar 2026 por su papel en Una batalla tras otra. Sin embargo, el actor no acudió a la ceremonia, dejando uno de los momentos más curiosos de la gala. Una situación qu…
+https://hipertextual.com/cine-television/por-que-sean-penn-no-acudio-a-los-premios-oscar-2026/
+🗓️ 2026-03-16 • 🏷️ hipertextual.com
+
+---
