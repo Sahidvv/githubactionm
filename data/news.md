@@ -3907,3 +3907,9 @@ https://hipertextual.com/videojuegos/nvidia-dlss-5/
 Si bien la temporada 3 de The Last of Us todavía está bastante lejos de llegar a la pantalla de HBO y HBO Max, poco a poco empieza a tomar forma. Horas atrás se han confirmado dos nuevos fichajes en su reparto, mientras que también se ha ra…
 https://hipertextual.com/cine-television/the-last-of-us-confirma-dos-nuevos-fichajes-para-su-temporada-3/
 🗓️ 2026-03-16 • 🏷️ hipertextual.com
+
+### 2026-03-17T14:18:22.614Z
+📰 Samsung está pagando a los usuarios del Galaxy S26 Ultra para que no lo devuelvan
+El Galaxy S26 Ultra fue presentado oficialmente el 25 de febrero, y ya se encuentra disponible en España con un precio de partida de 1.449 euros. ¿Vale la pena? La respuesta dependerá de a quién le preguntes, y del medio o analista que util…
+https://www.muycomputer.com/2026/03/17/samsung-esta-pagando-a-los-usuarios-del-galaxy-s26-ultra-para-que-no-lo-devuelvan/
+🗓️ 2026-03-17 • 🏷️ muycomputer.com
