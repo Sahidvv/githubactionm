@@ -3901,3 +3901,9 @@ https://hipertextual.com/inteligencia-artificial/modo-adulto-chatgpt-polemica/
 NVIDIA acaba de sorprender a todos con la presentación de DLSS 5, la nueva generación de su tecnología gráfica. En este caso, ya no se limita a ser un mero sistema de escalado y generación de fotogramas, sino que también saca provecho de la…
 https://hipertextual.com/videojuegos/nvidia-dlss-5/
 🗓️ 2026-03-16 • 🏷️ hipertextual.com
+
+### 2026-03-17T03:33:14.128Z
+📰 &#8216;The Last of Us&#8217; confirma dos nuevos fichajes para su temporada 3
+Si bien la temporada 3 de The Last of Us todavía está bastante lejos de llegar a la pantalla de HBO y HBO Max, poco a poco empieza a tomar forma. Horas atrás se han confirmado dos nuevos fichajes en su reparto, mientras que también se ha ra…
+https://hipertextual.com/cine-television/the-last-of-us-confirma-dos-nuevos-fichajes-para-su-temporada-3/
+🗓️ 2026-03-16 • 🏷️ hipertextual.com

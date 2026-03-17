@@ -3464,3 +3464,19 @@ https://hipertextual.com/cine-television/por-que-sean-penn-no-acudio-a-los-premi
 🗓️ 2026-03-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-17
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 &#8216;The Last of Us&#8217; confirma dos nuevos fichajes para su temporada 3
+Si bien la temporada 3 de The Last of Us todavía está bastante lejos de llegar a la pantalla de HBO y HBO Max, poco a poco empieza a tomar forma. Horas atrás se han confirmado dos nuevos fichajes en su reparto, mientras que también se ha ra…
+https://hipertextual.com/cine-television/the-last-of-us-confirma-dos-nuevos-fichajes-para-su-temporada-3/
+🗓️ 2026-03-16 • 🏷️ hipertextual.com
+
+---
