@@ -3913,3 +3913,9 @@ https://hipertextual.com/cine-television/the-last-of-us-confirma-dos-nuevos-fich
 El Galaxy S26 Ultra fue presentado oficialmente el 25 de febrero, y ya se encuentra disponible en España con un precio de partida de 1.449 euros. ¿Vale la pena? La respuesta dependerá de a quién le preguntes, y del medio o analista que util…
 https://www.muycomputer.com/2026/03/17/samsung-esta-pagando-a-los-usuarios-del-galaxy-s26-ultra-para-que-no-lo-devuelvan/
 🗓️ 2026-03-17 • 🏷️ muycomputer.com
+
+### 2026-03-17T19:53:41.577Z
+📰 ¿No te funciona el Bluetooth en Windows? Instala esta actualización ya mismo para corregirlo
+Microsoft ha lanzado una actualización de emergencia para corregir un fallo en Windows 11 que deja inservible el Bluetooth. El parche, identificado como KB5084897, soluciona un error que hacía desaparecer los dispositivos conectados e imped…
+https://hipertextual.com/software/windows-11-actualizacion-fallo-bluetooth/
+🗓️ 2026-03-17 • 🏷️ hipertextual.com
