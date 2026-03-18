@@ -3919,3 +3919,9 @@ https://www.muycomputer.com/2026/03/17/samsung-esta-pagando-a-los-usuarios-del-g
 Microsoft ha lanzado una actualización de emergencia para corregir un fallo en Windows 11 que deja inservible el Bluetooth. El parche, identificado como KB5084897, soluciona un error que hacía desaparecer los dispositivos conectados e imped…
 https://hipertextual.com/software/windows-11-actualizacion-fallo-bluetooth/
 🗓️ 2026-03-17 • 🏷️ hipertextual.com
+
+### 2026-03-18T03:40:01.459Z
+📰 Spotify por fin permite audio sin pérdidas en PC: así cambia el sonido de tus canciones
+Spotify ha activado la función que los audiófilos han esperado durante años. La compañía anunció el Exclusive Mode (Modo Exclusivo), un agregado de la app de escritorio que permite reproducir música con la mayor calidad posible. Al activarl…
+https://hipertextual.com/software/spotify-por-fin-permite-audio-sin-perdidas-en-pc-asi-cambia-el-sonido-de-tus-canciones/
+🗓️ 2026-03-17 • 🏷️ hipertextual.com

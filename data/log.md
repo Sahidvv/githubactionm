@@ -3480,3 +3480,19 @@ https://hipertextual.com/cine-television/the-last-of-us-confirma-dos-nuevos-fich
 🗓️ 2026-03-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-18
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Spotify por fin permite audio sin pérdidas en PC: así cambia el sonido de tus canciones
+Spotify ha activado la función que los audiófilos han esperado durante años. La compañía anunció el Exclusive Mode (Modo Exclusivo), un agregado de la app de escritorio que permite reproducir música con la mayor calidad posible. Al activarl…
+https://hipertextual.com/software/spotify-por-fin-permite-audio-sin-perdidas-en-pc-asi-cambia-el-sonido-de-tus-canciones/
+🗓️ 2026-03-17 • 🏷️ hipertextual.com
+
+---
