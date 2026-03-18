@@ -3925,3 +3925,9 @@ https://hipertextual.com/software/windows-11-actualizacion-fallo-bluetooth/
 Spotify ha activado la función que los audiófilos han esperado durante años. La compañía anunció el Exclusive Mode (Modo Exclusivo), un agregado de la app de escritorio que permite reproducir música con la mayor calidad posible. Al activarl…
 https://hipertextual.com/software/spotify-por-fin-permite-audio-sin-perdidas-en-pc-asi-cambia-el-sonido-de-tus-canciones/
 🗓️ 2026-03-17 • 🏷️ hipertextual.com
+
+### 2026-03-18T14:21:20.279Z
+📰 Este SSD cuesta más que un coche: un lujo al alcance de unos pocos
+Los precios de la memoria NAND Flash llevan tiempo disparados, y esto ha hecho que comprar un SSD sea hoy hasta el triple de caro que hace solo unos meses. Los modelos de 1 TB han pasado de costar entre 50 y 60 euros a superar los 150 euros…
+https://www.muycomputer.com/2026/03/18/este-ssd-cuesta-mas-que-un-coche-un-lujo-al-alcance-de-unos-pocos/
+🗓️ 2026-03-18 • 🏷️ muycomputer.com
