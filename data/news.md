@@ -3931,3 +3931,9 @@ https://hipertextual.com/software/spotify-por-fin-permite-audio-sin-perdidas-en-
 Los precios de la memoria NAND Flash llevan tiempo disparados, y esto ha hecho que comprar un SSD sea hoy hasta el triple de caro que hace solo unos meses. Los modelos de 1 TB han pasado de costar entre 50 y 60 euros a superar los 150 euros…
 https://www.muycomputer.com/2026/03/18/este-ssd-cuesta-mas-que-un-coche-un-lujo-al-alcance-de-unos-pocos/
 🗓️ 2026-03-18 • 🏷️ muycomputer.com
+
+### 2026-03-18T19:49:29.070Z
+📰 Cientos de millones de iPhones pueden ser hackeados con solo visitar una web
+A unas semanas de que Google descubriera un kit para hackear el iPhone, una nueva herramienta ha salido a la luz. Investigadores de Google, iVerify y Lookout revelaron la existencia de DarkSword, una técnica que permite vulnerar los disposi…
+https://hipertextual.com/seguridad/darksword-exploit-hackeo-iphone-ios-18/
+🗓️ 2026-03-18 • 🏷️ hipertextual.com
