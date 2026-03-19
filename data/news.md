@@ -3943,3 +3943,9 @@ https://hipertextual.com/seguridad/darksword-exploit-hackeo-iphone-ios-18/
 La Guardia Revolucionaria declara "nuevos objetivos" a empresas como Google, Microsoft o Nvidia, cuyas instalaciones considera "infraestructura tecnológica enemiga". Ya ha atacado varios centos de datos de Amazon en la regiónIsrael enfurece…
 https://www.eldiario.es/tecnologia/contratos-militares-inversiones-golfo-convierten-grandes-tecnologicas-objetivo-iran_1_13075000.html
 🗓️ 2026-03-18 • 🏷️ eldiario.es
+
+### 2026-03-19T14:07:15.590Z
+📰 Zuckerberg se pule 80.000 millones para terminar cerrando el desastre del Metaverso
+Estaba cantado. El desastre del Metaverso culmina con el cierre oficial de Horizon Worlds el próximo 15 de junio. La red social de realidad virtual de Meta era clave para la transición a otra de esas tecnologías que el marketing aseguró que…
+https://www.muycomputer.com/2026/03/19/zuckerberg-se-pule-80-000-millones-para-terminar-cerrando-el-desastre-del-metaverso/
+🗓️ 2026-03-19 • 🏷️ muycomputer.com
