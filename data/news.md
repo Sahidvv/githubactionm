@@ -3949,3 +3949,9 @@ https://www.eldiario.es/tecnologia/contratos-militares-inversiones-golfo-convier
 Estaba cantado. El desastre del Metaverso culmina con el cierre oficial de Horizon Worlds el próximo 15 de junio. La red social de realidad virtual de Meta era clave para la transición a otra de esas tecnologías que el marketing aseguró que…
 https://www.muycomputer.com/2026/03/19/zuckerberg-se-pule-80-000-millones-para-terminar-cerrando-el-desastre-del-metaverso/
 🗓️ 2026-03-19 • 🏷️ muycomputer.com
+
+### 2026-03-19T19:46:14.166Z
+📰 Este malware para Android se disfraza de IPTV y roba tus datos sin que lo notes
+Un nuevo malware para Android está circulando activamente y puede poner en riesgo tus cuentas bancarias, contraseñas y hasta el contenido de tus notas. Conocido como Perseus, este malware se disfraza de aplicaciones de IPTV para engañar a s…
+https://hipertextual.com/seguridad/perseus-malware-android-iptv/
+🗓️ 2026-03-19 • 🏷️ hipertextual.com
