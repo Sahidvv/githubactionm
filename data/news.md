@@ -3937,3 +3937,9 @@ https://www.muycomputer.com/2026/03/18/este-ssd-cuesta-mas-que-un-coche-un-lujo-
 A unas semanas de que Google descubriera un kit para hackear el iPhone, una nueva herramienta ha salido a la luz. Investigadores de Google, iVerify y Lookout revelaron la existencia de DarkSword, una técnica que permite vulnerar los disposi…
 https://hipertextual.com/seguridad/darksword-exploit-hackeo-iphone-ios-18/
 🗓️ 2026-03-18 • 🏷️ hipertextual.com
+
+### 2026-03-19T03:39:46.852Z
+📰 Los contratos militares y sus inversiones en el Golfo convierten a las grandes tecnológicas en objetivo de Irán
+La Guardia Revolucionaria declara "nuevos objetivos" a empresas como Google, Microsoft o Nvidia, cuyas instalaciones considera "infraestructura tecnológica enemiga". Ya ha atacado varios centos de datos de Amazon en la regiónIsrael enfurece…
+https://www.eldiario.es/tecnologia/contratos-militares-inversiones-golfo-convierten-grandes-tecnologicas-objetivo-iran_1_13075000.html
+🗓️ 2026-03-18 • 🏷️ eldiario.es

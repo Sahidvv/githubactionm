@@ -3496,3 +3496,19 @@ https://hipertextual.com/software/spotify-por-fin-permite-audio-sin-perdidas-en-
 🗓️ 2026-03-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-19
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Los contratos militares y sus inversiones en el Golfo convierten a las grandes tecnológicas en objetivo de Irán
+La Guardia Revolucionaria declara "nuevos objetivos" a empresas como Google, Microsoft o Nvidia, cuyas instalaciones considera "infraestructura tecnológica enemiga". Ya ha atacado varios centos de datos de Amazon en la regiónIsrael enfurece…
+https://www.eldiario.es/tecnologia/contratos-militares-inversiones-golfo-convierten-grandes-tecnologicas-objetivo-iran_1_13075000.html
+🗓️ 2026-03-18 • 🏷️ eldiario.es
+
+---
