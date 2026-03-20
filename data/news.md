@@ -3961,3 +3961,9 @@ https://hipertextual.com/seguridad/perseus-malware-android-iptv/
 Google ha lanzado una solución para el sideloading que permite instalar apps fuera de la Play Store sin sacrificar las protecciones contra estafas. La medida llega a unos meses de que el gigante tecnológico resolviera su batalla legal con E…
 https://hipertextual.com/mobile/google-flujo-avanzado-sideloading-android/
 🗓️ 2026-03-19 • 🏷️ hipertextual.com
+
+### 2026-03-20T14:01:04.799Z
+📰 Las mejores ofertas de la semana: especial Apple
+Como cada viernes os traemos una selección con las mejores ofertas de la semana. En esta ocasión PcComponentes tiene abierta una campaña especial con ofertas en productos Apple, así que os hemos preparado una selección de ofertas en iPhone,…
+https://www.muycomputer.com/2026/03/20/las-mejores-ofertas-de-la-semana-especial-apple/
+🗓️ 2026-03-20 • 🏷️ muycomputer.com
