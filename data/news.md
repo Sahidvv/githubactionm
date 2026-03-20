@@ -3955,3 +3955,9 @@ https://www.muycomputer.com/2026/03/19/zuckerberg-se-pule-80-000-millones-para-t
 Un nuevo malware para Android está circulando activamente y puede poner en riesgo tus cuentas bancarias, contraseñas y hasta el contenido de tus notas. Conocido como Perseus, este malware se disfraza de aplicaciones de IPTV para engañar a s…
 https://hipertextual.com/seguridad/perseus-malware-android-iptv/
 🗓️ 2026-03-19 • 🏷️ hipertextual.com
+
+### 2026-03-20T03:30:09.057Z
+📰 Google rediseña el sideloading en Android para que puedas instalar apps sin caer en una estafa
+Google ha lanzado una solución para el sideloading que permite instalar apps fuera de la Play Store sin sacrificar las protecciones contra estafas. La medida llega a unos meses de que el gigante tecnológico resolviera su batalla legal con E…
+https://hipertextual.com/mobile/google-flujo-avanzado-sideloading-android/
+🗓️ 2026-03-19 • 🏷️ hipertextual.com
