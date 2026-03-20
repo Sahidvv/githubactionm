@@ -3967,3 +3967,9 @@ https://hipertextual.com/mobile/google-flujo-avanzado-sideloading-android/
 Como cada viernes os traemos una selección con las mejores ofertas de la semana. En esta ocasión PcComponentes tiene abierta una campaña especial con ofertas en productos Apple, así que os hemos preparado una selección de ofertas en iPhone,…
 https://www.muycomputer.com/2026/03/20/las-mejores-ofertas-de-la-semana-especial-apple/
 🗓️ 2026-03-20 • 🏷️ muycomputer.com
+
+### 2026-03-20T19:37:06.662Z
+📰 Windows 11 la lía con su última actualización y rompe Office y otras aplicaciones de Microsoft
+Un nuevo mes que termina y una actualización de Windows 11 que da problemas. A estas alturas del partido ya no sorprende que los parches mensuales causen fallos a cientos o miles de ordenadores. En esta ocasión, los usuarios están reportand…
+https://hipertextual.com/software/actualizacion-kb5079473-windows-11-rompe-inicio-sesion-office/
+🗓️ 2026-03-20 • 🏷️ hipertextual.com
