@@ -3979,3 +3979,9 @@ https://hipertextual.com/software/actualizacion-kb5079473-windows-11-rompe-inici
 Microsoft ha aceptado la dura realidad: Windows es un sistema operativo cargado de problemas que se incrementan con cada actualización. Tras un inicio de 2026 complicado, el gigante tecnológico se comprometió a mejorar la calidad de Windows…
 https://hipertextual.com/software/microsoft-plan-mejoras-calidad-windows-11/
 🗓️ 2026-03-20 • 🏷️ hipertextual.com
+
+### 2026-03-21T13:42:35.997Z
+📰 5 cosas que Claude puede hacer y seguro no sabías
+Con una popularidad que crece día tras día, Claude ya no solo es el chatbot preferido por los programadores. La IA de Anthropic tiene muchas (y muy buenas) características que la convierten en la aliada ideal de cualquier persona. Es cierto…
+https://hipertextual.com/inteligencia-artificial/5-cosas-que-claude-puede-hacer-y-seguro-no-sabias/
+🗓️ 2026-03-21 • 🏷️ hipertextual.com
