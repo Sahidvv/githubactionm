@@ -3985,3 +3985,9 @@ https://hipertextual.com/software/microsoft-plan-mejoras-calidad-windows-11/
 Con una popularidad que crece día tras día, Claude ya no solo es el chatbot preferido por los programadores. La IA de Anthropic tiene muchas (y muy buenas) características que la convierten en la aliada ideal de cualquier persona. Es cierto…
 https://hipertextual.com/inteligencia-artificial/5-cosas-que-claude-puede-hacer-y-seguro-no-sabias/
 🗓️ 2026-03-21 • 🏷️ hipertextual.com
+
+### 2026-03-21T19:24:59.737Z
+📰 Reportan fallos de pantalla en los Pixel 10 Pro: la maldición sin fin de los móviles de Google
+Que un teléfono nuevo o con poco uso falle, no le cae en gracia a nadie. Tampoco cuando diferentes generaciones de una marca o línea de aparatos sufren el mismo problema, o leves variaciones de este. Y eso es lo que está ocurriendo con los …
+https://hipertextual.com/mobile/problema-pantalla-pixel-10-pro-y-pro-xl/
+🗓️ 2026-03-21 • 🏷️ hipertextual.com
