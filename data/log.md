@@ -3528,3 +3528,19 @@ https://hipertextual.com/mobile/google-flujo-avanzado-sideloading-android/
 🗓️ 2026-03-19 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-21
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Microsoft admite los problemas de Windows 11 y anuncia un plan para transformarlo por completo
+Microsoft ha aceptado la dura realidad: Windows es un sistema operativo cargado de problemas que se incrementan con cada actualización. Tras un inicio de 2026 complicado, el gigante tecnológico se comprometió a mejorar la calidad de Windows…
+https://hipertextual.com/software/microsoft-plan-mejoras-calidad-windows-11/
+🗓️ 2026-03-20 • 🏷️ hipertextual.com
+
+---

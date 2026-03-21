@@ -3973,3 +3973,9 @@ https://www.muycomputer.com/2026/03/20/las-mejores-ofertas-de-la-semana-especial
 Un nuevo mes que termina y una actualización de Windows 11 que da problemas. A estas alturas del partido ya no sorprende que los parches mensuales causen fallos a cientos o miles de ordenadores. En esta ocasión, los usuarios están reportand…
 https://hipertextual.com/software/actualizacion-kb5079473-windows-11-rompe-inicio-sesion-office/
 🗓️ 2026-03-20 • 🏷️ hipertextual.com
+
+### 2026-03-21T03:21:35.596Z
+📰 Microsoft admite los problemas de Windows 11 y anuncia un plan para transformarlo por completo
+Microsoft ha aceptado la dura realidad: Windows es un sistema operativo cargado de problemas que se incrementan con cada actualización. Tras un inicio de 2026 complicado, el gigante tecnológico se comprometió a mejorar la calidad de Windows…
+https://hipertextual.com/software/microsoft-plan-mejoras-calidad-windows-11/
+🗓️ 2026-03-20 • 🏷️ hipertextual.com
