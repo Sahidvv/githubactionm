@@ -4003,3 +4003,9 @@ https://hipertextual.com/cine-television/7-villanos-del-anime-que-te-encantaran-
 Minecraft Dungeons II aparece en el horizonte en un momento en el que el universo de Minecraft lleva años intentando expandirse más allá del sandbox original, ya sea con éxitos como su salto a la gran pantalla, o con fracasos como lo fue, t…
 https://www.muycomputer.com/2026/03/22/minecraft-dungeons-ii-llegara-este-ano-a-pc-y-consolas/
 🗓️ 2026-03-22 • 🏷️ muycomputer.com
+
+### 2026-03-22T19:26:37.515Z
+📰 La IA tomará el control de internet en menos de dos años y no podremos evitarlo
+Para 2027, la mayor parte del tráfico en internet no vendrá de personas, sino de máquinas. Según recoge TechCrunch, el CEO de Cloudflare, Matthew Prince, advirtió que los bots de IA están tomando el control de la web a un ritmo desproporcio…
+https://hipertextual.com/inteligencia-artificial/bots-ia-dominaran-trafico-internet-2027/
+🗓️ 2026-03-22 • 🏷️ hipertextual.com
