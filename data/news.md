@@ -3997,3 +3997,9 @@ https://hipertextual.com/mobile/problema-pantalla-pixel-10-pro-y-pro-xl/
 El anime se ha distinguido tradicionalmente por dos cosas. Por un lado, la capacidad para brindar lugar a historias que con frecuencia serían imposibles de encontrar en otros formatos. Del terror al drama, pasando por el romance, sin olvida…
 https://hipertextual.com/cine-television/7-villanos-del-anime-que-te-encantaran-si-lo-tuyo-es-pasar-miedo/
 🗓️ 2026-03-21 • 🏷️ hipertextual.com
+
+### 2026-03-22T13:44:51.945Z
+📰 Minecraft Dungeons II llegará este año a PC y consolas
+Minecraft Dungeons II aparece en el horizonte en un momento en el que el universo de Minecraft lleva años intentando expandirse más allá del sandbox original, ya sea con éxitos como su salto a la gran pantalla, o con fracasos como lo fue, t…
+https://www.muycomputer.com/2026/03/22/minecraft-dungeons-ii-llegara-este-ano-a-pc-y-consolas/
+🗓️ 2026-03-22 • 🏷️ muycomputer.com
