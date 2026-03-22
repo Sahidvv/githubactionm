@@ -3991,3 +3991,9 @@ https://hipertextual.com/inteligencia-artificial/5-cosas-que-claude-puede-hacer-
 Que un teléfono nuevo o con poco uso falle, no le cae en gracia a nadie. Tampoco cuando diferentes generaciones de una marca o línea de aparatos sufren el mismo problema, o leves variaciones de este. Y eso es lo que está ocurriendo con los …
 https://hipertextual.com/mobile/problema-pantalla-pixel-10-pro-y-pro-xl/
 🗓️ 2026-03-21 • 🏷️ hipertextual.com
+
+### 2026-03-22T03:38:45.106Z
+📰 7 villanos del anime que te encantarán si lo tuyo es pasar miedo
+El anime se ha distinguido tradicionalmente por dos cosas. Por un lado, la capacidad para brindar lugar a historias que con frecuencia serían imposibles de encontrar en otros formatos. Del terror al drama, pasando por el romance, sin olvida…
+https://hipertextual.com/cine-television/7-villanos-del-anime-que-te-encantaran-si-lo-tuyo-es-pasar-miedo/
+🗓️ 2026-03-21 • 🏷️ hipertextual.com

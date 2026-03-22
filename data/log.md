@@ -3544,3 +3544,19 @@ https://hipertextual.com/software/microsoft-plan-mejoras-calidad-windows-11/
 🗓️ 2026-03-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-22
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 7 villanos del anime que te encantarán si lo tuyo es pasar miedo
+El anime se ha distinguido tradicionalmente por dos cosas. Por un lado, la capacidad para brindar lugar a historias que con frecuencia serían imposibles de encontrar en otros formatos. Del terror al drama, pasando por el romance, sin olvida…
+https://hipertextual.com/cine-television/7-villanos-del-anime-que-te-encantaran-si-lo-tuyo-es-pasar-miedo/
+🗓️ 2026-03-21 • 🏷️ hipertextual.com
+
+---
