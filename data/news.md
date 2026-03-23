@@ -4015,3 +4015,9 @@ https://hipertextual.com/inteligencia-artificial/bots-ia-dominaran-trafico-inter
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Todos los ganadores de los Oscar 2026. La Academia …
 https://www.muycomputer.com/2026/03/22/los-mejores-contenidos-de-la-semana-en-muycomputer-dxvi/
 🗓️ 2026-03-22 • 🏷️ muycomputer.com
+
+### 2026-03-23T14:15:25.420Z
+📰 La digitalización sigue adelante en las pymes españolas, con avances en cloud, IA y ciberseguridad
+Según el Barómetro de Digitalización de la PYME española de Gigas, la digitalización sigue adelante en las pymes españolas, aunque todavía tienen por delante retos estructurales importantes, además de tener necesidad de tomarse en serio a l…
+https://www.muycomputerpro.com/2026/03/23/digitalizacion-adelante-pymes-espanolas-avances-cloud-ia-ciberseguridad
+🗓️ 2026-03-23 • 🏷️ muycomputerpro.com
