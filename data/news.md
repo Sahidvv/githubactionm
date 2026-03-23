@@ -4021,3 +4021,9 @@ https://www.muycomputer.com/2026/03/22/los-mejores-contenidos-de-la-semana-en-mu
 Según el Barómetro de Digitalización de la PYME española de Gigas, la digitalización sigue adelante en las pymes españolas, aunque todavía tienen por delante retos estructurales importantes, además de tener necesidad de tomarse en serio a l…
 https://www.muycomputerpro.com/2026/03/23/digitalizacion-adelante-pymes-espanolas-avances-cloud-ia-ciberseguridad
 🗓️ 2026-03-23 • 🏷️ muycomputerpro.com
+
+### 2026-03-23T19:49:11.367Z
+📰 Las televisoras europeas exigen frenar el control de Google y Samsung en las Smart TV
+Las grandes cadenas de televisión de Europa han solicitado a la UE que aplique normas más estrictas a las smart TV. Según recoge Reuters, la Asociación de Televisión Comercial y Servicios de Video Bajo Demanda en Europa (ACT) envió una cart…
+https://hipertextual.com/tecnologia/televisoras-europeas-google-samsung-ley-mercados-digitales/
+🗓️ 2026-03-23 • 🏷️ hipertextual.com
