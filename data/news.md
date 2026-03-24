@@ -4033,3 +4033,9 @@ https://hipertextual.com/tecnologia/televisoras-europeas-google-samsung-ley-merc
 Uno de los exploits más peligrosos del mundo para los usuarios de iPhone se ha filtrado. A pocos días de que investigadores de Google y otras firmas de seguridad revelaran la existencia de DarkSword, una versión de esta herramienta apareció…
 https://hipertextual.com/seguridad/darksword-filtrado-github-exploit-iphone-ios-18/
 🗓️ 2026-03-23 • 🏷️ hipertextual.com
+
+### 2026-03-24T14:18:40.428Z
+📰 Windows 11 recibirá estos cambios en 2026: así es como Microsoft quiere mejorar su sistema operativo
+Windows 11 no gusta. Es una afirmación que puede parecer muy rotunda, pero es absolutamente cierta. Que a solo unos meses del final de soporte de Windows 10 este sistema operativo tenga un 40,25% de cuota en Steam es un claro reflejo del fr…
+https://www.muycomputer.com/2026/03/24/windows-11-recibira-estos-cambios-en-2026/
+🗓️ 2026-03-24 • 🏷️ muycomputer.com
