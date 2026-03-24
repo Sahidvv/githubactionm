@@ -4027,3 +4027,9 @@ https://www.muycomputerpro.com/2026/03/23/digitalizacion-adelante-pymes-espanola
 Las grandes cadenas de televisión de Europa han solicitado a la UE que aplique normas más estrictas a las smart TV. Según recoge Reuters, la Asociación de Televisión Comercial y Servicios de Video Bajo Demanda en Europa (ACT) envió una cart…
 https://hipertextual.com/tecnologia/televisoras-europeas-google-samsung-ley-mercados-digitales/
 🗓️ 2026-03-23 • 🏷️ hipertextual.com
+
+### 2026-03-24T03:34:38.871Z
+📰 Actualiza tu iPhone ahora: un peligroso exploit se filtró y cualquiera puede hackearte
+Uno de los exploits más peligrosos del mundo para los usuarios de iPhone se ha filtrado. A pocos días de que investigadores de Google y otras firmas de seguridad revelaran la existencia de DarkSword, una versión de esta herramienta apareció…
+https://hipertextual.com/seguridad/darksword-filtrado-github-exploit-iphone-ios-18/
+🗓️ 2026-03-23 • 🏷️ hipertextual.com

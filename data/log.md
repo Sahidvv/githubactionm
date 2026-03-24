@@ -3576,3 +3576,19 @@ https://www.muycomputer.com/2026/03/22/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-03-22 • 🏷️ muycomputer.com
 
 ---
+## 2026-03-24
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Actualiza tu iPhone ahora: un peligroso exploit se filtró y cualquiera puede hackearte
+Uno de los exploits más peligrosos del mundo para los usuarios de iPhone se ha filtrado. A pocos días de que investigadores de Google y otras firmas de seguridad revelaran la existencia de DarkSword, una versión de esta herramienta apareció…
+https://hipertextual.com/seguridad/darksword-filtrado-github-exploit-iphone-ios-18/
+🗓️ 2026-03-23 • 🏷️ hipertextual.com
+
+---
