@@ -4051,3 +4051,9 @@ https://www.muycomputer.com/2026/03/24/spotify-explora-el-adn-de-tus-canciones-f
 Apple está trabajando en una renovación de Siri que verá la luz este año. Tras meses de rumores, especulaciones y retrasos, la versión de la asistente impulsada por Apple Intelligence está lista para debutar. Según los rumores más recientes…
 https://hipertextual.com/apple/siri-ios-27-app-modo-chat-nuevo-diseno/
 🗓️ 2026-03-24 • 🏷️ hipertextual.com
+
+### 2026-03-25T14:17:38.166Z
+📰 Olvídate de buscar el tiempo en Google: ChatGPT acaba de lanzar la función que llevas años esperando de la IA
+Si te gusta consultar constantemente el tiempo de un lugar y otro hoy tenemos una gran noticia para ti. Puedes ir olvidándote de las apps meteorológicas, las preguntas a Google con "Tiempo en XXXXX" y todos los métodos que tenías hasta ahor…
+https://hipertextual.com/inteligencia-artificial/olvidate-de-buscar-el-tiempo-en-google-chatgpt-acaba-de-lanzar-la-funcion-que-llevas-anos-esperando-de-la-ia/
+🗓️ 2026-03-25 • 🏷️ hipertextual.com
