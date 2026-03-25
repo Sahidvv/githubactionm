@@ -4057,3 +4057,9 @@ https://hipertextual.com/apple/siri-ios-27-app-modo-chat-nuevo-diseno/
 Si te gusta consultar constantemente el tiempo de un lugar y otro hoy tenemos una gran noticia para ti. Puedes ir olvidándote de las apps meteorológicas, las preguntas a Google con "Tiempo en XXXXX" y todos los métodos que tenías hasta ahor…
 https://hipertextual.com/inteligencia-artificial/olvidate-de-buscar-el-tiempo-en-google-chatgpt-acaba-de-lanzar-la-funcion-que-llevas-anos-esperando-de-la-ia/
 🗓️ 2026-03-25 • 🏷️ hipertextual.com
+
+### 2026-03-25T19:46:40.080Z
+📰 Instagram y YouTube tendrán que pagar millones a una joven por arruinar su salud mental
+En un veredicto histórico, Instagram y YouTube tendrán que pagar millones de dólares a una joven de 20 años por arruinar su salud mental. En el marco de un juicio ante un tribunal californiano, el jurado determinó que la red social de Meta …
+https://hipertextual.com/legal/veredicto-juicio-instagram-youtube-adiccion/
+🗓️ 2026-03-25 • 🏷️ hipertextual.com
