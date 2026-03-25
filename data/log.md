@@ -3592,3 +3592,19 @@ https://hipertextual.com/seguridad/darksword-filtrado-github-exploit-iphone-ios-
 🗓️ 2026-03-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-25
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Apple reinventa Siri: llegará con una nueva app y un rediseño total en iOS 27
+Apple está trabajando en una renovación de Siri que verá la luz este año. Tras meses de rumores, especulaciones y retrasos, la versión de la asistente impulsada por Apple Intelligence está lista para debutar. Según los rumores más recientes…
+https://hipertextual.com/apple/siri-ios-27-app-modo-chat-nuevo-diseno/
+🗓️ 2026-03-24 • 🏷️ hipertextual.com
+
+---

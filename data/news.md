@@ -4045,3 +4045,9 @@ https://www.muycomputer.com/2026/03/24/windows-11-recibira-estos-cambios-en-2026
 Spotify lleva años intentando ir más allá de la simple reproducción de canciones. Lo que empezó como una plataforma para escuchar música bajo demanda se ha convertido poco a poco en un ecosistema lleno de herramientas para descubrir artista…
 https://www.muycomputer.com/2026/03/24/spotify-explora-el-adn-de-tus-canciones-favoritas/
 🗓️ 2026-03-24 • 🏷️ muycomputer.com
+
+### 2026-03-25T03:37:20.086Z
+📰 Apple reinventa Siri: llegará con una nueva app y un rediseño total en iOS 27
+Apple está trabajando en una renovación de Siri que verá la luz este año. Tras meses de rumores, especulaciones y retrasos, la versión de la asistente impulsada por Apple Intelligence está lista para debutar. Según los rumores más recientes…
+https://hipertextual.com/apple/siri-ios-27-app-modo-chat-nuevo-diseno/
+🗓️ 2026-03-24 • 🏷️ hipertextual.com
