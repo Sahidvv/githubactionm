@@ -4063,3 +4063,9 @@ https://hipertextual.com/inteligencia-artificial/olvidate-de-buscar-el-tiempo-en
 En un veredicto histórico, Instagram y YouTube tendrán que pagar millones de dólares a una joven de 20 años por arruinar su salud mental. En el marco de un juicio ante un tribunal californiano, el jurado determinó que la red social de Meta …
 https://hipertextual.com/legal/veredicto-juicio-instagram-youtube-adiccion/
 🗓️ 2026-03-25 • 🏷️ hipertextual.com
+
+### 2026-03-26T03:47:29.568Z
+📰 Nintendo rebaja el precio de los juegos digitales de la Switch 2
+Nintendo ha tomado una decisión que muchos jugadores han esperado por décadas. La compañía anunció que rebajará el precio de los juegos digitales exclusivos de Switch 2. Comenzando con Yoshi and the Mysterious Book, todas las versiones desc…
+https://hipertextual.com/videojuegos/nintendo-rebaja-precio-juegos-digitales-switch-2/
+🗓️ 2026-03-25 • 🏷️ hipertextual.com

@@ -3608,3 +3608,19 @@ https://hipertextual.com/apple/siri-ios-27-app-modo-chat-nuevo-diseno/
 🗓️ 2026-03-24 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-26
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Nintendo rebaja el precio de los juegos digitales de la Switch 2
+Nintendo ha tomado una decisión que muchos jugadores han esperado por décadas. La compañía anunció que rebajará el precio de los juegos digitales exclusivos de Switch 2. Comenzando con Yoshi and the Mysterious Book, todas las versiones desc…
+https://hipertextual.com/videojuegos/nintendo-rebaja-precio-juegos-digitales-switch-2/
+🗓️ 2026-03-25 • 🏷️ hipertextual.com
+
+---
