@@ -4075,3 +4075,9 @@ https://hipertextual.com/videojuegos/nintendo-rebaja-precio-juegos-digitales-swi
 NVIDIA ha confirmado las novedades que llegan esta semana a GeForce Now, y tenemos un total de cinco juegos que estarán disponibles en este conocido servicio de juego en la nube. De esos cinco juegos uno es una novedad importante, Screamer.…
 https://www.muycomputer.com/2026/03/26/novedades-de-la-semana-en-geforce-now-nvidia/
 🗓️ 2026-03-26 • 🏷️ muycomputer.com
+
+### 2026-03-26T19:54:29.525Z
+📰 Google lanza una IA que busca por ti mientras le hablas y apuntas con la cámara
+Google anunció el lanzamiento mundial de Search Live, su función de búsqueda conversacional en tiempo real. A partir de hoy, la herramienta llega a todos los idiomas y regiones donde el Modo IA de Google Search está disponible. Search Live …
+https://hipertextual.com/internet/google-search-live-expansion-global/
+🗓️ 2026-03-26 • 🏷️ hipertextual.com
