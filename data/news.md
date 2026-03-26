@@ -4069,3 +4069,9 @@ https://hipertextual.com/legal/veredicto-juicio-instagram-youtube-adiccion/
 Nintendo ha tomado una decisión que muchos jugadores han esperado por décadas. La compañía anunció que rebajará el precio de los juegos digitales exclusivos de Switch 2. Comenzando con Yoshi and the Mysterious Book, todas las versiones desc…
 https://hipertextual.com/videojuegos/nintendo-rebaja-precio-juegos-digitales-switch-2/
 🗓️ 2026-03-25 • 🏷️ hipertextual.com
+
+### 2026-03-26T14:24:33.912Z
+📰 Novedades de la semana en GeForce Now
+NVIDIA ha confirmado las novedades que llegan esta semana a GeForce Now, y tenemos un total de cinco juegos que estarán disponibles en este conocido servicio de juego en la nube. De esos cinco juegos uno es una novedad importante, Screamer.…
+https://www.muycomputer.com/2026/03/26/novedades-de-la-semana-en-geforce-now-nvidia/
+🗓️ 2026-03-26 • 🏷️ muycomputer.com
