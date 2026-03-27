@@ -4093,3 +4093,9 @@ https://hipertextual.com/apple/apple-mata-mac-pro-2026/
 Chris Evans, que este mismo año volverá a interpretar al Capitán América en Avengers: Doomsday, acaba de confirmar que también estará en la siguiente entrega, Avengers: Secret Wars. La película supondrá el cierre definitivo de la Saga del M…
 https://hipertextual.com/cine-television/confirmado-chris-evans-anuncia-su-regreso-como-capitan-america-en-avengers-secret-wars-en-2027/
 🗓️ 2026-03-27 • 🏷️ hipertextual.com
+
+### 2026-03-27T19:40:36.608Z
+📰 OpenAI acaba de hacer Codex mucho más útil para los desarrolladores
+OpenAI ha lanzado una actualización para Codex que ayudará a compartir tus configuraciones con otros. A partir de hoy, la herramienta para programar con IA cuenta con soporte para plugins. Estos paquetes agrupan flujos de trabajo, integraci…
+https://hipertextual.com/inteligencia-artificial/openai-plugins-codex-flujos-trabajo-ia/
+🗓️ 2026-03-27 • 🏷️ hipertextual.com
