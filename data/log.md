@@ -3624,3 +3624,19 @@ https://hipertextual.com/videojuegos/nintendo-rebaja-precio-juegos-digitales-swi
 🗓️ 2026-03-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-27
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El fin de una era: Apple mata al Mac Pro y lo retira de su tienda
+Apple ha retirado el Mac Pro de su tienda y confirmó que no tiene planes de lanzar una nueva versión del equipo. A casi dos décadas de su debut, la compañía puso el último clavo en el ataúd de uno de sus ordenadores más potentes. El Mac Pro…
+https://hipertextual.com/apple/apple-mata-mac-pro-2026/
+🗓️ 2026-03-26 • 🏷️ hipertextual.com
+
+---

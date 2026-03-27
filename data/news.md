@@ -4081,3 +4081,9 @@ https://www.muycomputer.com/2026/03/26/novedades-de-la-semana-en-geforce-now-nvi
 Google anunció el lanzamiento mundial de Search Live, su función de búsqueda conversacional en tiempo real. A partir de hoy, la herramienta llega a todos los idiomas y regiones donde el Modo IA de Google Search está disponible. Search Live …
 https://hipertextual.com/internet/google-search-live-expansion-global/
 🗓️ 2026-03-26 • 🏷️ hipertextual.com
+
+### 2026-03-27T03:49:01.009Z
+📰 El fin de una era: Apple mata al Mac Pro y lo retira de su tienda
+Apple ha retirado el Mac Pro de su tienda y confirmó que no tiene planes de lanzar una nueva versión del equipo. A casi dos décadas de su debut, la compañía puso el último clavo en el ataúd de uno de sus ordenadores más potentes. El Mac Pro…
+https://hipertextual.com/apple/apple-mata-mac-pro-2026/
+🗓️ 2026-03-26 • 🏷️ hipertextual.com
