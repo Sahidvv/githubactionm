@@ -4087,3 +4087,9 @@ https://hipertextual.com/internet/google-search-live-expansion-global/
 Apple ha retirado el Mac Pro de su tienda y confirmó que no tiene planes de lanzar una nueva versión del equipo. A casi dos décadas de su debut, la compañía puso el último clavo en el ataúd de uno de sus ordenadores más potentes. El Mac Pro…
 https://hipertextual.com/apple/apple-mata-mac-pro-2026/
 🗓️ 2026-03-26 • 🏷️ hipertextual.com
+
+### 2026-03-27T14:11:47.582Z
+📰 ¡Confirmado! Chris Evans anuncia su regreso como Capitán América en &#8216;Avengers: Secret Wars&#8217; en 2027
+Chris Evans, que este mismo año volverá a interpretar al Capitán América en Avengers: Doomsday, acaba de confirmar que también estará en la siguiente entrega, Avengers: Secret Wars. La película supondrá el cierre definitivo de la Saga del M…
+https://hipertextual.com/cine-television/confirmado-chris-evans-anuncia-su-regreso-como-capitan-america-en-avengers-secret-wars-en-2027/
+🗓️ 2026-03-27 • 🏷️ hipertextual.com
