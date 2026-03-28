@@ -4111,3 +4111,9 @@ https://hipertextual.com/seguridad/hackeo-comision-europea-cuenta-aws/
 Que YouTube es la plataforma de vídeos más importante del mundo no es novedad. Google tiene en sus manos una auténtica joya que nos permite acceder a contenidos de todo tipo, y en su mayoría de primera calidad. Pero también es una realidad …
 https://hipertextual.com/internet/no-eres-solo-tu-ver-youtube-sin-pagar-se-ha-vuelto-insufrible/
 🗓️ 2026-03-28 • 🏷️ hipertextual.com
+
+### 2026-03-28T19:31:33.392Z
+📰 Las 5 lecciones que deja ‘Proyecto Salvación’ a la ciencia ficción
+Proyecto Salvación, adaptación del superventas Project Hail Mary de Andy Weir, no solo se convirtió en el gran éxito de taquilla de los últimos meses. Que lo es, pulverizando el récord de Oppenheimer de Christopher Nolan para volverse el me…
+https://hipertextual.com/cine-television/las-5-lecciones-que-deja-proyecto-salvacion-a-la-ciencia-ficcion/
+🗓️ 2026-03-28 • 🏷️ hipertextual.com
