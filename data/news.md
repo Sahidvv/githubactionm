@@ -4105,3 +4105,9 @@ https://hipertextual.com/inteligencia-artificial/openai-plugins-codex-flujos-tra
 La Comisión Europea está investigando una brecha de seguridad tras detectar un acceso no autorizado a su infraestructura en la nube de Amazon. Según recoge BleepingComputer, el hackeo ocurrió el 24 de marzo y fue confirmado por un portavoz …
 https://hipertextual.com/seguridad/hackeo-comision-europea-cuenta-aws/
 🗓️ 2026-03-27 • 🏷️ hipertextual.com
+
+### 2026-03-28T13:51:46.425Z
+📰 No eres solo tú: ver YouTube sin pagar se ha vuelto insufrible
+Que YouTube es la plataforma de vídeos más importante del mundo no es novedad. Google tiene en sus manos una auténtica joya que nos permite acceder a contenidos de todo tipo, y en su mayoría de primera calidad. Pero también es una realidad …
+https://hipertextual.com/internet/no-eres-solo-tu-ver-youtube-sin-pagar-se-ha-vuelto-insufrible/
+🗓️ 2026-03-28 • 🏷️ hipertextual.com
