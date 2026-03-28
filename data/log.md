@@ -3640,3 +3640,19 @@ https://hipertextual.com/apple/apple-mata-mac-pro-2026/
 🗓️ 2026-03-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-28
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Hackean a la Comisión Europea: un atacante amenaza con filtrar 350 GB de datos
+La Comisión Europea está investigando una brecha de seguridad tras detectar un acceso no autorizado a su infraestructura en la nube de Amazon. Según recoge BleepingComputer, el hackeo ocurrió el 24 de marzo y fue confirmado por un portavoz …
+https://hipertextual.com/seguridad/hackeo-comision-europea-cuenta-aws/
+🗓️ 2026-03-27 • 🏷️ hipertextual.com
+
+---

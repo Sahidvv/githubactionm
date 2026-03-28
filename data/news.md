@@ -4099,3 +4099,9 @@ https://hipertextual.com/cine-television/confirmado-chris-evans-anuncia-su-regre
 OpenAI ha lanzado una actualización para Codex que ayudará a compartir tus configuraciones con otros. A partir de hoy, la herramienta para programar con IA cuenta con soporte para plugins. Estos paquetes agrupan flujos de trabajo, integraci…
 https://hipertextual.com/inteligencia-artificial/openai-plugins-codex-flujos-trabajo-ia/
 🗓️ 2026-03-27 • 🏷️ hipertextual.com
+
+### 2026-03-28T03:36:31.723Z
+📰 Hackean a la Comisión Europea: un atacante amenaza con filtrar 350 GB de datos
+La Comisión Europea está investigando una brecha de seguridad tras detectar un acceso no autorizado a su infraestructura en la nube de Amazon. Según recoge BleepingComputer, el hackeo ocurrió el 24 de marzo y fue confirmado por un portavoz …
+https://hipertextual.com/seguridad/hackeo-comision-europea-cuenta-aws/
+🗓️ 2026-03-27 • 🏷️ hipertextual.com
