@@ -4117,3 +4117,9 @@ https://hipertextual.com/internet/no-eres-solo-tu-ver-youtube-sin-pagar-se-ha-vu
 Proyecto Salvación, adaptación del superventas Project Hail Mary de Andy Weir, no solo se convirtió en el gran éxito de taquilla de los últimos meses. Que lo es, pulverizando el récord de Oppenheimer de Christopher Nolan para volverse el me…
 https://hipertextual.com/cine-television/las-5-lecciones-que-deja-proyecto-salvacion-a-la-ciencia-ficcion/
 🗓️ 2026-03-28 • 🏷️ hipertextual.com
+
+### 2026-03-29T03:54:21.771Z
+📰 De qué va ‘Homicidio: Nueva York’, el nuevo (y terrorífico) true crime de Netflix
+Homicidio: Nueva York es mucho más que la nueva temporada de uno de los éxitos más curiosos de Netflix. También, afronta el reto de tener que reinventar su premisa para no resultar repetitiva. Por lo que en esta ocasión, el popular true cri…
+https://hipertextual.com/cine-television/de-que-va-homicidio-nueva-york-el-nuevo-y-terrorifico-true-crime-de-netflix/
+🗓️ 2026-03-28 • 🏷️ hipertextual.com

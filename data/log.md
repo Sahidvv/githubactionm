@@ -3656,3 +3656,19 @@ https://hipertextual.com/seguridad/hackeo-comision-europea-cuenta-aws/
 🗓️ 2026-03-27 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-29
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 De qué va ‘Homicidio: Nueva York’, el nuevo (y terrorífico) true crime de Netflix
+Homicidio: Nueva York es mucho más que la nueva temporada de uno de los éxitos más curiosos de Netflix. También, afronta el reto de tener que reinventar su premisa para no resultar repetitiva. Por lo que en esta ocasión, el popular true cri…
+https://hipertextual.com/cine-television/de-que-va-homicidio-nueva-york-el-nuevo-y-terrorifico-true-crime-de-netflix/
+🗓️ 2026-03-28 • 🏷️ hipertextual.com
+
+---
