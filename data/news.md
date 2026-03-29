@@ -4123,3 +4123,9 @@ https://hipertextual.com/cine-television/las-5-lecciones-que-deja-proyecto-salva
 Homicidio: Nueva York es mucho más que la nueva temporada de uno de los éxitos más curiosos de Netflix. También, afronta el reto de tener que reinventar su premisa para no resultar repetitiva. Por lo que en esta ocasión, el popular true cri…
 https://hipertextual.com/cine-television/de-que-va-homicidio-nueva-york-el-nuevo-y-terrorifico-true-crime-de-netflix/
 🗓️ 2026-03-28 • 🏷️ hipertextual.com
+
+### 2026-03-29T13:53:47.633Z
+📰 ¿Hace falta ver &#8216;Yellowstone&#8217; antes de ver &#8216;The Madison&#8217;, la nueva serie de Taylor Sheridan?
+El universo Yellowstone no para de crecer y, en este inicio de 2026, cuenta con tres nuevos spin-offs: Marshals, The Madison y Rancho Dutton. Los dos primeros ya se han estrenado, mientras que el tercero llegará en mayo. Sin embargo, es pre…
+https://hipertextual.com/cine-television/hace-falta-ver-yellowstone-antes-de-ver-the-madison-la-nueva-serie-de-taylor-sheridan/
+🗓️ 2026-03-29 • 🏷️ hipertextual.com
