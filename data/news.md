@@ -4147,3 +4147,9 @@ https://www.eldiario.es/tecnologia/miedo-quedarse-dispara-ia-control-empresas-co
 Los requisitos de Death Stranding 2 ya indicaban que no iba a ser un juego muy exigente, y las pruebas de rendimiento que ha compartido TechPowerUp lo confirman. Con la GeForce RTX 3060 de 12 GB, que es la tarjeta gráfica elegida en los req…
 https://www.muycomputer.com/2026/03/30/death-stranding-2-en-pc-rendimiento-y-consumo-de-memoria/
 🗓️ 2026-03-30 • 🏷️ muycomputer.com
+
+### 2026-03-30T19:55:19.241Z
+📰 Otra actualización de Windows 11 está causando fallos y Microsoft tuvo que retirarla
+Microsoft ha retirado la última actualización de Windows 11. A unos días de que se reportaran problemas con Office y otras aplicaciones de Microsoft, el gigante tecnológico decidió cancelar el despliegue de un nuevo parche con mejoras opcio…
+https://hipertextual.com/software/microsoft-retira-actualizacion-windows-11-kb5079391/
+🗓️ 2026-03-30 • 🏷️ hipertextual.com
