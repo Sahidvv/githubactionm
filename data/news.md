@@ -4141,3 +4141,9 @@ https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-temporada-d
 Una encuesta global revela que su adopción acelerada multiplica los agujeros de ciberseguridad. Amazon y Meta ya han tenido incidentes en este sentido y las contraseñas robadas han crecido un 34% debido a las bechas del código creado con IA…
 https://www.eldiario.es/tecnologia/miedo-quedarse-dispara-ia-control-empresas-comprender_1_13094397.html
 🗓️ 2026-03-29 • 🏷️ eldiario.es
+
+### 2026-03-30T14:26:43.616Z
+📰 Death Stranding 2 en PC: rendimiento y consumo de memoria, los 8 GB de VRAM está más vivos que nunca
+Los requisitos de Death Stranding 2 ya indicaban que no iba a ser un juego muy exigente, y las pruebas de rendimiento que ha compartido TechPowerUp lo confirman. Con la GeForce RTX 3060 de 12 GB, que es la tarjeta gráfica elegida en los req…
+https://www.muycomputer.com/2026/03/30/death-stranding-2-en-pc-rendimiento-y-consumo-de-memoria/
+🗓️ 2026-03-30 • 🏷️ muycomputer.com
