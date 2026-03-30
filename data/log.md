@@ -3672,3 +3672,19 @@ https://hipertextual.com/cine-television/de-que-va-homicidio-nueva-york-el-nuevo
 🗓️ 2026-03-28 • 🏷️ hipertextual.com
 
 ---
+## 2026-03-30
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El miedo a quedarse atrás dispara la IA sin control en las empresas: "Se usa sin comprender"
+Una encuesta global revela que su adopción acelerada multiplica los agujeros de ciberseguridad. Amazon y Meta ya han tenido incidentes en este sentido y las contraseñas robadas han crecido un 34% debido a las bechas del código creado con IA…
+https://www.eldiario.es/tecnologia/miedo-quedarse-dispara-ia-control-empresas-comprender_1_13094397.html
+🗓️ 2026-03-29 • 🏷️ eldiario.es
+
+---

@@ -4135,3 +4135,9 @@ https://hipertextual.com/cine-television/hace-falta-ver-yellowstone-antes-de-ver
 Para su quinta (y ahora penúltima) temporada, For All Mankind ha decidido dejar atrás la nostalgia. De modo que, en lugar de seguir reconstruyendo una línea alternativa de tiempo en que la carrera por el espacio jamás se detuvo, toma una de…
 https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-temporada-de-for-all-mankind/
 🗓️ 2026-03-29 • 🏷️ hipertextual.com
+
+### 2026-03-30T04:07:35.157Z
+📰 El miedo a quedarse atrás dispara la IA sin control en las empresas: "Se usa sin comprender"
+Una encuesta global revela que su adopción acelerada multiplica los agujeros de ciberseguridad. Amazon y Meta ya han tenido incidentes en este sentido y las contraseñas robadas han crecido un 34% debido a las bechas del código creado con IA…
+https://www.eldiario.es/tecnologia/miedo-quedarse-dispara-ia-control-empresas-comprender_1_13094397.html
+🗓️ 2026-03-29 • 🏷️ eldiario.es
