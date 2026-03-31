@@ -4159,3 +4159,9 @@ https://hipertextual.com/software/microsoft-retira-actualizacion-windows-11-kb50
 La ejecutiva danesa, al frente de la mayor ‘app’ mundial contra el desperdicio de alimentos, confía en que la nueva ley española contra el desperdicio marque el camino en un mundo donde el 40% de los alimentos producidos acaba en la basura
 https://elpais.com/sociedad/2026-03-31/mette-lykke-consejera-delegada-de-too-good-to-go-tiramos-alimentos-por-valor-de-un-billon-de-euros-al-ano.html
 🗓️ 2026-03-31 • 🏷️ elpais.com
+
+### 2026-03-31T14:26:20.617Z
+📰 453 km de autonomía por menos de 20.000€, el KIA EV2 es la pesadilla de BYD
+KIA se ha propuesto llevarse un buen trozo de pastel del parque de coches eléctricos en España. Tras el éxito del EV3, la marca ha vuelto por todo lo alto con otro de los modelos más esperados del año: el KIA EV2. Llega en dos acabados, una…
+https://hipertextual.com/movilidad/453-km-de-autonomia-por-menos-de-20-000e-el-kia-ev2-es-la-pesadilla-de-byd/
+🗓️ 2026-03-31 • 🏷️ hipertextual.com
