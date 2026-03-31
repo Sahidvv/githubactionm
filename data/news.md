@@ -4165,3 +4165,9 @@ https://elpais.com/sociedad/2026-03-31/mette-lykke-consejera-delegada-de-too-goo
 KIA se ha propuesto llevarse un buen trozo de pastel del parque de coches eléctricos en España. Tras el éxito del EV3, la marca ha vuelto por todo lo alto con otro de los modelos más esperados del año: el KIA EV2. Llega en dos acabados, una…
 https://hipertextual.com/movilidad/453-km-de-autonomia-por-menos-de-20-000e-el-kia-ev2-es-la-pesadilla-de-byd/
 🗓️ 2026-03-31 • 🏷️ hipertextual.com
+
+### 2026-03-31T19:53:52.332Z
+📰 Irán amenaza con atacar Apple, Tesla y otras empresas estadounidenses
+Irán ha amenazado con bombardear Apple y otras empresas de tecnología estadounidenses. El ejército de ese país acusó a las grandes tecnológicas de jugar un papel importante en el conflicto armado de Oriente Medio. La advertencia incluye a e…
+https://hipertextual.com/actualidad/iran-amenaza-atacar-apple-google-microsoft-oriente-medio/
+🗓️ 2026-03-31 • 🏷️ hipertextual.com
