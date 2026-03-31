@@ -3688,3 +3688,19 @@ https://www.eldiario.es/tecnologia/miedo-quedarse-dispara-ia-control-empresas-co
 🗓️ 2026-03-29 • 🏷️ eldiario.es
 
 ---
+## 2026-03-31
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Mette Lykke, consejera delegada de Too Good To Go: “Tiramos alimentos por valor de un billón de euros al año”
+La ejecutiva danesa, al frente de la mayor ‘app’ mundial contra el desperdicio de alimentos, confía en que la nueva ley española contra el desperdicio marque el camino en un mundo donde el 40% de los alimentos producidos acaba en la basura
+https://elpais.com/sociedad/2026-03-31/mette-lykke-consejera-delegada-de-too-good-to-go-tiramos-alimentos-por-valor-de-un-billon-de-euros-al-ano.html
+🗓️ 2026-03-31 • 🏷️ elpais.com
+
+---

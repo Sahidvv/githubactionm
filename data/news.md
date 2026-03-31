@@ -4153,3 +4153,9 @@ https://www.muycomputer.com/2026/03/30/death-stranding-2-en-pc-rendimiento-y-con
 Microsoft ha retirado la última actualización de Windows 11. A unos días de que se reportaran problemas con Office y otras aplicaciones de Microsoft, el gigante tecnológico decidió cancelar el despliegue de un nuevo parche con mejoras opcio…
 https://hipertextual.com/software/microsoft-retira-actualizacion-windows-11-kb5079391/
 🗓️ 2026-03-30 • 🏷️ hipertextual.com
+
+### 2026-03-31T03:49:33.985Z
+📰 Mette Lykke, consejera delegada de Too Good To Go: “Tiramos alimentos por valor de un billón de euros al año”
+La ejecutiva danesa, al frente de la mayor ‘app’ mundial contra el desperdicio de alimentos, confía en que la nueva ley española contra el desperdicio marque el camino en un mundo donde el 40% de los alimentos producidos acaba en la basura
+https://elpais.com/sociedad/2026-03-31/mette-lykke-consejera-delegada-de-too-good-to-go-tiramos-alimentos-por-valor-de-un-billon-de-euros-al-ano.html
+🗓️ 2026-03-31 • 🏷️ elpais.com
