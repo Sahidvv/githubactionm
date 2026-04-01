@@ -4183,3 +4183,9 @@ https://elpais.com/tecnologia/2026-04-01/guillem-martinez-responsable-de-robotic
 PS6 portátil es un proyecto en el que Sony estaría preparando para complementar el futuro lanzamiento de PS6. Gracias a la gran cantidad de filtraciones y rumores que han ido apareciendo ya sabemos cómo podría ser esta consola, y hemos resu…
 https://www.muycomputer.com/2026/04/01/ps6-portatil-sera-mas-potente-que-xbox-series-s-y-utilizara-pssr-3/
 🗓️ 2026-04-01 • 🏷️ muycomputer.com
+
+### 2026-04-01T19:57:15.173Z
+📰 No solo los móviles: Raspberry Pi también sube sus precios por culpa de la RAM
+Si tienes pensado comprar una Raspberry Pi, prepárate porque acaba de ponerse bastante más cara. La empresa británica ha anunciado su tercera ronda de subidas de precios desde diciembre, y esta vez los incrementos son los más duros hasta la…
+https://hipertextual.com/tecnologia/raspberry-pi-sube-precios-ram-2026/
+🗓️ 2026-04-01 • 🏷️ hipertextual.com
