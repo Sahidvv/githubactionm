@@ -4171,3 +4171,9 @@ https://hipertextual.com/movilidad/453-km-de-autonomia-por-menos-de-20-000e-el-k
 Irán ha amenazado con bombardear Apple y otras empresas de tecnología estadounidenses. El ejército de ese país acusó a las grandes tecnológicas de jugar un papel importante en el conflicto armado de Oriente Medio. La advertencia incluye a e…
 https://hipertextual.com/actualidad/iran-amenaza-atacar-apple-google-microsoft-oriente-medio/
 🗓️ 2026-03-31 • 🏷️ hipertextual.com
+
+### 2026-04-01T04:11:27.786Z
+📰 Guillem Martínez, responsable de robótica en la ONU: “La brecha digital puede aumentar con la revolución robótica”
+El responsable de IA y robótica de la Unión Internacional de Telecomunicaciones apuesta por “evitar que haya una concentración” de las capacidades tecnológicas en ciertos países
+https://elpais.com/tecnologia/2026-04-01/guillem-martinez-responsable-de-robotica-en-la-onu-la-brecha-digital-puede-aumentar-con-la-revolucion-robotica.html
+🗓️ 2026-04-01 • 🏷️ elpais.com

@@ -3704,3 +3704,19 @@ https://elpais.com/sociedad/2026-03-31/mette-lykke-consejera-delegada-de-too-goo
 🗓️ 2026-03-31 • 🏷️ elpais.com
 
 ---
+## 2026-04-01
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Guillem Martínez, responsable de robótica en la ONU: “La brecha digital puede aumentar con la revolución robótica”
+El responsable de IA y robótica de la Unión Internacional de Telecomunicaciones apuesta por “evitar que haya una concentración” de las capacidades tecnológicas en ciertos países
+https://elpais.com/tecnologia/2026-04-01/guillem-martinez-responsable-de-robotica-en-la-onu-la-brecha-digital-puede-aumentar-con-la-revolucion-robotica.html
+🗓️ 2026-04-01 • 🏷️ elpais.com
+
+---
