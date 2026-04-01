@@ -4177,3 +4177,9 @@ https://hipertextual.com/actualidad/iran-amenaza-atacar-apple-google-microsoft-o
 El responsable de IA y robótica de la Unión Internacional de Telecomunicaciones apuesta por “evitar que haya una concentración” de las capacidades tecnológicas en ciertos países
 https://elpais.com/tecnologia/2026-04-01/guillem-martinez-responsable-de-robotica-en-la-onu-la-brecha-digital-puede-aumentar-con-la-revolucion-robotica.html
 🗓️ 2026-04-01 • 🏷️ elpais.com
+
+### 2026-04-01T14:28:01.306Z
+📰 PS6 portátil será más potente que Xbox Series S y utilizará PSSR 3
+PS6 portátil es un proyecto en el que Sony estaría preparando para complementar el futuro lanzamiento de PS6. Gracias a la gran cantidad de filtraciones y rumores que han ido apareciendo ya sabemos cómo podría ser esta consola, y hemos resu…
+https://www.muycomputer.com/2026/04/01/ps6-portatil-sera-mas-potente-que-xbox-series-s-y-utilizara-pssr-3/
+🗓️ 2026-04-01 • 🏷️ muycomputer.com
