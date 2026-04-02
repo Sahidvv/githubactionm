@@ -4201,3 +4201,9 @@ https://www.muycomputer.com/2026/04/02/artemis-ii-despega-hacia-la-luna/
 Con frecuencia, la Semana Santa es el momento ideal para explorar en el concepto del bien. O al menos, en cómo lo concibe nuestra descreída y con frecuencia muy cínica época. De la perspectiva que insiste en que lo divino es una fantasía cr…
 https://hipertextual.com/cine-television/7-peliculas-atipicas-para-ver-en-semana-santa/
 🗓️ 2026-04-02 • 🏷️ hipertextual.com
+
+### 2026-04-02T19:50:25.101Z
+📰 ¿Bienvenidos al futuro? Copilot no solo escribe código: también mete anuncios en tu repositorio de GitHub
+Meter inteligencia artificial generativa a prácticamente todos los productos y servicios que usamos en la actualidad se ha convertido en un vicio de la mayoría de las tecnológicas. En el caso de Microsoft, esta semana quedó en el ojo del hu…
+https://hipertextual.com/inteligencia-artificial/anuncios-inyectados-ia-github-copilot/
+🗓️ 2026-04-02 • 🏷️ hipertextual.com
