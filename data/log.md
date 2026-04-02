@@ -3720,3 +3720,19 @@ https://elpais.com/tecnologia/2026-04-01/guillem-martinez-responsable-de-robotic
 🗓️ 2026-04-01 • 🏷️ elpais.com
 
 ---
+## 2026-04-02
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Artemis II despega hacia la Luna
+Hace apenas unos minutos ha comenzado la aventura de Artemis II, el segundo lanzamiento del proyecto espacial internacional que volverá a llevar al ser humano a la Luna, y más allá, ya que su objetivo final es establecer una base permanente…
+https://www.muycomputer.com/2026/04/02/artemis-ii-despega-hacia-la-luna/
+🗓️ 2026-04-01 • 🏷️ muycomputer.com
+
+---

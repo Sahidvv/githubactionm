@@ -4189,3 +4189,9 @@ https://www.muycomputer.com/2026/04/01/ps6-portatil-sera-mas-potente-que-xbox-se
 Si tienes pensado comprar una Raspberry Pi, prepárate porque acaba de ponerse bastante más cara. La empresa británica ha anunciado su tercera ronda de subidas de precios desde diciembre, y esta vez los incrementos son los más duros hasta la…
 https://hipertextual.com/tecnologia/raspberry-pi-sube-precios-ram-2026/
 🗓️ 2026-04-01 • 🏷️ hipertextual.com
+
+### 2026-04-02T03:42:56.492Z
+📰 Artemis II despega hacia la Luna
+Hace apenas unos minutos ha comenzado la aventura de Artemis II, el segundo lanzamiento del proyecto espacial internacional que volverá a llevar al ser humano a la Luna, y más allá, ya que su objetivo final es establecer una base permanente…
+https://www.muycomputer.com/2026/04/02/artemis-ii-despega-hacia-la-luna/
+🗓️ 2026-04-01 • 🏷️ muycomputer.com
