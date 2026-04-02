@@ -4195,3 +4195,9 @@ https://hipertextual.com/tecnologia/raspberry-pi-sube-precios-ram-2026/
 Hace apenas unos minutos ha comenzado la aventura de Artemis II, el segundo lanzamiento del proyecto espacial internacional que volverá a llevar al ser humano a la Luna, y más allá, ya que su objetivo final es establecer una base permanente…
 https://www.muycomputer.com/2026/04/02/artemis-ii-despega-hacia-la-luna/
 🗓️ 2026-04-01 • 🏷️ muycomputer.com
+
+### 2026-04-02T14:21:17.546Z
+📰 7 películas atípicas para ver en Semana Santa
+Con frecuencia, la Semana Santa es el momento ideal para explorar en el concepto del bien. O al menos, en cómo lo concibe nuestra descreída y con frecuencia muy cínica época. De la perspectiva que insiste en que lo divino es una fantasía cr…
+https://hipertextual.com/cine-television/7-peliculas-atipicas-para-ver-en-semana-santa/
+🗓️ 2026-04-02 • 🏷️ hipertextual.com
