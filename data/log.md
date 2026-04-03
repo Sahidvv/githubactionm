@@ -3736,3 +3736,19 @@ https://www.muycomputer.com/2026/04/02/artemis-ii-despega-hacia-la-luna/
 🗓️ 2026-04-01 • 🏷️ muycomputer.com
 
 ---
+## 2026-04-03
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Trump se estrella de nuevo con el problema del iPhone de 2.200 euros en su guerra en Irán
+La misma red global que el republicano destruye con aranceles y tensión geopolítica es la que hace posible la fabricación de las armas de alta tecnología con las que intenta doblegar al régimen de los ayatolásLos contratos militares y sus i…
+https://www.eldiario.es/tecnologia/trump-estrella-nuevo-problema-iphone-2-200-euros-guerra-iran_1_13108565.html
+🗓️ 2026-04-02 • 🏷️ eldiario.es
+
+---

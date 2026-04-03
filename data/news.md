@@ -4207,3 +4207,9 @@ https://hipertextual.com/cine-television/7-peliculas-atipicas-para-ver-en-semana
 Meter inteligencia artificial generativa a prácticamente todos los productos y servicios que usamos en la actualidad se ha convertido en un vicio de la mayoría de las tecnológicas. En el caso de Microsoft, esta semana quedó en el ojo del hu…
 https://hipertextual.com/inteligencia-artificial/anuncios-inyectados-ia-github-copilot/
 🗓️ 2026-04-02 • 🏷️ hipertextual.com
+
+### 2026-04-03T03:44:44.596Z
+📰 Trump se estrella de nuevo con el problema del iPhone de 2.200 euros en su guerra en Irán
+La misma red global que el republicano destruye con aranceles y tensión geopolítica es la que hace posible la fabricación de las armas de alta tecnología con las que intenta doblegar al régimen de los ayatolásLos contratos militares y sus i…
+https://www.eldiario.es/tecnologia/trump-estrella-nuevo-problema-iphone-2-200-euros-guerra-iran_1_13108565.html
+🗓️ 2026-04-02 • 🏷️ eldiario.es
