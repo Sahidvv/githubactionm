@@ -4213,3 +4213,9 @@ https://hipertextual.com/inteligencia-artificial/anuncios-inyectados-ia-github-c
 La misma red global que el republicano destruye con aranceles y tensión geopolítica es la que hace posible la fabricación de las armas de alta tecnología con las que intenta doblegar al régimen de los ayatolásLos contratos militares y sus i…
 https://www.eldiario.es/tecnologia/trump-estrella-nuevo-problema-iphone-2-200-euros-guerra-iran_1_13108565.html
 🗓️ 2026-04-02 • 🏷️ eldiario.es
+
+### 2026-04-03T14:01:24.477Z
+📰 ¿Habrá secuela de ‘Super Mario Galaxy: la película’? Esto es todo lo que sabemos
+Super Mario Galaxy: la película es un gran homenaje a la saga de Nintendo y también una celebración a gran parte del mundo del personaje. Por lo que, a lo largo de toda su historia, sigue a nuestro héroe titular (de nuevo con la voz de Chri…
+https://hipertextual.com/cine-television/habra-secuela-de-super-mario-galaxy-la-pelicula-esto-es-todo-lo-que-sabemos/
+🗓️ 2026-04-03 • 🏷️ hipertextual.com
