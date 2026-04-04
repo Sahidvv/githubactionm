@@ -3752,3 +3752,19 @@ https://www.eldiario.es/tecnologia/trump-estrella-nuevo-problema-iphone-2-200-eu
 🗓️ 2026-04-02 • 🏷️ eldiario.es
 
 ---
+## 2026-04-04
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Así es Dola, la asistente de IA que hace sombra a ChatGPT en Latinoamérica
+Un vistazo a las tiendas de aplicaciones móviles nos permite ver que los asistentes de IA se han integrado en nuestro día a día. Apps como ChatGPT, Gemini o Claude están entre las más descargadas de iPhone y Android en España. Pero también …
+https://hipertextual.com/guias/que-es-dola-asistente-ia/
+🗓️ 2026-04-03 • 🏷️ hipertextual.com
+
+---

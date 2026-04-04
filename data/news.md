@@ -4225,3 +4225,9 @@ https://hipertextual.com/cine-television/habra-secuela-de-super-mario-galaxy-la-
 Super Mario Galaxy: La película es todo un homenaje a los fanáticos de la franquicia Nintendo, los jugadores y hasta al público amante del cine animado. Todo, en medio de la gran misión para rescatar a Rosalina (Brie Larson), de las garras …
 https://hipertextual.com/cine-television/el-final-de-super-mario-galaxy-la-pelicula-explicado-quien-vence-al-final/
 🗓️ 2026-04-03 • 🏷️ hipertextual.com
+
+### 2026-04-04T03:33:06.468Z
+📰 Así es Dola, la asistente de IA que hace sombra a ChatGPT en Latinoamérica
+Un vistazo a las tiendas de aplicaciones móviles nos permite ver que los asistentes de IA se han integrado en nuestro día a día. Apps como ChatGPT, Gemini o Claude están entre las más descargadas de iPhone y Android en España. Pero también …
+https://hipertextual.com/guias/que-es-dola-asistente-ia/
+🗓️ 2026-04-03 • 🏷️ hipertextual.com
