@@ -4231,3 +4231,9 @@ https://hipertextual.com/cine-television/el-final-de-super-mario-galaxy-la-pelic
 Un vistazo a las tiendas de aplicaciones móviles nos permite ver que los asistentes de IA se han integrado en nuestro día a día. Apps como ChatGPT, Gemini o Claude están entre las más descargadas de iPhone y Android en España. Pero también …
 https://hipertextual.com/guias/que-es-dola-asistente-ia/
 🗓️ 2026-04-03 • 🏷️ hipertextual.com
+
+### 2026-04-04T13:53:37.209Z
+📰 De qué va ‘El Drama&#8217;, la nueva película de Zendaya y Robert Pattinson
+El Drama, la nueva película de Zendaya y Robert Pattinson, es mucho más que un romance. Que lo es, en sus momentos más íntimos. Pero desde el inicio, la historia juega con las reglas del género, para brindar a la historia un aire de ligera …
+https://hipertextual.com/cine-television/de-que-va-el-drama-la-nueva-pelicula-de-zendaya-y-robert-pattinson/
+🗓️ 2026-04-04 • 🏷️ hipertextual.com
