@@ -4237,3 +4237,9 @@ https://hipertextual.com/guias/que-es-dola-asistente-ia/
 El Drama, la nueva película de Zendaya y Robert Pattinson, es mucho más que un romance. Que lo es, en sus momentos más íntimos. Pero desde el inicio, la historia juega con las reglas del género, para brindar a la historia un aire de ligera …
 https://hipertextual.com/cine-television/de-que-va-el-drama-la-nueva-pelicula-de-zendaya-y-robert-pattinson/
 🗓️ 2026-04-04 • 🏷️ hipertextual.com
+
+### 2026-04-04T19:31:28.253Z
+📰 Terror religioso: 7 películas &#8216;herejes&#8217; para ver en Semana Santa
+Semana Santa es una época ideal para profundizar en temas complejos. Como el que propone el cine de terror religioso. Cuando El exorcista se estrenó en 1973, causó sensación. Pero no solo por contar una historia siniestra y con datos verídi…
+https://hipertextual.com/cine-television/terror-religioso-7-peliculas-herejes-para-ver-en-semana-santa/
+🗓️ 2026-04-04 • 🏷️ hipertextual.com
