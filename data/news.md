@@ -4255,3 +4255,9 @@ https://hipertextual.com/cine-television/los-7-antiheroes-mas-iconicos-del-cine/
 La saga Harry Potter, cuya versión para televisión se estrenará el 25 de diciembre de este año en HBO, tiene dos misiones complicadas. Por un lado, deslastrarse de todo lo relacionado con las películas de la franquicia cinematográfica, aún …
 https://hipertextual.com/cine-television/10-motivos-por-los-que-la-serie-de-harry-potter-de-hbo-va-a-triunfar-a-pesar-de-las-criticas-y-de-j-k-rowling/
 🗓️ 2026-04-05 • 🏷️ hipertextual.com
+
+### 2026-04-05T19:33:48.419Z
+📰 Los robots más célebres del cine de ciencia ficción
+En 1984, cuando se estrenó Terminator de James Cameron, los robots respondían a dos lógicas en el mundo de la ciencia ficción. Por un lado, podían ser heraldos del bien, la tecnología y el progreso. Simbolizar los avances y sorprender por u…
+https://hipertextual.com/cine-television/los-robots-mas-celebres-del-cine-de-ciencia-ficcion/
+🗓️ 2026-04-05 • 🏷️ hipertextual.com
