@@ -4243,3 +4243,9 @@ https://hipertextual.com/cine-television/de-que-va-el-drama-la-nueva-pelicula-de
 Semana Santa es una época ideal para profundizar en temas complejos. Como el que propone el cine de terror religioso. Cuando El exorcista se estrenó en 1973, causó sensación. Pero no solo por contar una historia siniestra y con datos verídi…
 https://hipertextual.com/cine-television/terror-religioso-7-peliculas-herejes-para-ver-en-semana-santa/
 🗓️ 2026-04-04 • 🏷️ hipertextual.com
+
+### 2026-04-05T03:53:39.368Z
+📰 Los 7 antihéroes más icónicos del cine
+Desde los primeros años del cine, los antihéroes han sido de especial importancia. Mientras que el héroe clásico representa el deber ser y se rige por una brújula moral infalible, el antihéroe habita en las zonas grises. Que es, de hecho, l…
+https://hipertextual.com/cine-television/los-7-antiheroes-mas-iconicos-del-cine/
+🗓️ 2026-04-04 • 🏷️ hipertextual.com

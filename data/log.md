@@ -3768,3 +3768,19 @@ https://hipertextual.com/guias/que-es-dola-asistente-ia/
 🗓️ 2026-04-03 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-05
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Los 7 antihéroes más icónicos del cine
+Desde los primeros años del cine, los antihéroes han sido de especial importancia. Mientras que el héroe clásico representa el deber ser y se rige por una brújula moral infalible, el antihéroe habita en las zonas grises. Que es, de hecho, l…
+https://hipertextual.com/cine-television/los-7-antiheroes-mas-iconicos-del-cine/
+🗓️ 2026-04-04 • 🏷️ hipertextual.com
+
+---
