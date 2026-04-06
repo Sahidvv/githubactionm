@@ -4273,3 +4273,9 @@ https://www.muycomputer.com/2026/04/05/los-mejores-contenidos-de-la-semana-en-mu
 Xiaomi ha vuelto al ruedo de los productos para el hogar que, sí o sí, vas a querer tener. Esta vez ha dejado de lado el Bluetooth, el WiFi y la tecnología más avanzada, pero no la relación calidad-precio que define su catálogo. La compañía…
 https://hipertextual.com/tecnologia/la-nueva-plancha-de-xiaomi-se-rie-de-rowenta-y-philips-baratisima-para-todas-las-telas-y-con-planchado-vertical/
 🗓️ 2026-04-06 • 🏷️ hipertextual.com
+
+### 2026-04-06T19:52:24.834Z
+📰 ‘En busca de Harry: El arte detrás de la magia’ confirma ESA parte olvidada por las películas que llega a la serie
+En busca de Harry: El arte detrás de la magia se estrenó mostrando un vistazo a lo que los fanáticos pueden esperar de la futura serie de Harry Potter en HBO. Mucho más, como la nueva adaptación, tiene en cuenta que el formato serie permiti…
+https://hipertextual.com/cine-television/en-busca-de-harry-el-arte-detras-de-la-magia-confirma-otra-escena-de-los-libros-olvidada-por-las-peliculas-que-llega-a-la-serie/
+🗓️ 2026-04-06 • 🏷️ hipertextual.com
