@@ -3784,3 +3784,19 @@ https://hipertextual.com/cine-television/los-7-antiheroes-mas-iconicos-del-cine/
 🗓️ 2026-04-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-06
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXVIII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: 10 sitios web para descargar libros electrónicos gr…
+https://www.muycomputer.com/2026/04/05/los-mejores-contenidos-de-la-semana-en-muycomputer-dxviii/
+🗓️ 2026-04-05 • 🏷️ muycomputer.com
+
+---
