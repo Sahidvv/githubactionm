@@ -4291,3 +4291,9 @@ https://elpais.com/tecnologia/2026-04-07/la-generacion-alfa-no-llama-no-escribe-
 El live-action de One Piece se expandirá en Netflix con su primer spin-off. La serie se convirtió en 2023 en uno de los grandes éxitos de la compañía, que hace apenas unas semanas estrenó su segunda temporada. De nuevo, ha arrasado en audie…
 https://hipertextual.com/cine-television/one-piece-tendra-un-nuevo-spin-off-en-netflix-que-ya-tiene-trailer-y-fecha-de-estreno/
 🗓️ 2026-04-07 • 🏷️ hipertextual.com
+
+### 2026-04-07T19:56:28.747Z
+📰 Xiaomi lanza dos frigoríficos baratos que caben en cualquier cocina y apenas gastan luz
+Xiaomi está poniendo de cabeza muchas industrias y la de electrodomésticos es una de ellas. Desde hace unos años, el fabricante chino ha utilizado la misma filosofía que aplica a sus móviles, presentando productos con buenas características…
+https://hipertextual.com/tecnologia/xiaomi-frigorificos-mijia-compactos-bajo-consumo/
+🗓️ 2026-04-07 • 🏷️ hipertextual.com
