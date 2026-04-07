@@ -4279,3 +4279,9 @@ https://hipertextual.com/tecnologia/la-nueva-plancha-de-xiaomi-se-rie-de-rowenta
 En busca de Harry: El arte detrás de la magia se estrenó mostrando un vistazo a lo que los fanáticos pueden esperar de la futura serie de Harry Potter en HBO. Mucho más, como la nueva adaptación, tiene en cuenta que el formato serie permiti…
 https://hipertextual.com/cine-television/en-busca-de-harry-el-arte-detras-de-la-magia-confirma-otra-escena-de-los-libros-olvidada-por-las-peliculas-que-llega-a-la-serie/
 🗓️ 2026-04-06 • 🏷️ hipertextual.com
+
+### 2026-04-07T03:48:12.022Z
+📰 La generación alfa no llama, no escribe emails y juega con la ortografía: “La regla es la pereza”
+Una docena de adolescentes explican cómo han cambiado los códigos de comunicación y qué usos ya no tienen sentido para ellos
+https://elpais.com/tecnologia/2026-04-07/la-generacion-alfa-no-llama-no-escribe-emails-y-juega-con-la-ortografia-la-regla-es-la-pereza.html
+🗓️ 2026-04-07 • 🏷️ elpais.com

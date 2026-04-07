@@ -3800,3 +3800,19 @@ https://www.muycomputer.com/2026/04/05/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-04-05 • 🏷️ muycomputer.com
 
 ---
+## 2026-04-07
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 La generación alfa no llama, no escribe emails y juega con la ortografía: “La regla es la pereza”
+Una docena de adolescentes explican cómo han cambiado los códigos de comunicación y qué usos ya no tienen sentido para ellos
+https://elpais.com/tecnologia/2026-04-07/la-generacion-alfa-no-llama-no-escribe-emails-y-juega-con-la-ortografia-la-regla-es-la-pereza.html
+🗓️ 2026-04-07 • 🏷️ elpais.com
+
+---
