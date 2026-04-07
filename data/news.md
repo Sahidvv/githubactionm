@@ -4285,3 +4285,9 @@ https://hipertextual.com/cine-television/en-busca-de-harry-el-arte-detras-de-la-
 Una docena de adolescentes explican cómo han cambiado los códigos de comunicación y qué usos ya no tienen sentido para ellos
 https://elpais.com/tecnologia/2026-04-07/la-generacion-alfa-no-llama-no-escribe-emails-y-juega-con-la-ortografia-la-regla-es-la-pereza.html
 🗓️ 2026-04-07 • 🏷️ elpais.com
+
+### 2026-04-07T14:44:34.831Z
+📰 &#8216;One Piece&#8217; tendrá un nuevo &#8216;spin-off&#8217; en Netflix, que ya tiene tráiler y fecha de estreno
+El live-action de One Piece se expandirá en Netflix con su primer spin-off. La serie se convirtió en 2023 en uno de los grandes éxitos de la compañía, que hace apenas unas semanas estrenó su segunda temporada. De nuevo, ha arrasado en audie…
+https://hipertextual.com/cine-television/one-piece-tendra-un-nuevo-spin-off-en-netflix-que-ya-tiene-trailer-y-fecha-de-estreno/
+🗓️ 2026-04-07 • 🏷️ hipertextual.com
