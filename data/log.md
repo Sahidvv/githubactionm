@@ -3816,3 +3816,19 @@ https://elpais.com/tecnologia/2026-04-07/la-generacion-alfa-no-llama-no-escribe-
 🗓️ 2026-04-07 • 🏷️ elpais.com
 
 ---
+## 2026-04-08
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Un extrabajador forzoso explica cómo funcionan las estafas románticas ‘online’: “Cuéntale algo que le toque la fibra”
+El informático indio Mohammed Muzahir fue captado con una falsa oferta de empleo para engaños masivos a occidentales desde Laos
+https://elpais.com/tecnologia/2026-04-08/un-extrabajador-forzoso-explica-como-funcionan-las-estafas-romanticas-online-cuentale-algo-que-le-toque-la-fibra.html
+🗓️ 2026-04-08 • 🏷️ elpais.com
+
+---

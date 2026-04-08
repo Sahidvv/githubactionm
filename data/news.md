@@ -4297,3 +4297,9 @@ https://hipertextual.com/cine-television/one-piece-tendra-un-nuevo-spin-off-en-n
 Xiaomi está poniendo de cabeza muchas industrias y la de electrodomésticos es una de ellas. Desde hace unos años, el fabricante chino ha utilizado la misma filosofía que aplica a sus móviles, presentando productos con buenas características…
 https://hipertextual.com/tecnologia/xiaomi-frigorificos-mijia-compactos-bajo-consumo/
 🗓️ 2026-04-07 • 🏷️ hipertextual.com
+
+### 2026-04-08T03:50:46.048Z
+📰 Un extrabajador forzoso explica cómo funcionan las estafas románticas ‘online’: “Cuéntale algo que le toque la fibra”
+El informático indio Mohammed Muzahir fue captado con una falsa oferta de empleo para engaños masivos a occidentales desde Laos
+https://elpais.com/tecnologia/2026-04-08/un-extrabajador-forzoso-explica-como-funcionan-las-estafas-romanticas-online-cuentale-algo-que-le-toque-la-fibra.html
+🗓️ 2026-04-08 • 🏷️ elpais.com
