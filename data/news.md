@@ -4303,3 +4303,9 @@ https://hipertextual.com/tecnologia/xiaomi-frigorificos-mijia-compactos-bajo-con
 El informático indio Mohammed Muzahir fue captado con una falsa oferta de empleo para engaños masivos a occidentales desde Laos
 https://elpais.com/tecnologia/2026-04-08/un-extrabajador-forzoso-explica-como-funcionan-las-estafas-romanticas-online-cuentale-algo-que-le-toque-la-fibra.html
 🗓️ 2026-04-08 • 🏷️ elpais.com
+
+### 2026-04-08T14:45:09.350Z
+📰 Se acabó la espera: Gemini for Home llega a España para que tu casa se vuelva realmente inteligente
+Gemini for Home, la IA de Google para el hogar conectado, por fin comienza su despliegue en España. La tecnológica anunció la expansión de la tecnología a 16 nuevos países, luego de que inicialmente estuviera disponible solo en Estados Unid…
+https://hipertextual.com/inteligencia-artificial/gemini-for-home-disponible-espana/
+🗓️ 2026-04-08 • 🏷️ hipertextual.com
