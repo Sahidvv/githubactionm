@@ -4309,3 +4309,9 @@ https://elpais.com/tecnologia/2026-04-08/un-extrabajador-forzoso-explica-como-fu
 Gemini for Home, la IA de Google para el hogar conectado, por fin comienza su despliegue en España. La tecnológica anunció la expansión de la tecnología a 16 nuevos países, luego de que inicialmente estuviera disponible solo en Estados Unid…
 https://hipertextual.com/inteligencia-artificial/gemini-for-home-disponible-espana/
 🗓️ 2026-04-08 • 🏷️ hipertextual.com
+
+### 2026-04-08T19:58:39.940Z
+📰 La app Movistar Plus+ dejará de funcionar en algunas Smart TV este mes: comprueba si afecta a tu televisor
+Movistar está poniendo fin al soporte de su app Movistar Plus+ en algunas Smart TV, lo que significa que algunos modelos no serán compatibles con la plataforma. La compañía ha actualizado en su web la lista de televisores que admiten la apl…
+https://hipertextual.com/cine-television/la-app-movistar-plus-dejara-de-funcionar-en-algunas-smart-tv-este-mes-comprueba-si-afecta-a-tu-televisor/
+🗓️ 2026-04-08 • 🏷️ hipertextual.com
