@@ -4321,3 +4321,9 @@ https://hipertextual.com/cine-television/la-app-movistar-plus-dejara-de-funciona
 La crisis de memoria que sacude a la industria tecnológica le acaba de pasar la factura a Motorola. De forma silenciosa y sin un comunicado oficial, el fabricante decidió aumentar el precio de toda su gama Moto G 2026, comenzando por el Mot…
 https://hipertextual.com/mobile/motorola-precios-moto-g-2026/
 🗓️ 2026-04-08 • 🏷️ hipertextual.com
+
+### 2026-04-09T14:53:26.777Z
+📰 Samsung está imparable y actualiza a One UI 8.5 estos móviles muy populares: algunos tienen más de 3 años
+Samsung está poniendo todo a punto para lanzar la actualización definitiva de One UI 8.5 a algunos modelos. Se espera que llegue a finales de este mismo mes, pero mientras tanto, la compañía ha decidido lanzar una nueva versión beta para al…
+https://hipertextual.com/mobile/samsung-esta-imparable-y-actualiza-a-one-ui-8-5-estos-moviles-muy-populares-algunos-tienen-mas-de-3-anos/
+🗓️ 2026-04-09 • 🏷️ hipertextual.com
