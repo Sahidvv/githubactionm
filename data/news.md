@@ -4327,3 +4327,9 @@ https://hipertextual.com/mobile/motorola-precios-moto-g-2026/
 Samsung está poniendo todo a punto para lanzar la actualización definitiva de One UI 8.5 a algunos modelos. Se espera que llegue a finales de este mismo mes, pero mientras tanto, la compañía ha decidido lanzar una nueva versión beta para al…
 https://hipertextual.com/mobile/samsung-esta-imparable-y-actualiza-a-one-ui-8-5-estos-moviles-muy-populares-algunos-tienen-mas-de-3-anos/
 🗓️ 2026-04-09 • 🏷️ hipertextual.com
+
+### 2026-04-09T20:01:48.618Z
+📰 Spotify ya permite desactivar todos los videos de su app con este truco
+Spotify nació como una plataforma de música en streaming, pero en los últimos años apostó por el vídeo como una estrategia para mantenerse competitiva. Aunque hay algunas personas que consumen videopodcasts y les gusta ver vídeos musicales,…
+https://hipertextual.com/mobile/spotify-desactivar-videos-app/
+🗓️ 2026-04-09 • 🏷️ hipertextual.com
