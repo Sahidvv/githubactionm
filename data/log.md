@@ -3832,3 +3832,19 @@ https://elpais.com/tecnologia/2026-04-08/un-extrabajador-forzoso-explica-como-fu
 🗓️ 2026-04-08 • 🏷️ elpais.com
 
 ---
+## 2026-04-09
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Motorola sube el precio de sus Moto G 2026 hasta en un 50%
+La crisis de memoria que sacude a la industria tecnológica le acaba de pasar la factura a Motorola. De forma silenciosa y sin un comunicado oficial, el fabricante decidió aumentar el precio de toda su gama Moto G 2026, comenzando por el Mot…
+https://hipertextual.com/mobile/motorola-precios-moto-g-2026/
+🗓️ 2026-04-08 • 🏷️ hipertextual.com
+
+---

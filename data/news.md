@@ -4315,3 +4315,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-for-home-disponible-espa
 Movistar está poniendo fin al soporte de su app Movistar Plus+ en algunas Smart TV, lo que significa que algunos modelos no serán compatibles con la plataforma. La compañía ha actualizado en su web la lista de televisores que admiten la apl…
 https://hipertextual.com/cine-television/la-app-movistar-plus-dejara-de-funcionar-en-algunas-smart-tv-este-mes-comprueba-si-afecta-a-tu-televisor/
 🗓️ 2026-04-08 • 🏷️ hipertextual.com
+
+### 2026-04-09T03:46:56.381Z
+📰 Motorola sube el precio de sus Moto G 2026 hasta en un 50%
+La crisis de memoria que sacude a la industria tecnológica le acaba de pasar la factura a Motorola. De forma silenciosa y sin un comunicado oficial, el fabricante decidió aumentar el precio de toda su gama Moto G 2026, comenzando por el Mot…
+https://hipertextual.com/mobile/motorola-precios-moto-g-2026/
+🗓️ 2026-04-08 • 🏷️ hipertextual.com
