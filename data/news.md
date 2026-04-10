@@ -4333,3 +4333,9 @@ https://hipertextual.com/mobile/samsung-esta-imparable-y-actualiza-a-one-ui-8-5-
 Spotify nació como una plataforma de música en streaming, pero en los últimos años apostó por el vídeo como una estrategia para mantenerse competitiva. Aunque hay algunas personas que consumen videopodcasts y les gusta ver vídeos musicales,…
 https://hipertextual.com/mobile/spotify-desactivar-videos-app/
 🗓️ 2026-04-09 • 🏷️ hipertextual.com
+
+### 2026-04-10T04:07:48.284Z
+📰 La revolución de la imagen envolvente: cómo y con qué dispositivos puedes grabar en 360 grados
+Cámaras y drones graban todo lo que te rodea y permiten explorar la escena desde todos los ángulos con la sensación de que estás todavía allí
+https://elpais.com/tecnologia/tu-tecnologia/2026-04-10/la-revolucion-de-la-imagen-envolvente-como-y-con-que-dispositivos-puedes-grabar-en-360-grados.html
+🗓️ 2026-04-10 • 🏷️ elpais.com

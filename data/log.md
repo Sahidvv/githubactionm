@@ -3848,3 +3848,19 @@ https://hipertextual.com/mobile/motorola-precios-moto-g-2026/
 🗓️ 2026-04-08 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-10
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La revolución de la imagen envolvente: cómo y con qué dispositivos puedes grabar en 360 grados
+Cámaras y drones graban todo lo que te rodea y permiten explorar la escena desde todos los ángulos con la sensación de que estás todavía allí
+https://elpais.com/tecnologia/tu-tecnologia/2026-04-10/la-revolucion-de-la-imagen-envolvente-como-y-con-que-dispositivos-puedes-grabar-en-360-grados.html
+🗓️ 2026-04-10 • 🏷️ elpais.com
+
+---
