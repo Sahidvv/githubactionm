@@ -4345,3 +4345,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-04-10/la-revolucion-de-la-image
 Wi-Fi 8 será el sucesor de Wi-Fi 7, un estándar que ya ha sido presentado en varias ocasiones y que tendrá un enfoque totalmente distinto al de Wi-Fi 7. No será lo que normalmente esperamos de un nuevo estándar, pero esto no es un problema,…
 https://www.muycomputer.com/2026/04/10/wi-fi-8-quiza-no-es-lo-que-esperas-pero-si-lo-que-realmente-necesitas/
 🗓️ 2026-04-10 • 🏷️ muycomputer.com
+
+### 2026-04-10T19:44:22.667Z
+📰 Estrella de &#8216;The Boys&#8217; quiere una película de &#8216;Red Dead Redemption&#8217; y se ofrece como protagonista. Buena suerte para convencer a Rockstar
+Karl Urban está en el centro de la escena por el reciente estreno de los primeros episodios de The Boys, temporada 5. El actor neozelandés transita un gran momento de la mano de la serie de Amazon Prime Video y va por más. Este año, de hech…
+https://hipertextual.com/cine-television/karl-urban-pelicula-red-dead-redemption/
+🗓️ 2026-04-10 • 🏷️ hipertextual.com
