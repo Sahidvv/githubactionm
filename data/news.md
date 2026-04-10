@@ -4339,3 +4339,9 @@ https://hipertextual.com/mobile/spotify-desactivar-videos-app/
 Cámaras y drones graban todo lo que te rodea y permiten explorar la escena desde todos los ángulos con la sensación de que estás todavía allí
 https://elpais.com/tecnologia/tu-tecnologia/2026-04-10/la-revolucion-de-la-imagen-envolvente-como-y-con-que-dispositivos-puedes-grabar-en-360-grados.html
 🗓️ 2026-04-10 • 🏷️ elpais.com
+
+### 2026-04-10T14:16:30.380Z
+📰 Wi-Fi 8 quizá no es lo que esperas, pero sí lo que realmente necesitas
+Wi-Fi 8 será el sucesor de Wi-Fi 7, un estándar que ya ha sido presentado en varias ocasiones y que tendrá un enfoque totalmente distinto al de Wi-Fi 7. No será lo que normalmente esperamos de un nuevo estándar, pero esto no es un problema,…
+https://www.muycomputer.com/2026/04/10/wi-fi-8-quiza-no-es-lo-que-esperas-pero-si-lo-que-realmente-necesitas/
+🗓️ 2026-04-10 • 🏷️ muycomputer.com
