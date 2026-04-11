@@ -3864,3 +3864,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-04-10/la-revolucion-de-la-image
 🗓️ 2026-04-10 • 🏷️ elpais.com
 
 ---
+## 2026-04-11
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Los adolescentes que crecieron sin ningún límite en las redes sociales: “Mis padres me dieron el móvil y, a partir de ahí, tiré sola”
+Jóvenes que tuvieron su primer móvil a los 12 recuerdan una adolescencia sin normas digitales y reflexionan sobre el papel de los adultos
+https://elpais.com/tecnologia/2026-04-11/los-adolescentes-que-crecieron-sin-ningun-limite-en-las-redes-sociales-mis-padres-me-dieron-el-movil-y-a-partir-de-ahi-tire-sola.html
+🗓️ 2026-04-11 • 🏷️ elpais.com
+
+---

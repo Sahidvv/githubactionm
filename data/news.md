@@ -4351,3 +4351,9 @@ https://www.muycomputer.com/2026/04/10/wi-fi-8-quiza-no-es-lo-que-esperas-pero-s
 Karl Urban está en el centro de la escena por el reciente estreno de los primeros episodios de The Boys, temporada 5. El actor neozelandés transita un gran momento de la mano de la serie de Amazon Prime Video y va por más. Este año, de hech…
 https://hipertextual.com/cine-television/karl-urban-pelicula-red-dead-redemption/
 🗓️ 2026-04-10 • 🏷️ hipertextual.com
+
+### 2026-04-11T03:36:23.126Z
+📰 Los adolescentes que crecieron sin ningún límite en las redes sociales: “Mis padres me dieron el móvil y, a partir de ahí, tiré sola”
+Jóvenes que tuvieron su primer móvil a los 12 recuerdan una adolescencia sin normas digitales y reflexionan sobre el papel de los adultos
+https://elpais.com/tecnologia/2026-04-11/los-adolescentes-que-crecieron-sin-ningun-limite-en-las-redes-sociales-mis-padres-me-dieron-el-movil-y-a-partir-de-ahi-tire-sola.html
+🗓️ 2026-04-11 • 🏷️ elpais.com
