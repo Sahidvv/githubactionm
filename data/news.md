@@ -4363,3 +4363,9 @@ https://elpais.com/tecnologia/2026-04-11/los-adolescentes-que-crecieron-sin-ning
 Witch Hat Atelier, cuyos primeros capítulos ya están disponibles en Crunchyroll, es mucho más que solo una historia de fantasía. Que lo es y de las más interesantes del mundo del anime contemporáneo. También, en una revisión a la capacidad …
 https://hipertextual.com/cine-television/witch-hat-atelier-es-el-nuevo-anime-de-crunchyroll-del-que-todo-el-mundo-habla-y-que-deberias-estar-viendo/
 🗓️ 2026-04-11 • 🏷️ hipertextual.com
+
+### 2026-04-11T19:34:55.873Z
+📰 Uso Claude y desde que instalé esta extensión de Chrome ya no me quedo sin créditos
+Si usas Claude con frecuencia, ya conoces esta situación: estás a mitad de una conversación cuando de repente aparece el aviso de que has alcanzado el límite de uso. Mientras que ChatGPT y Gemini pasan a una versión ligera del modelo para q…
+https://hipertextual.com/inteligencia-artificial/claudekarma-extension-limites-uso-anthropic/
+🗓️ 2026-04-11 • 🏷️ hipertextual.com
