@@ -4357,3 +4357,9 @@ https://hipertextual.com/cine-television/karl-urban-pelicula-red-dead-redemption
 Jóvenes que tuvieron su primer móvil a los 12 recuerdan una adolescencia sin normas digitales y reflexionan sobre el papel de los adultos
 https://elpais.com/tecnologia/2026-04-11/los-adolescentes-que-crecieron-sin-ningun-limite-en-las-redes-sociales-mis-padres-me-dieron-el-movil-y-a-partir-de-ahi-tire-sola.html
 🗓️ 2026-04-11 • 🏷️ elpais.com
+
+### 2026-04-11T13:56:10.037Z
+📰 ‘Witch Hat Atelier&#8217; es el nuevo anime de Crunchyroll del que todo el mundo habla y que deberías estar viendo
+Witch Hat Atelier, cuyos primeros capítulos ya están disponibles en Crunchyroll, es mucho más que solo una historia de fantasía. Que lo es y de las más interesantes del mundo del anime contemporáneo. También, en una revisión a la capacidad …
+https://hipertextual.com/cine-television/witch-hat-atelier-es-el-nuevo-anime-de-crunchyroll-del-que-todo-el-mundo-habla-y-que-deberias-estar-viendo/
+🗓️ 2026-04-11 • 🏷️ hipertextual.com
