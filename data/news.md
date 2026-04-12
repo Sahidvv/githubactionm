@@ -4369,3 +4369,9 @@ https://hipertextual.com/cine-television/witch-hat-atelier-es-el-nuevo-anime-de-
 Si usas Claude con frecuencia, ya conoces esta situación: estás a mitad de una conversación cuando de repente aparece el aviso de que has alcanzado el límite de uso. Mientras que ChatGPT y Gemini pasan a una versión ligera del modelo para q…
 https://hipertextual.com/inteligencia-artificial/claudekarma-extension-limites-uso-anthropic/
 🗓️ 2026-04-11 • 🏷️ hipertextual.com
+
+### 2026-04-12T04:10:35.853Z
+📰 Este es el mejor vídeo sobre Apple que vas a ver hoy: 50 años de historia en 1 minuto
+No es un anuncio oficial de Apple ni una superproducción, pero este vídeo sobre los productos de la compañía que nos hemos encontrado en Instagram merece muchísimo la pena. Es tan sencillo como nostálgico, y cualquier fanático de la califor…
+https://hipertextual.com/apple/este-es-el-mejor-video-sobre-apple-que-vas-a-ver-hoy-50-anos-de-historia-en-1-minuto/
+🗓️ 2026-04-11 • 🏷️ hipertextual.com

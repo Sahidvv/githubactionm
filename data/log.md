@@ -3880,3 +3880,19 @@ https://elpais.com/tecnologia/2026-04-11/los-adolescentes-que-crecieron-sin-ning
 🗓️ 2026-04-11 • 🏷️ elpais.com
 
 ---
+## 2026-04-12
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Este es el mejor vídeo sobre Apple que vas a ver hoy: 50 años de historia en 1 minuto
+No es un anuncio oficial de Apple ni una superproducción, pero este vídeo sobre los productos de la compañía que nos hemos encontrado en Instagram merece muchísimo la pena. Es tan sencillo como nostálgico, y cualquier fanático de la califor…
+https://hipertextual.com/apple/este-es-el-mejor-video-sobre-apple-que-vas-a-ver-hoy-50-anos-de-historia-en-1-minuto/
+🗓️ 2026-04-11 • 🏷️ hipertextual.com
+
+---
