@@ -4381,3 +4381,9 @@ https://hipertextual.com/apple/este-es-el-mejor-video-sobre-apple-que-vas-a-ver-
 The Boys llega a su final y tiene un compromiso por delante. El de cerrar todos los cabos sueltos que la adaptación de Prime Video al cómic de&#160;Garth Ennis ha dejado a su paso. También, plantear el escenario para los futuros spin-off qu…
 https://hipertextual.com/cine-television/todo-lo-que-debes-recordar-de-the-boys-antes-de-ver-la-ultima-temporada/
 🗓️ 2026-04-12 • 🏷️ hipertextual.com
+
+### 2026-04-12T19:39:28.148Z
+📰 5 películas de ciencia ficción de los años 80 que han envejecido muy bien
+Las películas de ciencia ficción de los 80s marcaron un punto de inflexión fundamental. Eso, al alejarse del optimismo espacial de décadas anteriores, para abrazar una madurez visual y narrativa sin precedentes. En especial, porque la indus…
+https://hipertextual.com/cine-television/5-peliculas-de-ciencia-ficcion-de-los-anos-80-que-han-envejecido-muy-bien/
+🗓️ 2026-04-12 • 🏷️ hipertextual.com
