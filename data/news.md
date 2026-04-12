@@ -4375,3 +4375,9 @@ https://hipertextual.com/inteligencia-artificial/claudekarma-extension-limites-u
 No es un anuncio oficial de Apple ni una superproducción, pero este vídeo sobre los productos de la compañía que nos hemos encontrado en Instagram merece muchísimo la pena. Es tan sencillo como nostálgico, y cualquier fanático de la califor…
 https://hipertextual.com/apple/este-es-el-mejor-video-sobre-apple-que-vas-a-ver-hoy-50-anos-de-historia-en-1-minuto/
 🗓️ 2026-04-11 • 🏷️ hipertextual.com
+
+### 2026-04-12T13:59:23.988Z
+📰 Todo lo que debes recordar de ‘The Boys’ antes de ver la última temporada
+The Boys llega a su final y tiene un compromiso por delante. El de cerrar todos los cabos sueltos que la adaptación de Prime Video al cómic de&#160;Garth Ennis ha dejado a su paso. También, plantear el escenario para los futuros spin-off qu…
+https://hipertextual.com/cine-television/todo-lo-que-debes-recordar-de-the-boys-antes-de-ver-la-ultima-temporada/
+🗓️ 2026-04-12 • 🏷️ hipertextual.com
