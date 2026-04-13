@@ -3896,3 +3896,19 @@ https://hipertextual.com/apple/este-es-el-mejor-video-sobre-apple-que-vas-a-ver-
 🗓️ 2026-04-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-13
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXIX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo conectar un portátil a un monitor y aprovechar…
+https://www.muycomputer.com/2026/04/12/los-mejores-contenidos-de-la-semana-en-muycomputer-dxix/
+🗓️ 2026-04-12 • 🏷️ muycomputer.com
+
+---
