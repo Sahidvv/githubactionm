@@ -4393,3 +4393,9 @@ https://hipertextual.com/cine-television/5-peliculas-de-ciencia-ficcion-de-los-a
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo conectar un portátil a un monitor y aprovechar…
 https://www.muycomputer.com/2026/04/12/los-mejores-contenidos-de-la-semana-en-muycomputer-dxix/
 🗓️ 2026-04-12 • 🏷️ muycomputer.com
+
+### 2026-04-13T14:50:00.328Z
+📰 Hollywood declara la guerra a Paramount y Warner Bros con una carta abierta de más de 1000 firmas
+Hollywood acaba de tomar partido abiertamente en la compra de Warner Bros. por parte de Paramount. Y es que más de 1000 grandes nombres se han unido para firmar una carta abierta en contra de la fusión de ambas compañías. El acuerdo con Par…
+https://hipertextual.com/cine-television/hollywood-declara-guerra-a-paramount-y-warner-bros-carta-abierta-mas-de-1000-firmas/
+🗓️ 2026-04-13 • 🏷️ hipertextual.com
