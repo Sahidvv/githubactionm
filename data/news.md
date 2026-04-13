@@ -4399,3 +4399,9 @@ https://www.muycomputer.com/2026/04/12/los-mejores-contenidos-de-la-semana-en-mu
 Hollywood acaba de tomar partido abiertamente en la compra de Warner Bros. por parte de Paramount. Y es que más de 1000 grandes nombres se han unido para firmar una carta abierta en contra de la fusión de ambas compañías. El acuerdo con Par…
 https://hipertextual.com/cine-television/hollywood-declara-guerra-a-paramount-y-warner-bros-carta-abierta-mas-de-1000-firmas/
 🗓️ 2026-04-13 • 🏷️ hipertextual.com
+
+### 2026-04-13T20:05:19.049Z
+📰 Xbox reconoce que Game Pass se ha vuelto «demasiado caro» y promete un cambio
+La subida de precio de Game Pass ha sido una de las decisiones más criticadas a Xbox en los últimos años. A varios meses de su implementación, la empresa parece que al fin se dio cuenta del error y analiza una posible solución. Según un men…
+https://hipertextual.com/videojuegos/xbox-game-pass-ajuste-precios-asha-sharma/
+🗓️ 2026-04-13 • 🏷️ hipertextual.com
