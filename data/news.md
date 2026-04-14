@@ -4417,3 +4417,9 @@ https://hipertextual.com/inteligencia-artificial/claude-cambio-limites-uso-anthr
 NVIDIA ha abierto una promoción que te permitirá conseguir Pragmata gratis al comprar una nueva tarjeta gráfica GeForce RTX 5070 o superior. Esta promoción también se aplica al comprar un PC con dicha tarjeta gráfica o con un modelo superio…
 https://www.muycomputer.com/2026/04/14/pragmata-gratis-al-comprar-una-geforce-rtx-y-nuevos-juegos-con-dlss/
 🗓️ 2026-04-14 • 🏷️ muycomputer.com
+
+### 2026-04-14T20:05:06.440Z
+📰 Si usas Gemini y ya te cansaste de repetir prompts, Chrome tiene una nueva función que te cambiará la vida
+Google ha lanzado una función para Chrome que evitará que repitas la misma instrucción a Gemini. Conocida como Skills, esta característica permite guardar prompts y ejecutarlos con un solo clic mientras se navega. La novedad está disponible…
+https://hipertextual.com/inteligencia-artificial/chrome-gemini-skills-prompts-guardados/
+🗓️ 2026-04-14 • 🏷️ hipertextual.com
