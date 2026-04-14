@@ -4405,3 +4405,9 @@ https://hipertextual.com/cine-television/hollywood-declara-guerra-a-paramount-y-
 La subida de precio de Game Pass ha sido una de las decisiones más criticadas a Xbox en los últimos años. A varios meses de su implementación, la empresa parece que al fin se dio cuenta del error y analiza una posible solución. Según un men…
 https://hipertextual.com/videojuegos/xbox-game-pass-ajuste-precios-asha-sharma/
 🗓️ 2026-04-13 • 🏷️ hipertextual.com
+
+### 2026-04-14T04:09:19.348Z
+📰 No eres tú, Claude cambió sus límites de uso y los mensajes se agotan más rápido
+Si en las últimas semanas has sentido que Claude se agota más rápido que antes, que tu sesión de trabajo termina antes de tiempo o que el medidor de uso llega al 100% con una velocidad inusual, no estás imaginando cosas. Miles de usuarios d…
+https://hipertextual.com/inteligencia-artificial/claude-cambio-limites-uso-anthropi/
+🗓️ 2026-04-14 • 🏷️ hipertextual.com

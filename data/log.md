@@ -3912,3 +3912,19 @@ https://www.muycomputer.com/2026/04/12/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-04-12 • 🏷️ muycomputer.com
 
 ---
+## 2026-04-14
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 No eres tú, Claude cambió sus límites de uso y los mensajes se agotan más rápido
+Si en las últimas semanas has sentido que Claude se agota más rápido que antes, que tu sesión de trabajo termina antes de tiempo o que el medidor de uso llega al 100% con una velocidad inusual, no estás imaginando cosas. Miles de usuarios d…
+https://hipertextual.com/inteligencia-artificial/claude-cambio-limites-uso-anthropi/
+🗓️ 2026-04-14 • 🏷️ hipertextual.com
+
+---
