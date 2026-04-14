@@ -4411,3 +4411,9 @@ https://hipertextual.com/videojuegos/xbox-game-pass-ajuste-precios-asha-sharma/
 Si en las últimas semanas has sentido que Claude se agota más rápido que antes, que tu sesión de trabajo termina antes de tiempo o que el medidor de uso llega al 100% con una velocidad inusual, no estás imaginando cosas. Miles de usuarios d…
 https://hipertextual.com/inteligencia-artificial/claude-cambio-limites-uso-anthropi/
 🗓️ 2026-04-14 • 🏷️ hipertextual.com
+
+### 2026-04-14T14:50:07.911Z
+📰 Pragmata gratis al comprar una GeForce RTX y nuevos juegos con DLSS
+NVIDIA ha abierto una promoción que te permitirá conseguir Pragmata gratis al comprar una nueva tarjeta gráfica GeForce RTX 5070 o superior. Esta promoción también se aplica al comprar un PC con dicha tarjeta gráfica o con un modelo superio…
+https://www.muycomputer.com/2026/04/14/pragmata-gratis-al-comprar-una-geforce-rtx-y-nuevos-juegos-con-dlss/
+🗓️ 2026-04-14 • 🏷️ muycomputer.com
