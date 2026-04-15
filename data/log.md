@@ -3928,3 +3928,19 @@ https://hipertextual.com/inteligencia-artificial/claude-cambio-limites-uso-anthr
 🗓️ 2026-04-14 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-15
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Solo el 13% de los emails está escrito por personas y más de la mitad cae en el filtro de spam: “No es un dato técnico, es un cambio estructural”
+El análisis de 1.000 millones de correos electrónicos revela que son una herramienta totalmente dominada por sistemas automáticos
+https://elpais.com/tecnologia/2026-04-15/solo-el-13-de-los-emails-esta-escrito-por-personas-y-mas-de-la-mitad-cae-en-el-filtro-de-spam-no-es-un-dato-tecnico-es-un-cambio-estructural.html
+🗓️ 2026-04-15 • 🏷️ elpais.com
+
+---

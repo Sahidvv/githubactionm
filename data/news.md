@@ -4423,3 +4423,9 @@ https://www.muycomputer.com/2026/04/14/pragmata-gratis-al-comprar-una-geforce-rt
 Google ha lanzado una función para Chrome que evitará que repitas la misma instrucción a Gemini. Conocida como Skills, esta característica permite guardar prompts y ejecutarlos con un solo clic mientras se navega. La novedad está disponible…
 https://hipertextual.com/inteligencia-artificial/chrome-gemini-skills-prompts-guardados/
 🗓️ 2026-04-14 • 🏷️ hipertextual.com
+
+### 2026-04-15T04:07:52.191Z
+📰 Solo el 13% de los emails está escrito por personas y más de la mitad cae en el filtro de spam: “No es un dato técnico, es un cambio estructural”
+El análisis de 1.000 millones de correos electrónicos revela que son una herramienta totalmente dominada por sistemas automáticos
+https://elpais.com/tecnologia/2026-04-15/solo-el-13-de-los-emails-esta-escrito-por-personas-y-mas-de-la-mitad-cae-en-el-filtro-de-spam-no-es-un-dato-tecnico-es-un-cambio-estructural.html
+🗓️ 2026-04-15 • 🏷️ elpais.com
