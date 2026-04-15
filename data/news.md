@@ -4429,3 +4429,9 @@ https://hipertextual.com/inteligencia-artificial/chrome-gemini-skills-prompts-gu
 El análisis de 1.000 millones de correos electrónicos revela que son una herramienta totalmente dominada por sistemas automáticos
 https://elpais.com/tecnologia/2026-04-15/solo-el-13-de-los-emails-esta-escrito-por-personas-y-mas-de-la-mitad-cae-en-el-filtro-de-spam-no-es-un-dato-tecnico-es-un-cambio-estructural.html
 🗓️ 2026-04-15 • 🏷️ elpais.com
+
+### 2026-04-15T14:45:23.153Z
+📰 Volkswagen lanza el «Golf eléctrico» que todos esperaban: así es el renovado ID.3 Neo
+ID.3 Neo ya es oficial. Es un paso importante para Volkswagen y para los eléctricos europeos, en tanto que, desde su presentación inicial, la renovación del ID.3 es una de las esperadas del mercado. El "nuevo" coche de los alemanes, que vie…
+https://hipertextual.com/movilidad/volkswagen-lanza-el-golf-electrico/
+🗓️ 2026-04-15 • 🏷️ hipertextual.com
