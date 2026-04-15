@@ -4435,3 +4435,9 @@ https://elpais.com/tecnologia/2026-04-15/solo-el-13-de-los-emails-esta-escrito-p
 ID.3 Neo ya es oficial. Es un paso importante para Volkswagen y para los eléctricos europeos, en tanto que, desde su presentación inicial, la renovación del ID.3 es una de las esperadas del mercado. El "nuevo" coche de los alemanes, que vie…
 https://hipertextual.com/movilidad/volkswagen-lanza-el-golf-electrico/
 🗓️ 2026-04-15 • 🏷️ hipertextual.com
+
+### 2026-04-15T20:03:07.145Z
+📰 Adobe lanza un asistente con IA que maneja Photoshop, Premiere y Lightroom por ti
+Adobe ha presentado Firefly AI Assistant, un agente de IA que permite describir lo que deseas y delega la ejecución usando las apps de Creative Cloud. En lugar de abrir Photoshop para retocar, luego Premiere para editar el vídeo y después L…
+https://hipertextual.com/inteligencia-artificial/adobe-firefly-ai-assistant-agente-creative-cloud/
+🗓️ 2026-04-15 • 🏷️ hipertextual.com
