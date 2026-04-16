@@ -4453,3 +4453,9 @@ https://hipertextual.com/mobile/motorola-edge-70-pro-especificaciones-lanzamient
 El recientemente nominado al Oscar Wagner Moura (El Agente Secreto) acaba de debutar en Star Wars con su serie más reciente, Maul: Señor de las Sombras. Este proyecto de animación centrado en la figura de Darth Maul tras el alzamiento del i…
 https://hipertextual.com/cine-television/entrevista-wagner-moura-star-wars-maul-senor-de-las-sombras/
 🗓️ 2026-04-16 • 🏷️ hipertextual.com
+
+### 2026-04-16T19:59:13.322Z
+📰 OpenAI actualiza Codex y lo convierte en una superapp que controla tu ordenador
+A unos días de que Anthropic lanzara una actualización de la app de Claude Code, OpenAI ha respondido con un movimiento similar. El creador de ChatGPT anunció una nueva versión de la aplicación de escritorio de Codex, la cual amplía sus fun…
+https://hipertextual.com/inteligencia-artificial/openai-actualiza-codex-y-lo-convierte-en-una-superapp-que-controla-tu-ordenador/
+🗓️ 2026-04-16 • 🏷️ hipertextual.com
