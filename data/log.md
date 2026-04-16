@@ -3944,3 +3944,19 @@ https://elpais.com/tecnologia/2026-04-15/solo-el-13-de-los-emails-esta-escrito-p
 🗓️ 2026-04-15 • 🏷️ elpais.com
 
 ---
+## 2026-04-16
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Motorola confirma las características del Edge 70 Pro, el terror de Xiaomi y otros móviles Android
+Motorola ha confirmado las especificaciones finales del Edge 70 Pro, su nuevo móvil de gama media alta que debutará en los próximos días. A diferencia de lo que ocurrió con la generación anterior, el fabricante separó la versión Pro del mod…
+https://hipertextual.com/mobile/motorola-edge-70-pro-especificaciones-lanzamiento-precio/
+🗓️ 2026-04-15 • 🏷️ hipertextual.com
+
+---

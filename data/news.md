@@ -4441,3 +4441,9 @@ https://hipertextual.com/movilidad/volkswagen-lanza-el-golf-electrico/
 Adobe ha presentado Firefly AI Assistant, un agente de IA que permite describir lo que deseas y delega la ejecución usando las apps de Creative Cloud. En lugar de abrir Photoshop para retocar, luego Premiere para editar el vídeo y después L…
 https://hipertextual.com/inteligencia-artificial/adobe-firefly-ai-assistant-agente-creative-cloud/
 🗓️ 2026-04-15 • 🏷️ hipertextual.com
+
+### 2026-04-16T04:14:12.657Z
+📰 Motorola confirma las características del Edge 70 Pro, el terror de Xiaomi y otros móviles Android
+Motorola ha confirmado las especificaciones finales del Edge 70 Pro, su nuevo móvil de gama media alta que debutará en los próximos días. A diferencia de lo que ocurrió con la generación anterior, el fabricante separó la versión Pro del mod…
+https://hipertextual.com/mobile/motorola-edge-70-pro-especificaciones-lanzamiento-precio/
+🗓️ 2026-04-15 • 🏷️ hipertextual.com
