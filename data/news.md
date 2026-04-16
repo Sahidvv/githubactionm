@@ -4447,3 +4447,9 @@ https://hipertextual.com/inteligencia-artificial/adobe-firefly-ai-assistant-agen
 Motorola ha confirmado las especificaciones finales del Edge 70 Pro, su nuevo móvil de gama media alta que debutará en los próximos días. A diferencia de lo que ocurrió con la generación anterior, el fabricante separó la versión Pro del mod…
 https://hipertextual.com/mobile/motorola-edge-70-pro-especificaciones-lanzamiento-precio/
 🗓️ 2026-04-15 • 🏷️ hipertextual.com
+
+### 2026-04-16T14:55:36.272Z
+📰 Wagner Moura quiere dar el salto al live-action de &#8216;Star Wars&#8217; tras &#8216;Maul &#8211; Señor de las Sombras&#8217;: «Es un personaje muy bien escrito»
+El recientemente nominado al Oscar Wagner Moura (El Agente Secreto) acaba de debutar en Star Wars con su serie más reciente, Maul: Señor de las Sombras. Este proyecto de animación centrado en la figura de Darth Maul tras el alzamiento del i…
+https://hipertextual.com/cine-television/entrevista-wagner-moura-star-wars-maul-senor-de-las-sombras/
+🗓️ 2026-04-16 • 🏷️ hipertextual.com
