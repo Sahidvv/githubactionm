@@ -3960,3 +3960,19 @@ https://hipertextual.com/mobile/motorola-edge-70-pro-especificaciones-lanzamient
 🗓️ 2026-04-15 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-17
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ¿Cuánto consume un centro de datos? Una ley europea a la medida de las grandes tecnológicas impide saberlo
+Una investigación internacional en la que ha participado EL PAÍS revela cómo Microsoft y otras tecnológicas presionaron a Bruselas para introducir una cláusula de confidencialidad en la normativa europea
+https://elpais.com/tecnologia/2026-04-17/cuanto-consume-un-centro-de-datos-una-ley-europea-a-la-medida-de-las-grandes-tecnologicas-impide-saberlo.html
+🗓️ 2026-04-17 • 🏷️ elpais.com
+
+---

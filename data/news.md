@@ -4459,3 +4459,9 @@ https://hipertextual.com/cine-television/entrevista-wagner-moura-star-wars-maul-
 A unos días de que Anthropic lanzara una actualización de la app de Claude Code, OpenAI ha respondido con un movimiento similar. El creador de ChatGPT anunció una nueva versión de la aplicación de escritorio de Codex, la cual amplía sus fun…
 https://hipertextual.com/inteligencia-artificial/openai-actualiza-codex-y-lo-convierte-en-una-superapp-que-controla-tu-ordenador/
 🗓️ 2026-04-16 • 🏷️ hipertextual.com
+
+### 2026-04-17T04:11:46.549Z
+📰 ¿Cuánto consume un centro de datos? Una ley europea a la medida de las grandes tecnológicas impide saberlo
+Una investigación internacional en la que ha participado EL PAÍS revela cómo Microsoft y otras tecnológicas presionaron a Bruselas para introducir una cláusula de confidencialidad en la normativa europea
+https://elpais.com/tecnologia/2026-04-17/cuanto-consume-un-centro-de-datos-una-ley-europea-a-la-medida-de-las-grandes-tecnologicas-impide-saberlo.html
+🗓️ 2026-04-17 • 🏷️ elpais.com
