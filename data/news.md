@@ -4471,3 +4471,9 @@ https://elpais.com/tecnologia/2026-04-17/cuanto-consume-un-centro-de-datos-una-l
 Esta semana tenemos otra selección de ofertas top, pero centrada en portátiles, porque PcComponentes tiene abierta una campaña con descuentos que pueden superar el 40% en algunos modelos, y en la mayoría de equipos los descuentos rondan ent…
 https://www.muycomputer.com/2026/04/17/ofertas-top-de-la-semana-especial-portatiles/
 🗓️ 2026-04-17 • 🏷️ muycomputer.com
+
+### 2026-04-17T19:57:37.301Z
+📰 Olvídate de Figma: Claude Design es la nueva IA de Anthropic que diseña por ti
+Anthropic acaba de presentar Claude Design, una nueva herramienta de diseño con la que puedes crear prototipos, wireframes, presentaciones y otro tipo de material sin tocar Figma ni contratar a nadie. Al igual que vemos con Claude Code, el …
+https://hipertextual.com/inteligencia-artificial/claude-design-anthropic-herramienta-ia-diseno-figma/
+🗓️ 2026-04-17 • 🏷️ hipertextual.com
