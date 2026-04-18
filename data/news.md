@@ -4477,3 +4477,9 @@ https://www.muycomputer.com/2026/04/17/ofertas-top-de-la-semana-especial-portati
 Anthropic acaba de presentar Claude Design, una nueva herramienta de diseño con la que puedes crear prototipos, wireframes, presentaciones y otro tipo de material sin tocar Figma ni contratar a nadie. Al igual que vemos con Claude Code, el …
 https://hipertextual.com/inteligencia-artificial/claude-design-anthropic-herramienta-ia-diseno-figma/
 🗓️ 2026-04-17 • 🏷️ hipertextual.com
+
+### 2026-04-18T03:47:30.733Z
+📰 Microsoft prepara una renovación del menú Inicio de Windows 11: esto es lo que cambia
+El menú Inicio de Windows 11 lleva tiempo ocupando el primer puesto de los elementos más criticados del sistema operativo. Si bien las fallas en las actualizaciones recientes le han quitado protagonismo, lo cierto es que la mayoría de los u…
+https://hipertextual.com/software/windows-11-menu-inicio-personalizacion-winui3/
+🗓️ 2026-04-17 • 🏷️ hipertextual.com

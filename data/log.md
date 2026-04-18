@@ -3976,3 +3976,19 @@ https://elpais.com/tecnologia/2026-04-17/cuanto-consume-un-centro-de-datos-una-l
 🗓️ 2026-04-17 • 🏷️ elpais.com
 
 ---
+## 2026-04-18
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Microsoft prepara una renovación del menú Inicio de Windows 11: esto es lo que cambia
+El menú Inicio de Windows 11 lleva tiempo ocupando el primer puesto de los elementos más criticados del sistema operativo. Si bien las fallas en las actualizaciones recientes le han quitado protagonismo, lo cierto es que la mayoría de los u…
+https://hipertextual.com/software/windows-11-menu-inicio-personalizacion-winui3/
+🗓️ 2026-04-17 • 🏷️ hipertextual.com
+
+---
