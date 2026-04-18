@@ -4489,3 +4489,9 @@ https://hipertextual.com/software/windows-11-menu-inicio-personalizacion-winui3/
 La momia de Lee Cronin no es una reinvención del mito del monstruo clásico. O al menos, no exclusivamente. Antes que eso, la película (que el director titular también escribe) es una reflexión sobre el dolor paralizante de un duelo. También…
 https://hipertextual.com/cine-television/la-momia-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-totalmente-repulsiva-aterradora-y-una-de-las-mejores-peliculas-de-terror-del-ano/
 🗓️ 2026-04-18 • 🏷️ hipertextual.com
+
+### 2026-04-18T19:41:01.831Z
+📰 Las 5 polémicas con las que tendrá que lidiar ‘Michael’, el biopic de Michael Jackson
+Michael, de Antoine Fuqua, ha pasado por todo tipo de problemas para su estreno. De retrasos, reescrituras, anunciarse como un proyecto en dos partes (que después se resumió en una), hasta discusiones legales sobre su argumento. Lo cierto e…
+https://hipertextual.com/cine-television/las-5-polemicas-con-las-que-tendra-que-lidiar-michael-el-biopic-de-michael-jackson/
+🗓️ 2026-04-18 • 🏷️ hipertextual.com
