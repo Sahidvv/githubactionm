@@ -4483,3 +4483,9 @@ https://hipertextual.com/inteligencia-artificial/claude-design-anthropic-herrami
 El menú Inicio de Windows 11 lleva tiempo ocupando el primer puesto de los elementos más criticados del sistema operativo. Si bien las fallas en las actualizaciones recientes le han quitado protagonismo, lo cierto es que la mayoría de los u…
 https://hipertextual.com/software/windows-11-menu-inicio-personalizacion-winui3/
 🗓️ 2026-04-17 • 🏷️ hipertextual.com
+
+### 2026-04-18T14:00:44.039Z
+📰 &#8216;La momia&#8217; (★★★★☆) es totalmente repulsiva, aterradora y una de las mejores películas de terror del año
+La momia de Lee Cronin no es una reinvención del mito del monstruo clásico. O al menos, no exclusivamente. Antes que eso, la película (que el director titular también escribe) es una reflexión sobre el dolor paralizante de un duelo. También…
+https://hipertextual.com/cine-television/la-momia-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-totalmente-repulsiva-aterradora-y-una-de-las-mejores-peliculas-de-terror-del-ano/
+🗓️ 2026-04-18 • 🏷️ hipertextual.com
