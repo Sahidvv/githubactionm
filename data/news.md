@@ -4507,3 +4507,9 @@ https://hipertextual.com/cine-television/la-increible-historia-real-del-escritor
 Confía en mí: El falso profeta, el nuevo true crime de Netflix, pone sobre la mesa un punto controvertido. La proliferación de las sectas en la actualidad y, lo que es más terrorífico, la manera en que grupos extremistas utilizan la fe como…
 https://hipertextual.com/cine-television/de-que-va-el-terrorifico-true-crime-confia-en-mi-el-falso-profeta-del-que-todo-el-mundo-habla/
 🗓️ 2026-04-19 • 🏷️ hipertextual.com
+
+### 2026-04-19T19:41:20.993Z
+📰 ¿De qué va ‘Los testamentos’?: así es la secuela de ‘El cuento de la criada’, que ya puedes ver en Disney +
+Los testamentos son la esperada secuela del universo distópico iniciado por la exitosa y recientemente finalizada El cuento de la criada. Pero más allá de eso, es también una perspectiva más profunda acerca del tétrico estado teocrático de …
+https://hipertextual.com/cine-television/de-que-va-los-testamentos-asi-es-la-secuela-de-el-cuento-de-la-criada-que-ya-puedes-ver-en-disney/
+🗓️ 2026-04-19 • 🏷️ hipertextual.com
