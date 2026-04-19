@@ -4501,3 +4501,9 @@ https://hipertextual.com/cine-television/las-5-polemicas-con-las-que-tendra-que-
 Proyecto Salvación ha sorprendido por varias cosas a la vez. Por un lado, su capacidad para innovar en el cine de ciencia ficción, desde una visión optimista del género. También, por demostrar que el cine puede ser un espectáculo emotivo, a…
 https://hipertextual.com/cine-television/la-increible-historia-real-del-escritor-de-proyecto-salvacion/
 🗓️ 2026-04-18 • 🏷️ hipertextual.com
+
+### 2026-04-19T13:59:30.720Z
+📰 De qué va el terrorífico true crime ‘Confía en mí&#8217;? El falso profeta, del que todo el mundo habla
+Confía en mí: El falso profeta, el nuevo true crime de Netflix, pone sobre la mesa un punto controvertido. La proliferación de las sectas en la actualidad y, lo que es más terrorífico, la manera en que grupos extremistas utilizan la fe como…
+https://hipertextual.com/cine-television/de-que-va-el-terrorifico-true-crime-confia-en-mi-el-falso-profeta-del-que-todo-el-mundo-habla/
+🗓️ 2026-04-19 • 🏷️ hipertextual.com
