@@ -3992,3 +3992,19 @@ https://hipertextual.com/software/windows-11-menu-inicio-personalizacion-winui3/
 🗓️ 2026-04-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-19
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La increíble historia real del escritor de ‘Proyecto Salvación’
+Proyecto Salvación ha sorprendido por varias cosas a la vez. Por un lado, su capacidad para innovar en el cine de ciencia ficción, desde una visión optimista del género. También, por demostrar que el cine puede ser un espectáculo emotivo, a…
+https://hipertextual.com/cine-television/la-increible-historia-real-del-escritor-de-proyecto-salvacion/
+🗓️ 2026-04-18 • 🏷️ hipertextual.com
+
+---

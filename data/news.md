@@ -4495,3 +4495,9 @@ https://hipertextual.com/cine-television/la-momia-%e2%98%85%e2%98%85%e2%98%85%e2
 Michael, de Antoine Fuqua, ha pasado por todo tipo de problemas para su estreno. De retrasos, reescrituras, anunciarse como un proyecto en dos partes (que después se resumió en una), hasta discusiones legales sobre su argumento. Lo cierto e…
 https://hipertextual.com/cine-television/las-5-polemicas-con-las-que-tendra-que-lidiar-michael-el-biopic-de-michael-jackson/
 🗓️ 2026-04-18 • 🏷️ hipertextual.com
+
+### 2026-04-19T04:14:18.829Z
+📰 La increíble historia real del escritor de ‘Proyecto Salvación’
+Proyecto Salvación ha sorprendido por varias cosas a la vez. Por un lado, su capacidad para innovar en el cine de ciencia ficción, desde una visión optimista del género. También, por demostrar que el cine puede ser un espectáculo emotivo, a…
+https://hipertextual.com/cine-television/la-increible-historia-real-del-escritor-de-proyecto-salvacion/
+🗓️ 2026-04-18 • 🏷️ hipertextual.com
