@@ -4525,3 +4525,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-i
 La película de Elden Ring es uno de los proyectos más esperados por los fans de las adaptaciones de videojuegos. El título original vio la luz en 2022 y se convirtió en un éxito planetario. Más de 30 millones de copias vendidas en todo el m…
 https://hipertextual.com/cine-television/la-pelicula-de-elden-ring-confirma-su-reparto-completo-y-anuncia-fecha-de-estreno/
 🗓️ 2026-04-20 • 🏷️ hipertextual.com
+
+### 2026-04-20T19:58:51.769Z
+📰 Kimi, la IA china que supera a ChatGPT y Claude, lanza una nueva versión que programa sin supervisión humana
+A unas semanas de irrumpir en escena y desplazar a ChatGPT y Gemini, Kimi está de regreso. La IA china desarrollada por Moonshot lanzó una nueva versión que supera a los modelos de lenguaje más potentes de OpenAI y Anthropic. Kimi K2.6 igua…
+https://hipertextual.com/inteligencia-artificial/kimi-k2-6-modelo-codigo-abierto-benchmarks-gpt-claude-gemini/
+🗓️ 2026-04-20 • 🏷️ hipertextual.com
