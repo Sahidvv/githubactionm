@@ -4008,3 +4008,19 @@ https://hipertextual.com/cine-television/la-increible-historia-real-del-escritor
 🗓️ 2026-04-18 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-20
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música
+La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’
+https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html
+🗓️ 2026-04-20 • 🏷️ elpais.com
+
+---

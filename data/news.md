@@ -4513,3 +4513,9 @@ https://hipertextual.com/cine-television/de-que-va-el-terrorifico-true-crime-con
 Los testamentos son la esperada secuela del universo distópico iniciado por la exitosa y recientemente finalizada El cuento de la criada. Pero más allá de eso, es también una perspectiva más profunda acerca del tétrico estado teocrático de …
 https://hipertextual.com/cine-television/de-que-va-los-testamentos-asi-es-la-secuela-de-el-cuento-de-la-criada-que-ya-puedes-ver-en-disney/
 🗓️ 2026-04-19 • 🏷️ hipertextual.com
+
+### 2026-04-20T04:19:20.146Z
+📰 Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música
+La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’
+https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html
+🗓️ 2026-04-20 • 🏷️ elpais.com
