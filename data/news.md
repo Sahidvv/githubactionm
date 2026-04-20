@@ -4519,3 +4519,9 @@ https://hipertextual.com/cine-television/de-que-va-los-testamentos-asi-es-la-sec
 La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’
 https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html
 🗓️ 2026-04-20 • 🏷️ elpais.com
+
+### 2026-04-20T14:51:09.392Z
+📰 La película de &#8216;Elden Ring&#8217; confirma su reparto completo y anuncia fecha de estreno
+La película de Elden Ring es uno de los proyectos más esperados por los fans de las adaptaciones de videojuegos. El título original vio la luz en 2022 y se convirtió en un éxito planetario. Más de 30 millones de copias vendidas en todo el m…
+https://hipertextual.com/cine-television/la-pelicula-de-elden-ring-confirma-su-reparto-completo-y-anuncia-fecha-de-estreno/
+🗓️ 2026-04-20 • 🏷️ hipertextual.com
