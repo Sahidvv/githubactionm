@@ -4543,3 +4543,9 @@ https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/
 Microsoft está a punto de resolver uno de los errores más vergonzosos de cualquier reunión a través de Teams. La firma de Redmond anunció que pronto va a implementar una función en su app de comunicaciones que pondrá punto y final a los epi…
 https://hipertextual.com/software/microsoft-teams-cambio-levantar-la-mano/
 🗓️ 2026-04-21 • 🏷️ hipertextual.com
+
+### 2026-04-21T20:03:02.468Z
+📰 CATL supera a BYD con una batería ultrarrápida que se carga en menos de 4 minutos
+CATL ha presentado la tercera generación de su batería Shenxing LFP, la cual se integrará en los próximos coches eléctricos. A unas semanas de que Blade anunciara la Blade 2.0, el fabricante chino contraataca con una batería que ofrece los …
+https://hipertextual.com/movilidad/catl-shenxing-qilin-bateria-ultrarrapida/
+🗓️ 2026-04-21 • 🏷️ hipertextual.com
