@@ -4537,3 +4537,9 @@ https://hipertextual.com/inteligencia-artificial/kimi-k2-6-modelo-codigo-abierto
 Hace unas horas, Apple confirmó lo que muchos esperaban: Tim Cook deja la dirección ejecutiva de la compañía y su sucesor es John Ternus. Si bien el nombre puede sonar ajeno para algunos, lo cierto es que el nuevo CEO es el hombre que ha li…
 https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/
 🗓️ 2026-04-20 • 🏷️ hipertextual.com
+
+### 2026-04-21T14:46:38.576Z
+📰 Con lo próximo de Microsoft Teams no volverás a pasar vergüenza en tus reuniones
+Microsoft está a punto de resolver uno de los errores más vergonzosos de cualquier reunión a través de Teams. La firma de Redmond anunció que pronto va a implementar una función en su app de comunicaciones que pondrá punto y final a los epi…
+https://hipertextual.com/software/microsoft-teams-cambio-levantar-la-mano/
+🗓️ 2026-04-21 • 🏷️ hipertextual.com
