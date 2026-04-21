@@ -4531,3 +4531,9 @@ https://hipertextual.com/cine-television/la-pelicula-de-elden-ring-confirma-su-r
 A unas semanas de irrumpir en escena y desplazar a ChatGPT y Gemini, Kimi está de regreso. La IA china desarrollada por Moonshot lanzó una nueva versión que supera a los modelos de lenguaje más potentes de OpenAI y Anthropic. Kimi K2.6 igua…
 https://hipertextual.com/inteligencia-artificial/kimi-k2-6-modelo-codigo-abierto-benchmarks-gpt-claude-gemini/
 🗓️ 2026-04-20 • 🏷️ hipertextual.com
+
+### 2026-04-21T04:11:37.741Z
+📰 Quién es John Ternus, el nuevo CEO de Apple
+Hace unas horas, Apple confirmó lo que muchos esperaban: Tim Cook deja la dirección ejecutiva de la compañía y su sucesor es John Ternus. Si bien el nombre puede sonar ajeno para algunos, lo cierto es que el nuevo CEO es el hombre que ha li…
+https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/
+🗓️ 2026-04-20 • 🏷️ hipertextual.com

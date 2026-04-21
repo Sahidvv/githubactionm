@@ -4024,3 +4024,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-i
 🗓️ 2026-04-20 • 🏷️ elpais.com
 
 ---
+## 2026-04-21
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Quién es John Ternus, el nuevo CEO de Apple
+Hace unas horas, Apple confirmó lo que muchos esperaban: Tim Cook deja la dirección ejecutiva de la compañía y su sucesor es John Ternus. Si bien el nombre puede sonar ajeno para algunos, lo cierto es que el nuevo CEO es el hombre que ha li…
+https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/
+🗓️ 2026-04-20 • 🏷️ hipertextual.com
+
+---
