@@ -4561,3 +4561,9 @@ https://hipertextual.com/apple/tim-cook-deja-ceo-apple-razones/
 Sandisk ha presentado nuevas tarjetas de memoria Extreme PRO CFexpress 4.0 Tipo B, ampliando su línea de almacenamiento de gama alta, dirigida tanto a profesionales como consumidores exigentes. Estarán disponibles con capacidades de almacen…
 https://www.muycomputer.com/2026/04/22/sandisk-presenta-nuevas-tarjetas-de-memoria-extreme-pro/
 🗓️ 2026-04-22 • 🏷️ muycomputer.com
+
+### 2026-04-22T20:05:14.691Z
+📰 &#8216;Clayface&#8217;, la nueva película del Universo DC de James Gunn, lanza su escalofriante primer tráiler
+Clayface es la prueba definitiva de que James Gunn no teme en tomar riesgos para darle forma al nuevo Universo DC. La película dirigida por James Watkins es la primera incursión de DC Studios en el mundo del body horror y acaba de hacer púb…
+https://hipertextual.com/cine-television/clayface-trailer-dc-studios/
+🗓️ 2026-04-22 • 🏷️ hipertextual.com
