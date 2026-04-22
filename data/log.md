@@ -4040,3 +4040,19 @@ https://hipertextual.com/apple/quien-es-john-ternus-nuevo-ceo-apple/
 🗓️ 2026-04-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-22
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Tim Cook explica por qué dejará de ser CEO de Apple
+A unas horas de que se anunciara el final de la era de Tim Cook como CEO de Apple, el directivo reveló las razones que lo llevaron a tomar esta decisión. Según reporta Bloomberg, Cook llevó a cabo una reunión con sus empleados después de qu…
+https://hipertextual.com/apple/tim-cook-deja-ceo-apple-razones/
+🗓️ 2026-04-21 • 🏷️ hipertextual.com
+
+---

@@ -4549,3 +4549,9 @@ https://hipertextual.com/software/microsoft-teams-cambio-levantar-la-mano/
 CATL ha presentado la tercera generación de su batería Shenxing LFP, la cual se integrará en los próximos coches eléctricos. A unas semanas de que Blade anunciara la Blade 2.0, el fabricante chino contraataca con una batería que ofrece los …
 https://hipertextual.com/movilidad/catl-shenxing-qilin-bateria-ultrarrapida/
 🗓️ 2026-04-21 • 🏷️ hipertextual.com
+
+### 2026-04-22T04:07:42.263Z
+📰 Tim Cook explica por qué dejará de ser CEO de Apple
+A unas horas de que se anunciara el final de la era de Tim Cook como CEO de Apple, el directivo reveló las razones que lo llevaron a tomar esta decisión. Según reporta Bloomberg, Cook llevó a cabo una reunión con sus empleados después de qu…
+https://hipertextual.com/apple/tim-cook-deja-ceo-apple-razones/
+🗓️ 2026-04-21 • 🏷️ hipertextual.com
