@@ -4555,3 +4555,9 @@ https://hipertextual.com/movilidad/catl-shenxing-qilin-bateria-ultrarrapida/
 A unas horas de que se anunciara el final de la era de Tim Cook como CEO de Apple, el directivo reveló las razones que lo llevaron a tomar esta decisión. Según reporta Bloomberg, Cook llevó a cabo una reunión con sus empleados después de qu…
 https://hipertextual.com/apple/tim-cook-deja-ceo-apple-razones/
 🗓️ 2026-04-21 • 🏷️ hipertextual.com
+
+### 2026-04-22T14:46:03.847Z
+📰 Sandisk presenta nuevas tarjetas de memoria Extreme PRO
+Sandisk ha presentado nuevas tarjetas de memoria Extreme PRO CFexpress 4.0 Tipo B, ampliando su línea de almacenamiento de gama alta, dirigida tanto a profesionales como consumidores exigentes. Estarán disponibles con capacidades de almacen…
+https://www.muycomputer.com/2026/04/22/sandisk-presenta-nuevas-tarjetas-de-memoria-extreme-pro/
+🗓️ 2026-04-22 • 🏷️ muycomputer.com
