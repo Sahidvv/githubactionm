@@ -4573,3 +4573,9 @@ https://hipertextual.com/cine-television/clayface-trailer-dc-studios/
 Después de un año de su anuncio, y de que estuviese disponible en Estados Unidos, Alexa+ por fin llega a España. El asistente inteligente de Amazon potenciado por IA llega justo a tiempo para competir contra Gemini for Home, y lo hace presu…
 https://hipertextual.com/tecnologia/el-nuevo-alexa-llega-a-espana-no-es-gratis-pero-cambia-la-experiencia-por-completo/
 🗓️ 2026-04-23 • 🏷️ hipertextual.com
+
+### 2026-04-23T15:11:48.020Z
+📰 De qué va &#8216;Turno de Noche&#8217;, la nueva comedia de terror de Liam Neeson y una gran estrella de &#8216;Stranger Things&#8217; que tienes que ver
+Si te gusta el cine de terror y de ciencia ficción, acaba de llegar a los cines Turno de Noche, una película que tienes que ver obligatoriamente. El proyecto viene encabezado por la remisa de su extraordinario reparto. Y es que, con un gana…
+https://hipertextual.com/cine-television/de-que-va-turno-de-noche-nueva-comedia-de-terror-liam-neeson-estrella-de-stranger-things/
+🗓️ 2026-04-23 • 🏷️ hipertextual.com
