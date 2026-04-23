@@ -4056,3 +4056,19 @@ https://hipertextual.com/apple/tim-cook-deja-ceo-apple-razones/
 🗓️ 2026-04-21 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-23
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 El nuevo Alexa+ llega a España: no es gratis, pero cambia la experiencia por completo
+Después de un año de su anuncio, y de que estuviese disponible en Estados Unidos, Alexa+ por fin llega a España. El asistente inteligente de Amazon potenciado por IA llega justo a tiempo para competir contra Gemini for Home, y lo hace presu…
+https://hipertextual.com/tecnologia/el-nuevo-alexa-llega-a-espana-no-es-gratis-pero-cambia-la-experiencia-por-completo/
+🗓️ 2026-04-23 • 🏷️ hipertextual.com
+
+---

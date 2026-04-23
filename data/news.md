@@ -4567,3 +4567,9 @@ https://www.muycomputer.com/2026/04/22/sandisk-presenta-nuevas-tarjetas-de-memor
 Clayface es la prueba definitiva de que James Gunn no teme en tomar riesgos para darle forma al nuevo Universo DC. La película dirigida por James Watkins es la primera incursión de DC Studios en el mundo del body horror y acaba de hacer púb…
 https://hipertextual.com/cine-television/clayface-trailer-dc-studios/
 🗓️ 2026-04-22 • 🏷️ hipertextual.com
+
+### 2026-04-23T04:12:25.804Z
+📰 El nuevo Alexa+ llega a España: no es gratis, pero cambia la experiencia por completo
+Después de un año de su anuncio, y de que estuviese disponible en Estados Unidos, Alexa+ por fin llega a España. El asistente inteligente de Amazon potenciado por IA llega justo a tiempo para competir contra Gemini for Home, y lo hace presu…
+https://hipertextual.com/tecnologia/el-nuevo-alexa-llega-a-espana-no-es-gratis-pero-cambia-la-experiencia-por-completo/
+🗓️ 2026-04-23 • 🏷️ hipertextual.com
