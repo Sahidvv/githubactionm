@@ -4579,3 +4579,9 @@ https://hipertextual.com/tecnologia/el-nuevo-alexa-llega-a-espana-no-es-gratis-p
 Si te gusta el cine de terror y de ciencia ficción, acaba de llegar a los cines Turno de Noche, una película que tienes que ver obligatoriamente. El proyecto viene encabezado por la remisa de su extraordinario reparto. Y es que, con un gana…
 https://hipertextual.com/cine-television/de-que-va-turno-de-noche-nueva-comedia-de-terror-liam-neeson-estrella-de-stranger-things/
 🗓️ 2026-04-23 • 🏷️ hipertextual.com
+
+### 2026-04-23T20:05:35.192Z
+📰 De "locos izquierdistas" a "muy inteligentes y útiles": qué está pasando entre Trump y la startup de IA Anthropic
+La empresa que reabrió el debate sobre los límites éticos de la inteligencia artificial reconquista la Casa Blanca tras sacar a la luz Claude Mythos, un modelo que podría revolucionar la ciberseguridad globalSistemas críticos de España y ot…
+https://www.eldiario.es/tecnologia/locos-izquierdistas-inteligentes-utiles-pasando-trump-startup-ia-anthropic_1_13166323.html
+🗓️ 2026-04-23 • 🏷️ eldiario.es
