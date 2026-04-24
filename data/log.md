@@ -4072,3 +4072,19 @@ https://hipertextual.com/tecnologia/el-nuevo-alexa-llega-a-espana-no-es-gratis-p
 🗓️ 2026-04-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-24
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Merece la pena pagar por almacenamiento extra en la nube para tu móvil?
+Fotos, vídeos, archivos del trabajo… Nuestro teléfono está cada vez más lleno y servicios como Google Drive o iCloud son una alternativa para liberar espacio
+https://elpais.com/tecnologia/tu-tecnologia/2026-04-24/merece-la-pena-pagar-por-almacenamiento-extra-en-la-nube-para-tu-movil.html
+🗓️ 2026-04-24 • 🏷️ elpais.com
+
+---
