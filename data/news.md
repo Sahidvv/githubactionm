@@ -4597,3 +4597,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-04-24/merece-la-pena-pagar-por-
 Las grandes tecnológicas siguen encogiendo. Meta ha anunciado que despedirá al 10% de su plantilla, mientras que Microsoft busca la salida voluntaria del 7% de sus trabajadores en Estados Unidos. En ambos casos, la IA es responsable en gran…
 https://www.muycomputer.com/2026/04/24/despidos-masivos-en-la-industria-tecnologica-demos-gracias-a-la-ia/
 🗓️ 2026-04-24 • 🏷️ muycomputer.com
+
+### 2026-04-24T19:52:49.302Z
+📰 ¿Qué chip usará el Galaxy S27 Ultra? El gran cambio de Samsung aún se haría esperar
+El Galaxy S26 Ultra lleva apenas un puñado de meses en el mercado, pero los rumores sobre su sucesor no se han hecho esperar. El más reciente se vincula con el chip que usaría el Galaxy S27 Ultra, que, si bien todavía su existencia no se hi…
+https://hipertextual.com/mobile/chip-samsung-galaxy-s27-ultra-exynos-snapdragon/
+🗓️ 2026-04-24 • 🏷️ hipertextual.com
