@@ -4591,3 +4591,9 @@ https://www.eldiario.es/tecnologia/locos-izquierdistas-inteligentes-utiles-pasan
 Fotos, vídeos, archivos del trabajo… Nuestro teléfono está cada vez más lleno y servicios como Google Drive o iCloud son una alternativa para liberar espacio
 https://elpais.com/tecnologia/tu-tecnologia/2026-04-24/merece-la-pena-pagar-por-almacenamiento-extra-en-la-nube-para-tu-movil.html
 🗓️ 2026-04-24 • 🏷️ elpais.com
+
+### 2026-04-24T14:44:48.930Z
+📰 Despidos masivos en la industria tecnológica ¡Demos gracias a la IA!
+Las grandes tecnológicas siguen encogiendo. Meta ha anunciado que despedirá al 10% de su plantilla, mientras que Microsoft busca la salida voluntaria del 7% de sus trabajadores en Estados Unidos. En ambos casos, la IA es responsable en gran…
+https://www.muycomputer.com/2026/04/24/despidos-masivos-en-la-industria-tecnologica-demos-gracias-a-la-ia/
+🗓️ 2026-04-24 • 🏷️ muycomputer.com
