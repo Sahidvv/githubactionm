@@ -4609,3 +4609,9 @@ https://hipertextual.com/mobile/chip-samsung-galaxy-s27-ultra-exynos-snapdragon/
 Tras varios meses de fase de pruebas, X decidió lanzar su nueva app de mensajería que compite con WhatsApp. La compañía de Elon Musk confirmó que XChat ya está disponible para usuarios de iPhone y tiene planes de expandirla a Android. La ap…
 https://hipertextual.com/mobile/xchat-ya-esta-disponible-asi-es-el-whatsapp-de-elon-musk-que-llega-al-iphone/
 🗓️ 2026-04-24 • 🏷️ hipertextual.com
+
+### 2026-04-25T14:02:54.708Z
+📰 Tienes que ver la nueva temporada de ‘Beef’ (Bronca), el éxito de Netflix con Óscar Isaac
+En 2023, la primera temporada de Beef (Bronca) desconcertó por desafiar todas las expectativas. Mucho más, por no mostrar qué era exactamente lo que deseaba contar la serie, estrenada sin apenas publicidad y detalles sobre su argumento. De …
+https://hipertextual.com/cine-television/tienes-que-ver-la-nueva-temporada-de-beef-bronca-el-exito-de-netflix-con-oscar-isaac/
+🗓️ 2026-04-25 • 🏷️ hipertextual.com
