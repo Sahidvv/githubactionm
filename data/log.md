@@ -4088,3 +4088,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-04-24/merece-la-pena-pagar-por-
 🗓️ 2026-04-24 • 🏷️ elpais.com
 
 ---
+## 2026-04-25
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 XChat ya está disponible: así es el WhatsApp de Elon Musk que llega al iPhone
+Tras varios meses de fase de pruebas, X decidió lanzar su nueva app de mensajería que compite con WhatsApp. La compañía de Elon Musk confirmó que XChat ya está disponible para usuarios de iPhone y tiene planes de expandirla a Android. La ap…
+https://hipertextual.com/mobile/xchat-ya-esta-disponible-asi-es-el-whatsapp-de-elon-musk-que-llega-al-iphone/
+🗓️ 2026-04-24 • 🏷️ hipertextual.com
+
+---
