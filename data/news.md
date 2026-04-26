@@ -4633,3 +4633,9 @@ https://hipertextual.com/cine-television/5-personajes-de-the-boys-que-podrian-ma
 Hace unas semanas que Kimi irrumpió en la escena de la IA de un modo que solo habíamos visto con DeepSeek. En cuestión de horas, el nuevo modelo de código abierto desarrollado en China subió como la espuma y puso a temblar a ChatGPT y Gemin…
 https://hipertextual.com/inteligencia-artificial/kimi-code-moonshot-ia-claude-code/
 🗓️ 2026-04-26 • 🏷️ hipertextual.com
+
+### 2026-04-26T19:47:31.404Z
+📰 YouTube se ha llenado de anuncios, pero con este truco me salto todos los de más de 30 segundos
+No tiene sentido que YouTube permita algo así, pero es real, 100% funcional y va a pasar a ser uno de tus trucos favoritos. Bueno, si no pagas YouTube Premium, por supuesto. Además, no es algo tan nuevo como para que lo vayan a quitar dentr…
+https://hipertextual.com/tecnologia/youtube-se-ha-llenado-de-anuncios-pero-con-este-truco-me-salto-todos-los-de-mas-de-30-segundos/
+🗓️ 2026-04-26 • 🏷️ hipertextual.com
