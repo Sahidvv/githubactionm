@@ -4621,3 +4621,9 @@ https://hipertextual.com/cine-television/tienes-que-ver-la-nueva-temporada-de-be
 Los Juegos del Hambre: Amanecer en la cosecha, que se estrenará en noviembre de este año, ya es uno de los estrenos más esperados. No solo por ser un añadido más que digno a la exitosísima saga cinematográfica, esta vez con un elenco de luj…
 https://hipertextual.com/cine-television/las-10-cosas-que-debes-saber-sobre-el-universo-de-los-juegos-del-hambre-para-entender-mejor-su-proxima-pelicula/
 🗓️ 2026-04-25 • 🏷️ hipertextual.com
+
+### 2026-04-26T04:22:36.957Z
+📰 5 personajes de &#8216;The Boys&#8217; que podrían matar a Homelander
+Con el estreno de la temporada 5 de The Boys, la exitosa serie de Amazon Prime Video se encamina al final de la tenebrosa historia de Homelander (Patriota). El temible personaje interpretado por Antony Starr se ha convertido en uno de los g…
+https://hipertextual.com/cine-television/5-personajes-de-the-boys-que-podrian-matar-a-homelander/
+🗓️ 2026-04-25 • 🏷️ hipertextual.com

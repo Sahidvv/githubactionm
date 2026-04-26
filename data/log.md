@@ -4104,3 +4104,19 @@ https://hipertextual.com/mobile/xchat-ya-esta-disponible-asi-es-el-whatsapp-de-e
 🗓️ 2026-04-24 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-26
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 5 personajes de &#8216;The Boys&#8217; que podrían matar a Homelander
+Con el estreno de la temporada 5 de The Boys, la exitosa serie de Amazon Prime Video se encamina al final de la tenebrosa historia de Homelander (Patriota). El temible personaje interpretado por Antony Starr se ha convertido en uno de los g…
+https://hipertextual.com/cine-television/5-personajes-de-the-boys-que-podrian-matar-a-homelander/
+🗓️ 2026-04-25 • 🏷️ hipertextual.com
+
+---
