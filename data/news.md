@@ -4627,3 +4627,9 @@ https://hipertextual.com/cine-television/las-10-cosas-que-debes-saber-sobre-el-u
 Con el estreno de la temporada 5 de The Boys, la exitosa serie de Amazon Prime Video se encamina al final de la tenebrosa historia de Homelander (Patriota). El temible personaje interpretado por Antony Starr se ha convertido en uno de los g…
 https://hipertextual.com/cine-television/5-personajes-de-the-boys-que-podrian-matar-a-homelander/
 🗓️ 2026-04-25 • 🏷️ hipertextual.com
+
+### 2026-04-26T14:04:29.494Z
+📰 Kimi Code: el rival de Claude Code que cuesta 10 veces menos y puede programar por ti
+Hace unas semanas que Kimi irrumpió en la escena de la IA de un modo que solo habíamos visto con DeepSeek. En cuestión de horas, el nuevo modelo de código abierto desarrollado en China subió como la espuma y puso a temblar a ChatGPT y Gemin…
+https://hipertextual.com/inteligencia-artificial/kimi-code-moonshot-ia-claude-code/
+🗓️ 2026-04-26 • 🏷️ hipertextual.com
