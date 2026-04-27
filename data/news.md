@@ -4651,3 +4651,9 @@ https://www.muycomputer.com/2026/04/26/los-mejores-contenidos-de-la-semana-en-mu
 OpenAI y Microsoft acaban de hacer oficial una nueva modificación de los términos de la alianza que los une. Las empresas, que forjaron una relación que en un momento aparentó ser perfecta, habían tensado su relación en el último tiempo, en…
 https://hipertextual.com/inteligencia-artificial/nuevo-acuerdo-openai-microsoft/
 🗓️ 2026-04-27 • 🏷️ hipertextual.com
+
+### 2026-04-27T20:07:46.867Z
+📰 Europa le pone límites a Google: Android tendrá que abrir sus puertas a ChatGPT y otras IA
+La popularidad de Gemini y su integración en Android no ha pasado desapercibida para los reguladores. Esta semana, Bruselas ha advertido a Google que debe abrir su sistema operativo para que los servicios de IA rivales tengan mayor acceso a…
+https://hipertextual.com/legal/ue-exige-google-abrir-android-servicios-ia-rivales/
+🗓️ 2026-04-27 • 🏷️ hipertextual.com
