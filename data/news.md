@@ -4639,3 +4639,9 @@ https://hipertextual.com/inteligencia-artificial/kimi-code-moonshot-ia-claude-co
 No tiene sentido que YouTube permita algo así, pero es real, 100% funcional y va a pasar a ser uno de tus trucos favoritos. Bueno, si no pagas YouTube Premium, por supuesto. Además, no es algo tan nuevo como para que lo vayan a quitar dentr…
 https://hipertextual.com/tecnologia/youtube-se-ha-llenado-de-anuncios-pero-con-este-truco-me-salto-todos-los-de-mas-de-30-segundos/
 🗓️ 2026-04-26 • 🏷️ hipertextual.com
+
+### 2026-04-27T04:30:38.602Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Intel Arc B390 frente a Radeon 890M y Radeon 8060s:…
+https://www.muycomputer.com/2026/04/26/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxi/
+🗓️ 2026-04-26 • 🏷️ muycomputer.com

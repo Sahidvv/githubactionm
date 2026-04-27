@@ -4120,3 +4120,19 @@ https://hipertextual.com/cine-television/5-personajes-de-the-boys-que-podrian-ma
 🗓️ 2026-04-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-04-27
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXXI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Intel Arc B390 frente a Radeon 890M y Radeon 8060s:…
+https://www.muycomputer.com/2026/04/26/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxi/
+🗓️ 2026-04-26 • 🏷️ muycomputer.com
+
+---
