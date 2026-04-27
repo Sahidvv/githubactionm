@@ -4645,3 +4645,9 @@ https://hipertextual.com/tecnologia/youtube-se-ha-llenado-de-anuncios-pero-con-e
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Intel Arc B390 frente a Radeon 890M y Radeon 8060s:…
 https://www.muycomputer.com/2026/04/26/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxi/
 🗓️ 2026-04-26 • 🏷️ muycomputer.com
+
+### 2026-04-27T15:07:01.438Z
+📰 Microsoft firma la paz con OpenAI, pero pierde la exclusividad sobre su IA
+OpenAI y Microsoft acaban de hacer oficial una nueva modificación de los términos de la alianza que los une. Las empresas, que forjaron una relación que en un momento aparentó ser perfecta, habían tensado su relación en el último tiempo, en…
+https://hipertextual.com/inteligencia-artificial/nuevo-acuerdo-openai-microsoft/
+🗓️ 2026-04-27 • 🏷️ hipertextual.com
