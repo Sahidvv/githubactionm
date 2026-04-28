@@ -4669,3 +4669,9 @@ https://elpais.com/tecnologia/2026-04-28/la-espanola-que-quiere-traer-los-coches
 Michael se estrenó y, como era predecible, se volvió un inmediato y completo éxito de taquilla que ya hace historia. También, centro de la polémica, al explorar la vida de Michael Jackson (Jaafar Jackson) desde una óptica sencilla que divid…
 https://hipertextual.com/cine-television/el-impactante-y-verdadero-final-de-michael-que-desgraciadamente-fue-descartado/
 🗓️ 2026-04-28 • 🏷️ hipertextual.com
+
+### 2026-04-28T20:16:21.211Z
+📰 iOS 27 hará mucho más fácil editar tus fotos con IA: llegan cambios muy esperados a la app Fotos
+La actualización a iOS 27 traerá unas cuantas novedades relacionadas con la IA generativa, y no se limitan a la nueva Siri impulsada por Gemini. Según un nuevo reporte de Mark Gurman para Bloomberg, Apple planea incorporar funciones de edic…
+https://hipertextual.com/apple/ios-27-herramientas-edicion-con-ia-app-fotos-iphone/
+🗓️ 2026-04-28 • 🏷️ hipertextual.com
