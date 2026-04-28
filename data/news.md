@@ -4663,3 +4663,9 @@ https://hipertextual.com/legal/ue-exige-google-abrir-android-servicios-ia-rivale
 Raquel Urtasun, ingeniera y fundadora de la ‘startup’ canadiense Waabi, está a punto de guiar junto a Volvo los primeros camiones sin conductor por las carreteras de EE UU
 https://elpais.com/tecnologia/2026-04-28/la-espanola-que-quiere-traer-los-coches-autonomos-a-madrid-la-gente-no-se-da-cuenta-de-que-esto-es-ya.html
 🗓️ 2026-04-28 • 🏷️ elpais.com
+
+### 2026-04-28T15:26:46.350Z
+📰 El impactante y verdadero final de ‘Michael’, que desgraciadamente no podrás ver nunca
+Michael se estrenó y, como era predecible, se volvió un inmediato y completo éxito de taquilla que ya hace historia. También, centro de la polémica, al explorar la vida de Michael Jackson (Jaafar Jackson) desde una óptica sencilla que divid…
+https://hipertextual.com/cine-television/el-impactante-y-verdadero-final-de-michael-que-desgraciadamente-fue-descartado/
+🗓️ 2026-04-28 • 🏷️ hipertextual.com
