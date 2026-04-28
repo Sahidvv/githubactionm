@@ -4657,3 +4657,9 @@ https://hipertextual.com/inteligencia-artificial/nuevo-acuerdo-openai-microsoft/
 La popularidad de Gemini y su integración en Android no ha pasado desapercibida para los reguladores. Esta semana, Bruselas ha advertido a Google que debe abrir su sistema operativo para que los servicios de IA rivales tengan mayor acceso a…
 https://hipertextual.com/legal/ue-exige-google-abrir-android-servicios-ia-rivales/
 🗓️ 2026-04-27 • 🏷️ hipertextual.com
+
+### 2026-04-28T04:33:34.645Z
+📰 La española que quiere traer los coches autónomos a Madrid: “La gente no se da cuenta de que esto es ya”
+Raquel Urtasun, ingeniera y fundadora de la ‘startup’ canadiense Waabi, está a punto de guiar junto a Volvo los primeros camiones sin conductor por las carreteras de EE UU
+https://elpais.com/tecnologia/2026-04-28/la-espanola-que-quiere-traer-los-coches-autonomos-a-madrid-la-gente-no-se-da-cuenta-de-que-esto-es-ya.html
+🗓️ 2026-04-28 • 🏷️ elpais.com

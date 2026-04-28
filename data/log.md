@@ -4136,3 +4136,19 @@ https://www.muycomputer.com/2026/04/26/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-04-26 • 🏷️ muycomputer.com
 
 ---
+## 2026-04-28
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 La española que quiere traer los coches autónomos a Madrid: “La gente no se da cuenta de que esto es ya”
+Raquel Urtasun, ingeniera y fundadora de la ‘startup’ canadiense Waabi, está a punto de guiar junto a Volvo los primeros camiones sin conductor por las carreteras de EE UU
+https://elpais.com/tecnologia/2026-04-28/la-espanola-que-quiere-traer-los-coches-autonomos-a-madrid-la-gente-no-se-da-cuenta-de-que-esto-es-ya.html
+🗓️ 2026-04-28 • 🏷️ elpais.com
+
+---
