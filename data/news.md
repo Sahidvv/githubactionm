@@ -4675,3 +4675,9 @@ https://hipertextual.com/cine-television/el-impactante-y-verdadero-final-de-mich
 La actualización a iOS 27 traerá unas cuantas novedades relacionadas con la IA generativa, y no se limitan a la nueva Siri impulsada por Gemini. Según un nuevo reporte de Mark Gurman para Bloomberg, Apple planea incorporar funciones de edic…
 https://hipertextual.com/apple/ios-27-herramientas-edicion-con-ia-app-fotos-iphone/
 🗓️ 2026-04-28 • 🏷️ hipertextual.com
+
+### 2026-04-29T04:29:24.531Z
+📰 “Es un error pensar que en todas partes te van a pagar igual”: ¿Por qué un ingeniero en España puede cobrar entre 42.000 y 227.000 euros?
+Borja Pérez, responsable de marketing de Manfred, explica cómo el trabajo remoto y la IA están cambiando las opciones para los aspirantes a empleos tecnológicos
+https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-te-van-a-pagar-igual-por-que-un-ingeniero-en-espana-puede-cobrar-entre-42000-y-227000-euros.html
+🗓️ 2026-04-29 • 🏷️ elpais.com

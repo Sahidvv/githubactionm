@@ -4152,3 +4152,19 @@ https://elpais.com/tecnologia/2026-04-28/la-espanola-que-quiere-traer-los-coches
 🗓️ 2026-04-28 • 🏷️ elpais.com
 
 ---
+## 2026-04-29
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 “Es un error pensar que en todas partes te van a pagar igual”: ¿Por qué un ingeniero en España puede cobrar entre 42.000 y 227.000 euros?
+Borja Pérez, responsable de marketing de Manfred, explica cómo el trabajo remoto y la IA están cambiando las opciones para los aspirantes a empleos tecnológicos
+https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-te-van-a-pagar-igual-por-que-un-ingeniero-en-espana-puede-cobrar-entre-42000-y-227000-euros.html
+🗓️ 2026-04-29 • 🏷️ elpais.com
+
+---
