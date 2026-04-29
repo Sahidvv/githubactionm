@@ -4681,3 +4681,9 @@ https://hipertextual.com/apple/ios-27-herramientas-edicion-con-ia-app-fotos-ipho
 Borja Pérez, responsable de marketing de Manfred, explica cómo el trabajo remoto y la IA están cambiando las opciones para los aspirantes a empleos tecnológicos
 https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-te-van-a-pagar-igual-por-que-un-ingeniero-en-espana-puede-cobrar-entre-42000-y-227000-euros.html
 🗓️ 2026-04-29 • 🏷️ elpais.com
+
+### 2026-04-29T15:14:10.669Z
+📰 Marvel libera el guion de &#8216;Spider-Man: Brand New Day&#8217;: así empieza la película
+Spider-Man: Brand New Day llegará a los cines a finales de julio, pero ya sabemos cómo serán los primeros minutos de la película. Marvel ha liberado las tres páginas de apertura del guion, permitiendo conocer con todo detalle cómo se inicia…
+https://hipertextual.com/cine-television/guion-liberado-spider-man-brand-new-day/
+🗓️ 2026-04-29 • 🏷️ hipertextual.com
