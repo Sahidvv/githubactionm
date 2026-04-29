@@ -4687,3 +4687,9 @@ https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-
 Spider-Man: Brand New Day llegará a los cines a finales de julio, pero ya sabemos cómo serán los primeros minutos de la película. Marvel ha liberado las tres páginas de apertura del guion, permitiendo conocer con todo detalle cómo se inicia…
 https://hipertextual.com/cine-television/guion-liberado-spider-man-brand-new-day/
 🗓️ 2026-04-29 • 🏷️ hipertextual.com
+
+### 2026-04-29T20:09:18.190Z
+📰 El creador de Twitter ha resucitado Vine con una nueva app de vídeos cortos que reta a TikTok
+¿Te acuerdas de Vine? Volvió y no en forma de fichas. La app que revolucionó los vídeo cortos antes de TikTok y lanzó a miles de creadores está de regreso con un nombre nuevo: DiVine. La nueva versión ya está disponible para Android y iPhon…
+https://hipertextual.com/mobile/divine-app-sucesor-vine-disponible-ios-android/
+🗓️ 2026-04-29 • 🏷️ hipertextual.com
