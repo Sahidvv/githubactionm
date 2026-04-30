@@ -4168,3 +4168,19 @@ https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-
 🗓️ 2026-04-29 • 🏷️ elpais.com
 
 ---
+## 2026-04-30
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Gemini ahora puede generar archivos de Office desde el chat (y gratis)
+Google ha añadido a Gemini la capacidad de generar archivos de Office. Los usuarios podrán crear archivos de Word, Excel o PDF de forma gratuita dentro de la conversación, lo que elimina la necesidad de cambiarse entre aplicaciones. La nuev…
+https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-excel-pdf/
+🗓️ 2026-04-29 • 🏷️ hipertextual.com
+
+---

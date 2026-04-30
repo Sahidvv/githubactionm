@@ -4693,3 +4693,9 @@ https://hipertextual.com/cine-television/guion-liberado-spider-man-brand-new-day
 ¿Te acuerdas de Vine? Volvió y no en forma de fichas. La app que revolucionó los vídeo cortos antes de TikTok y lanzó a miles de creadores está de regreso con un nombre nuevo: DiVine. La nueva versión ya está disponible para Android y iPhon…
 https://hipertextual.com/mobile/divine-app-sucesor-vine-disponible-ios-android/
 🗓️ 2026-04-29 • 🏷️ hipertextual.com
+
+### 2026-04-30T04:31:34.995Z
+📰 Gemini ahora puede generar archivos de Office desde el chat (y gratis)
+Google ha añadido a Gemini la capacidad de generar archivos de Office. Los usuarios podrán crear archivos de Word, Excel o PDF de forma gratuita dentro de la conversación, lo que elimina la necesidad de cambiarse entre aplicaciones. La nuev…
+https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-excel-pdf/
+🗓️ 2026-04-29 • 🏷️ hipertextual.com
