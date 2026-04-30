@@ -4699,3 +4699,9 @@ https://hipertextual.com/mobile/divine-app-sucesor-vine-disponible-ios-android/
 Google ha añadido a Gemini la capacidad de generar archivos de Office. Los usuarios podrán crear archivos de Word, Excel o PDF de forma gratuita dentro de la conversación, lo que elimina la necesidad de cambiarse entre aplicaciones. La nuev…
 https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-excel-pdf/
 🗓️ 2026-04-29 • 🏷️ hipertextual.com
+
+### 2026-04-30T15:09:54.375Z
+📰 Los anuncios podrían llegar a Gemini pronto, te guste o no
+Que Gemini mostrará anuncios tarde o temprano, no es novedad. Sin embargo, por primera vez Google ha reconocido que estudia la posibilidad de incorporar publicidades en su chatbot de inteligencia artificial. Si bien todavía no hay detalles …
+https://hipertextual.com/inteligencia-artificial/gemini-incorporar-anuncios-futuro/
+🗓️ 2026-04-30 • 🏷️ hipertextual.com
