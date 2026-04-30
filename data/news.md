@@ -4705,3 +4705,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-exce
 Que Gemini mostrará anuncios tarde o temprano, no es novedad. Sin embargo, por primera vez Google ha reconocido que estudia la posibilidad de incorporar publicidades en su chatbot de inteligencia artificial. Si bien todavía no hay detalles …
 https://hipertextual.com/inteligencia-artificial/gemini-incorporar-anuncios-futuro/
 🗓️ 2026-04-30 • 🏷️ hipertextual.com
+
+### 2026-04-30T20:08:01.450Z
+📰 GPT-5.5 es tan peligrosa como Claude Mythos para hackear sistemas sin ayuda humana
+El Instituto de Seguridad de la Inteligencia Artificial del Reino Unido acaba de publicar su evaluación sobre las capacidades ofensivas de GPT-5.5 en ciberseguridad. A unas semanas de que analizara Claude Mythos, el AISI ha hecho lo mismo c…
+https://hipertextual.com/inteligencia-artificial/gpt-55-ataques-ciberseguridad-aisi/
+🗓️ 2026-04-30 • 🏷️ hipertextual.com
