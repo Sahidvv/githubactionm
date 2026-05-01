@@ -4717,3 +4717,9 @@ https://hipertextual.com/inteligencia-artificial/gpt-55-ataques-ciberseguridad-a
 El impulso de herramientas oficiales como Hodio y Faro facilita una tarea muy compleja y difícil de automatizar
 https://elpais.com/tecnologia/2026-05-01/espana-se-coloca-en-el-centro-de-la-lucha-mundial-contra-el-odio-online-los-grupos-xenofobos-estan-bien-asesorados.html
 🗓️ 2026-05-01 • 🏷️ elpais.com
+
+### 2026-05-01T14:16:50.233Z
+📰 Inteligencia artificial para alimentar la nostalgia
+Ha querido la casualidad (o la causalidad, nunca lo sabremos) que haya sabido de este estudio en un momento que ha quedado acotado entre los cuatro minutos y 34 segundos que dura la revisión de 2015 de &#8217;74-&#8217;75, de The Connells. …
+https://www.muycomputer.com/2026/05/01/inteligencia-artificial-para-alimentar-la-nostalgia/
+🗓️ 2026-05-01 • 🏷️ muycomputer.com
