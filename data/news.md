@@ -4711,3 +4711,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-incorporar-anuncios-futu
 El Instituto de Seguridad de la Inteligencia Artificial del Reino Unido acaba de publicar su evaluación sobre las capacidades ofensivas de GPT-5.5 en ciberseguridad. A unas semanas de que analizara Claude Mythos, el AISI ha hecho lo mismo c…
 https://hipertextual.com/inteligencia-artificial/gpt-55-ataques-ciberseguridad-aisi/
 🗓️ 2026-04-30 • 🏷️ hipertextual.com
+
+### 2026-05-01T04:49:49.570Z
+📰 España se coloca en el centro de la lucha mundial contra el odio online: “Los grupos xenófobos están bien asesorados”
+El impulso de herramientas oficiales como Hodio y Faro facilita una tarea muy compleja y difícil de automatizar
+https://elpais.com/tecnologia/2026-05-01/espana-se-coloca-en-el-centro-de-la-lucha-mundial-contra-el-odio-online-los-grupos-xenofobos-estan-bien-asesorados.html
+🗓️ 2026-05-01 • 🏷️ elpais.com

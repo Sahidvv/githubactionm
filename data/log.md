@@ -4184,3 +4184,19 @@ https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-exce
 🗓️ 2026-04-29 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-01
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 España se coloca en el centro de la lucha mundial contra el odio online: “Los grupos xenófobos están bien asesorados”
+El impulso de herramientas oficiales como Hodio y Faro facilita una tarea muy compleja y difícil de automatizar
+https://elpais.com/tecnologia/2026-05-01/espana-se-coloca-en-el-centro-de-la-lucha-mundial-contra-el-odio-online-los-grupos-xenofobos-estan-bien-asesorados.html
+🗓️ 2026-05-01 • 🏷️ elpais.com
+
+---
