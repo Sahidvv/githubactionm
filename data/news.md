@@ -4723,3 +4723,9 @@ https://elpais.com/tecnologia/2026-05-01/espana-se-coloca-en-el-centro-de-la-luc
 Ha querido la casualidad (o la causalidad, nunca lo sabremos) que haya sabido de este estudio en un momento que ha quedado acotado entre los cuatro minutos y 34 segundos que dura la revisión de 2015 de &#8217;74-&#8217;75, de The Connells. …
 https://www.muycomputer.com/2026/05/01/inteligencia-artificial-para-alimentar-la-nostalgia/
 🗓️ 2026-05-01 • 🏷️ muycomputer.com
+
+### 2026-05-01T20:04:20.398Z
+📰 5 películas y una serie que deberías ver si te gustó ‘El diablo viste Prada 2’
+El diablo viste de Prada 2 sorprendió. No solo por evitar la trampa fácil de la nostalgia. También, por explorar en ideas relevantes como el periodismo tradicional en una época digital con buen gusto y un sentido del humor que sorprende por…
+https://hipertextual.com/cine-television/5-peliculas-y-una-serie-que-deberias-ver-si-te-gusto-el-diablo-viste-prada-2/
+🗓️ 2026-05-01 • 🏷️ hipertextual.com
