@@ -4735,3 +4735,9 @@ https://hipertextual.com/cine-television/5-peliculas-y-una-serie-que-deberias-ve
 OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots
 https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html
 🗓️ 2026-05-02 • 🏷️ elpais.com
+
+### 2026-05-02T14:09:55.959Z
+📰 El Traductor de Google cumple 20 años: la herramienta que derribó la barrera del idioma para siempre
+Lo creas o no, el Traductor de Google acaba de cumplir 20 años. Esta semana, la empresa californiana celebró las dos décadas desde el lanzamiento de la herramienta que derribó la barrera del idioma para siempre. Una plataforma que evolucion…
+https://hipertextual.com/internet/traductor-de-google-cumple-20-anos/
+🗓️ 2026-05-02 • 🏷️ hipertextual.com
