@@ -4729,3 +4729,9 @@ https://www.muycomputer.com/2026/05/01/inteligencia-artificial-para-alimentar-la
 El diablo viste de Prada 2 sorprendió. No solo por evitar la trampa fácil de la nostalgia. También, por explorar en ideas relevantes como el periodismo tradicional en una época digital con buen gusto y un sentido del humor que sorprende por…
 https://hipertextual.com/cine-television/5-peliculas-y-una-serie-que-deberias-ver-si-te-gusto-el-diablo-viste-prada-2/
 🗓️ 2026-05-01 • 🏷️ hipertextual.com
+
+### 2026-05-02T04:17:52.443Z
+📰 Por qué a la IA le gustan tanto los duendecillos y Japón
+OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots
+https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html
+🗓️ 2026-05-02 • 🏷️ elpais.com

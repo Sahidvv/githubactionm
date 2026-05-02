@@ -4200,3 +4200,19 @@ https://elpais.com/tecnologia/2026-05-01/espana-se-coloca-en-el-centro-de-la-luc
 🗓️ 2026-05-01 • 🏷️ elpais.com
 
 ---
+## 2026-05-02
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Por qué a la IA le gustan tanto los duendecillos y Japón
+OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots
+https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html
+🗓️ 2026-05-02 • 🏷️ elpais.com
+
+---
