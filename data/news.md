@@ -4741,3 +4741,9 @@ https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-due
 Lo creas o no, el Traductor de Google acaba de cumplir 20 años. Esta semana, la empresa californiana celebró las dos décadas desde el lanzamiento de la herramienta que derribó la barrera del idioma para siempre. Una plataforma que evolucion…
 https://hipertextual.com/internet/traductor-de-google-cumple-20-anos/
 🗓️ 2026-05-02 • 🏷️ hipertextual.com
+
+### 2026-05-02T19:54:09.811Z
+📰 AirDrop llega a más móviles Android: lista completa de modelos compatibles y cómo usarlo hoy mismo
+Hace unos meses que AirDrop dejó de ser exclusivo de los dispositivos de la manzana. Google ha conseguido que Quick Share (la alternativa a AirDrop de Android) sea compatible con el servicio de transferencia de archivos de Apple, y desde en…
+https://hipertextual.com/mobile/airdrop-llega-a-mas-moviles-android-lista-completa-de-modelos-compatibles-y-como-usarlo-hoy-mismo/
+🗓️ 2026-05-02 • 🏷️ hipertextual.com
