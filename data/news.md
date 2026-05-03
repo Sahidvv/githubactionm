@@ -4753,3 +4753,9 @@ https://hipertextual.com/mobile/airdrop-llega-a-mas-moviles-android-lista-comple
 Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad
 https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html
 🗓️ 2026-05-03 • 🏷️ elpais.com
+
+### 2026-05-03T14:10:47.498Z
+📰 Todo lo que tienes que saber sobre ‘Spider-Noir’ antes de ver la serie de Prime Video
+Spider-Noir, la nueva serie de Prime Video que se estrena en mayo, no solo es una reinvención del universo de Spider-Man. Es además una que se adentra en la mitología del personaje para encontrar una nueva perspectiva al contar su historia.…
+https://hipertextual.com/cine-television/todo-lo-que-tienes-que-saber-sobre-spider-noir-antes-de-ver-la-serie-de-prime-video/
+🗓️ 2026-05-03 • 🏷️ hipertextual.com
