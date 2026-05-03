@@ -4747,3 +4747,9 @@ https://hipertextual.com/internet/traductor-de-google-cumple-20-anos/
 Hace unos meses que AirDrop dejó de ser exclusivo de los dispositivos de la manzana. Google ha conseguido que Quick Share (la alternativa a AirDrop de Android) sea compatible con el servicio de transferencia de archivos de Apple, y desde en…
 https://hipertextual.com/mobile/airdrop-llega-a-mas-moviles-android-lista-completa-de-modelos-compatibles-y-como-usarlo-hoy-mismo/
 🗓️ 2026-05-02 • 🏷️ hipertextual.com
+
+### 2026-05-03T04:40:20.024Z
+📰 Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta
+Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad
+https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html
+🗓️ 2026-05-03 • 🏷️ elpais.com

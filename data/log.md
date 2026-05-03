@@ -4216,3 +4216,19 @@ https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-due
 🗓️ 2026-05-02 • 🏷️ elpais.com
 
 ---
+## 2026-05-03
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta
+Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad
+https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html
+🗓️ 2026-05-03 • 🏷️ elpais.com
+
+---
