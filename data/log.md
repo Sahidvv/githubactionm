@@ -4232,3 +4232,19 @@ https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecno
 🗓️ 2026-05-03 • 🏷️ elpais.com
 
 ---
+## 2026-05-04
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Pablo Jarillo Herrero, físico: “Hemos encontrado la piedra filosofal inversa, el material que se convierte en todas las cosas”
+El investigador español ha ganado el Premio Fronteras y es candidato al Nobel tras descubrir el ángulo mágico que genera supermateriales asombrosos
+https://elpais.com/tecnologia/2026-05-04/pablo-jarillo-herrero-fisico-hemos-encontrado-la-piedra-filosofal-inversa-el-material-que-se-convierte-en-todas-las-cosas.html
+🗓️ 2026-05-04 • 🏷️ elpais.com
+
+---

@@ -4765,3 +4765,9 @@ https://hipertextual.com/cine-television/todo-lo-que-tienes-que-saber-sobre-spid
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Los 10 mejores reproductores de vídeo para Android …
 https://www.muycomputer.com/2026/05/03/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxii/
 🗓️ 2026-05-03 • 🏷️ muycomputer.com
+
+### 2026-05-04T04:39:53.323Z
+📰 Pablo Jarillo Herrero, físico: “Hemos encontrado la piedra filosofal inversa, el material que se convierte en todas las cosas”
+El investigador español ha ganado el Premio Fronteras y es candidato al Nobel tras descubrir el ángulo mágico que genera supermateriales asombrosos
+https://elpais.com/tecnologia/2026-05-04/pablo-jarillo-herrero-fisico-hemos-encontrado-la-piedra-filosofal-inversa-el-material-que-se-convierte-en-todas-las-cosas.html
+🗓️ 2026-05-04 • 🏷️ elpais.com
