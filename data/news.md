@@ -4771,3 +4771,9 @@ https://www.muycomputer.com/2026/05/03/los-mejores-contenidos-de-la-semana-en-mu
 El investigador español ha ganado el Premio Fronteras y es candidato al Nobel tras descubrir el ángulo mágico que genera supermateriales asombrosos
 https://elpais.com/tecnologia/2026-05-04/pablo-jarillo-herrero-fisico-hemos-encontrado-la-piedra-filosofal-inversa-el-material-que-se-convierte-en-todas-las-cosas.html
 🗓️ 2026-05-04 • 🏷️ elpais.com
+
+### 2026-05-04T15:09:41.561Z
+📰 Microsoft muestra los primeros pasos para mejorar Windows 11
+No es ningún secreto que Windows 11 ha tenido un recorrido complicado desde su lanzamiento. Más allá de sus virtudes, el sistema ha acumulado críticas relacionadas con el rendimiento, la estabilidad y ciertas decisiones de diseño que no han…
+https://www.muycomputer.com/2026/05/04/microsoft-muestra-los-primeros-pasos-para-mejorar-windows-11/
+🗓️ 2026-05-04 • 🏷️ muycomputer.com
