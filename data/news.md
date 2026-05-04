@@ -4777,3 +4777,9 @@ https://elpais.com/tecnologia/2026-05-04/pablo-jarillo-herrero-fisico-hemos-enco
 No es ningún secreto que Windows 11 ha tenido un recorrido complicado desde su lanzamiento. Más allá de sus virtudes, el sistema ha acumulado críticas relacionadas con el rendimiento, la estabilidad y ciertas decisiones de diseño que no han…
 https://www.muycomputer.com/2026/05/04/microsoft-muestra-los-primeros-pasos-para-mejorar-windows-11/
 🗓️ 2026-05-04 • 🏷️ muycomputer.com
+
+### 2026-05-04T20:15:28.754Z
+📰 La Xiaomi Smart Band 10 Pro se filtra con diseño tipo Apple Watch y una batería brutal
+Hace casi un año desde que Xiaomi lanzó la Smart Band 10, una de las mejores pulseras de actividad por su precio. Tal y como ocurrió con los modelos anteriores, el gigante asiático está preparando el terreno para la variante Pro con nuevas …
+https://hipertextual.com/tecnologia/la-xiaomi-smart-band-10-pro-se-filtra-con-diseno-tipo-apple-watch-y-una-bateria-brutal/
+🗓️ 2026-05-04 • 🏷️ hipertextual.com
