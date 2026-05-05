@@ -4795,3 +4795,9 @@ https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-c
 Apple quiere evitar a toda costa que el aumento de precios en la memoria RAM perjudique al iPhone que más potencial tiene para convertirse en el modelo más popular, y eso pasa por realizar una estrategia hasta ahora nunca vista en la compañ…
 https://hipertextual.com/apple/adios-al-iphone-18-como-lo-conociamos-hasta-ahora-apple-cambiara-estas-caracteristicas-para-ahorrar-costes/
 🗓️ 2026-05-05 • 🏷️ hipertextual.com
+
+### 2026-05-05T20:07:27.962Z
+📰 Apple Intelligence cambia en iOS 27: podrás ejecutar sus funciones con Gemini, Claude y otras IA
+La apuesta de Apple por las IA de terceros en iOS 27 será todavía más amplia de lo que se pensaba. Según reporta Mark Gurman, los de Cupertino permitirán elegir varios modelos de lenguaje externos, incluyendo los de Gemini y Claude, para im…
+https://hipertextual.com/apple/ios-27-extensiones-apple-intelligence-claude-gemini/
+🗓️ 2026-05-05 • 🏷️ hipertextual.com
