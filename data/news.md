@@ -4789,3 +4789,9 @@ https://hipertextual.com/tecnologia/la-xiaomi-smart-band-10-pro-se-filtra-con-di
 La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos
 https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html
 🗓️ 2026-05-05 • 🏷️ elpais.com
+
+### 2026-05-05T15:09:05.468Z
+📰 Adiós al iPhone 18 como lo conocíamos hasta ahora: Apple cambiará estas características para ahorrar costes
+Apple quiere evitar a toda costa que el aumento de precios en la memoria RAM perjudique al iPhone que más potencial tiene para convertirse en el modelo más popular, y eso pasa por realizar una estrategia hasta ahora nunca vista en la compañ…
+https://hipertextual.com/apple/adios-al-iphone-18-como-lo-conociamos-hasta-ahora-apple-cambiara-estas-caracteristicas-para-ahorrar-costes/
+🗓️ 2026-05-05 • 🏷️ hipertextual.com
