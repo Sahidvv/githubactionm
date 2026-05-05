@@ -4783,3 +4783,9 @@ https://www.muycomputer.com/2026/05/04/microsoft-muestra-los-primeros-pasos-para
 Hace casi un año desde que Xiaomi lanzó la Smart Band 10, una de las mejores pulseras de actividad por su precio. Tal y como ocurrió con los modelos anteriores, el gigante asiático está preparando el terreno para la variante Pro con nuevas …
 https://hipertextual.com/tecnologia/la-xiaomi-smart-band-10-pro-se-filtra-con-diseno-tipo-apple-watch-y-una-bateria-brutal/
 🗓️ 2026-05-04 • 🏷️ hipertextual.com
+
+### 2026-05-05T04:16:09.255Z
+📰 Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA
+La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos
+https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html
+🗓️ 2026-05-05 • 🏷️ elpais.com

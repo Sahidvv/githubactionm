@@ -4248,3 +4248,19 @@ https://elpais.com/tecnologia/2026-05-04/pablo-jarillo-herrero-fisico-hemos-enco
 🗓️ 2026-05-04 • 🏷️ elpais.com
 
 ---
+## 2026-05-05
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA
+La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos
+https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html
+🗓️ 2026-05-05 • 🏷️ elpais.com
+
+---
