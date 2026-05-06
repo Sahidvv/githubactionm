@@ -4813,3 +4813,9 @@ https://hipertextual.com/videojuegos/xbox-cancela-copilot-consola-nueva-estrateg
 PcComponentes está de celebración y como suele ser habitual, la mejor manera de celebrarlo es con descuentos en todos sus productos. Aunque en su web puedes ver todo lo relacionado con teléfonos, ordenadores, televisores o pequeños electrod…
 https://hipertextual.com/ofertas-descuentos/descuentos-apple-airpods/
 🗓️ 2026-05-06 • 🏷️ hipertextual.com
+
+### 2026-05-06T20:22:24.046Z
+📰 Anthropic deja de lado a los bancos europeos en el acceso a su IA que cambia el paradigma de la seguridad
+Tanto la UE como España han llamado a la puerta de la startup estadounidense para evitar la asimetría, dado que el creador de Claude sí la ha abierto a las entidades estadounidenses y británicasUna nueva IA de Anthropic hace saltar las alar…
+https://www.eldiario.es/tecnologia/anthropic-deja-lado-bancos-europeos-acceso-ia-cambia-paradigma-seguridad_1_13196823.html
+🗓️ 2026-05-06 • 🏷️ eldiario.es
