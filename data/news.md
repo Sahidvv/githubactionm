@@ -4807,3 +4807,9 @@ https://hipertextual.com/apple/ios-27-extensiones-apple-intelligence-claude-gemi
 Xbox ha tomado una decisión que sorprende a muchos, pero que tiene más sentido del que parece. La nueva directora ejecutiva, Asha Sharma, confirmó la muerte de Copilot para consola y un cierre progresivo de la función en los móviles. La jef…
 https://hipertextual.com/videojuegos/xbox-cancela-copilot-consola-nueva-estrategia/
 🗓️ 2026-05-05 • 🏷️ hipertextual.com
+
+### 2026-05-06T15:26:33.691Z
+📰 PcComponentes tiene los mejores descuentos en Apple: regala unos AirPods 4 por la compra de un MacBook Neo
+PcComponentes está de celebración y como suele ser habitual, la mejor manera de celebrarlo es con descuentos en todos sus productos. Aunque en su web puedes ver todo lo relacionado con teléfonos, ordenadores, televisores o pequeños electrod…
+https://hipertextual.com/ofertas-descuentos/descuentos-apple-airpods/
+🗓️ 2026-05-06 • 🏷️ hipertextual.com
