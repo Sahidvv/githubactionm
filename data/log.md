@@ -4264,3 +4264,19 @@ https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-c
 🗓️ 2026-05-05 • 🏷️ elpais.com
 
 ---
+## 2026-05-06
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Xbox abandona el desarrollo de Copilot en consola y reorienta su apuesta por la IA
+Xbox ha tomado una decisión que sorprende a muchos, pero que tiene más sentido del que parece. La nueva directora ejecutiva, Asha Sharma, confirmó la muerte de Copilot para consola y un cierre progresivo de la función en los móviles. La jef…
+https://hipertextual.com/videojuegos/xbox-cancela-copilot-consola-nueva-estrategia/
+🗓️ 2026-05-05 • 🏷️ hipertextual.com
+
+---

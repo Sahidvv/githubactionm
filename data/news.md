@@ -4801,3 +4801,9 @@ https://hipertextual.com/apple/adios-al-iphone-18-como-lo-conociamos-hasta-ahora
 La apuesta de Apple por las IA de terceros en iOS 27 será todavía más amplia de lo que se pensaba. Según reporta Mark Gurman, los de Cupertino permitirán elegir varios modelos de lenguaje externos, incluyendo los de Gemini y Claude, para im…
 https://hipertextual.com/apple/ios-27-extensiones-apple-intelligence-claude-gemini/
 🗓️ 2026-05-05 • 🏷️ hipertextual.com
+
+### 2026-05-06T04:33:18.685Z
+📰 Xbox abandona el desarrollo de Copilot en consola y reorienta su apuesta por la IA
+Xbox ha tomado una decisión que sorprende a muchos, pero que tiene más sentido del que parece. La nueva directora ejecutiva, Asha Sharma, confirmó la muerte de Copilot para consola y un cierre progresivo de la función en los móviles. La jef…
+https://hipertextual.com/videojuegos/xbox-cancela-copilot-consola-nueva-estrategia/
+🗓️ 2026-05-05 • 🏷️ hipertextual.com
