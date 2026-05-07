@@ -4280,3 +4280,19 @@ https://hipertextual.com/videojuegos/xbox-cancela-copilot-consola-nueva-estrateg
 🗓️ 2026-05-05 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-07
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Punto y final para &#8216;The Bear&#8217;: la temporada 5 será la última y tiene fecha de estreno
+The Bear dirá adiós con su temporada 5. FX ha confirmado que la nueva entrega será la última de la exitosa serie protagonizada por Jeremy Allen White, Ayo Edebiri y Ebon Moss-Bachrach. Asimismo, ha anunciado desde cuándo estará disponible e…
+https://hipertextual.com/cine-television/the-bear-temporada-5-final-fecha-de-estreno/
+🗓️ 2026-05-06 • 🏷️ hipertextual.com
+
+---

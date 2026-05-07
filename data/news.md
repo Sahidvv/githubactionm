@@ -4819,3 +4819,9 @@ https://hipertextual.com/ofertas-descuentos/descuentos-apple-airpods/
 Tanto la UE como España han llamado a la puerta de la startup estadounidense para evitar la asimetría, dado que el creador de Claude sí la ha abierto a las entidades estadounidenses y británicasUna nueva IA de Anthropic hace saltar las alar…
 https://www.eldiario.es/tecnologia/anthropic-deja-lado-bancos-europeos-acceso-ia-cambia-paradigma-seguridad_1_13196823.html
 🗓️ 2026-05-06 • 🏷️ eldiario.es
+
+### 2026-05-07T04:33:56.593Z
+📰 Punto y final para &#8216;The Bear&#8217;: la temporada 5 será la última y tiene fecha de estreno
+The Bear dirá adiós con su temporada 5. FX ha confirmado que la nueva entrega será la última de la exitosa serie protagonizada por Jeremy Allen White, Ayo Edebiri y Ebon Moss-Bachrach. Asimismo, ha anunciado desde cuándo estará disponible e…
+https://hipertextual.com/cine-television/the-bear-temporada-5-final-fecha-de-estreno/
+🗓️ 2026-05-06 • 🏷️ hipertextual.com
