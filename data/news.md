@@ -4831,3 +4831,9 @@ https://hipertextual.com/cine-television/the-bear-temporada-5-final-fecha-de-est
 Samsung acaba de conseguir un hito en la industria de la tecnología y la salud. La compañía ha publicado un estudio realizado junto con el Hospital Gwangmyeong, en Corea del Sur, que sitúa en muy buena posición a uno de los relojes Samsung …
 https://hipertextual.com/tecnologia/este-reloj-de-samsung-ya-es-capaz-de-predecir-desmayos-5-minutos-antes-de-que-ocurran/
 🗓️ 2026-05-07 • 🏷️ hipertextual.com
+
+### 2026-05-07T20:14:24.451Z
+📰 La IA podrá ver todos los mensajes privados de Instagram a partir de este viernes: "Imagina que el cartero leyera tus cartas"
+Meta retira la única protección real de los chats de Instagram y abre la puerta al análisis masivo de conversaciones privadas con IAChatGPT, Claude, Grok y Perplexity filtran datos de sus conversaciones para el rastreo publicitario Este vie…
+https://www.eldiario.es/tecnologia/ia-podra-ver-mensajes-privados-instagram-partir-viernes-imagina-cartero-leyera-cartas_1_13199687.html
+🗓️ 2026-05-07 • 🏷️ eldiario.es
