@@ -4825,3 +4825,9 @@ https://www.eldiario.es/tecnologia/anthropic-deja-lado-bancos-europeos-acceso-ia
 The Bear dirá adiós con su temporada 5. FX ha confirmado que la nueva entrega será la última de la exitosa serie protagonizada por Jeremy Allen White, Ayo Edebiri y Ebon Moss-Bachrach. Asimismo, ha anunciado desde cuándo estará disponible e…
 https://hipertextual.com/cine-television/the-bear-temporada-5-final-fecha-de-estreno/
 🗓️ 2026-05-06 • 🏷️ hipertextual.com
+
+### 2026-05-07T15:27:21.467Z
+📰 Este reloj de Samsung ya es capaz de predecir desmayos 5 minutos antes de que ocurran
+Samsung acaba de conseguir un hito en la industria de la tecnología y la salud. La compañía ha publicado un estudio realizado junto con el Hospital Gwangmyeong, en Corea del Sur, que sitúa en muy buena posición a uno de los relojes Samsung …
+https://hipertextual.com/tecnologia/este-reloj-de-samsung-ya-es-capaz-de-predecir-desmayos-5-minutos-antes-de-que-ocurran/
+🗓️ 2026-05-07 • 🏷️ hipertextual.com
