@@ -4843,3 +4843,9 @@ https://www.eldiario.es/tecnologia/ia-podra-ver-mensajes-privados-instagram-part
 OpenAI ha presentado tres nuevos modelos de voz de IA que pueden razonar, traducir y transcribir mientras las personas hablan. La compañía señala que estos modelos permiten crear experiencias de voz que se sienten más naturales y responden …
 https://hipertextual.com/inteligencia-artificial/openai-modelos-voz-realtime-gpt-traduccion/
 🗓️ 2026-05-07 • 🏷️ hipertextual.com
+
+### 2026-05-08T14:51:13.704Z
+📰 Acuerdo en la UE para modificar y retrasar la aplicación de medidas de la Ley de IA
+Los países miembros de la UE han llegado a un acuerdo provisional para retrasar los plazos más estrictos previstos en la Ley de IA de la Unión Europea, por lo que las empresas tendrán más tiempo para prepararse para cumplir las normas relac…
+https://www.muycomputerpro.com/2026/05/08/acuerdo-ue-para-retrasar-modificar-aplicacion-medidas-ley-de-ia
+🗓️ 2026-05-08 • 🏷️ muycomputerpro.com
