@@ -4837,3 +4837,9 @@ https://hipertextual.com/tecnologia/este-reloj-de-samsung-ya-es-capaz-de-predeci
 Meta retira la única protección real de los chats de Instagram y abre la puerta al análisis masivo de conversaciones privadas con IAChatGPT, Claude, Grok y Perplexity filtran datos de sus conversaciones para el rastreo publicitario Este vie…
 https://www.eldiario.es/tecnologia/ia-podra-ver-mensajes-privados-instagram-partir-viernes-imagina-cartero-leyera-cartas_1_13199687.html
 🗓️ 2026-05-07 • 🏷️ eldiario.es
+
+### 2026-05-08T04:15:39.159Z
+📰 OpenAI lanza nuevas IA que razonan, traducen y transcriben mientras hablas
+OpenAI ha presentado tres nuevos modelos de voz de IA que pueden razonar, traducir y transcribir mientras las personas hablan. La compañía señala que estos modelos permiten crear experiencias de voz que se sienten más naturales y responden …
+https://hipertextual.com/inteligencia-artificial/openai-modelos-voz-realtime-gpt-traduccion/
+🗓️ 2026-05-07 • 🏷️ hipertextual.com

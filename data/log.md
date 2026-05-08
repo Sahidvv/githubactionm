@@ -4296,3 +4296,19 @@ https://hipertextual.com/cine-television/the-bear-temporada-5-final-fecha-de-est
 🗓️ 2026-05-06 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-08
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 OpenAI lanza nuevas IA que razonan, traducen y transcriben mientras hablas
+OpenAI ha presentado tres nuevos modelos de voz de IA que pueden razonar, traducir y transcribir mientras las personas hablan. La compañía señala que estos modelos permiten crear experiencias de voz que se sienten más naturales y responden …
+https://hipertextual.com/inteligencia-artificial/openai-modelos-voz-realtime-gpt-traduccion/
+🗓️ 2026-05-07 • 🏷️ hipertextual.com
+
+---
