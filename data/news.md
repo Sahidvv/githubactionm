@@ -4849,3 +4849,9 @@ https://hipertextual.com/inteligencia-artificial/openai-modelos-voz-realtime-gpt
 Los países miembros de la UE han llegado a un acuerdo provisional para retrasar los plazos más estrictos previstos en la Ley de IA de la Unión Europea, por lo que las empresas tendrán más tiempo para prepararse para cumplir las normas relac…
 https://www.muycomputerpro.com/2026/05/08/acuerdo-ue-para-retrasar-modificar-aplicacion-medidas-ley-de-ia
 🗓️ 2026-05-08 • 🏷️ muycomputerpro.com
+
+### 2026-05-08T20:06:14.930Z
+📰 Codex se actualiza y ahora puede tomar el control de Chrome en tu Mac y PC con Windows
+Codex acaba de dar un salto importante en su capacidad para trabajar dentro del navegador. El asistente de programación de OpenAI ya cuenta con una extensión que le permite operar directamente en tu sesión activa. La IA aprovecha tu perfil …
+https://hipertextual.com/inteligencia-artificial/codex-extension-chrome-windows-macos/
+🗓️ 2026-05-08 • 🏷️ hipertextual.com
