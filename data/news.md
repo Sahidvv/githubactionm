@@ -4855,3 +4855,9 @@ https://www.muycomputerpro.com/2026/05/08/acuerdo-ue-para-retrasar-modificar-apl
 Codex acaba de dar un salto importante en su capacidad para trabajar dentro del navegador. El asistente de programación de OpenAI ya cuenta con una extensión que le permite operar directamente en tu sesión activa. La IA aprovecha tu perfil …
 https://hipertextual.com/inteligencia-artificial/codex-extension-chrome-windows-macos/
 🗓️ 2026-05-08 • 🏷️ hipertextual.com
+
+### 2026-05-09T04:22:30.216Z
+📰 Clara Chappaz, embajadora francesa de Asuntos Digitales: “Estamos ante el fin del ‘Far West’ digital”
+El presidente francés le ha encargado conseguir un consenso internacional sobre la protección de los menores en redes sociales
+https://elpais.com/tecnologia/2026-05-09/clara-chappaz-embajadora-francesa-de-asuntos-digitales-estamos-ante-el-fin-del-far-west-digital.html
+🗓️ 2026-05-09 • 🏷️ elpais.com

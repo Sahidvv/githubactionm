@@ -4312,3 +4312,19 @@ https://hipertextual.com/inteligencia-artificial/openai-modelos-voz-realtime-gpt
 🗓️ 2026-05-07 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-09
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Clara Chappaz, embajadora francesa de Asuntos Digitales: “Estamos ante el fin del ‘Far West’ digital”
+El presidente francés le ha encargado conseguir un consenso internacional sobre la protección de los menores en redes sociales
+https://elpais.com/tecnologia/2026-05-09/clara-chappaz-embajadora-francesa-de-asuntos-digitales-estamos-ante-el-fin-del-far-west-digital.html
+🗓️ 2026-05-09 • 🏷️ elpais.com
+
+---
