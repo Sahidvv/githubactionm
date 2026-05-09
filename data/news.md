@@ -4867,3 +4867,9 @@ https://elpais.com/tecnologia/2026-05-09/clara-chappaz-embajadora-francesa-de-as
 Aunque para muchos Star Wars son solo las películas, los fans más acérrimos saben que incluso el canon actual se compone de infinitos proyectos más. Solo con las series de televisión para Disney+, la franquicia galáctica ya se ha expandido …
 https://hipertextual.com/cine-television/5-personajes-de-star-wars-que-merecen-su-propia-serie-en-disney/
 🗓️ 2026-05-09 • 🏷️ hipertextual.com
+
+### 2026-05-09T19:56:52.779Z
+📰 Todas las películas de &#8216;Mortal Kombat&#8217;, ordenadas de peor a mejor
+Han pasado cinco largos años desde la entrega anterior, pero por fin Mortal Kombat 2 ha llegado a los cines. El aclamado videojuego de peleas regresa a la gran pantalla para continuar la historia que se presentó en 2021, en lo que supuso el…
+https://hipertextual.com/cine-television/todas-las-peliculas-de-mortal-kombat-ordenadas-de-peor-a-mejor/
+🗓️ 2026-05-09 • 🏷️ hipertextual.com
