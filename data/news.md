@@ -4861,3 +4861,9 @@ https://hipertextual.com/inteligencia-artificial/codex-extension-chrome-windows-
 El presidente francés le ha encargado conseguir un consenso internacional sobre la protección de los menores en redes sociales
 https://elpais.com/tecnologia/2026-05-09/clara-chappaz-embajadora-francesa-de-asuntos-digitales-estamos-ante-el-fin-del-far-west-digital.html
 🗓️ 2026-05-09 • 🏷️ elpais.com
+
+### 2026-05-09T14:16:34.873Z
+📰 5 personajes de &#8216;Star Wars&#8217; que merecen su propia serie en Disney+
+Aunque para muchos Star Wars son solo las películas, los fans más acérrimos saben que incluso el canon actual se compone de infinitos proyectos más. Solo con las series de televisión para Disney+, la franquicia galáctica ya se ha expandido …
+https://hipertextual.com/cine-television/5-personajes-de-star-wars-que-merecen-su-propia-serie-en-disney/
+🗓️ 2026-05-09 • 🏷️ hipertextual.com
