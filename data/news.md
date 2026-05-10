@@ -4879,3 +4879,9 @@ https://hipertextual.com/cine-television/todas-las-peliculas-de-mortal-kombat-or
 Se acaba de estrenar en streaming la nueva serie de terror favorita de Stephen King. El aclamado escritor no solo es uno de los grandes maestros del género en la novela, sino que es un asiduo espectador de películas y series que puedan prov…
 https://hipertextual.com/cine-television/nueva-serie-de-terror-del-creador-de-adolescencia-que-stephen-king-quiere-que-veas/
 🗓️ 2026-05-09 • 🏷️ hipertextual.com
+
+### 2026-05-10T14:19:36.032Z
+📰 Apple podría volver a Intel, pero no como muchos imaginan
+Intel y Apple podrían estar preparando uno de los movimientos más inesperados de los últimos años dentro de la industria tecnológica. Seis años después de que Apple iniciara su histórica transición hacia Apple Silicon y abandonara los proce…
+https://www.muycomputer.com/2026/05/10/apple-podria-volver-a-intel-pero-no-como-muchos-imaginan/
+🗓️ 2026-05-10 • 🏷️ muycomputer.com
