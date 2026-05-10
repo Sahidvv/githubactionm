@@ -4873,3 +4873,9 @@ https://hipertextual.com/cine-television/5-personajes-de-star-wars-que-merecen-s
 Han pasado cinco largos años desde la entrega anterior, pero por fin Mortal Kombat 2 ha llegado a los cines. El aclamado videojuego de peleas regresa a la gran pantalla para continuar la historia que se presentó en 2021, en lo que supuso el…
 https://hipertextual.com/cine-television/todas-las-peliculas-de-mortal-kombat-ordenadas-de-peor-a-mejor/
 🗓️ 2026-05-09 • 🏷️ hipertextual.com
+
+### 2026-05-10T04:43:05.860Z
+📰 La nueva serie de terror del creador de &#8216;Adolescencia&#8217; que Stephen King quiere que veas: «Tenía mis dudas, pero es impresionante»
+Se acaba de estrenar en streaming la nueva serie de terror favorita de Stephen King. El aclamado escritor no solo es uno de los grandes maestros del género en la novela, sino que es un asiduo espectador de películas y series que puedan prov…
+https://hipertextual.com/cine-television/nueva-serie-de-terror-del-creador-de-adolescencia-que-stephen-king-quiere-que-veas/
+🗓️ 2026-05-09 • 🏷️ hipertextual.com

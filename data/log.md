@@ -4328,3 +4328,19 @@ https://elpais.com/tecnologia/2026-05-09/clara-chappaz-embajadora-francesa-de-as
 🗓️ 2026-05-09 • 🏷️ elpais.com
 
 ---
+## 2026-05-10
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La nueva serie de terror del creador de &#8216;Adolescencia&#8217; que Stephen King quiere que veas: «Tenía mis dudas, pero es impresionante»
+Se acaba de estrenar en streaming la nueva serie de terror favorita de Stephen King. El aclamado escritor no solo es uno de los grandes maestros del género en la novela, sino que es un asiduo espectador de películas y series que puedan prov…
+https://hipertextual.com/cine-television/nueva-serie-de-terror-del-creador-de-adolescencia-que-stephen-king-quiere-que-veas/
+🗓️ 2026-05-09 • 🏷️ hipertextual.com
+
+---
