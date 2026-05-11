@@ -4897,3 +4897,9 @@ https://www.muycomputer.com/2026/05/10/los-mejores-contenidos-de-la-semana-en-mu
 Camberra propone distribuir un nuevo impuesto a las tecnológicas entre los medios de comunicación, en función de los profesionales contratados para producir "contenidos informativos fundamentales"El avance de la IA en Google y los cambios e…
 https://www.eldiario.es/tecnologia/periodismo-periodistas-idea-gobierno-australiano-frenar-noticias-algoritmo_1_13205025.html
 🗓️ 2026-05-10 • 🏷️ eldiario.es
+
+### 2026-05-11T15:55:10.719Z
+📰 5 personajes de &#8216;La Casa de Papel&#8217; que podrían protagonizar la próxima serie spin-off
+Netflix acaba de anunciar que La Casa de Papel va a volver una vez más. La franquicia, que arrancó en 2017 y concluyó en 2021 su serie matriz, se ha expandido desde entonces con un reboot coreano y con la precuela sobre Berlín. Precisamente…
+https://hipertextual.com/cine-television/5-personajes-de-la-casa-de-papel-que-podrian-protagonizar-la-proxima-serie-spin-off/
+🗓️ 2026-05-11 • 🏷️ hipertextual.com
