@@ -4891,3 +4891,9 @@ https://www.muycomputer.com/2026/05/10/apple-podria-volver-a-intel-pero-no-como-
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Bazzite, el clon de SteamOS que quiere ser el mejor…
 https://www.muycomputer.com/2026/05/10/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxiii/
 🗓️ 2026-05-10 • 🏷️ muycomputer.com
+
+### 2026-05-11T04:57:49.522Z
+📰 El periodismo para los periodistas: la idea del Gobierno australiano para frenar las noticias de algoritmo
+Camberra propone distribuir un nuevo impuesto a las tecnológicas entre los medios de comunicación, en función de los profesionales contratados para producir "contenidos informativos fundamentales"El avance de la IA en Google y los cambios e…
+https://www.eldiario.es/tecnologia/periodismo-periodistas-idea-gobierno-australiano-frenar-noticias-algoritmo_1_13205025.html
+🗓️ 2026-05-10 • 🏷️ eldiario.es

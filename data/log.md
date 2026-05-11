@@ -4344,3 +4344,19 @@ https://hipertextual.com/cine-television/nueva-serie-de-terror-del-creador-de-ad
 🗓️ 2026-05-09 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-11
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El periodismo para los periodistas: la idea del Gobierno australiano para frenar las noticias de algoritmo
+Camberra propone distribuir un nuevo impuesto a las tecnológicas entre los medios de comunicación, en función de los profesionales contratados para producir "contenidos informativos fundamentales"El avance de la IA en Google y los cambios e…
+https://www.eldiario.es/tecnologia/periodismo-periodistas-idea-gobierno-australiano-frenar-noticias-algoritmo_1_13205025.html
+🗓️ 2026-05-10 • 🏷️ eldiario.es
+
+---
