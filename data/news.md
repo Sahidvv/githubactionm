@@ -4903,3 +4903,9 @@ https://www.eldiario.es/tecnologia/periodismo-periodistas-idea-gobierno-australi
 Netflix acaba de anunciar que La Casa de Papel va a volver una vez más. La franquicia, que arrancó en 2017 y concluyó en 2021 su serie matriz, se ha expandido desde entonces con un reboot coreano y con la precuela sobre Berlín. Precisamente…
 https://hipertextual.com/cine-television/5-personajes-de-la-casa-de-papel-que-podrian-protagonizar-la-proxima-serie-spin-off/
 🗓️ 2026-05-11 • 🏷️ hipertextual.com
+
+### 2026-05-11T20:46:29.031Z
+📰 Los creadores de &#8216;Forza Horizon 6&#8217; amenazan con banearte si juegas la versión filtrada
+La filtración antes de tiempo de Forza Horizon 6 sigue dando que hablar y Playground Games acaba de ganarse el enojo de muchísimos jugadores. El estudio a cargo del juego usó su cuenta de X (Twitter) para pronunciarse públicamente de la div…
+https://hipertextual.com/videojuegos/forza-horizon-6-amenaza-baneo/
+🗓️ 2026-05-11 • 🏷️ hipertextual.com
