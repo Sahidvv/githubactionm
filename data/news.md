@@ -4915,3 +4915,9 @@ https://hipertextual.com/videojuegos/forza-horizon-6-amenaza-baneo/
 Cada vez hay más vídeos hechos con IA y destinados al público infantil en las redes sociales. Es contenido con abundantes fallos a nivel visual e incoherencias que podrían afectar negativamente a los más pequeños
 https://elpais.com/tecnologia/2026-05-12/el-impacto-de-los-videos-hechos-con-ia-en-ninos-vacas-realistas-bailando-tigres-que-nacen-de-un-huevo.html
 🗓️ 2026-05-12 • 🏷️ elpais.com
+
+### 2026-05-12T15:38:58.745Z
+📰 ¿Buenas noticias para el iPhone 18 Pro? La drástica decisión de Apple sobre su precio
+La crisis de la RAM y el almacenamiento es una complicación para la gran mayoría de las empresas del mercado de la electrónica de consumo. Apple no es la excepción a la regla, por lo que se ha visto obligada a implementar cambios en su catá…
+https://hipertextual.com/apple/iphone-18-pro-rumor-precio/
+🗓️ 2026-05-12 • 🏷️ hipertextual.com
