@@ -4360,3 +4360,19 @@ https://www.eldiario.es/tecnologia/periodismo-periodistas-idea-gobierno-australi
 🗓️ 2026-05-10 • 🏷️ eldiario.es
 
 ---
+## 2026-05-12
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El impacto de los videos hechos con IA en niños: vacas realistas bailando, tigres que nacen de un huevo
+Cada vez hay más vídeos hechos con IA y destinados al público infantil en las redes sociales. Es contenido con abundantes fallos a nivel visual e incoherencias que podrían afectar negativamente a los más pequeños
+https://elpais.com/tecnologia/2026-05-12/el-impacto-de-los-videos-hechos-con-ia-en-ninos-vacas-realistas-bailando-tigres-que-nacen-de-un-huevo.html
+🗓️ 2026-05-12 • 🏷️ elpais.com
+
+---

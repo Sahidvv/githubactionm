@@ -4909,3 +4909,9 @@ https://hipertextual.com/cine-television/5-personajes-de-la-casa-de-papel-que-po
 La filtración antes de tiempo de Forza Horizon 6 sigue dando que hablar y Playground Games acaba de ganarse el enojo de muchísimos jugadores. El estudio a cargo del juego usó su cuenta de X (Twitter) para pronunciarse públicamente de la div…
 https://hipertextual.com/videojuegos/forza-horizon-6-amenaza-baneo/
 🗓️ 2026-05-11 • 🏷️ hipertextual.com
+
+### 2026-05-12T04:35:18.351Z
+📰 El impacto de los videos hechos con IA en niños: vacas realistas bailando, tigres que nacen de un huevo
+Cada vez hay más vídeos hechos con IA y destinados al público infantil en las redes sociales. Es contenido con abundantes fallos a nivel visual e incoherencias que podrían afectar negativamente a los más pequeños
+https://elpais.com/tecnologia/2026-05-12/el-impacto-de-los-videos-hechos-con-ia-en-ninos-vacas-realistas-bailando-tigres-que-nacen-de-un-huevo.html
+🗓️ 2026-05-12 • 🏷️ elpais.com
