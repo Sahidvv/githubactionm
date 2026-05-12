@@ -4921,3 +4921,9 @@ https://elpais.com/tecnologia/2026-05-12/el-impacto-de-los-videos-hechos-con-ia-
 La crisis de la RAM y el almacenamiento es una complicación para la gran mayoría de las empresas del mercado de la electrónica de consumo. Apple no es la excepción a la regla, por lo que se ha visto obligada a implementar cambios en su catá…
 https://hipertextual.com/apple/iphone-18-pro-rumor-precio/
 🗓️ 2026-05-12 • 🏷️ hipertextual.com
+
+### 2026-05-12T20:27:52.681Z
+📰 ¿Qué va a pasar con tu Chromebook cuando lleguen los nuevos Googlebook con IA?
+El anuncio de los nuevos Googlebook trae consigo grandes expectativas, tanto por la fusión de Android y Chrome OS como por las nuevas funciones de IA de Gemini Intelligence. Pero su lanzamiento también genera dudas respecto de qué le depara…
+https://hipertextual.com/tecnologia/que-pasara-chromebook-cuando-lleguen-nuevos-googlebook/
+🗓️ 2026-05-12 • 🏷️ hipertextual.com
