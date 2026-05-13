@@ -4939,3 +4939,9 @@ https://hipertextual.com/mobile/el-nuevo-sony-xperia-1-viii-cambia-por-completo-
 Samsung ha sorprendido a todos al anunciar el despliegue de la beta de One UI 9, que se basa en Android 17. La nueva versión de la capa de personalización ha puesto en marcha su fase de pruebas, con novedades interesantes de cara al debut f…
 https://hipertextual.com/mobile/inicio-beta-one-ui-9-samsung/
 🗓️ 2026-05-13 • 🏷️ hipertextual.com
+
+### 2026-05-13T20:45:23.188Z
+📰 Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado
+Google está generando mucho ruido con Gemini Intelligence, su apuesta para dotar de funciones de IA avanzadas a los móviles Android más potentes. La idea de los de Mountain View es que su tecnología sea capaz de automatizar tareas tediosas …
+https://hipertextual.com/inteligencia-artificial/primeros-moviles-gemini-intelligence-integrado/
+🗓️ 2026-05-13 • 🏷️ hipertextual.com
