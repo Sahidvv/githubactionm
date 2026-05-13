@@ -4376,3 +4376,19 @@ https://elpais.com/tecnologia/2026-05-12/el-impacto-de-los-videos-hechos-con-ia-
 🗓️ 2026-05-12 • 🏷️ elpais.com
 
 ---
+## 2026-05-13
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 El nuevo Sony Xperia 1 VIII cambia por completo después de años siendo lo mismo (pero mantiene esto tan útil)
+Un año más, Sony ha decidido ampliar su catálogo de smartphones con un nuevo miembro de la familia Xperia 1, que llegan para competir contra marcas como Samsung, Apple y Xiaomi en el apartado fotográfico. Todo ello, sin dejar de lado el res…
+https://hipertextual.com/mobile/el-nuevo-sony-xperia-1-viii-cambia-por-completo-despues-de-anos-siendo-lo-mismo-pero-mantiene-esto-tan-util/
+🗓️ 2026-05-13 • 🏷️ hipertextual.com
+
+---

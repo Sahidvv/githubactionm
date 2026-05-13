@@ -4927,3 +4927,9 @@ https://hipertextual.com/apple/iphone-18-pro-rumor-precio/
 El anuncio de los nuevos Googlebook trae consigo grandes expectativas, tanto por la fusión de Android y Chrome OS como por las nuevas funciones de IA de Gemini Intelligence. Pero su lanzamiento también genera dudas respecto de qué le depara…
 https://hipertextual.com/tecnologia/que-pasara-chromebook-cuando-lleguen-nuevos-googlebook/
 🗓️ 2026-05-12 • 🏷️ hipertextual.com
+
+### 2026-05-13T04:43:29.701Z
+📰 El nuevo Sony Xperia 1 VIII cambia por completo después de años siendo lo mismo (pero mantiene esto tan útil)
+Un año más, Sony ha decidido ampliar su catálogo de smartphones con un nuevo miembro de la familia Xperia 1, que llegan para competir contra marcas como Samsung, Apple y Xiaomi en el apartado fotográfico. Todo ello, sin dejar de lado el res…
+https://hipertextual.com/mobile/el-nuevo-sony-xperia-1-viii-cambia-por-completo-despues-de-anos-siendo-lo-mismo-pero-mantiene-esto-tan-util/
+🗓️ 2026-05-13 • 🏷️ hipertextual.com
