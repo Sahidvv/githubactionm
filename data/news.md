@@ -4933,3 +4933,9 @@ https://hipertextual.com/tecnologia/que-pasara-chromebook-cuando-lleguen-nuevos-
 Un año más, Sony ha decidido ampliar su catálogo de smartphones con un nuevo miembro de la familia Xperia 1, que llegan para competir contra marcas como Samsung, Apple y Xiaomi en el apartado fotográfico. Todo ello, sin dejar de lado el res…
 https://hipertextual.com/mobile/el-nuevo-sony-xperia-1-viii-cambia-por-completo-despues-de-anos-siendo-lo-mismo-pero-mantiene-esto-tan-util/
 🗓️ 2026-05-13 • 🏷️ hipertextual.com
+
+### 2026-05-13T15:43:15.988Z
+📰 One UI 9 inicia su beta de la mano de Android 17: principales novedades y modelos compatibles
+Samsung ha sorprendido a todos al anunciar el despliegue de la beta de One UI 9, que se basa en Android 17. La nueva versión de la capa de personalización ha puesto en marcha su fase de pruebas, con novedades interesantes de cara al debut f…
+https://hipertextual.com/mobile/inicio-beta-one-ui-9-samsung/
+🗓️ 2026-05-13 • 🏷️ hipertextual.com
