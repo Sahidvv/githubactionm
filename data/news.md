@@ -4951,3 +4951,9 @@ https://hipertextual.com/inteligencia-artificial/primeros-moviles-gemini-intelli
 La activista, que también asesoró a la Administración Obama en polarización y extremismo digital, cree que la sociedad debe exigir un cambio de modelo de negocio a las redes sociales
 https://elpais.com/tecnologia/2026-05-14/yael-eisenstat-exdirectiva-de-facebook-es-injusto-que-los-usuarios-tengan-que-distinguir-que-video-ha-sido-manipulado.html
 🗓️ 2026-05-14 • 🏷️ elpais.com
+
+### 2026-05-14T15:19:21.171Z
+📰 ¿A qué hora se lanza &#8216;Forza Horizon 6&#8217; en tu país?
+Forza Horizon 6 es uno de los lanzamientos más esperados del año, y ha puesto en marcha la cuenta regresiva final. Si bien el debut general del nuevo juego de Playground Games está pautado para el próximo 19 de mayo, estará disponible desde…
+https://hipertextual.com/videojuegos/horario-lanzamiento-forza-horizon-6/
+🗓️ 2026-05-14 • 🏷️ hipertextual.com
