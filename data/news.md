@@ -4957,3 +4957,9 @@ https://elpais.com/tecnologia/2026-05-14/yael-eisenstat-exdirectiva-de-facebook-
 Forza Horizon 6 es uno de los lanzamientos más esperados del año, y ha puesto en marcha la cuenta regresiva final. Si bien el debut general del nuevo juego de Playground Games está pautado para el próximo 19 de mayo, estará disponible desde…
 https://hipertextual.com/videojuegos/horario-lanzamiento-forza-horizon-6/
 🗓️ 2026-05-14 • 🏷️ hipertextual.com
+
+### 2026-05-14T20:26:21.119Z
+📰 Barcelona prende la revolución contra los "tiranos" digitales: "No hay que dejar que creen desconfianza entre nosotros"
+El primer Encuentro Internacional sobre los Derechos Digitales que ha reunido a más de un centenar de voces de referencia en este área en la capital catalana se convierte en una tormenta de ideas para arreglar Internet y la democraciaLa may…
+https://www.eldiario.es/tecnologia/barcelona-prende-revolucion-tiranos-digitales-no-hay-creen-desconfianza_1_13219348.html
+🗓️ 2026-05-14 • 🏷️ eldiario.es
