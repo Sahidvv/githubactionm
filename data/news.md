@@ -4945,3 +4945,9 @@ https://hipertextual.com/mobile/inicio-beta-one-ui-9-samsung/
 Google está generando mucho ruido con Gemini Intelligence, su apuesta para dotar de funciones de IA avanzadas a los móviles Android más potentes. La idea de los de Mountain View es que su tecnología sea capaz de automatizar tareas tediosas …
 https://hipertextual.com/inteligencia-artificial/primeros-moviles-gemini-intelligence-integrado/
 🗓️ 2026-05-13 • 🏷️ hipertextual.com
+
+### 2026-05-14T04:42:23.453Z
+📰 Yaël Eisenstat, exdirectiva de Facebook: “Es injusto que los usuarios tengan que distinguir qué vídeo ha sido manipulado”
+La activista, que también asesoró a la Administración Obama en polarización y extremismo digital, cree que la sociedad debe exigir un cambio de modelo de negocio a las redes sociales
+https://elpais.com/tecnologia/2026-05-14/yael-eisenstat-exdirectiva-de-facebook-es-injusto-que-los-usuarios-tengan-que-distinguir-que-video-ha-sido-manipulado.html
+🗓️ 2026-05-14 • 🏷️ elpais.com

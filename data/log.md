@@ -4392,3 +4392,19 @@ https://hipertextual.com/mobile/el-nuevo-sony-xperia-1-viii-cambia-por-completo-
 🗓️ 2026-05-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-14
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Yaël Eisenstat, exdirectiva de Facebook: “Es injusto que los usuarios tengan que distinguir qué vídeo ha sido manipulado”
+La activista, que también asesoró a la Administración Obama en polarización y extremismo digital, cree que la sociedad debe exigir un cambio de modelo de negocio a las redes sociales
+https://elpais.com/tecnologia/2026-05-14/yael-eisenstat-exdirectiva-de-facebook-es-injusto-que-los-usuarios-tengan-que-distinguir-que-video-ha-sido-manipulado.html
+🗓️ 2026-05-14 • 🏷️ elpais.com
+
+---
