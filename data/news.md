@@ -4975,3 +4975,9 @@ https://elpais.com/tecnologia/2026-05-15/carissa-veliz-filosofa-la-ia-presenta-l
 Los rumores sobre los Samsung Galaxy S27 han comenzado temprano este año, y un presunto cambio en el desarrollo de su chip ya está generando preocupación. Según recoge Android Authority, el Exynos 2700 que impulsaría a las versiones base y …
 https://hipertextual.com/mobile/chip-exynos-2700-samsung-galaxy-s27-fowlp/
 🗓️ 2026-05-15 • 🏷️ hipertextual.com
+
+### 2026-05-15T20:16:06.585Z
+📰 Android 17 llega antes de tiempo a estos móviles Motorola, incluidos modelos de gama media
+Motorola lleva varios meses apostando por una política de actualizaciones más activa que la de años anteriores. El programa beta de Android 17 arrancó poco después de que Google publicara su primera versión de prueba en febrero de 2026. Aho…
+https://hipertextual.com/mobile/motorola-beta-android-17-edge-razr-motog/
+🗓️ 2026-05-15 • 🏷️ hipertextual.com
