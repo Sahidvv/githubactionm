@@ -4969,3 +4969,9 @@ https://www.eldiario.es/tecnologia/barcelona-prende-revolucion-tiranos-digitales
 En su nuevo libro, ‘Profecía’, la experta explora el uso de la probabilística, herramienta básica de la IA, como instrumento para ejercer el poder
 https://elpais.com/tecnologia/2026-05-15/carissa-veliz-filosofa-la-ia-presenta-las-predicciones-como-hechos-y-eso-tiene-implicaciones-eticas-profundas.html
 🗓️ 2026-05-15 • 🏷️ elpais.com
+
+### 2026-05-15T15:12:51.405Z
+📰 El chip de los Galaxy S27 llegaría con un cambio preocupante
+Los rumores sobre los Samsung Galaxy S27 han comenzado temprano este año, y un presunto cambio en el desarrollo de su chip ya está generando preocupación. Según recoge Android Authority, el Exynos 2700 que impulsaría a las versiones base y …
+https://hipertextual.com/mobile/chip-exynos-2700-samsung-galaxy-s27-fowlp/
+🗓️ 2026-05-15 • 🏷️ hipertextual.com
