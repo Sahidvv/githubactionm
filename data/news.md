@@ -4963,3 +4963,9 @@ https://hipertextual.com/videojuegos/horario-lanzamiento-forza-horizon-6/
 El primer Encuentro Internacional sobre los Derechos Digitales que ha reunido a más de un centenar de voces de referencia en este área en la capital catalana se convierte en una tormenta de ideas para arreglar Internet y la democraciaLa may…
 https://www.eldiario.es/tecnologia/barcelona-prende-revolucion-tiranos-digitales-no-hay-creen-desconfianza_1_13219348.html
 🗓️ 2026-05-14 • 🏷️ eldiario.es
+
+### 2026-05-15T04:50:14.606Z
+📰 Carissa Véliz, filósofa: “La IA presenta las predicciones como hechos, y eso tiene implicaciones éticas profundas”
+En su nuevo libro, ‘Profecía’, la experta explora el uso de la probabilística, herramienta básica de la IA, como instrumento para ejercer el poder
+https://elpais.com/tecnologia/2026-05-15/carissa-veliz-filosofa-la-ia-presenta-las-predicciones-como-hechos-y-eso-tiene-implicaciones-eticas-profundas.html
+🗓️ 2026-05-15 • 🏷️ elpais.com

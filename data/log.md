@@ -4408,3 +4408,19 @@ https://elpais.com/tecnologia/2026-05-14/yael-eisenstat-exdirectiva-de-facebook-
 🗓️ 2026-05-14 • 🏷️ elpais.com
 
 ---
+## 2026-05-15
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Carissa Véliz, filósofa: “La IA presenta las predicciones como hechos, y eso tiene implicaciones éticas profundas”
+En su nuevo libro, ‘Profecía’, la experta explora el uso de la probabilística, herramienta básica de la IA, como instrumento para ejercer el poder
+https://elpais.com/tecnologia/2026-05-15/carissa-veliz-filosofa-la-ia-presenta-las-predicciones-como-hechos-y-eso-tiene-implicaciones-eticas-profundas.html
+🗓️ 2026-05-15 • 🏷️ elpais.com
+
+---
