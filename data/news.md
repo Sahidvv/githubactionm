@@ -4987,3 +4987,9 @@ https://hipertextual.com/mobile/motorola-beta-android-17-edge-razr-motog/
 Un nuevo estudio encuentra un vínculo sólido entre jóvenes de clases desfavorecidas, las horas con el móvil y la salud mental
 https://elpais.com/tecnologia/2026-05-16/los-adolescentes-de-familias-con-menos-recursos-sufren-mas-problemas-por-el-uso-excesivo-de-las-redes.html
 🗓️ 2026-05-16 • 🏷️ elpais.com
+
+### 2026-05-16T14:21:28.932Z
+📰 ¿Habrá &#8216;Berlín&#8217; temporada 3? Esto es todo lo que sabemos de la precuela de &#8216;La Casa de Papel&#8217;
+Berlín, la precuela de La Casa de Papel, acaba de estrenar su segunda entrega y los fans ya piensan en la temporada 3. Netflix ya confirmó hace unos días que el universo de la franquicia continuará con un nuevo proyecto. De hecho, se rumore…
+https://hipertextual.com/cine-television/habra-berlin-temporada-3-esto-es-todo-lo-que-sabemos-de-la-precuela-de-la-casa-de-papel/
+🗓️ 2026-05-16 • 🏷️ hipertextual.com
