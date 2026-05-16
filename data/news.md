@@ -4981,3 +4981,9 @@ https://hipertextual.com/mobile/chip-exynos-2700-samsung-galaxy-s27-fowlp/
 Motorola lleva varios meses apostando por una política de actualizaciones más activa que la de años anteriores. El programa beta de Android 17 arrancó poco después de que Google publicara su primera versión de prueba en febrero de 2026. Aho…
 https://hipertextual.com/mobile/motorola-beta-android-17-edge-razr-motog/
 🗓️ 2026-05-15 • 🏷️ hipertextual.com
+
+### 2026-05-16T04:28:20.983Z
+📰 Los adolescentes de familias con menos recursos sufren más problemas por el uso excesivo de las redes
+Un nuevo estudio encuentra un vínculo sólido entre jóvenes de clases desfavorecidas, las horas con el móvil y la salud mental
+https://elpais.com/tecnologia/2026-05-16/los-adolescentes-de-familias-con-menos-recursos-sufren-mas-problemas-por-el-uso-excesivo-de-las-redes.html
+🗓️ 2026-05-16 • 🏷️ elpais.com
