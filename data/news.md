@@ -4993,3 +4993,9 @@ https://elpais.com/tecnologia/2026-05-16/los-adolescentes-de-familias-con-menos-
 Berlín, la precuela de La Casa de Papel, acaba de estrenar su segunda entrega y los fans ya piensan en la temporada 3. Netflix ya confirmó hace unos días que el universo de la franquicia continuará con un nuevo proyecto. De hecho, se rumore…
 https://hipertextual.com/cine-television/habra-berlin-temporada-3-esto-es-todo-lo-que-sabemos-de-la-precuela-de-la-casa-de-papel/
 🗓️ 2026-05-16 • 🏷️ hipertextual.com
+
+### 2026-05-16T20:01:05.300Z
+📰 3 razones para ver &#8216;Jugada Maestra&#8217;, la última gamberrada del «nuevo Tom Cruise»
+Acaba de llegar a los cines de España una de esas películas adictivas capaces de enganchar a cualquier espectador: Jugada Maestra (How to make a killing). El filme, que se estrenó en febrero en Estados Unidos, se ha convertido en una de las…
+https://hipertextual.com/cine-television/3-razones-para-ver-jugada-maestra-la-ultima-gamberrada-del-nuevo-tom-cruise/
+🗓️ 2026-05-16 • 🏷️ hipertextual.com
