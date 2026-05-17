@@ -4999,3 +4999,9 @@ https://hipertextual.com/cine-television/habra-berlin-temporada-3-esto-es-todo-l
 Acaba de llegar a los cines de España una de esas películas adictivas capaces de enganchar a cualquier espectador: Jugada Maestra (How to make a killing). El filme, que se estrenó en febrero en Estados Unidos, se ha convertido en una de las…
 https://hipertextual.com/cine-television/3-razones-para-ver-jugada-maestra-la-ultima-gamberrada-del-nuevo-tom-cruise/
 🗓️ 2026-05-16 • 🏷️ hipertextual.com
+
+### 2026-05-17T04:52:50.814Z
+📰 Las seis películas más esperadas de lo que resta del año
+El año cinematográfico 2026 ha sido uno sorprendente. Tras casi media década de una lenta e irregular recuperación económica, una serie de sucesivos éxitos parecen haber reactivado la industria. También, demostrado que, a pesar de los obstá…
+https://hipertextual.com/cine-television/las-seis-peliculas-mas-esperadas-de-lo-que-resta-del-ano/
+🗓️ 2026-05-16 • 🏷️ hipertextual.com

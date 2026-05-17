@@ -4440,3 +4440,19 @@ https://elpais.com/tecnologia/2026-05-16/los-adolescentes-de-familias-con-menos-
 🗓️ 2026-05-16 • 🏷️ elpais.com
 
 ---
+## 2026-05-17
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Las seis películas más esperadas de lo que resta del año
+El año cinematográfico 2026 ha sido uno sorprendente. Tras casi media década de una lenta e irregular recuperación económica, una serie de sucesivos éxitos parecen haber reactivado la industria. También, demostrado que, a pesar de los obstá…
+https://hipertextual.com/cine-television/las-seis-peliculas-mas-esperadas-de-lo-que-resta-del-ano/
+🗓️ 2026-05-16 • 🏷️ hipertextual.com
+
+---
