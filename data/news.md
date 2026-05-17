@@ -5005,3 +5005,9 @@ https://hipertextual.com/cine-television/3-razones-para-ver-jugada-maestra-la-ul
 El año cinematográfico 2026 ha sido uno sorprendente. Tras casi media década de una lenta e irregular recuperación económica, una serie de sucesivos éxitos parecen haber reactivado la industria. También, demostrado que, a pesar de los obstá…
 https://hipertextual.com/cine-television/las-seis-peliculas-mas-esperadas-de-lo-que-resta-del-ano/
 🗓️ 2026-05-16 • 🏷️ hipertextual.com
+
+### 2026-05-17T14:25:35.164Z
+📰 Uso Claude Code y esta función me ayuda a que la IA revise si el código funciona antes de entregarlo
+Uno de los problemas más frecuentes cuando trabajas con IA para escribir código es que el resultado parece correcto hasta que lo pruebas. Claude Code acaba de añadir una función llamada Outcomes que cambia esa dinámica para bien. Ahora, el …
+https://hipertextual.com/inteligencia-artificial/como-configurar-outcomes-claude-code/
+🗓️ 2026-05-17 • 🏷️ hipertextual.com
