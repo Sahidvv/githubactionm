@@ -5011,3 +5011,9 @@ https://hipertextual.com/cine-television/las-seis-peliculas-mas-esperadas-de-lo-
 Uno de los problemas más frecuentes cuando trabajas con IA para escribir código es que el resultado parece correcto hasta que lo pruebas. Claude Code acaba de añadir una función llamada Outcomes que cambia esa dinámica para bien. Ahora, el …
 https://hipertextual.com/inteligencia-artificial/como-configurar-outcomes-claude-code/
 🗓️ 2026-05-17 • 🏷️ hipertextual.com
+
+### 2026-05-17T20:03:59.199Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXIV)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Mentiras y verdades sobre Neo Geo AES+: todo lo que…
+https://www.muycomputer.com/2026/05/17/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxiv/
+🗓️ 2026-05-17 • 🏷️ muycomputer.com
