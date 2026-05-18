@@ -5017,3 +5017,9 @@ https://hipertextual.com/inteligencia-artificial/como-configurar-outcomes-claude
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Mentiras y verdades sobre Neo Geo AES+: todo lo que…
 https://www.muycomputer.com/2026/05/17/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxiv/
 🗓️ 2026-05-17 • 🏷️ muycomputer.com
+
+### 2026-05-18T05:05:55.587Z
+📰 Tres razones para ver ‘Movida celestial’, la película en que Keanu Reeves es un ángel
+Movida celestial es, además de una comedia divertidísima, un hito en el cine de entretenimiento. Eso, al dar la oportunidad al icónico Keanu Reeves de abandonar (por un tiempo, al menos) sus papeles de acción para volver a la comedia. Y ade…
+https://hipertextual.com/cine-television/tres-razones-para-ver-movida-celestial-la-pelicula-en-que-keanu-reeves-es-un-angel/
+🗓️ 2026-05-17 • 🏷️ hipertextual.com

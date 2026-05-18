@@ -4456,3 +4456,19 @@ https://hipertextual.com/cine-television/las-seis-peliculas-mas-esperadas-de-lo-
 🗓️ 2026-05-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-18
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Tres razones para ver ‘Movida celestial’, la película en que Keanu Reeves es un ángel
+Movida celestial es, además de una comedia divertidísima, un hito en el cine de entretenimiento. Eso, al dar la oportunidad al icónico Keanu Reeves de abandonar (por un tiempo, al menos) sus papeles de acción para volver a la comedia. Y ade…
+https://hipertextual.com/cine-television/tres-razones-para-ver-movida-celestial-la-pelicula-en-que-keanu-reeves-es-un-angel/
+🗓️ 2026-05-17 • 🏷️ hipertextual.com
+
+---
