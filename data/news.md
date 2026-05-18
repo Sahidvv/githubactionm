@@ -5023,3 +5023,9 @@ https://www.muycomputer.com/2026/05/17/los-mejores-contenidos-de-la-semana-en-mu
 Movida celestial es, además de una comedia divertidísima, un hito en el cine de entretenimiento. Eso, al dar la oportunidad al icónico Keanu Reeves de abandonar (por un tiempo, al menos) sus papeles de acción para volver a la comedia. Y ade…
 https://hipertextual.com/cine-television/tres-razones-para-ver-movida-celestial-la-pelicula-en-que-keanu-reeves-es-un-angel/
 🗓️ 2026-05-17 • 🏷️ hipertextual.com
+
+### 2026-05-18T16:23:26.173Z
+📰 ¿Desastre para el iPhone plegable? Un problema inesperado podría complicar a Apple
+Apple se habría topado con un problema inesperado en el desarrollo del iPhone Ultra, su primer smartphone plegable. Un inconveniente que podría traer consecuencias importantes de cara a su presunto debut junto con los iPhone 18 Pro y Pro Ma…
+https://hipertextual.com/apple/iphone-ultra-plegable-posible-problema-bisagra/
+🗓️ 2026-05-18 • 🏷️ hipertextual.com
