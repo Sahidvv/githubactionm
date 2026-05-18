@@ -5029,3 +5029,9 @@ https://hipertextual.com/cine-television/tres-razones-para-ver-movida-celestial-
 Apple se habría topado con un problema inesperado en el desarrollo del iPhone Ultra, su primer smartphone plegable. Un inconveniente que podría traer consecuencias importantes de cara a su presunto debut junto con los iPhone 18 Pro y Pro Ma…
 https://hipertextual.com/apple/iphone-ultra-plegable-posible-problema-bisagra/
 🗓️ 2026-05-18 • 🏷️ hipertextual.com
+
+### 2026-05-18T20:24:35.853Z
+📰 Elon Musk pierde el juicio contra OpenAI y Sam Altman
+Elon Musk ha sufrido una derrota notable en su pelea contra OpenAI. Un jurado federal rechazó este lunes todas las demandas contra Sam Altman y OpenAI tras tres semanas de juicio. El tribunal, en Oakland, California, desestimó las reclamaci…
+https://hipertextual.com/legal/elon-musk-pierde-juicio-openai-sam-altman/
+🗓️ 2026-05-18 • 🏷️ hipertextual.com
