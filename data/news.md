@@ -5035,3 +5035,9 @@ https://hipertextual.com/apple/iphone-ultra-plegable-posible-problema-bisagra/
 Elon Musk ha sufrido una derrota notable en su pelea contra OpenAI. Un jurado federal rechazó este lunes todas las demandas contra Sam Altman y OpenAI tras tres semanas de juicio. El tribunal, en Oakland, California, desestimó las reclamaci…
 https://hipertextual.com/legal/elon-musk-pierde-juicio-openai-sam-altman/
 🗓️ 2026-05-18 • 🏷️ hipertextual.com
+
+### 2026-05-19T05:01:09.893Z
+📰 ¿Rechazo generacional a la IA? Por qué los universitarios la abuchean en las ceremonias de graduación de Estados Unidos
+Eric Schmidt, exCEO de Google, y otros dos ponentes han sufrido pitos por parte de los estudiantes en tres eventos de fin de carrera
+https://elpais.com/tecnologia/2026-05-19/rechazo-generacional-a-la-ia-por-que-los-universitarios-la-abuchean-en-las-ceremonias-de-graduacion-de-estados-unidos.html
+🗓️ 2026-05-19 • 🏷️ elpais.com

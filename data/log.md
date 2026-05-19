@@ -4472,3 +4472,19 @@ https://hipertextual.com/cine-television/tres-razones-para-ver-movida-celestial-
 🗓️ 2026-05-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-19
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Rechazo generacional a la IA? Por qué los universitarios la abuchean en las ceremonias de graduación de Estados Unidos
+Eric Schmidt, exCEO de Google, y otros dos ponentes han sufrido pitos por parte de los estudiantes en tres eventos de fin de carrera
+https://elpais.com/tecnologia/2026-05-19/rechazo-generacional-a-la-ia-por-que-los-universitarios-la-abuchean-en-las-ceremonias-de-graduacion-de-estados-unidos.html
+🗓️ 2026-05-19 • 🏷️ elpais.com
+
+---
