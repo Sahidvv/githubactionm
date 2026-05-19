@@ -5047,3 +5047,9 @@ https://elpais.com/tecnologia/2026-05-19/rechazo-generacional-a-la-ia-por-que-lo
 Sony acaba de actualizar su catálogo de auriculares de diadema con los nuevos 1000X The ColleXion. Se trata de un nuevo modelo premium que celebra el 10.° aniversario del debut de los MDR-1000X, que fueron el punto de partida de una de las …
 https://hipertextual.com/tecnologia/nuevos-sony-1000x-the-collexion/
 🗓️ 2026-05-19 • 🏷️ hipertextual.com
+
+### 2026-05-19T20:44:18.661Z
+📰 Google Pics es la nueva app que cambia para siempre cómo creas y editas imágenes con IA
+Google está por cambiar la forma como creas imágenes con inteligencia artificial para que no dependas del azar ni de aplicaciones externas. El gigante tecnológico aprovechó el inicio de I/O 2026 para presentar Google Pics, un generador y ed…
+https://hipertextual.com/inteligencia-artificial/google-pics-editor-imagenes-ia-workspace/
+🗓️ 2026-05-19 • 🏷️ hipertextual.com
