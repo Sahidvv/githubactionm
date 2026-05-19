@@ -5041,3 +5041,9 @@ https://hipertextual.com/legal/elon-musk-pierde-juicio-openai-sam-altman/
 Eric Schmidt, exCEO de Google, y otros dos ponentes han sufrido pitos por parte de los estudiantes en tres eventos de fin de carrera
 https://elpais.com/tecnologia/2026-05-19/rechazo-generacional-a-la-ia-por-que-los-universitarios-la-abuchean-en-las-ceremonias-de-graduacion-de-estados-unidos.html
 🗓️ 2026-05-19 • 🏷️ elpais.com
+
+### 2026-05-19T16:20:07.242Z
+📰 Sony 1000X The ColleXion: la marca celebra los 10 años de sus auriculares más icónicos con un nuevo modelo premium
+Sony acaba de actualizar su catálogo de auriculares de diadema con los nuevos 1000X The ColleXion. Se trata de un nuevo modelo premium que celebra el 10.° aniversario del debut de los MDR-1000X, que fueron el punto de partida de una de las …
+https://hipertextual.com/tecnologia/nuevos-sony-1000x-the-collexion/
+🗓️ 2026-05-19 • 🏷️ hipertextual.com
