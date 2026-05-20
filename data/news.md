@@ -5059,3 +5059,9 @@ https://hipertextual.com/inteligencia-artificial/google-pics-editor-imagenes-ia-
 OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo
 https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html
 🗓️ 2026-05-20 • 🏷️ elpais.com
+
+### 2026-05-20T16:25:15.209Z
+📰 HP presenta sus nuevas impresoras de gran formato, DesignJet Z6 y Z9
+HP ha presentado sus nuevas impresoras de gran formato en la feria especializada FESPA que se celebra esta semana en Barcelona. Las DesignJet Z6 y Z9 prometen alta calidad de imagen y flujos de trabajo simplificados en una plataforma unific…
+https://www.muycomputerpro.com/2026/05/20/hp-presenta-sus-nuevas-impresoras-de-gran-formato-designjet-z6-y-z9
+🗓️ 2026-05-20 • 🏷️ muycomputerpro.com
