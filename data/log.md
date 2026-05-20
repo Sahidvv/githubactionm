@@ -4488,3 +4488,19 @@ https://elpais.com/tecnologia/2026-05-19/rechazo-generacional-a-la-ia-por-que-lo
 🗓️ 2026-05-19 • 🏷️ elpais.com
 
 ---
+## 2026-05-20
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA
+OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo
+https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html
+🗓️ 2026-05-20 • 🏷️ elpais.com
+
+---

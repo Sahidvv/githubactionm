@@ -5053,3 +5053,9 @@ https://hipertextual.com/tecnologia/nuevos-sony-1000x-the-collexion/
 Google está por cambiar la forma como creas imágenes con inteligencia artificial para que no dependas del azar ni de aplicaciones externas. El gigante tecnológico aprovechó el inicio de I/O 2026 para presentar Google Pics, un generador y ed…
 https://hipertextual.com/inteligencia-artificial/google-pics-editor-imagenes-ia-workspace/
 🗓️ 2026-05-19 • 🏷️ hipertextual.com
+
+### 2026-05-20T05:04:53.888Z
+📰 Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA
+OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo
+https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html
+🗓️ 2026-05-20 • 🏷️ elpais.com
