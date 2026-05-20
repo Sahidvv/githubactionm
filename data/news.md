@@ -5065,3 +5065,9 @@ https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a
 HP ha presentado sus nuevas impresoras de gran formato en la feria especializada FESPA que se celebra esta semana en Barcelona. Las DesignJet Z6 y Z9 prometen alta calidad de imagen y flujos de trabajo simplificados en una plataforma unific…
 https://www.muycomputerpro.com/2026/05/20/hp-presenta-sus-nuevas-impresoras-de-gran-formato-designjet-z6-y-z9
 🗓️ 2026-05-20 • 🏷️ muycomputerpro.com
+
+### 2026-05-20T20:58:29.017Z
+📰 El jefe de DC confirma los planes para Supergirl en &#8216;Superman: Man of Tomorrow&#8217; y el futuro de la saga
+Con Supergirl a poco más de un mes de su estreno en los cines de todo el mundo, el Universo DC de James Gunn se prepara para una nueva prueba de fuego. La película de Craig Gillespie ahondará en la vida de Kara Zor-El, la prima de Superman …
+https://hipertextual.com/cine-television/supergirl-milly-alcock-futuro-universo-dc-james-gunn/
+🗓️ 2026-05-20 • 🏷️ hipertextual.com
