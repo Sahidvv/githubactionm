@@ -5077,3 +5077,9 @@ https://hipertextual.com/cine-television/supergirl-milly-alcock-futuro-universo-
 Motorola sigue pisando el acelerador para actualizar sus móviles. El más reciente que se suma a la lista es el Motorola Edge+ 2023, que comenzó a recibir Android 16 hace apenas unos días. La nueva versión trae un puñado de funciones que cam…
 https://hipertextual.com/mobile/motorola-edge-plus-2023-android-16/
 🗓️ 2026-05-20 • 🏷️ hipertextual.com
+
+### 2026-05-21T16:15:09.154Z
+📰 Estos son todos los móviles que se actualizan a Android 17: ¿Está el tuyo en la lista?
+Android 17 ha comenzado su etapa de pruebas en fase beta y existe bastante expectación de los usuarios por su lanzamiento definitivo. Es cierto que desde hace algunos años las actualizaciones del sistema operativo móvil de Google se sienten…
+https://hipertextual.com/mobile/moviles-compatibles-android-17-actualizacion/
+🗓️ 2026-05-21 • 🏷️ hipertextual.com
