@@ -5083,3 +5083,9 @@ https://hipertextual.com/mobile/motorola-edge-plus-2023-android-16/
 Android 17 ha comenzado su etapa de pruebas en fase beta y existe bastante expectación de los usuarios por su lanzamiento definitivo. Es cierto que desde hace algunos años las actualizaciones del sistema operativo móvil de Google se sienten…
 https://hipertextual.com/mobile/moviles-compatibles-android-17-actualizacion/
 🗓️ 2026-05-21 • 🏷️ hipertextual.com
+
+### 2026-05-21T20:50:13.988Z
+📰 Firefox estrena su mayor rediseño en años: más rápido, con nuevas pestañas y ya se puede probar
+Firefox lleva más de dos décadas desde que debutó como una alternativa a Internet Explorer para la web. Durante la mayor parte de ese tiempo, el navegador ha ofrecido una experiencia sobria y funcional. Eso está por cambiar con Project Nova…
+https://hipertextual.com/internet/firefox-estrena-su-mayor-rediseno-en-anos-mas-rapido-con-nuevas-pestanas-y-ya-se-puede-probar/
+🗓️ 2026-05-21 • 🏷️ hipertextual.com
