@@ -4504,3 +4504,19 @@ https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a
 🗓️ 2026-05-20 • 🏷️ elpais.com
 
 ---
+## 2026-05-21
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Uno de los Motorola más populares se actualiza a Android 16
+Motorola sigue pisando el acelerador para actualizar sus móviles. El más reciente que se suma a la lista es el Motorola Edge+ 2023, que comenzó a recibir Android 16 hace apenas unos días. La nueva versión trae un puñado de funciones que cam…
+https://hipertextual.com/mobile/motorola-edge-plus-2023-android-16/
+🗓️ 2026-05-20 • 🏷️ hipertextual.com
+
+---

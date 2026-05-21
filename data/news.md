@@ -5071,3 +5071,9 @@ https://www.muycomputerpro.com/2026/05/20/hp-presenta-sus-nuevas-impresoras-de-g
 Con Supergirl a poco más de un mes de su estreno en los cines de todo el mundo, el Universo DC de James Gunn se prepara para una nueva prueba de fuego. La película de Craig Gillespie ahondará en la vida de Kara Zor-El, la prima de Superman …
 https://hipertextual.com/cine-television/supergirl-milly-alcock-futuro-universo-dc-james-gunn/
 🗓️ 2026-05-20 • 🏷️ hipertextual.com
+
+### 2026-05-21T05:09:04.176Z
+📰 Uno de los Motorola más populares se actualiza a Android 16
+Motorola sigue pisando el acelerador para actualizar sus móviles. El más reciente que se suma a la lista es el Motorola Edge+ 2023, que comenzó a recibir Android 16 hace apenas unos días. La nueva versión trae un puñado de funciones que cam…
+https://hipertextual.com/mobile/motorola-edge-plus-2023-android-16/
+🗓️ 2026-05-20 • 🏷️ hipertextual.com
