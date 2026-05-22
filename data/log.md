@@ -4520,3 +4520,19 @@ https://hipertextual.com/mobile/motorola-edge-plus-2023-android-16/
 🗓️ 2026-05-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-22
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Llega hoy a HBO, es española y apunta a mejor serie del año: por qué tienes que ver ‘Ravalear’
+Ravalear, con seis episodios y firma española, llega a HBO Max para demostrar la calidad de las producciones del país. Pero sobre todo, por estar rodeada de una considerable expectación. Eso, debido a que antes de su estreno, fue incluida e…
+https://hipertextual.com/cine-television/llega-hoy-a-hbo-es-espanola-y-apunta-a-mejor-serie-del-ano-por-que-tienes-que-ver-ravalear/
+🗓️ 2026-05-22 • 🏷️ hipertextual.com
+
+---

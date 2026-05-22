@@ -5089,3 +5089,9 @@ https://hipertextual.com/mobile/moviles-compatibles-android-17-actualizacion/
 Firefox lleva más de dos décadas desde que debutó como una alternativa a Internet Explorer para la web. Durante la mayor parte de ese tiempo, el navegador ha ofrecido una experiencia sobria y funcional. Eso está por cambiar con Project Nova…
 https://hipertextual.com/internet/firefox-estrena-su-mayor-rediseno-en-anos-mas-rapido-con-nuevas-pestanas-y-ya-se-puede-probar/
 🗓️ 2026-05-21 • 🏷️ hipertextual.com
+
+### 2026-05-22T05:00:30.089Z
+📰 Llega hoy a HBO, es española y apunta a mejor serie del año: por qué tienes que ver ‘Ravalear’
+Ravalear, con seis episodios y firma española, llega a HBO Max para demostrar la calidad de las producciones del país. Pero sobre todo, por estar rodeada de una considerable expectación. Eso, debido a que antes de su estreno, fue incluida e…
+https://hipertextual.com/cine-television/llega-hoy-a-hbo-es-espanola-y-apunta-a-mejor-serie-del-ano-por-que-tienes-que-ver-ravalear/
+🗓️ 2026-05-22 • 🏷️ hipertextual.com
