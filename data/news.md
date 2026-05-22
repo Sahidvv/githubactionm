@@ -5101,3 +5101,9 @@ https://hipertextual.com/cine-television/llega-hoy-a-hbo-es-espanola-y-apunta-a-
 La irrupción en escena de Claude Mythos, la IA más poderosa de Anthropic, capaz de encontrar vulnerabilidades severas que han pasado desapercibidas durante años, está generando enorme preocupación en la Unión Europea. En especial, porque el…
 https://hipertextual.com/inteligencia-artificial/europa-claude-mythos-temor-sistema-bancario/
 🗓️ 2026-05-22 • 🏷️ hipertextual.com
+
+### 2026-05-22T20:42:54.180Z
+📰 Google renueva su Billetera y añade una forma más segura de pagar desde el ordenador
+Google ha decidido renovar la Billetera de Android con nuevas funciones que priorizan lo que usas con más frecuencia. La actualización, que ya lleva algunas semanas desplegándose de forma gradual, tiene un diseño más visual y práctico. Las …
+https://hipertextual.com/mobile/billetera-google-wallet-rediseno-novedades-google-pay/
+🗓️ 2026-05-22 • 🏷️ hipertextual.com
