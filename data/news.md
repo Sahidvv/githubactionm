@@ -5095,3 +5095,9 @@ https://hipertextual.com/internet/firefox-estrena-su-mayor-rediseno-en-anos-mas-
 Ravalear, con seis episodios y firma española, llega a HBO Max para demostrar la calidad de las producciones del país. Pero sobre todo, por estar rodeada de una considerable expectación. Eso, debido a que antes de su estreno, fue incluida e…
 https://hipertextual.com/cine-television/llega-hoy-a-hbo-es-espanola-y-apunta-a-mejor-serie-del-ano-por-que-tienes-que-ver-ravalear/
 🗓️ 2026-05-22 • 🏷️ hipertextual.com
+
+### 2026-05-22T15:47:31.246Z
+📰 Alerta bancaria: Europa se queda indefensa ante Claude Mythos y toma medidas drásticas
+La irrupción en escena de Claude Mythos, la IA más poderosa de Anthropic, capaz de encontrar vulnerabilidades severas que han pasado desapercibidas durante años, está generando enorme preocupación en la Unión Europea. En especial, porque el…
+https://hipertextual.com/inteligencia-artificial/europa-claude-mythos-temor-sistema-bancario/
+🗓️ 2026-05-22 • 🏷️ hipertextual.com
