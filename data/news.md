@@ -5119,3 +5119,9 @@ https://elpais.com/tecnologia/2026-05-23/catastrofistas-contra-aceleracionistas-
 Antes de The Mandalorian and Grogu, estuvo la serie que dio origen a su historia y que todavía es uno de los fenómenos más asombrosos de Star Wars. Cuando en 2019 se estrenó The Mandalorian, la primera serie live-action de la saga, nadie sa…
 https://hipertextual.com/tecnologia/5-cosas-que-debes-saber-antes-de-ver-la-nueva-pelicula-de-star-wars-the-mandalorian-and-grogu/
 🗓️ 2026-05-23 • 🏷️ hipertextual.com
+
+### 2026-05-23T20:05:34.918Z
+📰 Todos los cameos de &#8216;The Mandalorian and Grogu&#8217;, explicados: ¿qué personajes de Star Wars aparecen?
+Con la llegada de The Mandalorian and Grogu a los cines, Star Wars ha llevado a un sinfín de personajes de la saga a la gran pantalla en forma de cameos. Por supuesto, los protagonistas son Pedro Pascal y el pequeño Baby Yoda. Y junto a ell…
+https://hipertextual.com/cine-television/cameos-explicados-the-mandalorian-and-grogu-personajes-star-wars/
+🗓️ 2026-05-23 • 🏷️ hipertextual.com
