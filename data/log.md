@@ -4536,3 +4536,19 @@ https://hipertextual.com/cine-television/llega-hoy-a-hbo-es-espanola-y-apunta-a-
 🗓️ 2026-05-22 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-23
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Catastrofistas contra ‘aceleracionistas’: ¿La IA acabará con el mundo o lo salvará?
+Los académicos Eliezer Yudkowsky y Nate Soares defienden en su nuevo libro que esta tecnología puede llevarnos a la extinción. ¿Hay motivos para creerles?
+https://elpais.com/tecnologia/2026-05-23/catastrofistas-contra-aceleracionistas-la-ia-acabara-con-el-mundo-o-lo-salvara.html
+🗓️ 2026-05-23 • 🏷️ elpais.com
+
+---

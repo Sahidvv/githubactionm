@@ -5107,3 +5107,9 @@ https://hipertextual.com/inteligencia-artificial/europa-claude-mythos-temor-sist
 Google ha decidido renovar la Billetera de Android con nuevas funciones que priorizan lo que usas con más frecuencia. La actualización, que ya lleva algunas semanas desplegándose de forma gradual, tiene un diseño más visual y práctico. Las …
 https://hipertextual.com/mobile/billetera-google-wallet-rediseno-novedades-google-pay/
 🗓️ 2026-05-22 • 🏷️ hipertextual.com
+
+### 2026-05-23T04:41:05.942Z
+📰 Catastrofistas contra ‘aceleracionistas’: ¿La IA acabará con el mundo o lo salvará?
+Los académicos Eliezer Yudkowsky y Nate Soares defienden en su nuevo libro que esta tecnología puede llevarnos a la extinción. ¿Hay motivos para creerles?
+https://elpais.com/tecnologia/2026-05-23/catastrofistas-contra-aceleracionistas-la-ia-acabara-con-el-mundo-o-lo-salvara.html
+🗓️ 2026-05-23 • 🏷️ elpais.com
