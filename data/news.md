@@ -5113,3 +5113,9 @@ https://hipertextual.com/mobile/billetera-google-wallet-rediseno-novedades-googl
 Los académicos Eliezer Yudkowsky y Nate Soares defienden en su nuevo libro que esta tecnología puede llevarnos a la extinción. ¿Hay motivos para creerles?
 https://elpais.com/tecnologia/2026-05-23/catastrofistas-contra-aceleracionistas-la-ia-acabara-con-el-mundo-o-lo-salvara.html
 🗓️ 2026-05-23 • 🏷️ elpais.com
+
+### 2026-05-23T14:39:36.465Z
+📰 5 cosas que debes saber antes de ver la nueva película de Star Wars: ‘The Mandalorian and Grogu’
+Antes de The Mandalorian and Grogu, estuvo la serie que dio origen a su historia y que todavía es uno de los fenómenos más asombrosos de Star Wars. Cuando en 2019 se estrenó The Mandalorian, la primera serie live-action de la saga, nadie sa…
+https://hipertextual.com/tecnologia/5-cosas-que-debes-saber-antes-de-ver-la-nueva-pelicula-de-star-wars-the-mandalorian-and-grogu/
+🗓️ 2026-05-23 • 🏷️ hipertextual.com
