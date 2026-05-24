@@ -5125,3 +5125,9 @@ https://hipertextual.com/tecnologia/5-cosas-que-debes-saber-antes-de-ver-la-nuev
 Con la llegada de The Mandalorian and Grogu a los cines, Star Wars ha llevado a un sinfín de personajes de la saga a la gran pantalla en forma de cameos. Por supuesto, los protagonistas son Pedro Pascal y el pequeño Baby Yoda. Y junto a ell…
 https://hipertextual.com/cine-television/cameos-explicados-the-mandalorian-and-grogu-personajes-star-wars/
 🗓️ 2026-05-23 • 🏷️ hipertextual.com
+
+### 2026-05-24T05:00:52.984Z
+📰 Se acabó usar Gemini ilimitado. Así son los nuevos límites de Google (y cómo verlos)
+Esta semana, Gemini sorprendió a todos al implementar un nuevo sistema de límites de uso. Una decisión que generó el enfado de quienes accedían a la versión gratuita del chatbot impulsado por inteligencia artificial. Esto se debe a que, des…
+https://hipertextual.com/inteligencia-artificial/nuevos-limites-de-uso-gemini/
+🗓️ 2026-05-23 • 🏷️ hipertextual.com

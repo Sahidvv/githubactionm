@@ -4552,3 +4552,19 @@ https://elpais.com/tecnologia/2026-05-23/catastrofistas-contra-aceleracionistas-
 🗓️ 2026-05-23 • 🏷️ elpais.com
 
 ---
+## 2026-05-24
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Se acabó usar Gemini ilimitado. Así son los nuevos límites de Google (y cómo verlos)
+Esta semana, Gemini sorprendió a todos al implementar un nuevo sistema de límites de uso. Una decisión que generó el enfado de quienes accedían a la versión gratuita del chatbot impulsado por inteligencia artificial. Esto se debe a que, des…
+https://hipertextual.com/inteligencia-artificial/nuevos-limites-de-uso-gemini/
+🗓️ 2026-05-23 • 🏷️ hipertextual.com
+
+---
