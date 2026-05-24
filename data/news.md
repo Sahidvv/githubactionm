@@ -5131,3 +5131,9 @@ https://hipertextual.com/cine-television/cameos-explicados-the-mandalorian-and-g
 Esta semana, Gemini sorprendió a todos al implementar un nuevo sistema de límites de uso. Una decisión que generó el enfado de quienes accedían a la versión gratuita del chatbot impulsado por inteligencia artificial. Esto se debe a que, des…
 https://hipertextual.com/inteligencia-artificial/nuevos-limites-de-uso-gemini/
 🗓️ 2026-05-23 • 🏷️ hipertextual.com
+
+### 2026-05-24T14:24:02.508Z
+📰 Samsung prepara un Galaxy Z Fold 8 más ancho, y quizá más lógico
+El Galaxy Z Fold 8 podría llegar este verano con un cambio bastante interesante. Durante años, la familia Fold de Samsung ha convivido con una crítica recurrente: su pantalla exterior resultaba demasiado estrecha para muchos usuarios, funci…
+https://www.muycomputer.com/2026/05/24/samsung-prepara-un-galaxy-z-fold-8-mas-ancho-y-quiza-mas-logico/
+🗓️ 2026-05-24 • 🏷️ muycomputer.com
