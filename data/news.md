@@ -5149,3 +5149,9 @@ https://www.muycomputer.com/2026/05/24/los-mejores-contenidos-de-la-semana-en-mu
 Algo ha quedado claro durante la última década: el éxito de las series es cada vez mayor. Y razones no faltan. Se trata no solo de un género que transformó por completo los hábitos de consumo de la audiencia en todo el mundo. También, que h…
 https://hipertextual.com/cine-television/las-seis-mejores-series-de-2026-hasta-ahora/
 🗓️ 2026-05-24 • 🏷️ hipertextual.com
+
+### 2026-05-25T15:50:40.399Z
+📰 Movistar Plus+ estrena dos nuevos canales gratis de cine con un montón de películas
+El servicio de Movistar Plus+ está a punto de sumar dos nuevos canales de cine a su catálogo y de forma totalmente gratuita. Junto con la llegada del Mundial de Fútbol 2026, la plataforma aspira a convertirse este verano una vez más en el g…
+https://hipertextual.com/cine-television/movistar-plus-estrena-dos-nuevos-canales-gratis-de-cine-con-un-monton-de-peliculas/
+🗓️ 2026-05-25 • 🏷️ hipertextual.com
