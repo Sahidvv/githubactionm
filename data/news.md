@@ -5155,3 +5155,9 @@ https://hipertextual.com/cine-television/las-seis-mejores-series-de-2026-hasta-a
 El servicio de Movistar Plus+ está a punto de sumar dos nuevos canales de cine a su catálogo y de forma totalmente gratuita. Junto con la llegada del Mundial de Fútbol 2026, la plataforma aspira a convertirse este verano una vez más en el g…
 https://hipertextual.com/cine-television/movistar-plus-estrena-dos-nuevos-canales-gratis-de-cine-con-un-monton-de-peliculas/
 🗓️ 2026-05-25 • 🏷️ hipertextual.com
+
+### 2026-05-25T20:22:39.363Z
+📰 Samsung recapacita y abandona un modelo muy criticado del Galaxy Z Fold 8
+Desde hace unas semanas que Samsung ha generado confusión con los nombres de sus próximos plegables. Los rumores apuntaban a modelos con nombres como Galaxy Z Fold 8 Wide o Galaxy Z Wide Fold, denominaciones que a muchos les sonaban forzada…
+https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-cambio-nombr/
+🗓️ 2026-05-25 • 🏷️ hipertextual.com
