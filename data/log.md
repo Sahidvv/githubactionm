@@ -4568,3 +4568,19 @@ https://hipertextual.com/inteligencia-artificial/nuevos-limites-de-uso-gemini/
 🗓️ 2026-05-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-25
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Las seis mejores series de 2026 hasta ahora
+Algo ha quedado claro durante la última década: el éxito de las series es cada vez mayor. Y razones no faltan. Se trata no solo de un género que transformó por completo los hábitos de consumo de la audiencia en todo el mundo. También, que h…
+https://hipertextual.com/cine-television/las-seis-mejores-series-de-2026-hasta-ahora/
+🗓️ 2026-05-24 • 🏷️ hipertextual.com
+
+---

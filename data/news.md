@@ -5143,3 +5143,9 @@ https://www.muycomputer.com/2026/05/24/samsung-prepara-un-galaxy-z-fold-8-mas-an
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Razer Iskur V2 NewGen, una silla premium en calidad…
 https://www.muycomputer.com/2026/05/24/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxv/
 🗓️ 2026-05-24 • 🏷️ muycomputer.com
+
+### 2026-05-25T05:20:01.826Z
+📰 Las seis mejores series de 2026 hasta ahora
+Algo ha quedado claro durante la última década: el éxito de las series es cada vez mayor. Y razones no faltan. Se trata no solo de un género que transformó por completo los hábitos de consumo de la audiencia en todo el mundo. También, que h…
+https://hipertextual.com/cine-television/las-seis-mejores-series-de-2026-hasta-ahora/
+🗓️ 2026-05-24 • 🏷️ hipertextual.com
