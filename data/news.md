@@ -5161,3 +5161,9 @@ https://hipertextual.com/cine-television/movistar-plus-estrena-dos-nuevos-canale
 Desde hace unas semanas que Samsung ha generado confusión con los nombres de sus próximos plegables. Los rumores apuntaban a modelos con nombres como Galaxy Z Fold 8 Wide o Galaxy Z Wide Fold, denominaciones que a muchos les sonaban forzada…
 https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-cambio-nombr/
 🗓️ 2026-05-25 • 🏷️ hipertextual.com
+
+### 2026-05-26T05:03:38.295Z
+📰 Un monje experto, un festival con Karol G y las inversiones vaticanas: así ha llegado el Papa a decir que “la IA debe ser desarmada”
+Las críticas a las grandes tecnológicas de la primera encíclica de León XIV contrastan con el hecho de que la Iglesia no ve problema en comprar valores en esa industria
+https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-g-y-las-inversiones-vaticanas-asi-ha-llegado-el-papa-a-decir-que-la-ia-debe-ser-desarmada.html
+🗓️ 2026-05-26 • 🏷️ elpais.com
