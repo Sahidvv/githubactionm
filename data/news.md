@@ -5173,3 +5173,9 @@ https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-
 El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas
 https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html
 🗓️ 2026-05-26 • 🏷️ elpais.com
+
+### 2026-05-26T20:52:54.315Z
+📰 ¿Un Galaxy Watch Ultra más barato en camino? El próximo reloj de Samsung llegaría con sorpresa
+El evento Galaxy Unpacked de mediados de año tendrá como grandes protagonistas a los Samsung Galaxy Z Fold 8 y Z Flip 8. No obstante, también habría espacio para otros anuncios; y en el apartado de relojes inteligentes destacaría la introdu…
+https://hipertextual.com/tecnologia/galaxy-watch-ultra-2-mas-economico/
+🗓️ 2026-05-26 • 🏷️ hipertextual.com
