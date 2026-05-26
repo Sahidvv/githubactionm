@@ -5167,3 +5167,9 @@ https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-cambio-nombr/
 Las críticas a las grandes tecnológicas de la primera encíclica de León XIV contrastan con el hecho de que la Iglesia no ve problema en comprar valores en esa industria
 https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-g-y-las-inversiones-vaticanas-asi-ha-llegado-el-papa-a-decir-que-la-ia-debe-ser-desarmada.html
 🗓️ 2026-05-26 • 🏷️ elpais.com
+
+### 2026-05-26T16:42:44.923Z
+📰 Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA
+El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas
+https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html
+🗓️ 2026-05-26 • 🏷️ elpais.com
