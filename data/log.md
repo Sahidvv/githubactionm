@@ -4600,3 +4600,19 @@ https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-
 🗓️ 2026-05-26 • 🏷️ elpais.com
 
 ---
+## 2026-05-27
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Amazon prepara Fire OS con Android 16, pero no te emociones todavía
+Amazon acaba de confirmar Fire OS 16, su próxima versión del sistema operativo para televisores inteligentes. A unos meses de anunciar Vega OS en sus Fire TV Stick, la compañía ha revelado una nueva actualización para aquellos que tienen un…
+https://hipertextual.com/tecnologia/amazon-fire-os-16-televisores-vega-os/
+🗓️ 2026-05-26 • 🏷️ hipertextual.com
+
+---

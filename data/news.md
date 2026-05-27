@@ -5179,3 +5179,9 @@ https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y
 El evento Galaxy Unpacked de mediados de año tendrá como grandes protagonistas a los Samsung Galaxy Z Fold 8 y Z Flip 8. No obstante, también habría espacio para otros anuncios; y en el apartado de relojes inteligentes destacaría la introdu…
 https://hipertextual.com/tecnologia/galaxy-watch-ultra-2-mas-economico/
 🗓️ 2026-05-26 • 🏷️ hipertextual.com
+
+### 2026-05-27T05:15:21.563Z
+📰 Amazon prepara Fire OS con Android 16, pero no te emociones todavía
+Amazon acaba de confirmar Fire OS 16, su próxima versión del sistema operativo para televisores inteligentes. A unos meses de anunciar Vega OS en sus Fire TV Stick, la compañía ha revelado una nueva actualización para aquellos que tienen un…
+https://hipertextual.com/tecnologia/amazon-fire-os-16-televisores-vega-os/
+🗓️ 2026-05-26 • 🏷️ hipertextual.com
