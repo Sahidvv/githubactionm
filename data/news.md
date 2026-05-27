@@ -5185,3 +5185,9 @@ https://hipertextual.com/tecnologia/galaxy-watch-ultra-2-mas-economico/
 Amazon acaba de confirmar Fire OS 16, su próxima versión del sistema operativo para televisores inteligentes. A unos meses de anunciar Vega OS en sus Fire TV Stick, la compañía ha revelado una nueva actualización para aquellos que tienen un…
 https://hipertextual.com/tecnologia/amazon-fire-os-16-televisores-vega-os/
 🗓️ 2026-05-26 • 🏷️ hipertextual.com
+
+### 2026-05-27T16:37:12.641Z
+📰 &#8216;El día de la revelación&#8217; (Disclosure Day) lanza su tráiler final: Spielberg, aliens y conspiraciones son una receta ganadora
+El día de la revelación (Disclosure Day) es el regreso de Steven Spielberg a la temática extraterrestre con bombos y platillos. Universal Pictures acaba de lanzar el tráiler final de su nueva película, y tiene todos los condimentos de una r…
+https://hipertextual.com/cine-television/trailer-final-el-dia-de-la-revelacion-disclosure-day-steven-spielberg/
+🗓️ 2026-05-27 • 🏷️ hipertextual.com
