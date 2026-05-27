@@ -5191,3 +5191,9 @@ https://hipertextual.com/tecnologia/amazon-fire-os-16-televisores-vega-os/
 El día de la revelación (Disclosure Day) es el regreso de Steven Spielberg a la temática extraterrestre con bombos y platillos. Universal Pictures acaba de lanzar el tráiler final de su nueva película, y tiene todos los condimentos de una r…
 https://hipertextual.com/cine-television/trailer-final-el-dia-de-la-revelacion-disclosure-day-steven-spielberg/
 🗓️ 2026-05-27 • 🏷️ hipertextual.com
+
+### 2026-05-27T21:01:41.139Z
+📰 WhatsApp Plus es oficial e inicia su despliegue global junto a nuevas versiones de pago de Facebook e Instagram
+Después de un sinfín de rumores y filtraciones, WhatsApp Plus es oficial. Pero no llega solo. Meta acaba de iniciar el despliegue de esta suscripción junto con otras dos destinadas a sus redes sociales principales: Facebook Plus e Instagram…
+https://hipertextual.com/internet/whatsapp-plus-lanzamiento-oficial-facebook-plus-instagram-plus/
+🗓️ 2026-05-27 • 🏷️ hipertextual.com
