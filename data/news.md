@@ -5209,3 +5209,9 @@ https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-huma
 Hubo un momento, no hace tanto, en el que hablar de inteligencia artificial en el trabajo consistía sobre todo en experimentar. Probar un chatbot, pedirle que redactara un correo, resumir un documento o generar alguna imagen curiosa para co…
 https://www.muycomputer.com/2026/05/28/la-ia-entra-en-una-nueva-fase-aprender-a-usarla-en-el-trabajo-real/
 🗓️ 2026-05-28 • 🏷️ muycomputer.com
+
+### 2026-05-28T21:08:23.411Z
+📰 El fin de una era: Activision mata &#8216;Call of Duty Warzone&#8217; en PS4 y Xbox One
+Tras el anuncio del nuevo Call of Duty: Modern Warfare 4, una mala noticia golpea a los jugadores de Warzone. Activision ha confirmado que su popular battle royale dejará de funcionar en PS4 y Xbox One, de modo que quienes quieran continuar…
+https://hipertextual.com/videojuegos/call-of-duty-warzone-dejara-de-estar-disponible-ps4-xbox-one/
+🗓️ 2026-05-28 • 🏷️ hipertextual.com
