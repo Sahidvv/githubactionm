@@ -5203,3 +5203,9 @@ https://hipertextual.com/internet/whatsapp-plus-lanzamiento-oficial-facebook-plu
 Para los legisladores, la dificultad consiste en prever cuáles serán las situaciones por regular sin saber muy bien cómo se concretará la realidad futura
 https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html
 🗓️ 2026-05-28 • 🏷️ elpais.com
+
+### 2026-05-28T16:53:22.046Z
+📰 La IA entra en una nueva fase: aprender a usarla en el trabajo real
+Hubo un momento, no hace tanto, en el que hablar de inteligencia artificial en el trabajo consistía sobre todo en experimentar. Probar un chatbot, pedirle que redactara un correo, resumir un documento o generar alguna imagen curiosa para co…
+https://www.muycomputer.com/2026/05/28/la-ia-entra-en-una-nueva-fase-aprender-a-usarla-en-el-trabajo-real/
+🗓️ 2026-05-28 • 🏷️ muycomputer.com
