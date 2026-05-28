@@ -5197,3 +5197,9 @@ https://hipertextual.com/cine-television/trailer-final-el-dia-de-la-revelacion-d
 Después de un sinfín de rumores y filtraciones, WhatsApp Plus es oficial. Pero no llega solo. Meta acaba de iniciar el despliegue de esta suscripción junto con otras dos destinadas a sus redes sociales principales: Facebook Plus e Instagram…
 https://hipertextual.com/internet/whatsapp-plus-lanzamiento-oficial-facebook-plus-instagram-plus/
 🗓️ 2026-05-27 • 🏷️ hipertextual.com
+
+### 2026-05-28T05:08:28.358Z
+📰 Zapatillas inteligentes y negocios humanos: la IA como filosofía moral
+Para los legisladores, la dificultad consiste en prever cuáles serán las situaciones por regular sin saber muy bien cómo se concretará la realidad futura
+https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html
+🗓️ 2026-05-28 • 🏷️ elpais.com

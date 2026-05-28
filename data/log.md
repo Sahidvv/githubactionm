@@ -4616,3 +4616,19 @@ https://hipertextual.com/tecnologia/amazon-fire-os-16-televisores-vega-os/
 🗓️ 2026-05-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-05-28
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Zapatillas inteligentes y negocios humanos: la IA como filosofía moral
+Para los legisladores, la dificultad consiste en prever cuáles serán las situaciones por regular sin saber muy bien cómo se concretará la realidad futura
+https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html
+🗓️ 2026-05-28 • 🏷️ elpais.com
+
+---
