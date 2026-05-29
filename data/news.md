@@ -5227,3 +5227,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-me
 La Casa del Dragón, el primer spin-off de&#160;Juego de Tronos,&#160;regresará a HBO Max en solo unas semanas y ya tenemos su nuevo e increíble tráiler. La tercera temporada de la serie será una entrega&#160;que promete guerra y dragones co…
 https://hipertextual.com/cine-television/espectacular-trailer-final-la-casa-del-dragon-temporada-3/
 🗓️ 2026-05-29 • 🏷️ hipertextual.com
+
+### 2026-05-29T21:07:20.738Z
+📰 Codex lleva a Windows una función que hasta ahora era exclusiva de Mac
+Codex, la herramienta de programación con inteligencia artificial de OpenAI, acaba de añadir una función muy esperada a su app para Windows. Se trata de una característica que hasta aquí solamente estaba disponible en macOS, pero que desde …
+https://hipertextual.com/inteligencia-artificial/codex-windows-computer-use/
+🗓️ 2026-05-29 • 🏷️ hipertextual.com
