@@ -4632,3 +4632,19 @@ https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-huma
 🗓️ 2026-05-28 • 🏷️ elpais.com
 
 ---
+## 2026-05-29
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Tecnología para dormir mejor: apps y dispositivos que funcionan (de verdad)
+‘Smartwatches’, anillos inteligentes y otros dispositivos monitorizan el sueño y ayudan a detectar patrones relacionados con el descanso
+https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-mejor-apps-y-dispositivos-que-funcionan-de-verdad.html
+🗓️ 2026-05-29 • 🏷️ elpais.com
+
+---

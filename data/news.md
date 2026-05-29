@@ -5215,3 +5215,9 @@ https://www.muycomputer.com/2026/05/28/la-ia-entra-en-una-nueva-fase-aprender-a-
 Tras el anuncio del nuevo Call of Duty: Modern Warfare 4, una mala noticia golpea a los jugadores de Warzone. Activision ha confirmado que su popular battle royale dejará de funcionar en PS4 y Xbox One, de modo que quienes quieran continuar…
 https://hipertextual.com/videojuegos/call-of-duty-warzone-dejara-de-estar-disponible-ps4-xbox-one/
 🗓️ 2026-05-28 • 🏷️ hipertextual.com
+
+### 2026-05-29T05:12:56.155Z
+📰 Tecnología para dormir mejor: apps y dispositivos que funcionan (de verdad)
+‘Smartwatches’, anillos inteligentes y otros dispositivos monitorizan el sueño y ayudan a detectar patrones relacionados con el descanso
+https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-mejor-apps-y-dispositivos-que-funcionan-de-verdad.html
+🗓️ 2026-05-29 • 🏷️ elpais.com
