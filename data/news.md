@@ -5245,3 +5245,9 @@ https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-
 A menos que vivas bajo una piedra, ya lo sabes: La Odisea de Christopher Nolan está rodeada de polémica. Peor aún, se ha convertido en una fuente inagotable de controversia y debate, a pesar de que su estreno se encuentra a semanas de dista…
 https://hipertextual.com/cine-television/5-polemicas-completamente-absurdas-que-rodean-a-la-odisea-de-christopher-nolan/
 🗓️ 2026-05-30 • 🏷️ hipertextual.com
+
+### 2026-05-30T20:08:54.389Z
+📰 Todas las películas de A24 que puedes ver ahora mismo en streaming
+A24 es un fenómeno difícil de explicar. En especial, porque hasta hace una década, las productoras eran solo las encargadas de financiar cintas, pero sin expresar gran criterio artístico. Pero lo cierto es que la compañía ha transformado el…
+https://hipertextual.com/cine-television/todas-las-peliculas-de-a24-que-puedes-ver-ahora-mismo-en-streaming/
+🗓️ 2026-05-30 • 🏷️ hipertextual.com
