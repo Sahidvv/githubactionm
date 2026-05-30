@@ -5239,3 +5239,9 @@ https://hipertextual.com/inteligencia-artificial/codex-windows-computer-use/
 Abogados de usuarios de perfiles vulnerables denuncian que la norma de juego responsable no los protege: ¿Se puede responsabilizar a las empresas de los comportamientos adictivos?
 https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-psiquiatria-el-caso-que-revela-las-grietas-de-las-apuestas-online.html
 🗓️ 2026-05-30 • 🏷️ elpais.com
+
+### 2026-05-30T14:40:42.374Z
+📰 5 polémicas completamente absurdas que rodean a ‘La Odisea’ de Christopher Nolan
+A menos que vivas bajo una piedra, ya lo sabes: La Odisea de Christopher Nolan está rodeada de polémica. Peor aún, se ha convertido en una fuente inagotable de controversia y debate, a pesar de que su estreno se encuentra a semanas de dista…
+https://hipertextual.com/cine-television/5-polemicas-completamente-absurdas-que-rodean-a-la-odisea-de-christopher-nolan/
+🗓️ 2026-05-30 • 🏷️ hipertextual.com
