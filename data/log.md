@@ -4648,3 +4648,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-me
 🗓️ 2026-05-29 • 🏷️ elpais.com
 
 ---
+## 2026-05-30
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Perder 20.000 euros desde una unidad de psiquiatría: el caso que revela las grietas de las apuestas ‘online’
+Abogados de usuarios de perfiles vulnerables denuncian que la norma de juego responsable no los protege: ¿Se puede responsabilizar a las empresas de los comportamientos adictivos?
+https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-psiquiatria-el-caso-que-revela-las-grietas-de-las-apuestas-online.html
+🗓️ 2026-05-30 • 🏷️ elpais.com
+
+---

@@ -5233,3 +5233,9 @@ https://hipertextual.com/cine-television/espectacular-trailer-final-la-casa-del-
 Codex, la herramienta de programación con inteligencia artificial de OpenAI, acaba de añadir una función muy esperada a su app para Windows. Se trata de una característica que hasta aquí solamente estaba disponible en macOS, pero que desde …
 https://hipertextual.com/inteligencia-artificial/codex-windows-computer-use/
 🗓️ 2026-05-29 • 🏷️ hipertextual.com
+
+### 2026-05-30T04:52:38.292Z
+📰 Perder 20.000 euros desde una unidad de psiquiatría: el caso que revela las grietas de las apuestas ‘online’
+Abogados de usuarios de perfiles vulnerables denuncian que la norma de juego responsable no los protege: ¿Se puede responsabilizar a las empresas de los comportamientos adictivos?
+https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-psiquiatria-el-caso-que-revela-las-grietas-de-las-apuestas-online.html
+🗓️ 2026-05-30 • 🏷️ elpais.com
