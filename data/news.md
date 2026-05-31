@@ -5257,3 +5257,9 @@ https://hipertextual.com/cine-television/todas-las-peliculas-de-a24-que-puedes-v
 La ‘garganta profunda’ que expuso los peligros para los adolescentes de las redes sociales considera que la próxima gran batalla legal será contra los personajes de IA con los que interactúan los menores
 https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-filtre-los-documentos-de-facebook.html
 🗓️ 2026-05-31 • 🏷️ elpais.com
+
+### 2026-05-31T14:44:58.145Z
+📰 El nuevo procesador de NVIDIA no sería su primera CPU
+NVIDIA está a punto de presentar un nuevo procesador para PC Windows, o al menos eso es lo que apuntan ya prácticamente todas las señales, y junto al entusiasmo lógico que ha despertado el rumor hay una idea que se está repitiendo bastante …
+https://www.muycomputer.com/2026/05/31/el-nuevo-procesador-de-nvidia-no-seria-su-primera-cpu/
+🗓️ 2026-05-31 • 🏷️ muycomputer.com
