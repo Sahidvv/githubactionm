@@ -4664,3 +4664,19 @@ https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-
 🗓️ 2026-05-30 • 🏷️ elpais.com
 
 ---
+## 2026-05-31
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Frances Haugen: “Estamos peor que cuando filtré los documentos de Facebook”
+La ‘garganta profunda’ que expuso los peligros para los adolescentes de las redes sociales considera que la próxima gran batalla legal será contra los personajes de IA con los que interactúan los menores
+https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-filtre-los-documentos-de-facebook.html
+🗓️ 2026-05-31 • 🏷️ elpais.com
+
+---

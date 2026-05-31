@@ -5251,3 +5251,9 @@ https://hipertextual.com/cine-television/5-polemicas-completamente-absurdas-que-
 A24 es un fenómeno difícil de explicar. En especial, porque hasta hace una década, las productoras eran solo las encargadas de financiar cintas, pero sin expresar gran criterio artístico. Pero lo cierto es que la compañía ha transformado el…
 https://hipertextual.com/cine-television/todas-las-peliculas-de-a24-que-puedes-ver-ahora-mismo-en-streaming/
 🗓️ 2026-05-30 • 🏷️ hipertextual.com
+
+### 2026-05-31T05:17:53.978Z
+📰 Frances Haugen: “Estamos peor que cuando filtré los documentos de Facebook”
+La ‘garganta profunda’ que expuso los peligros para los adolescentes de las redes sociales considera que la próxima gran batalla legal será contra los personajes de IA con los que interactúan los menores
+https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-filtre-los-documentos-de-facebook.html
+🗓️ 2026-05-31 • 🏷️ elpais.com
