@@ -5275,3 +5275,9 @@ https://www.muycomputer.com/2026/05/31/los-mejores-contenidos-de-la-semana-en-mu
 Windows 11 acaba de recibir una actualización que sirve como punto de partida para las mejoras que prometió Microsoft. El parche KB5089573, disponible en formato de vista previa, llega con mejoras de rendimiento, funciones nuevas y correcci…
 https://hipertextual.com/software/windows-11-actualizacion-kb5089573-mejora-rendimiento/
 🗓️ 2026-05-31 • 🏷️ hipertextual.com
+
+### 2026-06-01T18:37:13.361Z
+📰 Claude se anticipa a ChatGPT: Anthropic registra su solicitud de salida a bolsa ante los problemas legales de OpenAI
+La creadora de Claude inicia los trámites para debutar en bolsa, adelantándose a una OpenAI lastrada por sus recientes litigios legales y consolidando su ventaja tras superarla en valoración privadaLa revancha de Anthropic sobre OpenIA: ya …
+https://www.eldiario.es/tecnologia/claude-anticipa-chatgpt-anthropic-registra-solicitud-salida-bolsa-problemas-legales-openai_1_13267220.html
+🗓️ 2026-06-01 • 🏷️ eldiario.es
