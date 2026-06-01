@@ -5281,3 +5281,9 @@ https://hipertextual.com/software/windows-11-actualizacion-kb5089573-mejora-rend
 La creadora de Claude inicia los trámites para debutar en bolsa, adelantándose a una OpenAI lastrada por sus recientes litigios legales y consolidando su ventaja tras superarla en valoración privadaLa revancha de Anthropic sobre OpenIA: ya …
 https://www.eldiario.es/tecnologia/claude-anticipa-chatgpt-anthropic-registra-solicitud-salida-bolsa-problemas-legales-openai_1_13267220.html
 🗓️ 2026-06-01 • 🏷️ eldiario.es
+
+### 2026-06-01T22:09:54.038Z
+📰 Hackean un popular servicio de trampas para GTA V y exponen los datos de miles de usuarios
+Uno de los servicios de trampas más populares para GTA V ha sido hackeado. Atlas Menu, una plataforma de cheats para Grand Theft Auto V, sufrió una brecha que comprometió los datos de miles de usuarios. La ironía es que el servicio presumía…
+https://hipertextual.com/videojuegos/hackeo-atlas-menu-cheats-gta-v/
+🗓️ 2026-06-01 • 🏷️ hipertextual.com
