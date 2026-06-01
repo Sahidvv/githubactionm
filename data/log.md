@@ -4680,3 +4680,19 @@ https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-
 🗓️ 2026-05-31 • 🏷️ elpais.com
 
 ---
+## 2026-06-01
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Windows 11 se vuelve más rápido con su última actualización
+Windows 11 acaba de recibir una actualización que sirve como punto de partida para las mejoras que prometió Microsoft. El parche KB5089573, disponible en formato de vista previa, llega con mejoras de rendimiento, funciones nuevas y correcci…
+https://hipertextual.com/software/windows-11-actualizacion-kb5089573-mejora-rendimiento/
+🗓️ 2026-05-31 • 🏷️ hipertextual.com
+
+---
