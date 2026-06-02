@@ -5299,3 +5299,9 @@ https://hipertextual.com/tecnologia/asus-ascent-qn10-primer-mini-pc-snapdragon-x
 Anthropic ha puesto en marcha la tan reclamada expansión internacional de Claude Mythos a través de Project Glasswing. La empresa anunció este martes que su IA más potente ahora está en manos de un mayor número de socios en 15 países, luego…
 https://hipertextual.com/inteligencia-artificial/anthropic-expande-acceso-claude-mythos/
 🗓️ 2026-06-02 • 🏷️ hipertextual.com
+
+### 2026-06-02T21:47:25.685Z
+📰 Olvídate de Claude Code: Microsoft ha presentado su primera IA para programar software
+Microsoft ha lanzado su primer modelo de inteligencia artificial orientado al desarrollo de software. Conocido como MAI-Code-1-Flash, la nueva IA compite contra los modelos ligeros de Anthropic, Google y otras empresas. El modelo se integra…
+https://hipertextual.com/inteligencia-artificial/microsoft-mai-code-1-flash-github-copilot/
+🗓️ 2026-06-02 • 🏷️ hipertextual.com
