@@ -5293,3 +5293,9 @@ https://hipertextual.com/videojuegos/hackeo-atlas-menu-cheats-gta-v/
 El chip Snapdragon X2 Elite acaba de dar el salto a los mini PC. Tras su debut en ordenadores portátiles en 2025, el hardware de Qualcomm inicia una nueva etapa de la mano del Asus Ascent QN10, que se lanza a la yugular del Mac mini y otros…
 https://hipertextual.com/tecnologia/asus-ascent-qn10-primer-mini-pc-snapdragon-x2-elite/
 🗓️ 2026-06-02 • 🏷️ hipertextual.com
+
+### 2026-06-02T17:22:58.709Z
+📰 Anthropic abre Claude Mythos a más socios para detectar fallos en infraestructuras críticas
+Anthropic ha puesto en marcha la tan reclamada expansión internacional de Claude Mythos a través de Project Glasswing. La empresa anunció este martes que su IA más potente ahora está en manos de un mayor número de socios en 15 países, luego…
+https://hipertextual.com/inteligencia-artificial/anthropic-expande-acceso-claude-mythos/
+🗓️ 2026-06-02 • 🏷️ hipertextual.com
