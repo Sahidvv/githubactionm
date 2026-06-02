@@ -5287,3 +5287,9 @@ https://www.eldiario.es/tecnologia/claude-anticipa-chatgpt-anthropic-registra-so
 Uno de los servicios de trampas más populares para GTA V ha sido hackeado. Atlas Menu, una plataforma de cheats para Grand Theft Auto V, sufrió una brecha que comprometió los datos de miles de usuarios. La ironía es que el servicio presumía…
 https://hipertextual.com/videojuegos/hackeo-atlas-menu-cheats-gta-v/
 🗓️ 2026-06-01 • 🏷️ hipertextual.com
+
+### 2026-06-02T05:48:02.099Z
+📰 El Snapdragon X2 Elite da el esperado salto a los mini PC con el nuevo Asus Ascent QN10
+El chip Snapdragon X2 Elite acaba de dar el salto a los mini PC. Tras su debut en ordenadores portátiles en 2025, el hardware de Qualcomm inicia una nueva etapa de la mano del Asus Ascent QN10, que se lanza a la yugular del Mac mini y otros…
+https://hipertextual.com/tecnologia/asus-ascent-qn10-primer-mini-pc-snapdragon-x2-elite/
+🗓️ 2026-06-02 • 🏷️ hipertextual.com

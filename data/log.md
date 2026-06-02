@@ -4696,3 +4696,19 @@ https://hipertextual.com/software/windows-11-actualizacion-kb5089573-mejora-rend
 🗓️ 2026-05-31 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-02
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 El Snapdragon X2 Elite da el esperado salto a los mini PC con el nuevo Asus Ascent QN10
+El chip Snapdragon X2 Elite acaba de dar el salto a los mini PC. Tras su debut en ordenadores portátiles en 2025, el hardware de Qualcomm inicia una nueva etapa de la mano del Asus Ascent QN10, que se lanza a la yugular del Mac mini y otros…
+https://hipertextual.com/tecnologia/asus-ascent-qn10-primer-mini-pc-snapdragon-x2-elite/
+🗓️ 2026-06-02 • 🏷️ hipertextual.com
+
+---
