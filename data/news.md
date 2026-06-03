@@ -5311,3 +5311,9 @@ https://hipertextual.com/inteligencia-artificial/microsoft-mai-code-1-flash-gith
 A unos días de que inicie el Summer Game Fest, Sony llevó a cabo su tradicional State of Play en donde mostró todo lo que llegará a la plataforma en los próximos meses. La compañía había prometido "más de 60 minutos de actualizaciones, anun…
 https://hipertextual.com/videojuegos/state-of-play-wolverine-god-of-war-laufey/
 🗓️ 2026-06-02 • 🏷️ hipertextual.com
+
+### 2026-06-03T17:59:24.962Z
+📰 OMEN: la nueva generación del gaming impulsado por IA
+Durante muchos años, hablar de gaming en PC equivalía casi exclusivamente a una carrera armamentística de especificaciones: procesadores más rápidos, tarjetas gráficas más ambiciosas, sistemas de refrigeración cada vez más complejos y perif…
+https://www.muycomputer.com/2026/06/03/omen-la-nueva-generacion-del-gaming-impulsado-por-ia/
+🗓️ 2026-06-03 • 🏷️ muycomputer.com
