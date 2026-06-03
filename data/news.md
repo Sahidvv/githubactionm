@@ -5317,3 +5317,9 @@ https://hipertextual.com/videojuegos/state-of-play-wolverine-god-of-war-laufey/
 Durante muchos años, hablar de gaming en PC equivalía casi exclusivamente a una carrera armamentística de especificaciones: procesadores más rápidos, tarjetas gráficas más ambiciosas, sistemas de refrigeración cada vez más complejos y perif…
 https://www.muycomputer.com/2026/06/03/omen-la-nueva-generacion-del-gaming-impulsado-por-ia/
 🗓️ 2026-06-03 • 🏷️ muycomputer.com
+
+### 2026-06-03T21:49:10.706Z
+📰 Google lanza una nueva versión de Gemma 4 que puedes ejecutar en tu portátil con 16 GB de RAM
+La familia de modelos de inteligencia artificial Gemma 4, de Google, acaba de sumar un integrante bastante interesante. Se trata de una nueva versión de 12.000 millones de parámetros especialmente pensada para tareas de ejecución local y qu…
+https://hipertextual.com/inteligencia-artificial/nuevo-gemma-4-12b/
+🗓️ 2026-06-03 • 🏷️ hipertextual.com
