@@ -5305,3 +5305,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-expande-acceso-claude
 Microsoft ha lanzado su primer modelo de inteligencia artificial orientado al desarrollo de software. Conocido como MAI-Code-1-Flash, la nueva IA compite contra los modelos ligeros de Anthropic, Google y otras empresas. El modelo se integra…
 https://hipertextual.com/inteligencia-artificial/microsoft-mai-code-1-flash-github-copilot/
 🗓️ 2026-06-02 • 🏷️ hipertextual.com
+
+### 2026-06-03T06:03:39.621Z
+📰 Marvel&#8217;s Wolverine, God of War Laufey y todo lo que se anunció en el State of Play de junio 2026
+A unos días de que inicie el Summer Game Fest, Sony llevó a cabo su tradicional State of Play en donde mostró todo lo que llegará a la plataforma en los próximos meses. La compañía había prometido "más de 60 minutos de actualizaciones, anun…
+https://hipertextual.com/videojuegos/state-of-play-wolverine-god-of-war-laufey/
+🗓️ 2026-06-02 • 🏷️ hipertextual.com

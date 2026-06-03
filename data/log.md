@@ -4712,3 +4712,19 @@ https://hipertextual.com/tecnologia/asus-ascent-qn10-primer-mini-pc-snapdragon-x
 🗓️ 2026-06-02 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-03
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Marvel&#8217;s Wolverine, God of War Laufey y todo lo que se anunció en el State of Play de junio 2026
+A unos días de que inicie el Summer Game Fest, Sony llevó a cabo su tradicional State of Play en donde mostró todo lo que llegará a la plataforma en los próximos meses. La compañía había prometido "más de 60 minutos de actualizaciones, anun…
+https://hipertextual.com/videojuegos/state-of-play-wolverine-god-of-war-laufey/
+🗓️ 2026-06-02 • 🏷️ hipertextual.com
+
+---
