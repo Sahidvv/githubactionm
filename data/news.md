@@ -5329,3 +5329,9 @@ https://hipertextual.com/inteligencia-artificial/nuevo-gemma-4-12b/
 La experta en dinámicas de poder expone en su último libro la forma en que Google, Microsoft o Amazon controlan las cadenas de valor mundiales
 https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de-datos-funcionan-como-bases-militares-en-territorio-extranjero.html
 🗓️ 2026-06-04 • 🏷️ elpais.com
+
+### 2026-06-04T16:19:25.447Z
+📰 Wi-Fi en la banda de 6 GHz frente a banda de 5 GHz: todo lo que debes saber
+Hace ya unos años compartimos con vosotros un artículo muy interesante dedicado a explicar cuáles eran las diferencias entre la banda de 5 GHz y la de 2,4 GHz en una conexión Wi-Fi. Dicho artículo fue uno de los más vistos y de los más apre…
+https://www.muycomputer.com/2026/06/04/wi-fi-en-la-banda-de-6-ghz-frente-a-banda-de-5-ghz-todo-lo-que-debes-saber/
+🗓️ 2026-06-04 • 🏷️ muycomputer.com
