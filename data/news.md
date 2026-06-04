@@ -5335,3 +5335,9 @@ https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de
 Hace ya unos años compartimos con vosotros un artículo muy interesante dedicado a explicar cuáles eran las diferencias entre la banda de 5 GHz y la de 2,4 GHz en una conexión Wi-Fi. Dicho artículo fue uno de los más vistos y de los más apre…
 https://www.muycomputer.com/2026/06/04/wi-fi-en-la-banda-de-6-ghz-frente-a-banda-de-5-ghz-todo-lo-que-debes-saber/
 🗓️ 2026-06-04 • 🏷️ muycomputer.com
+
+### 2026-06-04T20:56:14.636Z
+📰 Apple recurre a NVIDIA y Google para que Siri compita con ChatGPT
+La nueva Siri que llegará en septiembre no funcionará solo con tecnología de Google. Apple ha llegado a un acuerdo con NVIDIA para procesar parte de las consultas en la nube. La próxima versión del asistente debutará en WWDC 2026 con miras …
+https://hipertextual.com/apple/siri-nvidia-google-gemini-wwdc-2026/
+🗓️ 2026-06-04 • 🏷️ hipertextual.com
