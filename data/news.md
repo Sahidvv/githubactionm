@@ -5323,3 +5323,9 @@ https://www.muycomputer.com/2026/06/03/omen-la-nueva-generacion-del-gaming-impul
 La familia de modelos de inteligencia artificial Gemma 4, de Google, acaba de sumar un integrante bastante interesante. Se trata de una nueva versión de 12.000 millones de parámetros especialmente pensada para tareas de ejecución local y qu…
 https://hipertextual.com/inteligencia-artificial/nuevo-gemma-4-12b/
 🗓️ 2026-06-03 • 🏷️ hipertextual.com
+
+### 2026-06-04T05:56:24.088Z
+📰 Cecilia Rikap, economista: “Los centros de datos funcionan como bases militares en territorio extranjero”
+La experta en dinámicas de poder expone en su último libro la forma en que Google, Microsoft o Amazon controlan las cadenas de valor mundiales
+https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de-datos-funcionan-como-bases-militares-en-territorio-extranjero.html
+🗓️ 2026-06-04 • 🏷️ elpais.com

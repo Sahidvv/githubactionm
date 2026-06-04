@@ -4728,3 +4728,19 @@ https://hipertextual.com/videojuegos/state-of-play-wolverine-god-of-war-laufey/
 🗓️ 2026-06-02 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-04
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Cecilia Rikap, economista: “Los centros de datos funcionan como bases militares en territorio extranjero”
+La experta en dinámicas de poder expone en su último libro la forma en que Google, Microsoft o Amazon controlan las cadenas de valor mundiales
+https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de-datos-funcionan-como-bases-militares-en-territorio-extranjero.html
+🗓️ 2026-06-04 • 🏷️ elpais.com
+
+---
