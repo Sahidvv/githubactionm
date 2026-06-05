@@ -5353,3 +5353,9 @@ https://hipertextual.com/inteligencia-artificial/como-probar-gemma-4-12b-lm-stud
 Pese a ser uno de los dispositivos más esperados de 2026, la Steam Machine aún se encuentra envuelta en varios misterios. La crisis que afecta la provisión de componentes claves como la RAM y el almacenamiento ha impactado en los planes de …
 https://hipertextual.com/videojuegos/valve-confirma-cuando-se-lanza-steam-machine/
 🗓️ 2026-06-05 • 🏷️ hipertextual.com
+
+### 2026-06-05T20:47:41.585Z
+📰 La directora de &#8216;God of War Laufey&#8217; defiende el juego de las críticas: «Espero convencer a los escépticos»
+La presentación de God of War Laufey, lo nuevo de Santa Monica Studio, ha generado reacciones muy fuertes, para bien y para mal. La próxima entrega de la saga, que no se enfoca en Kratos sino en Faye, su esposa, se anunció en el State of Pl…
+https://hipertextual.com/videojuegos/god-of-war-laufey-comentarios-ariel-lawrence-directora/
+🗓️ 2026-06-05 • 🏷️ hipertextual.com
