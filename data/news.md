@@ -5347,3 +5347,9 @@ https://hipertextual.com/apple/siri-nvidia-google-gemini-wwdc-2026/
 Ayer, Google lanzó Gemma 4 12B, una nueva versión de su IA de código abierto basada en Gemini. El modelo de lenguaje destaca por ser una solución de tamaño mediano, con capacidades bastante potentes, pero con requisitos de hardware bastante…
 https://hipertextual.com/inteligencia-artificial/como-probar-gemma-4-12b-lm-studio/
 🗓️ 2026-06-04 • 🏷️ hipertextual.com
+
+### 2026-06-05T15:54:08.211Z
+📰 Valve confirma cuándo se lanza la Steam Machine, pero aún no revela lo que todos quieren saber
+Pese a ser uno de los dispositivos más esperados de 2026, la Steam Machine aún se encuentra envuelta en varios misterios. La crisis que afecta la provisión de componentes claves como la RAM y el almacenamiento ha impactado en los planes de …
+https://hipertextual.com/videojuegos/valve-confirma-cuando-se-lanza-steam-machine/
+🗓️ 2026-06-05 • 🏷️ hipertextual.com
