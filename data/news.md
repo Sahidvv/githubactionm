@@ -5341,3 +5341,9 @@ https://www.muycomputer.com/2026/06/04/wi-fi-en-la-banda-de-6-ghz-frente-a-banda
 La nueva Siri que llegará en septiembre no funcionará solo con tecnología de Google. Apple ha llegado a un acuerdo con NVIDIA para procesar parte de las consultas en la nube. La próxima versión del asistente debutará en WWDC 2026 con miras …
 https://hipertextual.com/apple/siri-nvidia-google-gemini-wwdc-2026/
 🗓️ 2026-06-04 • 🏷️ hipertextual.com
+
+### 2026-06-05T05:18:04.603Z
+📰 Cómo probar el nuevo Gemma 4 12B en tu PC con LM Studio
+Ayer, Google lanzó Gemma 4 12B, una nueva versión de su IA de código abierto basada en Gemini. El modelo de lenguaje destaca por ser una solución de tamaño mediano, con capacidades bastante potentes, pero con requisitos de hardware bastante…
+https://hipertextual.com/inteligencia-artificial/como-probar-gemma-4-12b-lm-studio/
+🗓️ 2026-06-04 • 🏷️ hipertextual.com

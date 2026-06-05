@@ -4744,3 +4744,19 @@ https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de
 🗓️ 2026-06-04 • 🏷️ elpais.com
 
 ---
+## 2026-06-05
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Cómo probar el nuevo Gemma 4 12B en tu PC con LM Studio
+Ayer, Google lanzó Gemma 4 12B, una nueva versión de su IA de código abierto basada en Gemini. El modelo de lenguaje destaca por ser una solución de tamaño mediano, con capacidades bastante potentes, pero con requisitos de hardware bastante…
+https://hipertextual.com/inteligencia-artificial/como-probar-gemma-4-12b-lm-studio/
+🗓️ 2026-06-04 • 🏷️ hipertextual.com
+
+---
