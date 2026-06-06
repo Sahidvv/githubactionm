@@ -5371,3 +5371,9 @@ https://hipertextual.com/mobile/el-galaxy-mas-barato-acaba-de-recibir-la-actuali
 Backrooms de Kane Parsons es una rareza que muestra su extraña naturaleza híbrida desde las primeras escenas. Basada en una icónica creepypasta, buena parte de los primeros minutos combina el found footage con la estética original de la ley…
 https://hipertextual.com/cine-television/backrooms-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-el-ejemplo-perfecto-de-como-convertir-un-meme-de-internet-en-cine/
 🗓️ 2026-06-06 • 🏷️ hipertextual.com
+
+### 2026-06-06T20:08:59.913Z
+📰 De liderar la revolución de la IA a ceder el trono a los 'rebeldes': los tres pasos de Anthropic para superar a OpenAI
+Claude Code y el mercado corporativo catapultan los ingresos de la startup hasta los 47.000 millones anualizados, casi el doble que OpenAI Qué es Anthropic, la startup que planta cara a Trump y su “estilo dictador” por el uso de IA en la gu…
+https://www.eldiario.es/tecnologia/liderar-revolucion-ia-ceder-trono-rebeldes-tres-pasos-anthropic-superar-openai_1_13272571.html
+🗓️ 2026-06-06 • 🏷️ eldiario.es
