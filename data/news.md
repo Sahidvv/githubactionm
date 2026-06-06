@@ -5365,3 +5365,9 @@ https://hipertextual.com/videojuegos/god-of-war-laufey-comentarios-ariel-lawrenc
 Samsung ha comenzado a distribuir One UI 8.5 para el Galaxy A25 a nivel global. Si eres dueño de uno de los terminales más baratos de Samsung, seguramente te interesará saber que la actualización está a nada de llegar a tu móvil. Tras un la…
 https://hipertextual.com/mobile/el-galaxy-mas-barato-acaba-de-recibir-la-actualizacion-a-one-ui-8-5/
 🗓️ 2026-06-05 • 🏷️ hipertextual.com
+
+### 2026-06-06T14:41:41.699Z
+📰 ‘Backrooms’ (★★★★☆) es el ejemplo perfecto de cómo convertir un meme de internet en cine
+Backrooms de Kane Parsons es una rareza que muestra su extraña naturaleza híbrida desde las primeras escenas. Basada en una icónica creepypasta, buena parte de los primeros minutos combina el found footage con la estética original de la ley…
+https://hipertextual.com/cine-television/backrooms-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-el-ejemplo-perfecto-de-como-convertir-un-meme-de-internet-en-cine/
+🗓️ 2026-06-06 • 🏷️ hipertextual.com
