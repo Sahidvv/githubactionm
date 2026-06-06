@@ -5359,3 +5359,9 @@ https://hipertextual.com/videojuegos/valve-confirma-cuando-se-lanza-steam-machin
 La presentación de God of War Laufey, lo nuevo de Santa Monica Studio, ha generado reacciones muy fuertes, para bien y para mal. La próxima entrega de la saga, que no se enfoca en Kratos sino en Faye, su esposa, se anunció en el State of Pl…
 https://hipertextual.com/videojuegos/god-of-war-laufey-comentarios-ariel-lawrence-directora/
 🗓️ 2026-06-05 • 🏷️ hipertextual.com
+
+### 2026-06-06T04:53:19.808Z
+📰 El Galaxy más barato acaba de recibir la actualización a One UI 8.5
+Samsung ha comenzado a distribuir One UI 8.5 para el Galaxy A25 a nivel global. Si eres dueño de uno de los terminales más baratos de Samsung, seguramente te interesará saber que la actualización está a nada de llegar a tu móvil. Tras un la…
+https://hipertextual.com/mobile/el-galaxy-mas-barato-acaba-de-recibir-la-actualizacion-a-one-ui-8-5/
+🗓️ 2026-06-05 • 🏷️ hipertextual.com

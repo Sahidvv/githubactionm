@@ -4760,3 +4760,19 @@ https://hipertextual.com/inteligencia-artificial/como-probar-gemma-4-12b-lm-stud
 🗓️ 2026-06-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-06
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El Galaxy más barato acaba de recibir la actualización a One UI 8.5
+Samsung ha comenzado a distribuir One UI 8.5 para el Galaxy A25 a nivel global. Si eres dueño de uno de los terminales más baratos de Samsung, seguramente te interesará saber que la actualización está a nada de llegar a tu móvil. Tras un la…
+https://hipertextual.com/mobile/el-galaxy-mas-barato-acaba-de-recibir-la-actualizacion-a-one-ui-8-5/
+🗓️ 2026-06-05 • 🏷️ hipertextual.com
+
+---
