@@ -4776,3 +4776,19 @@ https://hipertextual.com/mobile/el-galaxy-mas-barato-acaba-de-recibir-la-actuali
 🗓️ 2026-06-05 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-07
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 5 razones tras el éxito de ‘Obsesión’ y ‘Backrooms’
+Si amas el terror, ya lo sabes: Obsesión de Curry Barker y Backrooms de Kane Parsons ya son parte de la historia de Hollywood. Y lo son por una razón: ambas películas tuvieron presupuestos mínimos y se impusieron a The Mandalorian and Grogu…
+https://hipertextual.com/cine-television/5-razones-tras-el-exito-de-obsesion-y-backrooms/
+🗓️ 2026-06-06 • 🏷️ hipertextual.com
+
+---

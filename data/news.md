@@ -5377,3 +5377,9 @@ https://hipertextual.com/cine-television/backrooms-%e2%98%85%e2%98%85%e2%98%85%e
 Claude Code y el mercado corporativo catapultan los ingresos de la startup hasta los 47.000 millones anualizados, casi el doble que OpenAI Qué es Anthropic, la startup que planta cara a Trump y su “estilo dictador” por el uso de IA en la gu…
 https://www.eldiario.es/tecnologia/liderar-revolucion-ia-ceder-trono-rebeldes-tres-pasos-anthropic-superar-openai_1_13272571.html
 🗓️ 2026-06-06 • 🏷️ eldiario.es
+
+### 2026-06-07T05:21:33.642Z
+📰 5 razones tras el éxito de ‘Obsesión’ y ‘Backrooms’
+Si amas el terror, ya lo sabes: Obsesión de Curry Barker y Backrooms de Kane Parsons ya son parte de la historia de Hollywood. Y lo son por una razón: ambas películas tuvieron presupuestos mínimos y se impusieron a The Mandalorian and Grogu…
+https://hipertextual.com/cine-television/5-razones-tras-el-exito-de-obsesion-y-backrooms/
+🗓️ 2026-06-06 • 🏷️ hipertextual.com
