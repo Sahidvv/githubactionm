@@ -5383,3 +5383,9 @@ https://www.eldiario.es/tecnologia/liderar-revolucion-ia-ceder-trono-rebeldes-tr
 Si amas el terror, ya lo sabes: Obsesión de Curry Barker y Backrooms de Kane Parsons ya son parte de la historia de Hollywood. Y lo son por una razón: ambas películas tuvieron presupuestos mínimos y se impusieron a The Mandalorian and Grogu…
 https://hipertextual.com/cine-television/5-razones-tras-el-exito-de-obsesion-y-backrooms/
 🗓️ 2026-06-06 • 🏷️ hipertextual.com
+
+### 2026-06-07T14:53:10.280Z
+📰 3 razones para ver la segunda temporada de ‘Las cuatro estaciones’, el éxito de Netflix del que todo el mundo habla
+En 2025, Las cuatro estaciones sorprendió. No solo por su elenco, que incluía a Tina Fey, Steve Carell y Colman Domingo. También, por ser una de las pocas series que profundizaba en el mundo adulto sin dejar a un lado sus complejidades y ma…
+https://hipertextual.com/cine-television/3-razones-para-ver-la-segunda-temporada-de-las-cuatro-estaciones-el-exito-de-netflix-del-que-todo-el-mundo-habla/
+🗓️ 2026-06-07 • 🏷️ hipertextual.com
