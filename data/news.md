@@ -5389,3 +5389,9 @@ https://hipertextual.com/cine-television/5-razones-tras-el-exito-de-obsesion-y-b
 En 2025, Las cuatro estaciones sorprendió. No solo por su elenco, que incluía a Tina Fey, Steve Carell y Colman Domingo. También, por ser una de las pocas series que profundizaba en el mundo adulto sin dejar a un lado sus complejidades y ma…
 https://hipertextual.com/cine-television/3-razones-para-ver-la-segunda-temporada-de-las-cuatro-estaciones-el-exito-de-netflix-del-que-todo-el-mundo-habla/
 🗓️ 2026-06-07 • 🏷️ hipertextual.com
+
+### 2026-06-07T20:12:40.656Z
+📰 Adiós al diseño clásico: Windows 11 se moderniza y elimina su interfaz antigua
+Microsoft lleva años prometiendo que Windows 11 sería un sistema más moderno y coherente a nivel visual. Si bien la compañía ha cumplido en algunos puntos, lo cierto es que el sistema arrastra componentes que mantienen el mismo diseño de Wi…
+https://hipertextual.com/software/windows-11-moderniza-cuadros-dialogo-winui3/
+🗓️ 2026-06-07 • 🏷️ hipertextual.com
