@@ -5395,3 +5395,9 @@ https://hipertextual.com/cine-television/3-razones-para-ver-la-segunda-temporada
 Microsoft lleva años prometiendo que Windows 11 sería un sistema más moderno y coherente a nivel visual. Si bien la compañía ha cumplido en algunos puntos, lo cierto es que el sistema arrastra componentes que mantienen el mismo diseño de Wi…
 https://hipertextual.com/software/windows-11-moderniza-cuadros-dialogo-winui3/
 🗓️ 2026-06-07 • 🏷️ hipertextual.com
+
+### 2026-06-08T05:51:01.728Z
+📰 La revolución de las baterías ya está en marcha
+Las baterías de estado sólido y otras innovaciones prometen acabar con la ansiedad por la autonomía y reducir los tiempos de carga a apenas minutos
+https://elpais.com/tecnologia/tu-tecnologia/2026-06-08/la-revolucion-de-las-baterias-ya-esta-en-marcha.html
+🗓️ 2026-06-08 • 🏷️ elpais.com

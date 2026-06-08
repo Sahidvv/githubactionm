@@ -4792,3 +4792,19 @@ https://hipertextual.com/cine-television/5-razones-tras-el-exito-de-obsesion-y-b
 🗓️ 2026-06-06 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-08
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La revolución de las baterías ya está en marcha
+Las baterías de estado sólido y otras innovaciones prometen acabar con la ansiedad por la autonomía y reducir los tiempos de carga a apenas minutos
+https://elpais.com/tecnologia/tu-tecnologia/2026-06-08/la-revolucion-de-las-baterias-ya-esta-en-marcha.html
+🗓️ 2026-06-08 • 🏷️ elpais.com
+
+---
