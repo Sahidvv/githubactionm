@@ -5401,3 +5401,9 @@ https://hipertextual.com/software/windows-11-moderniza-cuadros-dialogo-winui3/
 Las baterías de estado sólido y otras innovaciones prometen acabar con la ansiedad por la autonomía y reducir los tiempos de carga a apenas minutos
 https://elpais.com/tecnologia/tu-tecnologia/2026-06-08/la-revolucion-de-las-baterias-ya-esta-en-marcha.html
 🗓️ 2026-06-08 • 🏷️ elpais.com
+
+### 2026-06-08T16:48:36.341Z
+📰 ChatGPT y el fin del chatbot: OpenAI prepara una transformación profunda
+ChatGPT nació como una interfaz extraordinariamente simple para una tecnología extraordinariamente compleja. Una caja de texto, una pregunta y una respuesta. Durante años, esa ha sido la esencia del producto que convirtió la inteligencia ar…
+https://www.muycomputer.com/2026/06/08/chatgpt-y-el-fin-del-chatbot-openai-prepara-una-transformacion-profunda/
+🗓️ 2026-06-08 • 🏷️ muycomputer.com
