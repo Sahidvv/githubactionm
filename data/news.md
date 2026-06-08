@@ -5407,3 +5407,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-06-08/la-revolucion-de-las-bate
 ChatGPT nació como una interfaz extraordinariamente simple para una tecnología extraordinariamente compleja. Una caja de texto, una pregunta y una respuesta. Durante años, esa ha sido la esencia del producto que convirtió la inteligencia ar…
 https://www.muycomputer.com/2026/06/08/chatgpt-y-el-fin-del-chatbot-openai-prepara-una-transformacion-profunda/
 🗓️ 2026-06-08 • 🏷️ muycomputer.com
+
+### 2026-06-08T21:10:18.872Z
+📰 La nueva Siri AI tiene lista de espera: así puedes unirte desde iOS 27
+Apple acaba de presentar Siri AI en la apertura de la WWDC 2026, con varias novedades en materia de inteligencia artificial. El nuevo asistente llega impulsado por modelos de lenguaje basados en Gemini, de Google, y presume de nuevas funcio…
+https://hipertextual.com/apple/siri-ai-unirse-lista-de-esperar-beta-ios-27/
+🗓️ 2026-06-08 • 🏷️ hipertextual.com
