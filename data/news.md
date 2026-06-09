@@ -5419,3 +5419,9 @@ https://hipertextual.com/apple/siri-ai-unirse-lista-de-esperar-beta-ios-27/
 Esta experta en derecho de la propiedad intelectual cree que la regulación es garantista, pero también que hay mucha incertidumbre sobre cómo se interpretan las excepciones de la ley
 https://elpais.com/tecnologia/2026-06-09/eleonora-rosati-jurista-los-artistas-ya-estan-pensando-en-como-protegerse-de-la-ia-taylor-swift-ha-registrado-su-voz.html
 🗓️ 2026-06-09 • 🏷️ elpais.com
+
+### 2026-06-09T15:55:02.296Z
+📰 ¿El MacBook Neo puede utilizar la nueva Siri AI y las ventajas de Apple Intelligence?
+Tras todo el lío de Siri AI, macOS 27 Golden Gate y los modelos compatibles, seguro que te lo estás preguntando: ¿puede el MacBook Neo ejecutar las novedades de inteligencia artificial que Apple ha presentado en la última WWDC? Y es que, a …
+https://hipertextual.com/apple/el-macbook-neo-puede-utilizar-la-nueva-siri-ai-y-las-ventajas-de-apple-intelligence/
+🗓️ 2026-06-09 • 🏷️ hipertextual.com
