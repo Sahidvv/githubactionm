@@ -5425,3 +5425,9 @@ https://elpais.com/tecnologia/2026-06-09/eleonora-rosati-jurista-los-artistas-ya
 Tras todo el lío de Siri AI, macOS 27 Golden Gate y los modelos compatibles, seguro que te lo estás preguntando: ¿puede el MacBook Neo ejecutar las novedades de inteligencia artificial que Apple ha presentado en la última WWDC? Y es que, a …
 https://hipertextual.com/apple/el-macbook-neo-puede-utilizar-la-nueva-siri-ai-y-las-ventajas-de-apple-intelligence/
 🗓️ 2026-06-09 • 🏷️ hipertextual.com
+
+### 2026-06-09T20:57:31.265Z
+📰 Meta borra la evidencia de que sus gafas Ray-Ban usarían reconocimiento facial
+Las gafas inteligentes de Meta llevan meses en el centro de una polémica que la compañía ha intentado minimizar. Un sistema de reconocimiento facial llamado NameTag apareció en el código de la app Meta AI desde febrero sin que nadie lo anun…
+https://hipertextual.com/privacidad/meta-gafas-inteligentes-nametag-reconocimiento-facial/
+🗓️ 2026-06-09 • 🏷️ hipertextual.com
