@@ -4808,3 +4808,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-06-08/la-revolucion-de-las-bate
 🗓️ 2026-06-08 • 🏷️ elpais.com
 
 ---
+## 2026-06-09
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Eleonora Rosati, jurista: “Los artistas ya están pensando en cómo protegerse de la IA, Taylor Swift ha registrado su voz”
+Esta experta en derecho de la propiedad intelectual cree que la regulación es garantista, pero también que hay mucha incertidumbre sobre cómo se interpretan las excepciones de la ley
+https://elpais.com/tecnologia/2026-06-09/eleonora-rosati-jurista-los-artistas-ya-estan-pensando-en-como-protegerse-de-la-ia-taylor-swift-ha-registrado-su-voz.html
+🗓️ 2026-06-09 • 🏷️ elpais.com
+
+---

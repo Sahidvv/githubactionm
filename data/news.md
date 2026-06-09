@@ -5413,3 +5413,9 @@ https://www.muycomputer.com/2026/06/08/chatgpt-y-el-fin-del-chatbot-openai-prepa
 Apple acaba de presentar Siri AI en la apertura de la WWDC 2026, con varias novedades en materia de inteligencia artificial. El nuevo asistente llega impulsado por modelos de lenguaje basados en Gemini, de Google, y presume de nuevas funcio…
 https://hipertextual.com/apple/siri-ai-unirse-lista-de-esperar-beta-ios-27/
 🗓️ 2026-06-08 • 🏷️ hipertextual.com
+
+### 2026-06-09T05:06:13.025Z
+📰 Eleonora Rosati, jurista: “Los artistas ya están pensando en cómo protegerse de la IA, Taylor Swift ha registrado su voz”
+Esta experta en derecho de la propiedad intelectual cree que la regulación es garantista, pero también que hay mucha incertidumbre sobre cómo se interpretan las excepciones de la ley
+https://elpais.com/tecnologia/2026-06-09/eleonora-rosati-jurista-los-artistas-ya-estan-pensando-en-como-protegerse-de-la-ia-taylor-swift-ha-registrado-su-voz.html
+🗓️ 2026-06-09 • 🏷️ elpais.com
