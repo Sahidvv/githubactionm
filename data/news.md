@@ -5443,3 +5443,9 @@ https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-m
 El Galaxy Watch Ultra de Samsung estaría a punto de recibir su primera actualización generacional, luego de la mera adición de un nuevo color en 2025. Y los rumores en torno al próximo reloj inteligente tope de gama de la marca son bastante…
 https://hipertextual.com/tecnologia/bateria-samsung-galaxy-watch-ultra-2/
 🗓️ 2026-06-10 • 🏷️ hipertextual.com
+
+### 2026-06-10T21:24:23.770Z
+📰 SpaceX y el cuento "libertario" de Elon Musk: "Nunca lo fue, usa el sector público como fuente de poder y beneficios"
+Ben Tarnoff, coautor de 'Muskismo', explica cómo la mayor salida a bolsa de la historia culmina décadas de simbiosis entre el magnate y el Estado: "El propósito no era eliminar el Gobierno, sino hacerlo vasallo suyo"SpaceX se lanza al merca…
+https://www.eldiario.es/tecnologia/spacex-cuento-libertario-elon-musk-sector-publico-fuente-beneficios_1_13290181.html
+🗓️ 2026-06-10 • 🏷️ eldiario.es
