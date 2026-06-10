@@ -4824,3 +4824,19 @@ https://elpais.com/tecnologia/2026-06-09/eleonora-rosati-jurista-los-artistas-ya
 🗓️ 2026-06-09 • 🏷️ elpais.com
 
 ---
+## 2026-06-10
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España
+Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia
+https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html
+🗓️ 2026-06-10 • 🏷️ elpais.com
+
+---

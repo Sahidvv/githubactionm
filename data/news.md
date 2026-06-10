@@ -5431,3 +5431,9 @@ https://hipertextual.com/apple/el-macbook-neo-puede-utilizar-la-nueva-siri-ai-y-
 Las gafas inteligentes de Meta llevan meses en el centro de una polémica que la compañía ha intentado minimizar. Un sistema de reconocimiento facial llamado NameTag apareció en el código de la app Meta AI desde febrero sin que nadie lo anun…
 https://hipertextual.com/privacidad/meta-gafas-inteligentes-nametag-reconocimiento-facial/
 🗓️ 2026-06-09 • 🏷️ hipertextual.com
+
+### 2026-06-10T05:19:15.228Z
+📰 Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España
+Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia
+https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html
+🗓️ 2026-06-10 • 🏷️ elpais.com
