@@ -4840,3 +4840,19 @@ https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-m
 🗓️ 2026-06-10 • 🏷️ elpais.com
 
 ---
+## 2026-06-11
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Microsoft rompe de nuevo Windows 11: la actualización de junio bloquea miles de PCs
+Microsoft ha confirmado que algunos equipos con Windows 11 tienen problemas para instalar las actualizaciones de seguridad de junio de 2026. El gigante tecnológico reveló un fallo que afecta a los usuarios que migraron desde Windows 10 a la…
+https://hipertextual.com/software/microsoft-rompe-de-nuevo-windows-11-la-actualizacion-de-junio-bloquea-miles-de-pcs/
+🗓️ 2026-06-10 • 🏷️ hipertextual.com
+
+---

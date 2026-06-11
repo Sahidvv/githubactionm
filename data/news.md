@@ -5449,3 +5449,9 @@ https://hipertextual.com/tecnologia/bateria-samsung-galaxy-watch-ultra-2/
 Ben Tarnoff, coautor de 'Muskismo', explica cómo la mayor salida a bolsa de la historia culmina décadas de simbiosis entre el magnate y el Estado: "El propósito no era eliminar el Gobierno, sino hacerlo vasallo suyo"SpaceX se lanza al merca…
 https://www.eldiario.es/tecnologia/spacex-cuento-libertario-elon-musk-sector-publico-fuente-beneficios_1_13290181.html
 🗓️ 2026-06-10 • 🏷️ eldiario.es
+
+### 2026-06-11T05:48:11.191Z
+📰 Microsoft rompe de nuevo Windows 11: la actualización de junio bloquea miles de PCs
+Microsoft ha confirmado que algunos equipos con Windows 11 tienen problemas para instalar las actualizaciones de seguridad de junio de 2026. El gigante tecnológico reveló un fallo que afecta a los usuarios que migraron desde Windows 10 a la…
+https://hipertextual.com/software/microsoft-rompe-de-nuevo-windows-11-la-actualizacion-de-junio-bloquea-miles-de-pcs/
+🗓️ 2026-06-10 • 🏷️ hipertextual.com
