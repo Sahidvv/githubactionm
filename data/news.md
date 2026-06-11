@@ -5455,3 +5455,9 @@ https://www.eldiario.es/tecnologia/spacex-cuento-libertario-elon-musk-sector-pub
 Microsoft ha confirmado que algunos equipos con Windows 11 tienen problemas para instalar las actualizaciones de seguridad de junio de 2026. El gigante tecnológico reveló un fallo que afecta a los usuarios que migraron desde Windows 10 a la…
 https://hipertextual.com/software/microsoft-rompe-de-nuevo-windows-11-la-actualizacion-de-junio-bloquea-miles-de-pcs/
 🗓️ 2026-06-10 • 🏷️ hipertextual.com
+
+### 2026-06-11T16:54:50.040Z
+📰 David Harbour rompe su silencio por las «extrañas» acusaciones de acoso de Millie Bobby Brown en &#8216;Stranger Things&#8217;
+Hace unos meses, el actor David Harbour, estrella de Stranger Things, fue acusado de acoso e intimidación por parte de su compañera Millie Bobby Brown. La joven estrella de Netflix denunció en el seno de la compañía al que interpretara a su…
+https://hipertextual.com/cine-television/david-harbour-rompe-su-silencio-por-las-extranas-acusaciones-de-acoso-de-millie-bobby-brown-en-stranger-things/
+🗓️ 2026-06-11 • 🏷️ hipertextual.com
