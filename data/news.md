@@ -5461,3 +5461,9 @@ https://hipertextual.com/software/microsoft-rompe-de-nuevo-windows-11-la-actuali
 Hace unos meses, el actor David Harbour, estrella de Stranger Things, fue acusado de acoso e intimidación por parte de su compañera Millie Bobby Brown. La joven estrella de Netflix denunció en el seno de la compañía al que interpretara a su…
 https://hipertextual.com/cine-television/david-harbour-rompe-su-silencio-por-las-extranas-acusaciones-de-acoso-de-millie-bobby-brown-en-stranger-things/
 🗓️ 2026-06-11 • 🏷️ hipertextual.com
+
+### 2026-06-11T21:20:46.048Z
+📰 SpaceX sale a la bolsa por 1,77 billones de dólares: la mayor oferta pública de la historia
+SpaceX acaba de protagonizar la mayor salida a bolsa de la historia de Estados Unidos. La compañía de Elon Musk ha fijado el precio de su OPV en 135 dólares por acción. Con esta operación, SpaceX entra en el mercado con una valoración que s…
+https://hipertextual.com/economia-empresas/spacex-ipo-mayor-opv-historia/
+🗓️ 2026-06-11 • 🏷️ hipertextual.com
