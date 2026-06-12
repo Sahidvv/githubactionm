@@ -5467,3 +5467,9 @@ https://hipertextual.com/cine-television/david-harbour-rompe-su-silencio-por-las
 SpaceX acaba de protagonizar la mayor salida a bolsa de la historia de Estados Unidos. La compañía de Elon Musk ha fijado el precio de su OPV en 135 dólares por acción. Con esta operación, SpaceX entra en el mercado con una valoración que s…
 https://hipertextual.com/economia-empresas/spacex-ipo-mayor-opv-historia/
 🗓️ 2026-06-11 • 🏷️ hipertextual.com
+
+### 2026-06-12T05:49:03.590Z
+📰 LibreOffice acusa a Euro-Office de oportunista y aliado de Microsoft
+La carrera por la soberanía digital en Europa ya está en marcha y uno de los primeros proyectos es Euro-Office. Bautizada como "la primera suite ofimática de código abierto desarrollada en Europa", la iniciativa ya está generando polémica e…
+https://hipertextual.com/software/libreoffice-acusa-euro-office-soberania-digital/
+🗓️ 2026-06-11 • 🏷️ hipertextual.com

@@ -4856,3 +4856,19 @@ https://hipertextual.com/software/microsoft-rompe-de-nuevo-windows-11-la-actuali
 🗓️ 2026-06-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-12
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 LibreOffice acusa a Euro-Office de oportunista y aliado de Microsoft
+La carrera por la soberanía digital en Europa ya está en marcha y uno de los primeros proyectos es Euro-Office. Bautizada como "la primera suite ofimática de código abierto desarrollada en Europa", la iniciativa ya está generando polémica e…
+https://hipertextual.com/software/libreoffice-acusa-euro-office-soberania-digital/
+🗓️ 2026-06-11 • 🏷️ hipertextual.com
+
+---
