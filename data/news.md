@@ -5479,3 +5479,9 @@ https://hipertextual.com/software/libreoffice-acusa-euro-office-soberania-digita
 La empresa de Elon Musk cotiza un 11% por encima de la mayor oferta pública inicial (OPI) del mundo, tras vender 555 millones de acciones a 135 dólares, lo que supone 75.000 millones de dólares SpaceX, la empresa de Elon Musk, que abarca de…
 https://www.eldiario.es/tecnologia/acciones-spacex-debutan-150-dolares-convirtiendo-musk-primera-persona-mundo-fortuna-billon-dolares_1_13295970.html
 🗓️ 2026-06-12 • 🏷️ eldiario.es
+
+### 2026-06-12T21:01:21.643Z
+📰 Microsoft podría independizar Xbox para que, dado el caso, sea más fácil venderla
+El futuro de Xbox lleva varios días dando que hablar, y pronto podríamos darnos noticias rutilantes. Según reporta The Information, Microsoft está planeando la reestructuración de su división dedicada a los videojuegos. La misma podría incl…
+https://hipertextual.com/videojuegos/xbox-posible-independizacion-microsoft/
+🗓️ 2026-06-12 • 🏷️ hipertextual.com
