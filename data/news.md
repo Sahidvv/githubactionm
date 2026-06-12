@@ -5473,3 +5473,9 @@ https://hipertextual.com/economia-empresas/spacex-ipo-mayor-opv-historia/
 La carrera por la soberanía digital en Europa ya está en marcha y uno de los primeros proyectos es Euro-Office. Bautizada como "la primera suite ofimática de código abierto desarrollada en Europa", la iniciativa ya está generando polémica e…
 https://hipertextual.com/software/libreoffice-acusa-euro-office-soberania-digital/
 🗓️ 2026-06-11 • 🏷️ hipertextual.com
+
+### 2026-06-12T16:18:12.877Z
+📰 Las acciones de SpaceX debutan a 150 dólares, convirtiendo a Musk en la primera persona del mundo con una fortuna de un billón de dólares
+La empresa de Elon Musk cotiza un 11% por encima de la mayor oferta pública inicial (OPI) del mundo, tras vender 555 millones de acciones a 135 dólares, lo que supone 75.000 millones de dólares SpaceX, la empresa de Elon Musk, que abarca de…
+https://www.eldiario.es/tecnologia/acciones-spacex-debutan-150-dolares-convirtiendo-musk-primera-persona-mundo-fortuna-billon-dolares_1_13295970.html
+🗓️ 2026-06-12 • 🏷️ eldiario.es
