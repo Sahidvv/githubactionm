@@ -5485,3 +5485,9 @@ https://www.eldiario.es/tecnologia/acciones-spacex-debutan-150-dolares-convirtie
 El futuro de Xbox lleva varios días dando que hablar, y pronto podríamos darnos noticias rutilantes. Según reporta The Information, Microsoft está planeando la reestructuración de su división dedicada a los videojuegos. La misma podría incl…
 https://hipertextual.com/videojuegos/xbox-posible-independizacion-microsoft/
 🗓️ 2026-06-12 • 🏷️ hipertextual.com
+
+### 2026-06-13T05:21:01.923Z
+📰 China alerta sobre el verdadero peligro de la IA (y no es Skynet)
+Desde hace décadas que Hollywood y los autores de ciencia ficción han visualizado una guerra de los humanos contra las máquinas. Aunque la idea de una IA que supera la capacidad humana y se mejore a sí misma suena terrorífica, lo cierto es …
+https://hipertextual.com/inteligencia-artificial/china-alerta-sobre-el-verdadero-peligro-de-la-ia-y-no-es-skynet/
+🗓️ 2026-06-12 • 🏷️ hipertextual.com

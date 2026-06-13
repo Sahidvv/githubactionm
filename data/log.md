@@ -4872,3 +4872,19 @@ https://hipertextual.com/software/libreoffice-acusa-euro-office-soberania-digita
 🗓️ 2026-06-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-13
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 China alerta sobre el verdadero peligro de la IA (y no es Skynet)
+Desde hace décadas que Hollywood y los autores de ciencia ficción han visualizado una guerra de los humanos contra las máquinas. Aunque la idea de una IA que supera la capacidad humana y se mejore a sí misma suena terrorífica, lo cierto es …
+https://hipertextual.com/inteligencia-artificial/china-alerta-sobre-el-verdadero-peligro-de-la-ia-y-no-es-skynet/
+🗓️ 2026-06-12 • 🏷️ hipertextual.com
+
+---
