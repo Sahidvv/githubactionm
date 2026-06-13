@@ -5497,3 +5497,9 @@ https://hipertextual.com/inteligencia-artificial/china-alerta-sobre-el-verdadero
 El Mundial de Fútbol 2026 por fin ha llegado, y qué mejor manera de celebrarlo que acompañando los partidos con películas. Es cierto que el drama deportivo es uno de los géneros cinematográficos más populares. Sin embargo, la gran mayoría d…
 https://hipertextual.com/cine-television/las-10-mejores-peliculas-sobre-futbol-que-todo-fan-del-mundial-debe-ver-al-menos-una-vez/
 🗓️ 2026-06-13 • 🏷️ hipertextual.com
+
+### 2026-06-13T20:15:54.060Z
+📰 Esta película que rompió la taquilla y que protagoniza Sydney Sweeney llega a Prime Video
+Sydney Sweeney ha tenido otro año movido en su naciente carrera. Además del controvertido éxito Euphoria, la estrella puede presumir de protagonizar uno de los grandes éxitos de taquilla del año. Uno además, que ya puedes disfrutar en Prime…
+https://hipertextual.com/cine-television/esta-pelicula-que-rompio-la-taquilla-y-que-protagoniza-sydney-sweeney-llega-a-prime-video/
+🗓️ 2026-06-13 • 🏷️ hipertextual.com
