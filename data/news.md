@@ -5491,3 +5491,9 @@ https://hipertextual.com/videojuegos/xbox-posible-independizacion-microsoft/
 Desde hace décadas que Hollywood y los autores de ciencia ficción han visualizado una guerra de los humanos contra las máquinas. Aunque la idea de una IA que supera la capacidad humana y se mejore a sí misma suena terrorífica, lo cierto es …
 https://hipertextual.com/inteligencia-artificial/china-alerta-sobre-el-verdadero-peligro-de-la-ia-y-no-es-skynet/
 🗓️ 2026-06-12 • 🏷️ hipertextual.com
+
+### 2026-06-13T15:00:42.192Z
+📰 Las 10 mejores películas sobre fútbol que todo fan del Mundial debe ver al menos una vez
+El Mundial de Fútbol 2026 por fin ha llegado, y qué mejor manera de celebrarlo que acompañando los partidos con películas. Es cierto que el drama deportivo es uno de los géneros cinematográficos más populares. Sin embargo, la gran mayoría d…
+https://hipertextual.com/cine-television/las-10-mejores-peliculas-sobre-futbol-que-todo-fan-del-mundial-debe-ver-al-menos-una-vez/
+🗓️ 2026-06-13 • 🏷️ hipertextual.com
