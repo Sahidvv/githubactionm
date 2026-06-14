@@ -5503,3 +5503,9 @@ https://hipertextual.com/cine-television/las-10-mejores-peliculas-sobre-futbol-q
 Sydney Sweeney ha tenido otro año movido en su naciente carrera. Además del controvertido éxito Euphoria, la estrella puede presumir de protagonizar uno de los grandes éxitos de taquilla del año. Uno además, que ya puedes disfrutar en Prime…
 https://hipertextual.com/cine-television/esta-pelicula-que-rompio-la-taquilla-y-que-protagoniza-sydney-sweeney-llega-a-prime-video/
 🗓️ 2026-06-13 • 🏷️ hipertextual.com
+
+### 2026-06-14T05:49:24.549Z
+📰 EEUU veta por primera vez la exportación de una inteligencia artificial y confirma el inicio de la guerra fría digital
+Donald Trump lleva la carrera tecnológica a una nueva dimensión al prohibir el acceso de extranjeros a Mythos y otros modelos avanzados de la startup AnthropicAnthropic corta el acceso a sus modelos de IA más avanzados tras una orden del Go…
+https://www.eldiario.es/tecnologia/eeuu-veta-primera-vez-exportacion-inteligencia-artificial-confirma-inicio-guerra-fria-digital_1_13294994.html
+🗓️ 2026-06-13 • 🏷️ eldiario.es

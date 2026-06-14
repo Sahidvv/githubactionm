@@ -4888,3 +4888,19 @@ https://hipertextual.com/inteligencia-artificial/china-alerta-sobre-el-verdadero
 🗓️ 2026-06-12 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-14
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 EEUU veta por primera vez la exportación de una inteligencia artificial y confirma el inicio de la guerra fría digital
+Donald Trump lleva la carrera tecnológica a una nueva dimensión al prohibir el acceso de extranjeros a Mythos y otros modelos avanzados de la startup AnthropicAnthropic corta el acceso a sus modelos de IA más avanzados tras una orden del Go…
+https://www.eldiario.es/tecnologia/eeuu-veta-primera-vez-exportacion-inteligencia-artificial-confirma-inicio-guerra-fria-digital_1_13294994.html
+🗓️ 2026-06-13 • 🏷️ eldiario.es
+
+---
