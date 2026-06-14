@@ -5509,3 +5509,9 @@ https://hipertextual.com/cine-television/esta-pelicula-que-rompio-la-taquilla-y-
 Donald Trump lleva la carrera tecnológica a una nueva dimensión al prohibir el acceso de extranjeros a Mythos y otros modelos avanzados de la startup AnthropicAnthropic corta el acceso a sus modelos de IA más avanzados tras una orden del Go…
 https://www.eldiario.es/tecnologia/eeuu-veta-primera-vez-exportacion-inteligencia-artificial-confirma-inicio-guerra-fria-digital_1_13294994.html
 🗓️ 2026-06-13 • 🏷️ eldiario.es
+
+### 2026-06-14T15:06:48.097Z
+📰 3 estrenos &#8216;top&#8217; en Netflix para ver algo diferente
+Netflix cambió para siempre (y todavía está por verse si para mejor) el mundo del entretenimiento. Eso por dos razones específicas. Por un lado, al transformar radicalmente los hábitos de consumo. Todo, mediante la introducción del modelo d…
+https://hipertextual.com/cine-television/3-estrenos-top-en-netflix-para-ver-algo-diferente/
+🗓️ 2026-06-14 • 🏷️ hipertextual.com
