@@ -5515,3 +5515,9 @@ https://www.eldiario.es/tecnologia/eeuu-veta-primera-vez-exportacion-inteligenci
 Netflix cambió para siempre (y todavía está por verse si para mejor) el mundo del entretenimiento. Eso por dos razones específicas. Por un lado, al transformar radicalmente los hábitos de consumo. Todo, mediante la introducción del modelo d…
 https://hipertextual.com/cine-television/3-estrenos-top-en-netflix-para-ver-algo-diferente/
 🗓️ 2026-06-14 • 🏷️ hipertextual.com
+
+### 2026-06-14T20:17:44.549Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXVIII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: GEEKOM A9 Max AI 2026 análisis completo. El GEEKOM …
+https://www.muycomputer.com/2026/06/14/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxviii/
+🗓️ 2026-06-14 • 🏷️ muycomputer.com
