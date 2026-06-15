@@ -5527,3 +5527,9 @@ https://www.muycomputer.com/2026/06/14/los-mejores-contenidos-de-la-semana-en-mu
 El científico jefe de Google para tecnologías cuánticas habla en esta entrevista sobre el galardón sueco, trabajar en la academia y en una empresa y sobre su mayor afición: el cine
 https://elpais.com/ciencia/2026-06-15/michel-devoret-nobel-de-fisica-no-me-gusta-hacer-pronosticos-la-tecnologia-es-mas-caprichosa-que-la-meteorologia.html
 🗓️ 2026-06-15 • 🏷️ elpais.com
+
+### 2026-06-15T17:58:14.687Z
+📰 EA añadirá anuncios en sus próximos juegos y no habrá forma de evitarlos
+Desde hace unos años que Electronic Arts se convirtió en una de las compañías más odiadas por los jugadores. Si bien la empresa tiene juegos ultrapopulares como EA FC, Madden o Battlefield, son sus prácticas de negocio las que sacan de quic…
+https://hipertextual.com/videojuegos/ea-anuncios-videojuegos-fifa-madden-battlefield/
+🗓️ 2026-06-15 • 🏷️ hipertextual.com
