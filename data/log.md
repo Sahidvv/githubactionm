@@ -4904,3 +4904,19 @@ https://www.eldiario.es/tecnologia/eeuu-veta-primera-vez-exportacion-inteligenci
 🗓️ 2026-06-13 • 🏷️ eldiario.es
 
 ---
+## 2026-06-15
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Michel Devoret, Nobel de Física: “No me gusta hacer pronósticos, la tecnología es más caprichosa que la meteorología”
+El científico jefe de Google para tecnologías cuánticas habla en esta entrevista sobre el galardón sueco, trabajar en la academia y en una empresa y sobre su mayor afición: el cine
+https://elpais.com/ciencia/2026-06-15/michel-devoret-nobel-de-fisica-no-me-gusta-hacer-pronosticos-la-tecnologia-es-mas-caprichosa-que-la-meteorologia.html
+🗓️ 2026-06-15 • 🏷️ elpais.com
+
+---

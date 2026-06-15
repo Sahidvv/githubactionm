@@ -5521,3 +5521,9 @@ https://hipertextual.com/cine-television/3-estrenos-top-en-netflix-para-ver-algo
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: GEEKOM A9 Max AI 2026 análisis completo. El GEEKOM …
 https://www.muycomputer.com/2026/06/14/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxviii/
 🗓️ 2026-06-14 • 🏷️ muycomputer.com
+
+### 2026-06-15T06:24:54.215Z
+📰 Michel Devoret, Nobel de Física: “No me gusta hacer pronósticos, la tecnología es más caprichosa que la meteorología”
+El científico jefe de Google para tecnologías cuánticas habla en esta entrevista sobre el galardón sueco, trabajar en la academia y en una empresa y sobre su mayor afición: el cine
+https://elpais.com/ciencia/2026-06-15/michel-devoret-nobel-de-fisica-no-me-gusta-hacer-pronosticos-la-tecnologia-es-mas-caprichosa-que-la-meteorologia.html
+🗓️ 2026-06-15 • 🏷️ elpais.com
