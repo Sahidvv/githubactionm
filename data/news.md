@@ -5533,3 +5533,9 @@ https://elpais.com/ciencia/2026-06-15/michel-devoret-nobel-de-fisica-no-me-gusta
 Desde hace unos años que Electronic Arts se convirtió en una de las compañías más odiadas por los jugadores. Si bien la empresa tiene juegos ultrapopulares como EA FC, Madden o Battlefield, son sus prácticas de negocio las que sacan de quic…
 https://hipertextual.com/videojuegos/ea-anuncios-videojuegos-fifa-madden-battlefield/
 🗓️ 2026-06-15 • 🏷️ hipertextual.com
+
+### 2026-06-15T21:42:57.346Z
+📰 Samsung elimina una de las aplicaciones más usadas de los Galaxy
+Samsung ha discontinuado una de sus aplicaciones más usadas de los últimos años. A unos meses de despedirse de su aplicación de mensajes, el gigante surcoreano echó el cierre de Samsung Max VPN, su aplicación de privacidad y ahorro de datos…
+https://hipertextual.com/mobile/samsung-max-vpn-cierre-app-android/
+🗓️ 2026-06-15 • 🏷️ hipertextual.com
