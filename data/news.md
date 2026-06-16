@@ -5551,3 +5551,9 @@ https://www.muycomputer.com/2026/06/16/intel-serpent-lake-cpus-combinadas-con-gr
 Google acaba de lanzar el Pixel Drop de junio, que actualiza los móviles Pixel compatibles a Android 17 e introduce varias funciones de inteligencia artificial generativa. Por ejemplo, la generación de vídeos a través de Gemini Omni. A esto…
 https://hipertextual.com/mobile/google-pixel-drop-junio-android-17/
 🗓️ 2026-06-16 • 🏷️ hipertextual.com
+
+### 2026-06-16T21:41:40.381Z
+📰 Apple pisa el acelerador con el iPhone 20 aniversario, que llegará en dos tamaños
+Los planes de Apple para celebrar las dos décadas de vida de su smartphone continúan tomando forma. Un nuevo reporte de Mark Gurman ha revelado más detalles del iPhone 20 aniversario que llegará en 2027, que no solo introducirá importantes …
+https://hipertextual.com/apple/iphone-20-aniversario-dos-tamanos/
+🗓️ 2026-06-16 • 🏷️ hipertextual.com
