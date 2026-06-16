@@ -4920,3 +4920,19 @@ https://elpais.com/ciencia/2026-06-15/michel-devoret-nobel-de-fisica-no-me-gusta
 🗓️ 2026-06-15 • 🏷️ elpais.com
 
 ---
+## 2026-06-16
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Intel Serpent Lake ¿CPUs combinadas con gráficas integradas de NVIDIA?
+Una nueva plataforma Intel Serpent Lake ha aparecido en la rumorología de Internet y es sumamente interesante por novedosa, ya que combinaría núcleos de procesamiento de Intel con gráficas integradas de NVIDIA. Este diseño, no confirmado po…
+https://www.muycomputer.com/2026/06/16/intel-serpent-lake-cpus-combinadas-con-graficas-integradas-de-nvidia/
+🗓️ 2026-06-16 • 🏷️ muycomputer.com
+
+---

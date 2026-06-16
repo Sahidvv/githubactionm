@@ -5539,3 +5539,9 @@ https://hipertextual.com/videojuegos/ea-anuncios-videojuegos-fifa-madden-battlef
 Samsung ha discontinuado una de sus aplicaciones más usadas de los últimos años. A unos meses de despedirse de su aplicación de mensajes, el gigante surcoreano echó el cierre de Samsung Max VPN, su aplicación de privacidad y ahorro de datos…
 https://hipertextual.com/mobile/samsung-max-vpn-cierre-app-android/
 🗓️ 2026-06-15 • 🏷️ hipertextual.com
+
+### 2026-06-16T06:32:49.652Z
+📰 Intel Serpent Lake ¿CPUs combinadas con gráficas integradas de NVIDIA?
+Una nueva plataforma Intel Serpent Lake ha aparecido en la rumorología de Internet y es sumamente interesante por novedosa, ya que combinaría núcleos de procesamiento de Intel con gráficas integradas de NVIDIA. Este diseño, no confirmado po…
+https://www.muycomputer.com/2026/06/16/intel-serpent-lake-cpus-combinadas-con-graficas-integradas-de-nvidia/
+🗓️ 2026-06-16 • 🏷️ muycomputer.com
