@@ -5545,3 +5545,9 @@ https://hipertextual.com/mobile/samsung-max-vpn-cierre-app-android/
 Una nueva plataforma Intel Serpent Lake ha aparecido en la rumorología de Internet y es sumamente interesante por novedosa, ya que combinaría núcleos de procesamiento de Intel con gráficas integradas de NVIDIA. Este diseño, no confirmado po…
 https://www.muycomputer.com/2026/06/16/intel-serpent-lake-cpus-combinadas-con-graficas-integradas-de-nvidia/
 🗓️ 2026-06-16 • 🏷️ muycomputer.com
+
+### 2026-06-16T18:04:14.528Z
+📰 Google actualiza los Pixel a Android 17, con Gemini Omni y muchas más funciones de IA
+Google acaba de lanzar el Pixel Drop de junio, que actualiza los móviles Pixel compatibles a Android 17 e introduce varias funciones de inteligencia artificial generativa. Por ejemplo, la generación de vídeos a través de Gemini Omni. A esto…
+https://hipertextual.com/mobile/google-pixel-drop-junio-android-17/
+🗓️ 2026-06-16 • 🏷️ hipertextual.com
