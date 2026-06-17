@@ -5569,3 +5569,9 @@ https://www.muycomputer.com/2026/06/17/qualcomm-presenta-el-snapdragon-reality-e
 Si eres amante de Disney, ya lo sabes. Parte de tu mundo, una de las canciones principales de La Sirenita (John Musker, Ron Clements, 1989), es también de las más populares del estudio. Y razones no faltan. No solo es una pieza extraordinar…
 https://hipertextual.com/cine-television/la-tragica-historia-real-detras-de-la-cancion-mas-famosa-de-la-sirenita-que-casi-nadie-conoce-y-el-drama-que-esconde/
 🗓️ 2026-06-17 • 🏷️ hipertextual.com
+
+### 2026-06-17T21:06:55.631Z
+📰 Los creadores de ChatGPT, Gemini y Claude quieren formar una coalición para controlar la IA
+Los CEOs de las tres empresas más grandes de inteligencia artificial quieren formar una coalición para definir cómo se regula la IA. Durante una reunión con el G7, los directores de Anthropic, Google DeepMind y OpenAI propusieron que sea Es…
+https://hipertextual.com/inteligencia-artificial/ceo-ia-coalicion-g7-estados-unidos/
+🗓️ 2026-06-17 • 🏷️ hipertextual.com
