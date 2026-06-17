@@ -5563,3 +5563,9 @@ https://hipertextual.com/apple/iphone-20-aniversario-dos-tamanos/
 Qualcomm ha anunciado el nuevo SoC Snapdragon Reality Elite para impulsar el segmento de visores y gafas inteligentes, un segmento que sigue sin llegar al público masivo a pesar de los numerosos intentos de la industria. El fabricante de ch…
 https://www.muycomputer.com/2026/06/17/qualcomm-presenta-el-snapdragon-reality-elite-para-visores-y-gafas-inteligentes/
 🗓️ 2026-06-17 • 🏷️ muycomputer.com
+
+### 2026-06-17T16:37:58.503Z
+📰 La trágica historia real detrás de la canción más famosa de ‘La Sirenita’ que casi nadie conoce y el drama que esconde
+Si eres amante de Disney, ya lo sabes. Parte de tu mundo, una de las canciones principales de La Sirenita (John Musker, Ron Clements, 1989), es también de las más populares del estudio. Y razones no faltan. No solo es una pieza extraordinar…
+https://hipertextual.com/cine-television/la-tragica-historia-real-detras-de-la-cancion-mas-famosa-de-la-sirenita-que-casi-nadie-conoce-y-el-drama-que-esconde/
+🗓️ 2026-06-17 • 🏷️ hipertextual.com
