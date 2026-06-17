@@ -5557,3 +5557,9 @@ https://hipertextual.com/mobile/google-pixel-drop-junio-android-17/
 Los planes de Apple para celebrar las dos décadas de vida de su smartphone continúan tomando forma. Un nuevo reporte de Mark Gurman ha revelado más detalles del iPhone 20 aniversario que llegará en 2027, que no solo introducirá importantes …
 https://hipertextual.com/apple/iphone-20-aniversario-dos-tamanos/
 🗓️ 2026-06-16 • 🏷️ hipertextual.com
+
+### 2026-06-17T06:11:50.848Z
+📰 Qualcomm presenta el Snapdragon Reality Elite para visores y gafas inteligentes
+Qualcomm ha anunciado el nuevo SoC Snapdragon Reality Elite para impulsar el segmento de visores y gafas inteligentes, un segmento que sigue sin llegar al público masivo a pesar de los numerosos intentos de la industria. El fabricante de ch…
+https://www.muycomputer.com/2026/06/17/qualcomm-presenta-el-snapdragon-reality-elite-para-visores-y-gafas-inteligentes/
+🗓️ 2026-06-17 • 🏷️ muycomputer.com

@@ -4936,3 +4936,19 @@ https://www.muycomputer.com/2026/06/16/intel-serpent-lake-cpus-combinadas-con-gr
 🗓️ 2026-06-16 • 🏷️ muycomputer.com
 
 ---
+## 2026-06-17
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Qualcomm presenta el Snapdragon Reality Elite para visores y gafas inteligentes
+Qualcomm ha anunciado el nuevo SoC Snapdragon Reality Elite para impulsar el segmento de visores y gafas inteligentes, un segmento que sigue sin llegar al público masivo a pesar de los numerosos intentos de la industria. El fabricante de ch…
+https://www.muycomputer.com/2026/06/17/qualcomm-presenta-el-snapdragon-reality-elite-para-visores-y-gafas-inteligentes/
+🗓️ 2026-06-17 • 🏷️ muycomputer.com
+
+---
