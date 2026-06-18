@@ -5587,3 +5587,9 @@ https://elpais.com/tecnologia/2026-06-18/del-fitness-a-justificar-la-violencia-d
 Con GTA 6 en camino a lanzarse el próximo 19 de noviembre, Rockstar Games aprovechó para mostrar la portada del juego y anunciar la fecha de inicio de las reservas. Pero el estudio también reveló un nuevo vistazo a Vice City, uno de los esc…
 https://hipertextual.com/videojuegos/gta-6-nuevo-vistazo-vice-city/
 🗓️ 2026-06-18 • 🏷️ hipertextual.com
+
+### 2026-06-18T21:21:54.397Z
+📰 Instagram añade una función que sus usuarios han pedido por años: así cambia la app
+Desde hace un tiempo que Instagram comenzó a añadir funciones que los usuarios llevaban meses (o años) pidiendo a gritos. Desde el reinicio del algoritmo hasta la posibilidad de reordenar las imágenes en las publicaciones del perfil, la com…
+https://hipertextual.com/mobile/instagram-pies-de-foto-carrusel-varias-descripciones/
+🗓️ 2026-06-18 • 🏷️ hipertextual.com
