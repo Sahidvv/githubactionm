@@ -5581,3 +5581,9 @@ https://hipertextual.com/inteligencia-artificial/ceo-ia-coalicion-g7-estados-uni
 Durante 45 días, observamos qué recomienda una plataforma como Instagram a seis perfiles asociados directa o indirectamente a la masculinidad. Aquí están algunos de nuestros hallazgos
 https://elpais.com/tecnologia/2026-06-18/del-fitness-a-justificar-la-violencia-de-genero-asi-construyen-los-algoritmos-la-cultura-machista-en-tiempo-real.html
 🗓️ 2026-06-18 • 🏷️ elpais.com
+
+### 2026-06-18T16:32:35.760Z
+📰 &#8216;GTA 6&#8217;: Rockstar revela un nuevo vistazo a Vice City
+Con GTA 6 en camino a lanzarse el próximo 19 de noviembre, Rockstar Games aprovechó para mostrar la portada del juego y anunciar la fecha de inicio de las reservas. Pero el estudio también reveló un nuevo vistazo a Vice City, uno de los esc…
+https://hipertextual.com/videojuegos/gta-6-nuevo-vistazo-vice-city/
+🗓️ 2026-06-18 • 🏷️ hipertextual.com
