@@ -5575,3 +5575,9 @@ https://hipertextual.com/cine-television/la-tragica-historia-real-detras-de-la-c
 Los CEOs de las tres empresas más grandes de inteligencia artificial quieren formar una coalición para definir cómo se regula la IA. Durante una reunión con el G7, los directores de Anthropic, Google DeepMind y OpenAI propusieron que sea Es…
 https://hipertextual.com/inteligencia-artificial/ceo-ia-coalicion-g7-estados-unidos/
 🗓️ 2026-06-17 • 🏷️ hipertextual.com
+
+### 2026-06-18T05:55:19.913Z
+📰 Del ‘fitness’ a justificar la violencia de género: así construyen los algoritmos la cultura machista en tiempo real
+Durante 45 días, observamos qué recomienda una plataforma como Instagram a seis perfiles asociados directa o indirectamente a la masculinidad. Aquí están algunos de nuestros hallazgos
+https://elpais.com/tecnologia/2026-06-18/del-fitness-a-justificar-la-violencia-de-genero-asi-construyen-los-algoritmos-la-cultura-machista-en-tiempo-real.html
+🗓️ 2026-06-18 • 🏷️ elpais.com

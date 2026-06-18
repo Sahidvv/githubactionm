@@ -4952,3 +4952,19 @@ https://www.muycomputer.com/2026/06/17/qualcomm-presenta-el-snapdragon-reality-e
 🗓️ 2026-06-17 • 🏷️ muycomputer.com
 
 ---
+## 2026-06-18
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Del ‘fitness’ a justificar la violencia de género: así construyen los algoritmos la cultura machista en tiempo real
+Durante 45 días, observamos qué recomienda una plataforma como Instagram a seis perfiles asociados directa o indirectamente a la masculinidad. Aquí están algunos de nuestros hallazgos
+https://elpais.com/tecnologia/2026-06-18/del-fitness-a-justificar-la-violencia-de-genero-asi-construyen-los-algoritmos-la-cultura-machista-en-tiempo-real.html
+🗓️ 2026-06-18 • 🏷️ elpais.com
+
+---
