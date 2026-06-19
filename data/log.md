@@ -4968,3 +4968,19 @@ https://elpais.com/tecnologia/2026-06-18/del-fitness-a-justificar-la-violencia-d
 🗓️ 2026-06-18 • 🏷️ elpais.com
 
 ---
+## 2026-06-19
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 MSI presenta el PC para juegos, MAG Infinite Z
+MSI ha anunciado el lanzamiento del MAG Infinite Z, un ordenador de sobremesa para juegos (y en general cualquier uso informático) que usa los procesadores de AMD más avanzados del segmento, los Ryzen 9000, junto a tarjetas gráficas dedicad…
+https://www.muycomputer.com/2026/06/19/msi-presenta-el-pc-para-juegos-mag-infinite-z/
+🗓️ 2026-06-19 • 🏷️ muycomputer.com
+
+---

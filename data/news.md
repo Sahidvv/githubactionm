@@ -5593,3 +5593,9 @@ https://hipertextual.com/videojuegos/gta-6-nuevo-vistazo-vice-city/
 Desde hace un tiempo que Instagram comenzó a añadir funciones que los usuarios llevaban meses (o años) pidiendo a gritos. Desde el reinicio del algoritmo hasta la posibilidad de reordenar las imágenes en las publicaciones del perfil, la com…
 https://hipertextual.com/mobile/instagram-pies-de-foto-carrusel-varias-descripciones/
 🗓️ 2026-06-18 • 🏷️ hipertextual.com
+
+### 2026-06-19T06:20:10.090Z
+📰 MSI presenta el PC para juegos, MAG Infinite Z
+MSI ha anunciado el lanzamiento del MAG Infinite Z, un ordenador de sobremesa para juegos (y en general cualquier uso informático) que usa los procesadores de AMD más avanzados del segmento, los Ryzen 9000, junto a tarjetas gráficas dedicad…
+https://www.muycomputer.com/2026/06/19/msi-presenta-el-pc-para-juegos-mag-infinite-z/
+🗓️ 2026-06-19 • 🏷️ muycomputer.com
