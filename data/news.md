@@ -5599,3 +5599,9 @@ https://hipertextual.com/mobile/instagram-pies-de-foto-carrusel-varias-descripci
 MSI ha anunciado el lanzamiento del MAG Infinite Z, un ordenador de sobremesa para juegos (y en general cualquier uso informático) que usa los procesadores de AMD más avanzados del segmento, los Ryzen 9000, junto a tarjetas gráficas dedicad…
 https://www.muycomputer.com/2026/06/19/msi-presenta-el-pc-para-juegos-mag-infinite-z/
 🗓️ 2026-06-19 • 🏷️ muycomputer.com
+
+### 2026-06-19T15:59:49.394Z
+📰 Amazon abandona &#8216;Artificial&#8217;, una película sobre Sam Altman que promete polémica
+Amazon MGM Studios ha abandonado Artificial, la película de Luca Guadagnino sobre el despido de Sam Altman de OpenAI a finales de 2023. Según reporta Variety, la cinta estaba prácticamente terminada, pero la empresa ha optado por no continu…
+https://hipertextual.com/cine-television/amazon-abandona-artificial-luca-guadagnino-pelicula-sam-altman/
+🗓️ 2026-06-19 • 🏷️ hipertextual.com
