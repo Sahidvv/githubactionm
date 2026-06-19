@@ -5605,3 +5605,9 @@ https://www.muycomputer.com/2026/06/19/msi-presenta-el-pc-para-juegos-mag-infini
 Amazon MGM Studios ha abandonado Artificial, la película de Luca Guadagnino sobre el despido de Sam Altman de OpenAI a finales de 2023. Según reporta Variety, la cinta estaba prácticamente terminada, pero la empresa ha optado por no continu…
 https://hipertextual.com/cine-television/amazon-abandona-artificial-luca-guadagnino-pelicula-sam-altman/
 🗓️ 2026-06-19 • 🏷️ hipertextual.com
+
+### 2026-06-19T20:25:42.437Z
+📰 Microsoft confirma un fallo que rompe la Papelera de reciclaje en todas las versiones de Windows
+Microsoft no pierde la costumbre de romper algo en cada actualización de seguridad de Windows 11. El problema más reciente se está presentando en algunos equipos que instalaron el parche de junio de 2026 y tiene que ver con la Papelera de r…
+https://hipertextual.com/software/actualizacion-junio-2026-windows-fallo-papelera-reciclaje/
+🗓️ 2026-06-19 • 🏷️ hipertextual.com
