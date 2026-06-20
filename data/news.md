@@ -5617,3 +5617,9 @@ https://hipertextual.com/software/actualizacion-junio-2026-windows-fallo-papeler
 NotebookLM está preparando una actualización que integrará una de las características más útiles de Gemini. A unas semanas de que Google lanzara nuevas funciones, la popular herramienta de IA recibirá el salto hacia la inteligencia personal…
 https://hipertextual.com/inteligencia-artificial/notebooklm-inteligencia-personal-edicion-notas-ia/
 🗓️ 2026-06-19 • 🏷️ hipertextual.com
+
+### 2026-06-20T15:02:32.144Z
+📰 La serie de vampiros que tiene 100% de críticas positivas en Rotten Tomatoes y que deberías ver
+Si amas al género gótico y a los vampiros, estas son buenas noticias para ti. AMC+ España y Prime Video acaban de estrenar los primeros capítulos de la que parece a punto de convertirse en una de las series del año. Se trata de El vampiro L…
+https://hipertextual.com/cine-television/la-serie-de-vampiros-que-tiene-100-de-criticas-positivas-en-rotten-tomatoes-y-que-deberias-ver/
+🗓️ 2026-06-20 • 🏷️ hipertextual.com
