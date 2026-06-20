@@ -5623,3 +5623,9 @@ https://hipertextual.com/inteligencia-artificial/notebooklm-inteligencia-persona
 Si amas al género gótico y a los vampiros, estas son buenas noticias para ti. AMC+ España y Prime Video acaban de estrenar los primeros capítulos de la que parece a punto de convertirse en una de las series del año. Se trata de El vampiro L…
 https://hipertextual.com/cine-television/la-serie-de-vampiros-que-tiene-100-de-criticas-positivas-en-rotten-tomatoes-y-que-deberias-ver/
 🗓️ 2026-06-20 • 🏷️ hipertextual.com
+
+### 2026-06-20T20:14:51.674Z
+📰 Olvídate de un nuevo PC: lo nuevo de Windows 11 hará que tu Photoshop vaya más rápido
+La promesa de un Windows 11 más rápido no solo considera al sistema operativo y las aplicaciones que vienen instaladas por defecto. Microsoft ha hecho equipo con Adobe y ambos encontraron la forma de aumentar el rendimiento de Photoshop de …
+https://hipertextual.com/software/photoshop-windows11-mejora-rendimiento-microsoft-adobe/
+🗓️ 2026-06-20 • 🏷️ hipertextual.com
