@@ -4984,3 +4984,19 @@ https://www.muycomputer.com/2026/06/19/msi-presenta-el-pc-para-juegos-mag-infini
 🗓️ 2026-06-19 • 🏷️ muycomputer.com
 
 ---
+## 2026-06-20
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 NotebookLM se prepara para recibir la mejor función de Gemini: ahora no dejarás de usarlo
+NotebookLM está preparando una actualización que integrará una de las características más útiles de Gemini. A unas semanas de que Google lanzara nuevas funciones, la popular herramienta de IA recibirá el salto hacia la inteligencia personal…
+https://hipertextual.com/inteligencia-artificial/notebooklm-inteligencia-personal-edicion-notas-ia/
+🗓️ 2026-06-19 • 🏷️ hipertextual.com
+
+---

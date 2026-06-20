@@ -5611,3 +5611,9 @@ https://hipertextual.com/cine-television/amazon-abandona-artificial-luca-guadagn
 Microsoft no pierde la costumbre de romper algo en cada actualización de seguridad de Windows 11. El problema más reciente se está presentando en algunos equipos que instalaron el parche de junio de 2026 y tiene que ver con la Papelera de r…
 https://hipertextual.com/software/actualizacion-junio-2026-windows-fallo-papelera-reciclaje/
 🗓️ 2026-06-19 • 🏷️ hipertextual.com
+
+### 2026-06-20T05:14:22.735Z
+📰 NotebookLM se prepara para recibir la mejor función de Gemini: ahora no dejarás de usarlo
+NotebookLM está preparando una actualización que integrará una de las características más útiles de Gemini. A unas semanas de que Google lanzara nuevas funciones, la popular herramienta de IA recibirá el salto hacia la inteligencia personal…
+https://hipertextual.com/inteligencia-artificial/notebooklm-inteligencia-personal-edicion-notas-ia/
+🗓️ 2026-06-19 • 🏷️ hipertextual.com
