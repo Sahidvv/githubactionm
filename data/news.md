@@ -5641,3 +5641,9 @@ https://hipertextual.com/cine-television/5-veces-que-pixar-hizo-historia-y-cambi
 Toy Story 5 demuestra algo que puede resultar sorprendente. Algunas sagas pueden extenderse en el tiempo sin perder calidad y su capacidad para emocionar. Algo que la larga franquicia, cuya primera película se estrenó en 1995, demuestra de …
 https://hipertextual.com/cine-television/5-razones-esenciales-por-las-que-si-es-necesaria-toy-story-6/
 🗓️ 2026-06-21 • 🏷️ hipertextual.com
+
+### 2026-06-21T20:24:42.593Z
+📰 El buscador de Windows 11 vuelve a centrarse en lo importante
+Windows 11 podría estar a punto de recibir una de las mejoras más importantes y, al mismo tiempo, más sencillas que ha visto su buscador en años. Microsoft está probando una nueva opción que permite eliminar completamente los resultados web…
+https://www.muycomputer.com/2026/06/21/el-buscador-de-windows-11-vuelve-a-centrarse-en-lo-importante/
+🗓️ 2026-06-21 • 🏷️ muycomputer.com
