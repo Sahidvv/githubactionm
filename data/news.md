@@ -5629,3 +5629,9 @@ https://hipertextual.com/cine-television/la-serie-de-vampiros-que-tiene-100-de-c
 La promesa de un Windows 11 más rápido no solo considera al sistema operativo y las aplicaciones que vienen instaladas por defecto. Microsoft ha hecho equipo con Adobe y ambos encontraron la forma de aumentar el rendimiento de Photoshop de …
 https://hipertextual.com/software/photoshop-windows11-mejora-rendimiento-microsoft-adobe/
 🗓️ 2026-06-20 • 🏷️ hipertextual.com
+
+### 2026-06-21T06:01:36.858Z
+📰 5 veces que Pixar hizo historia y cambió el mundo de la animación
+Con Toy Story 5, Pixar demuestra que su éxito en el cine de animación, a pesar de los altibajos, sigue siendo un punto relevante en la historia del cine. Eso debido a que, desde el estreno de su primera película, Toy Story en 1995, el estud…
+https://hipertextual.com/cine-television/5-veces-que-pixar-hizo-historia-y-cambio-el-mundo-de-la-animacion/
+🗓️ 2026-06-20 • 🏷️ hipertextual.com
