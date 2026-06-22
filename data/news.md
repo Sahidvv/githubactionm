@@ -5647,3 +5647,9 @@ https://hipertextual.com/cine-television/5-razones-esenciales-por-las-que-si-es-
 Windows 11 podría estar a punto de recibir una de las mejoras más importantes y, al mismo tiempo, más sencillas que ha visto su buscador en años. Microsoft está probando una nueva opción que permite eliminar completamente los resultados web…
 https://www.muycomputer.com/2026/06/21/el-buscador-de-windows-11-vuelve-a-centrarse-en-lo-importante/
 🗓️ 2026-06-21 • 🏷️ muycomputer.com
+
+### 2026-06-22T06:29:11.415Z
+📰 HDMI 2.2 ya está en marcha
+HDMI Forum ha dado el pistoletazo de salida para HDMI 2.2, la nueva versión del estándar que llega con grandes mejoras a la hora de transmitir vídeo y audio gracias a un aumento del ancho de banda que alcanzará los 96 Gbps. Ya sabes que HDM…
+https://www.muycomputer.com/2026/06/22/hdmi-2-2-ya-esta-en-marcha/
+🗓️ 2026-06-22 • 🏷️ muycomputer.com

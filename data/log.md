@@ -5016,3 +5016,19 @@ https://hipertextual.com/cine-television/5-veces-que-pixar-hizo-historia-y-cambi
 🗓️ 2026-06-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-22
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 HDMI 2.2 ya está en marcha
+HDMI Forum ha dado el pistoletazo de salida para HDMI 2.2, la nueva versión del estándar que llega con grandes mejoras a la hora de transmitir vídeo y audio gracias a un aumento del ancho de banda que alcanzará los 96 Gbps. Ya sabes que HDM…
+https://www.muycomputer.com/2026/06/22/hdmi-2-2-ya-esta-en-marcha/
+🗓️ 2026-06-22 • 🏷️ muycomputer.com
+
+---
