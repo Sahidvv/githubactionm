@@ -5653,3 +5653,9 @@ https://www.muycomputer.com/2026/06/21/el-buscador-de-windows-11-vuelve-a-centra
 HDMI Forum ha dado el pistoletazo de salida para HDMI 2.2, la nueva versión del estándar que llega con grandes mejoras a la hora de transmitir vídeo y audio gracias a un aumento del ancho de banda que alcanzará los 96 Gbps. Ya sabes que HDM…
 https://www.muycomputer.com/2026/06/22/hdmi-2-2-ya-esta-en-marcha/
 🗓️ 2026-06-22 • 🏷️ muycomputer.com
+
+### 2026-06-22T17:39:34.565Z
+📰 Windows 11 tiene una nueva función oculta que mejora el rendimiento como nunca antes
+La búsqueda de archivos es una de las funciones más lentas de Windows. Desde hace décadas, los usuarios han tenido que lidiar con un sistema que tarda demasiado en encontrar documentos y que a veces satura las consultas con resultados de la…
+https://hipertextual.com/software/windows-11-funcion-oculta-busqueda/
+🗓️ 2026-06-22 • 🏷️ hipertextual.com
