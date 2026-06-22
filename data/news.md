@@ -5659,3 +5659,9 @@ https://www.muycomputer.com/2026/06/22/hdmi-2-2-ya-esta-en-marcha/
 La búsqueda de archivos es una de las funciones más lentas de Windows. Desde hace décadas, los usuarios han tenido que lidiar con un sistema que tarda demasiado en encontrar documentos y que a veces satura las consultas con resultados de la…
 https://hipertextual.com/software/windows-11-funcion-oculta-busqueda/
 🗓️ 2026-06-22 • 🏷️ hipertextual.com
+
+### 2026-06-22T21:31:03.148Z
+📰 Pésimas noticias para el iPhone 17: la subida de precios sería inminente
+Es un hecho que Apple encarecerá sus principales productos muy pronto. El propio Tim Cook reconoció días atrás que la situación, impulsada por la escasez de componentes cruciales como la RAM, es insostenible. Y nuevos rumores apuntan a que …
+https://hipertextual.com/apple/subida-de-precio-iphone-17-junio/
+🗓️ 2026-06-22 • 🏷️ hipertextual.com
