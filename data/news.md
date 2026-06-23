@@ -5671,3 +5671,9 @@ https://hipertextual.com/apple/subida-de-precio-iphone-17-junio/
 OpenAI ha aprovechado la crisis que vive Anthropic tras el bloqueo de Claude Fable para lanzar una poderosa IA enfocada en ciberseguridad. La compañía lanzó GPT-5.5 Cyber, un modelo capaz de detectar y corregir fallos de seguridad en softwa…
 https://hipertextual.com/inteligencia-artificial/gpt-5-5-cyber-openai-ciberseguridad/
 🗓️ 2026-06-22 • 🏷️ hipertextual.com
+
+### 2026-06-23T15:48:27.318Z
+📰 La Nintendo 64 cumple 30 años: celebrando a una de las consolas más icónicas de la historia
+La Nintendo 64 es una de las consolas de videojuegos más icónicas de la historia y está celebrando ni más ni menos que 30 años de vida. El 23 de junio de 1996, debutó en Japón e inició un periplo que más tarde permitió su desembarco en Nort…
+https://hipertextual.com/videojuegos/nintendo-64-30-anos-historia/
+🗓️ 2026-06-23 • 🏷️ hipertextual.com
