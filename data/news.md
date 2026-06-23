@@ -5677,3 +5677,9 @@ https://hipertextual.com/inteligencia-artificial/gpt-5-5-cyber-openai-cibersegur
 La Nintendo 64 es una de las consolas de videojuegos más icónicas de la historia y está celebrando ni más ni menos que 30 años de vida. El 23 de junio de 1996, debutó en Japón e inició un periplo que más tarde permitió su desembarco en Nort…
 https://hipertextual.com/videojuegos/nintendo-64-30-anos-historia/
 🗓️ 2026-06-23 • 🏷️ hipertextual.com
+
+### 2026-06-23T20:59:49.228Z
+📰 Mark Zuckerberg quiere lanzar su propio Polymarket, con un gran pero
+Mark Zuckerberg quiere su tajada de los mercados de predicciones, un segmento en marcado crecimiento y que hoy dominan dos plataformas: Polymarket y Kalshi. Según reporta The New York Times, el jefe de Meta ha encomendado el desarrollo de u…
+https://hipertextual.com/internet/meta-mark-zuckerberg-mercado-de-predicciones-polymarket-kalshi/
+🗓️ 2026-06-23 • 🏷️ hipertextual.com
