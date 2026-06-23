@@ -5665,3 +5665,9 @@ https://hipertextual.com/software/windows-11-funcion-oculta-busqueda/
 Es un hecho que Apple encarecerá sus principales productos muy pronto. El propio Tim Cook reconoció días atrás que la situación, impulsada por la escasez de componentes cruciales como la RAM, es insostenible. Y nuevos rumores apuntan a que …
 https://hipertextual.com/apple/subida-de-precio-iphone-17-junio/
 🗓️ 2026-06-22 • 🏷️ hipertextual.com
+
+### 2026-06-23T05:01:01.611Z
+📰 OpenAI lanza GPT-5.5 Cyber, una poderosa IA que detecta y corrige vulnerabilidades de software
+OpenAI ha aprovechado la crisis que vive Anthropic tras el bloqueo de Claude Fable para lanzar una poderosa IA enfocada en ciberseguridad. La compañía lanzó GPT-5.5 Cyber, un modelo capaz de detectar y corregir fallos de seguridad en softwa…
+https://hipertextual.com/inteligencia-artificial/gpt-5-5-cyber-openai-ciberseguridad/
+🗓️ 2026-06-22 • 🏷️ hipertextual.com

@@ -5032,3 +5032,19 @@ https://www.muycomputer.com/2026/06/22/hdmi-2-2-ya-esta-en-marcha/
 🗓️ 2026-06-22 • 🏷️ muycomputer.com
 
 ---
+## 2026-06-23
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 OpenAI lanza GPT-5.5 Cyber, una poderosa IA que detecta y corrige vulnerabilidades de software
+OpenAI ha aprovechado la crisis que vive Anthropic tras el bloqueo de Claude Fable para lanzar una poderosa IA enfocada en ciberseguridad. La compañía lanzó GPT-5.5 Cyber, un modelo capaz de detectar y corregir fallos de seguridad en softwa…
+https://hipertextual.com/inteligencia-artificial/gpt-5-5-cyber-openai-ciberseguridad/
+🗓️ 2026-06-22 • 🏷️ hipertextual.com
+
+---
