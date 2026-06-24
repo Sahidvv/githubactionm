@@ -5695,3 +5695,9 @@ https://elpais.com/tecnologia/2026-06-24/mama-quieres-mas-al-telefono-que-a-mi-l
 OpenAI acaba de presentar Jalapeño, su primer chip de inteligencia artificial avanzado de diseño y desarrollo propio. El componente es fruto de la alianza entre la startup que lidera Sam Altman y Broadcom, y busca posicionarse como una solu…
 https://hipertextual.com/inteligencia-artificial/openai-chip-jalapeno-broadcom/
 🗓️ 2026-06-24 • 🏷️ hipertextual.com
+
+### 2026-06-24T20:48:13.018Z
+📰 Google actualiza Gemini 3.5 Flash y añade la función más pedida por los programadores
+Gemini 3.5 Flash es la IA más nueva de Google, y una de las más capaces en su catálogo, y acaba de sumar una característica clave: Computer Use. Esta función, que permite crear agentes capaces de ver, razonar y concretar acciones de forma a…
+https://hipertextual.com/inteligencia-artificial/gemini-3-5-flash-suma-computer-use-forma-nativa/
+🗓️ 2026-06-24 • 🏷️ hipertextual.com
