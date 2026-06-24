@@ -5683,3 +5683,9 @@ https://hipertextual.com/videojuegos/nintendo-64-30-anos-historia/
 Mark Zuckerberg quiere su tajada de los mercados de predicciones, un segmento en marcado crecimiento y que hoy dominan dos plataformas: Polymarket y Kalshi. Según reporta The New York Times, el jefe de Meta ha encomendado el desarrollo de u…
 https://hipertextual.com/internet/meta-mark-zuckerberg-mercado-de-predicciones-polymarket-kalshi/
 🗓️ 2026-06-23 • 🏷️ hipertextual.com
+
+### 2026-06-24T05:01:50.018Z
+📰 “Mamá, ¿quieres más al teléfono que a mí?”: los menores con padres enganchados al móvil son más inseguros
+Un estudio destaca que la ejemplaridad de los progenitores con el teléfono repercute directamente en la salud mental de los pequeños
+https://elpais.com/tecnologia/2026-06-24/mama-quieres-mas-al-telefono-que-a-mi-los-menores-con-padres-enganchados-al-movil-son-mas-inseguros.html
+🗓️ 2026-06-24 • 🏷️ elpais.com

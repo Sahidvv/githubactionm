@@ -5048,3 +5048,19 @@ https://hipertextual.com/inteligencia-artificial/gpt-5-5-cyber-openai-cibersegur
 🗓️ 2026-06-22 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-24
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 “Mamá, ¿quieres más al teléfono que a mí?”: los menores con padres enganchados al móvil son más inseguros
+Un estudio destaca que la ejemplaridad de los progenitores con el teléfono repercute directamente en la salud mental de los pequeños
+https://elpais.com/tecnologia/2026-06-24/mama-quieres-mas-al-telefono-que-a-mi-los-menores-con-padres-enganchados-al-movil-son-mas-inseguros.html
+🗓️ 2026-06-24 • 🏷️ elpais.com
+
+---
