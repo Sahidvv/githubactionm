@@ -5689,3 +5689,9 @@ https://hipertextual.com/internet/meta-mark-zuckerberg-mercado-de-predicciones-p
 Un estudio destaca que la ejemplaridad de los progenitores con el teléfono repercute directamente en la salud mental de los pequeños
 https://elpais.com/tecnologia/2026-06-24/mama-quieres-mas-al-telefono-que-a-mi-los-menores-con-padres-enganchados-al-movil-son-mas-inseguros.html
 🗓️ 2026-06-24 • 🏷️ elpais.com
+
+### 2026-06-24T15:32:34.203Z
+📰 Que tiemble NVIDIA: OpenAI presenta Jalapeño, su primer chip de IA de diseño y desarrollo propio
+OpenAI acaba de presentar Jalapeño, su primer chip de inteligencia artificial avanzado de diseño y desarrollo propio. El componente es fruto de la alianza entre la startup que lidera Sam Altman y Broadcom, y busca posicionarse como una solu…
+https://hipertextual.com/inteligencia-artificial/openai-chip-jalapeno-broadcom/
+🗓️ 2026-06-24 • 🏷️ hipertextual.com
