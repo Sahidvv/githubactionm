@@ -5713,3 +5713,9 @@ https://elpais.com/tecnologia/2026-06-25/asi-te-afecta-sin-darte-cuenta-el-algor
 La aclamada y multipremiada serie The Bear llega a su fin con el estreno de la quinta temporada. La serie de FX enamoró al mundo hace ya cuatro años cuando en 2022 lanzó su primera temporada. Con un caótico restaurante como escenario, el pr…
 https://hipertextual.com/cine-television/a-que-hora-se-estrena-the-bear-temporada-5-en-disney/
 🗓️ 2026-06-25 • 🏷️ hipertextual.com
+
+### 2026-06-25T20:57:00.838Z
+📰 &#8216;Donkey&#8217;, el spin-off de &#8216;Shrek&#8217; basado en Asno (Burro), es oficial y tiene fecha de estreno
+Asno (Burro en Latinoamérica), el fiel compañero de Shrek en la gran pantalla, se prepara para su primera aventura en solitario. DreamWorks y Universal han confirmado Donkey, un spin-off que convertirá al personaje titular en el protagonist…
+https://hipertextual.com/cine-television/donkey-spin-off-asno-burro-shrek-2028/
+🗓️ 2026-06-25 • 🏷️ hipertextual.com
