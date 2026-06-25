@@ -5064,3 +5064,19 @@ https://elpais.com/tecnologia/2026-06-24/mama-quieres-mas-al-telefono-que-a-mi-l
 🗓️ 2026-06-24 • 🏷️ elpais.com
 
 ---
+## 2026-06-25
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Así te afecta (sin darte cuenta) el algoritmo de TikTok: cómo decide lo que ves y qué puedes hacer para recuperar el control
+A diferencia de otras redes sociales, tiene en cuenta nuestro comportamiento (qué vídeos vemos completos, en cuáles nos detenemos…) y no tanto las cuentas que seguimos
+https://elpais.com/tecnologia/2026-06-25/asi-te-afecta-sin-darte-cuenta-el-algoritmo-de-tiktok-como-decide-lo-que-ves-y-que-puedes-hacer-para-recuperar-el-control.html
+🗓️ 2026-06-25 • 🏷️ elpais.com
+
+---

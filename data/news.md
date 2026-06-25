@@ -5701,3 +5701,9 @@ https://hipertextual.com/inteligencia-artificial/openai-chip-jalapeno-broadcom/
 Gemini 3.5 Flash es la IA más nueva de Google, y una de las más capaces en su catálogo, y acaba de sumar una característica clave: Computer Use. Esta función, que permite crear agentes capaces de ver, razonar y concretar acciones de forma a…
 https://hipertextual.com/inteligencia-artificial/gemini-3-5-flash-suma-computer-use-forma-nativa/
 🗓️ 2026-06-24 • 🏷️ hipertextual.com
+
+### 2026-06-25T05:05:29.399Z
+📰 Así te afecta (sin darte cuenta) el algoritmo de TikTok: cómo decide lo que ves y qué puedes hacer para recuperar el control
+A diferencia de otras redes sociales, tiene en cuenta nuestro comportamiento (qué vídeos vemos completos, en cuáles nos detenemos…) y no tanto las cuentas que seguimos
+https://elpais.com/tecnologia/2026-06-25/asi-te-afecta-sin-darte-cuenta-el-algoritmo-de-tiktok-como-decide-lo-que-ves-y-que-puedes-hacer-para-recuperar-el-control.html
+🗓️ 2026-06-25 • 🏷️ elpais.com
