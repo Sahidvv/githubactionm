@@ -5707,3 +5707,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-3-5-flash-suma-computer-
 A diferencia de otras redes sociales, tiene en cuenta nuestro comportamiento (qué vídeos vemos completos, en cuáles nos detenemos…) y no tanto las cuentas que seguimos
 https://elpais.com/tecnologia/2026-06-25/asi-te-afecta-sin-darte-cuenta-el-algoritmo-de-tiktok-como-decide-lo-que-ves-y-que-puedes-hacer-para-recuperar-el-control.html
 🗓️ 2026-06-25 • 🏷️ elpais.com
+
+### 2026-06-25T15:38:53.437Z
+📰 ¿A qué hora se estrena &#8216;The Bear&#8217; temporada 5 en Disney+?
+La aclamada y multipremiada serie The Bear llega a su fin con el estreno de la quinta temporada. La serie de FX enamoró al mundo hace ya cuatro años cuando en 2022 lanzó su primera temporada. Con un caótico restaurante como escenario, el pr…
+https://hipertextual.com/cine-television/a-que-hora-se-estrena-the-bear-temporada-5-en-disney/
+🗓️ 2026-06-25 • 🏷️ hipertextual.com
