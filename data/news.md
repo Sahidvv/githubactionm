@@ -5725,3 +5725,9 @@ https://hipertextual.com/cine-television/donkey-spin-off-asno-burro-shrek-2028/
 El rover Perseverance de la NASA sigue acumulando pruebas sobre el pasado del planeta rojo. Las últimas observaciones científicas confirman el hallazgo más grande de materia orgánica detectado hasta ahora en Marte. Según los reportes, el ve…
 https://hipertextual.com/ciencia/perseverance-carbono-organico-marte-jezero/
 🗓️ 2026-06-25 • 🏷️ hipertextual.com
+
+### 2026-06-26T15:23:17.189Z
+📰 El final de &#8216;Supergirl&#8217;, explicado: ¿quién muere y cómo prepara el futuro del &#8216;Universo DC&#8217;?
+ATENCIÓN: El artículo contiene SPOILERS de Supergirl. El estreno de Supergirl, la segunda película del Universo DC, ha dejado un final lleno de acción que cambia para siempre el destino del personaje en el futuro de la saga. La cinta nos pr…
+https://hipertextual.com/cine-television/final-explicado-supergirl-quien-muere-y-futuro-del-universo-dc/
+🗓️ 2026-06-26 • 🏷️ hipertextual.com
