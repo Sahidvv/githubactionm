@@ -5731,3 +5731,9 @@ https://hipertextual.com/ciencia/perseverance-carbono-organico-marte-jezero/
 ATENCIÓN: El artículo contiene SPOILERS de Supergirl. El estreno de Supergirl, la segunda película del Universo DC, ha dejado un final lleno de acción que cambia para siempre el destino del personaje en el futuro de la saga. La cinta nos pr…
 https://hipertextual.com/cine-television/final-explicado-supergirl-quien-muere-y-futuro-del-universo-dc/
 🗓️ 2026-06-26 • 🏷️ hipertextual.com
+
+### 2026-06-26T20:46:22.349Z
+📰 El MacBook con pantalla táctil ya tiene fecha de lanzamiento y una función que nadie esperaba
+El MacBook táctil ya tiene fecha, chips confirmados y un diseño nuevo. Tras años de rechazar la idea de lanzar un portátil con pantalla táctil, Apple ha doblado las manos y se prepara para lanzar su primer dispositivo. El nuevo MacBook lleg…
+https://hipertextual.com/apple/apple-macbook-pantalla-tactil-chip-m5-m7/
+🗓️ 2026-06-26 • 🏷️ hipertextual.com
