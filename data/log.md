@@ -5080,3 +5080,19 @@ https://elpais.com/tecnologia/2026-06-25/asi-te-afecta-sin-darte-cuenta-el-algor
 🗓️ 2026-06-25 • 🏷️ elpais.com
 
 ---
+## 2026-06-26
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 La NASA encuentra una nueva prueba de que Marte pudo albergar vida
+El rover Perseverance de la NASA sigue acumulando pruebas sobre el pasado del planeta rojo. Las últimas observaciones científicas confirman el hallazgo más grande de materia orgánica detectado hasta ahora en Marte. Según los reportes, el ve…
+https://hipertextual.com/ciencia/perseverance-carbono-organico-marte-jezero/
+🗓️ 2026-06-25 • 🏷️ hipertextual.com
+
+---

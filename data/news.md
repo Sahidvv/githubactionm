@@ -5719,3 +5719,9 @@ https://hipertextual.com/cine-television/a-que-hora-se-estrena-the-bear-temporad
 Asno (Burro en Latinoamérica), el fiel compañero de Shrek en la gran pantalla, se prepara para su primera aventura en solitario. DreamWorks y Universal han confirmado Donkey, un spin-off que convertirá al personaje titular en el protagonist…
 https://hipertextual.com/cine-television/donkey-spin-off-asno-burro-shrek-2028/
 🗓️ 2026-06-25 • 🏷️ hipertextual.com
+
+### 2026-06-26T05:08:28.979Z
+📰 La NASA encuentra una nueva prueba de que Marte pudo albergar vida
+El rover Perseverance de la NASA sigue acumulando pruebas sobre el pasado del planeta rojo. Las últimas observaciones científicas confirman el hallazgo más grande de materia orgánica detectado hasta ahora en Marte. Según los reportes, el ve…
+https://hipertextual.com/ciencia/perseverance-carbono-organico-marte-jezero/
+🗓️ 2026-06-25 • 🏷️ hipertextual.com
