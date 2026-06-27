@@ -5749,3 +5749,9 @@ https://elpais.com/tecnologia/2026-06-27/con-13-palabras-manipulas-los-resultado
 Obsesión podría parecer una película de terror sencilla. En especial, porque toda su premisa se basa en la idea de un objeto maldito que desencadena la peor violencia. Un tropo que no es ni novedoso ni innovador en el género del terror reci…
 https://hipertextual.com/cine-television/obsesion-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-un-fenomeno-del-terror-a-la-altura-de-las-expectativas/
 🗓️ 2026-06-27 • 🏷️ hipertextual.com
+
+### 2026-06-27T20:08:00.972Z
+📰 Argentina elimina la ley que prohibía &#8216;Carmageddon&#8217;, uno de los juegos más polémicos de los noventa. Solo les ha llevado 28 años
+Carmageddon es de esos juegos que quedaron en la historia más por las polémicas a su alrededor, que por sus cualidades como producto. El título de Stainless Games debutó en 1997 con una premisa que lo diferenciaba bastante de otros juegos d…
+https://hipertextual.com/videojuegos/argentina-eliminan-ley-prohibia-carmageddon-buenos-aires-1998/
+🗓️ 2026-06-27 • 🏷️ hipertextual.com
