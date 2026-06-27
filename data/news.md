@@ -5737,3 +5737,9 @@ https://hipertextual.com/cine-television/final-explicado-supergirl-quien-muere-y
 El MacBook táctil ya tiene fecha, chips confirmados y un diseño nuevo. Tras años de rechazar la idea de lanzar un portátil con pantalla táctil, Apple ha doblado las manos y se prepara para lanzar su primer dispositivo. El nuevo MacBook lleg…
 https://hipertextual.com/apple/apple-macbook-pantalla-tactil-chip-m5-m7/
 🗓️ 2026-06-26 • 🏷️ hipertextual.com
+
+### 2026-06-27T04:53:18.075Z
+📰 Con 13 palabras manipulas los resultados: las mejores pistas para mejorar la búsqueda en internet con IA
+La tradicional batalla para colocar una web la primera en los resultados de Google, el SEO, da paso a una estrategia que requiere trucos nuevos
+https://elpais.com/tecnologia/2026-06-27/con-13-palabras-manipulas-los-resultados-las-mejores-pistas-para-mejorar-la-busqueda-en-internet-con-ia.html
+🗓️ 2026-06-27 • 🏷️ elpais.com

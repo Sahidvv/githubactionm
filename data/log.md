@@ -5096,3 +5096,19 @@ https://hipertextual.com/ciencia/perseverance-carbono-organico-marte-jezero/
 🗓️ 2026-06-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-27
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Con 13 palabras manipulas los resultados: las mejores pistas para mejorar la búsqueda en internet con IA
+La tradicional batalla para colocar una web la primera en los resultados de Google, el SEO, da paso a una estrategia que requiere trucos nuevos
+https://elpais.com/tecnologia/2026-06-27/con-13-palabras-manipulas-los-resultados-las-mejores-pistas-para-mejorar-la-busqueda-en-internet-con-ia.html
+🗓️ 2026-06-27 • 🏷️ elpais.com
+
+---
