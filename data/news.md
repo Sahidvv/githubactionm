@@ -5743,3 +5743,9 @@ https://hipertextual.com/apple/apple-macbook-pantalla-tactil-chip-m5-m7/
 La tradicional batalla para colocar una web la primera en los resultados de Google, el SEO, da paso a una estrategia que requiere trucos nuevos
 https://elpais.com/tecnologia/2026-06-27/con-13-palabras-manipulas-los-resultados-las-mejores-pistas-para-mejorar-la-busqueda-en-internet-con-ia.html
 🗓️ 2026-06-27 • 🏷️ elpais.com
+
+### 2026-06-27T14:41:39.793Z
+📰 ‘Obsesión’ (★★★★☆) es un fenómeno del terror a la altura de las expectativas
+Obsesión podría parecer una película de terror sencilla. En especial, porque toda su premisa se basa en la idea de un objeto maldito que desencadena la peor violencia. Un tropo que no es ni novedoso ni innovador en el género del terror reci…
+https://hipertextual.com/cine-television/obsesion-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-un-fenomeno-del-terror-a-la-altura-de-las-expectativas/
+🗓️ 2026-06-27 • 🏷️ hipertextual.com
