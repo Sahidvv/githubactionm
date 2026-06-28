@@ -5112,3 +5112,19 @@ https://elpais.com/tecnologia/2026-06-27/con-13-palabras-manipulas-los-resultado
 🗓️ 2026-06-27 • 🏷️ elpais.com
 
 ---
+## 2026-06-28
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La película de terror sorprendió, que arrasó el año pasado y que puedes ver en streaming
+El año pasado, una película terrorífica e inclasificable causó sensación en Cannes. Y ahora puedes verla en Movistar+. Se trata de Alpha, escrita y dirigida por la aclamada cineasta francesa Julia Ducournau. Un desgarrador drama de terror c…
+https://hipertextual.com/cine-television/la-pelicula-de-terror-sorprendio-que-arraso-el-ano-pasado-y-que-puedes-ver-en-streaming/
+🗓️ 2026-06-27 • 🏷️ hipertextual.com
+
+---

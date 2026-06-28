@@ -5755,3 +5755,9 @@ https://hipertextual.com/cine-television/obsesion-%e2%98%85%e2%98%85%e2%98%85%e2
 Carmageddon es de esos juegos que quedaron en la historia más por las polémicas a su alrededor, que por sus cualidades como producto. El título de Stainless Games debutó en 1997 con una premisa que lo diferenciaba bastante de otros juegos d…
 https://hipertextual.com/videojuegos/argentina-eliminan-ley-prohibia-carmageddon-buenos-aires-1998/
 🗓️ 2026-06-27 • 🏷️ hipertextual.com
+
+### 2026-06-28T05:17:03.001Z
+📰 La película de terror sorprendió, que arrasó el año pasado y que puedes ver en streaming
+El año pasado, una película terrorífica e inclasificable causó sensación en Cannes. Y ahora puedes verla en Movistar+. Se trata de Alpha, escrita y dirigida por la aclamada cineasta francesa Julia Ducournau. Un desgarrador drama de terror c…
+https://hipertextual.com/cine-television/la-pelicula-de-terror-sorprendio-que-arraso-el-ano-pasado-y-que-puedes-ver-en-streaming/
+🗓️ 2026-06-27 • 🏷️ hipertextual.com
