@@ -5767,3 +5767,9 @@ https://hipertextual.com/cine-television/la-pelicula-de-terror-sorprendio-que-ar
 Uno de los accesorios que más busca la gente para su iPhone o cualquier otro tipo de móvil, es una batería externa o power bank. Son especialmente útiles para momentos en los que estás todo el día fuera de casa o situaciones en las que nece…
 https://hipertextual.com/mobile/belkin-lanza-la-bateria-perfecta-para-tu-iphone-mas-capacidad-que-la-magsafe-de-apple-con-pantalla-y-mucho-mas-barata/
 🗓️ 2026-06-28 • 🏷️ hipertextual.com
+
+### 2026-06-28T20:13:56.317Z
+📰 Windows 11 estrena una función de recuperación muy útil, pero tiene un precio
+Todos hemos sufrido alguna vez una actualización de Windows que no ha salido como esperábamos. En el mejor de los casos, hablamos de pequeños errores o problemas de compatibilidad. En el peor, de un sistema incapaz de arrancar que nos oblig…
+https://www.muycomputer.com/2026/06/28/windows-11-estrena-una-funcion-de-recuperacion-muy-util-pero-tiene-un-precio/
+🗓️ 2026-06-28 • 🏷️ muycomputer.com
