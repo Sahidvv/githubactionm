@@ -5761,3 +5761,9 @@ https://hipertextual.com/videojuegos/argentina-eliminan-ley-prohibia-carmageddon
 El año pasado, una película terrorífica e inclasificable causó sensación en Cannes. Y ahora puedes verla en Movistar+. Se trata de Alpha, escrita y dirigida por la aclamada cineasta francesa Julia Ducournau. Un desgarrador drama de terror c…
 https://hipertextual.com/cine-television/la-pelicula-de-terror-sorprendio-que-arraso-el-ano-pasado-y-que-puedes-ver-en-streaming/
 🗓️ 2026-06-27 • 🏷️ hipertextual.com
+
+### 2026-06-28T14:48:34.636Z
+📰 Belkin lanza la batería perfecta para tu iPhone: más capacidad que la MagSafe de Apple, con pantalla y mucho más barata
+Uno de los accesorios que más busca la gente para su iPhone o cualquier otro tipo de móvil, es una batería externa o power bank. Son especialmente útiles para momentos en los que estás todo el día fuera de casa o situaciones en las que nece…
+https://hipertextual.com/mobile/belkin-lanza-la-bateria-perfecta-para-tu-iphone-mas-capacidad-que-la-magsafe-de-apple-con-pantalla-y-mucho-mas-barata/
+🗓️ 2026-06-28 • 🏷️ hipertextual.com
