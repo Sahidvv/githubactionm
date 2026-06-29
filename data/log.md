@@ -5128,3 +5128,19 @@ https://hipertextual.com/cine-television/la-pelicula-de-terror-sorprendio-que-ar
 🗓️ 2026-06-27 • 🏷️ hipertextual.com
 
 ---
+## 2026-06-29
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Los mejores contenidos de la semana en MuyComputer (DXXX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: SCUF Omega análisis completo. Presentado el pasado …
+https://www.muycomputer.com/2026/06/29/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxx/
+🗓️ 2026-06-28 • 🏷️ muycomputer.com
+
+---
