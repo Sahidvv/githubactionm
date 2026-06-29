@@ -5785,3 +5785,9 @@ https://www.muycomputer.com/2026/06/29/los-mejores-contenidos-de-la-semana-en-mu
 La cuarta temporada de From acaba de estrenar su capítulo y final y, por ello, los fans ya solo piensan en una hipotética temporada 5. La exitosa serie de MGM+, disponible en España a través de HBO Max, se ha convertido en uno de los estren…
 https://hipertextual.com/cine-television/habra-temporada-5-de-from-esto-es-todo-lo-que-sabemos/
 🗓️ 2026-06-29 • 🏷️ hipertextual.com
+
+### 2026-06-29T20:48:29.366Z
+📰 Alerta máxima en Apple: fotos y datos del iPhone 18 Pro se filtran tras el hackeo a un proveedor
+Un dolor de cabeza inesperado se le ha presentado a Apple tras un reciente hackeo a la firma india Tata, uno de sus proveedores más importantes. Días atrás la firma en cuestión fue víctima de un ataque con ransomware que derivó en la filtra…
+https://hipertextual.com/apple/filtracion-fotos-datos-iphone-18-pro-hackeo-tata/
+🗓️ 2026-06-29 • 🏷️ hipertextual.com
