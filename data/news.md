@@ -5803,3 +5803,9 @@ https://elpais.com/tecnologia/2026-06-30/cuentas-que-difunden-contenido-de-abuso
 Si tienes un PC con Windows 11, Microsoft está a punto de dejar sin soporte a una versión que debutó en 2024. Para ser más precisos, los de Redmond han comenzado a notificar la decisión a quienes actualmente están ejecutando Windows 11 24H2…
 https://hipertextual.com/software/microsoft-deja-sin-soporte-windows-11-24h2/
 🗓️ 2026-06-30 • 🏷️ hipertextual.com
+
+### 2026-06-30T20:56:34.577Z
+📰 Anthropic lanza Claude Sonnet 5, una IA casi tan buena como Opus 4.8, pero más barata
+Anthropic acaba de actualizar su catálogo con Claude Sonnet 5, una nueva IA que destaca por ser casi tan buena como Opus 4.8, pero con un precio más bajo. El modelo ya se encuentra disponible tanto en las apps de Claude como a través de la …
+https://hipertextual.com/inteligencia-artificial/anthropic-lanza-claude-sonnet-5/
+🗓️ 2026-06-30 • 🏷️ hipertextual.com
