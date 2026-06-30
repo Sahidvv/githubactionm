@@ -5144,3 +5144,19 @@ https://www.muycomputer.com/2026/06/29/los-mejores-contenidos-de-la-semana-en-mu
 🗓️ 2026-06-28 • 🏷️ muycomputer.com
 
 ---
+## 2026-06-30
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Cuentas que difunden contenido de abuso infantil inundan algunos ‘hashtags’ de X
+Los delincuentes siguen usando la antigua Twitter para comerciar con pornografía con menores pese a que Elon Musk aseguró cuando la compró que acabaría con esta lacra
+https://elpais.com/tecnologia/2026-06-30/cuentas-que-difunden-contenido-de-abuso-infantil-inundan-algunos-hashtags-de-x.html
+🗓️ 2026-06-30 • 🏷️ elpais.com
+
+---

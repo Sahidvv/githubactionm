@@ -5791,3 +5791,9 @@ https://hipertextual.com/cine-television/habra-temporada-5-de-from-esto-es-todo-
 Un dolor de cabeza inesperado se le ha presentado a Apple tras un reciente hackeo a la firma india Tata, uno de sus proveedores más importantes. Días atrás la firma en cuestión fue víctima de un ataque con ransomware que derivó en la filtra…
 https://hipertextual.com/apple/filtracion-fotos-datos-iphone-18-pro-hackeo-tata/
 🗓️ 2026-06-29 • 🏷️ hipertextual.com
+
+### 2026-06-30T05:03:48.363Z
+📰 Cuentas que difunden contenido de abuso infantil inundan algunos ‘hashtags’ de X
+Los delincuentes siguen usando la antigua Twitter para comerciar con pornografía con menores pese a que Elon Musk aseguró cuando la compró que acabaría con esta lacra
+https://elpais.com/tecnologia/2026-06-30/cuentas-que-difunden-contenido-de-abuso-infantil-inundan-algunos-hashtags-de-x.html
+🗓️ 2026-06-30 • 🏷️ elpais.com
