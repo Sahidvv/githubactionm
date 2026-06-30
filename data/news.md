@@ -5797,3 +5797,9 @@ https://hipertextual.com/apple/filtracion-fotos-datos-iphone-18-pro-hackeo-tata/
 Los delincuentes siguen usando la antigua Twitter para comerciar con pornografía con menores pese a que Elon Musk aseguró cuando la compró que acabaría con esta lacra
 https://elpais.com/tecnologia/2026-06-30/cuentas-que-difunden-contenido-de-abuso-infantil-inundan-algunos-hashtags-de-x.html
 🗓️ 2026-06-30 • 🏷️ elpais.com
+
+### 2026-06-30T15:27:38.109Z
+📰 Mucho ojo si usas esta versión de Windows 11: muy pronto se queda sin soporte
+Si tienes un PC con Windows 11, Microsoft está a punto de dejar sin soporte a una versión que debutó en 2024. Para ser más precisos, los de Redmond han comenzado a notificar la decisión a quienes actualmente están ejecutando Windows 11 24H2…
+https://hipertextual.com/software/microsoft-deja-sin-soporte-windows-11-24h2/
+🗓️ 2026-06-30 • 🏷️ hipertextual.com
