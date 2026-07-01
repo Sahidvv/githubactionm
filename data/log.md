@@ -5160,3 +5160,19 @@ https://elpais.com/tecnologia/2026-06-30/cuentas-que-difunden-contenido-de-abuso
 🗓️ 2026-06-30 • 🏷️ elpais.com
 
 ---
+## 2026-07-01
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Tus GIFs en WhatsApp van a cambiar desde hoy, gracias a Google
+Si no puedes mandar GIFs desde tu aplicación de mensajería, no es tu móvil. Google decidió cerrar la API de Tenor, la biblioteca de GIF que utilizan WhatsApp, Discord y otras apps. El gigante tecnológico anunció en su web de soporte que dis…
+https://hipertextual.com/mobile/google-cierra-api-tenor-gifs-apps/
+🗓️ 2026-06-30 • 🏷️ hipertextual.com
+
+---

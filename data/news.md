@@ -5809,3 +5809,9 @@ https://hipertextual.com/software/microsoft-deja-sin-soporte-windows-11-24h2/
 Anthropic acaba de actualizar su catálogo con Claude Sonnet 5, una nueva IA que destaca por ser casi tan buena como Opus 4.8, pero con un precio más bajo. El modelo ya se encuentra disponible tanto en las apps de Claude como a través de la …
 https://hipertextual.com/inteligencia-artificial/anthropic-lanza-claude-sonnet-5/
 🗓️ 2026-06-30 • 🏷️ hipertextual.com
+
+### 2026-07-01T05:21:02.276Z
+📰 Tus GIFs en WhatsApp van a cambiar desde hoy, gracias a Google
+Si no puedes mandar GIFs desde tu aplicación de mensajería, no es tu móvil. Google decidió cerrar la API de Tenor, la biblioteca de GIF que utilizan WhatsApp, Discord y otras apps. El gigante tecnológico anunció en su web de soporte que dis…
+https://hipertextual.com/mobile/google-cierra-api-tenor-gifs-apps/
+🗓️ 2026-06-30 • 🏷️ hipertextual.com
