@@ -5815,3 +5815,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-lanza-claude-sonnet-5
 Si no puedes mandar GIFs desde tu aplicación de mensajería, no es tu móvil. Google decidió cerrar la API de Tenor, la biblioteca de GIF que utilizan WhatsApp, Discord y otras apps. El gigante tecnológico anunció en su web de soporte que dis…
 https://hipertextual.com/mobile/google-cierra-api-tenor-gifs-apps/
 🗓️ 2026-06-30 • 🏷️ hipertextual.com
+
+### 2026-07-01T15:41:35.165Z
+📰 &#8216;Proyecto Salvación&#8217; por fin confirma su fecha de estreno en streaming: dónde y cuándo verla
+Se hizo desear, pero Proyecto Salvación (Project Hail Mary) por fin tiene fecha de estreno en streaming. La epopeya espacial protagonizada por Ryan Gosling y dirigida por Christopher Miller, aclamada por la crítica y un éxito rotundo en taq…
+https://hipertextual.com/cine-television/proyecto-salvacion-fecha-estreno-streaming-prime-video/
+🗓️ 2026-07-01 • 🏷️ hipertextual.com
