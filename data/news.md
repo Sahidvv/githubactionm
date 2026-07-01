@@ -5821,3 +5821,9 @@ https://hipertextual.com/mobile/google-cierra-api-tenor-gifs-apps/
 Se hizo desear, pero Proyecto Salvación (Project Hail Mary) por fin tiene fecha de estreno en streaming. La epopeya espacial protagonizada por Ryan Gosling y dirigida por Christopher Miller, aclamada por la crítica y un éxito rotundo en taq…
 https://hipertextual.com/cine-television/proyecto-salvacion-fecha-estreno-streaming-prime-video/
 🗓️ 2026-07-01 • 🏷️ hipertextual.com
+
+### 2026-07-01T20:47:02.898Z
+📰 Xbox tiene un plan para ayudarte a digitalizar tu colección de juegos en discos
+Microsoft está trabajando en una nueva herramienta para que los usuarios de Xbox puedan digitalizar sus juegos en formato físico. La función en cuestión, que ya se está probando internamente, permitiría a los jugadores convertir toda su col…
+https://hipertextual.com/videojuegos/xbox-plan-digitalizar-juegos-formato-fisico/
+🗓️ 2026-07-01 • 🏷️ hipertextual.com
