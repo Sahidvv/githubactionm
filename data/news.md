@@ -5833,3 +5833,9 @@ https://hipertextual.com/videojuegos/xbox-plan-digitalizar-juegos-formato-fisico
 Elon Musk está desarrollando un dispositivo impulsado por IA para competir con OpenAI. Según los reportes más recientes, SpaceX le mostró a inversores un prototipo de este gadget antes de su salida a la bolsa. El aparato busca integrar la t…
 https://hipertextual.com/inteligencia-artificial/spacex-prototipo-dispositivo-ia-xai/
 🗓️ 2026-07-01 • 🏷️ hipertextual.com
+
+### 2026-07-02T15:15:10.343Z
+📰 ¿Hasta los 90? Hugh Jackman se pronuncia sobre su futuro como Lobezno y su posible reemplazante
+Imaginar a otro actor interpretando a Lobezno en el cine es bastante difícil, considerando que Hugh Jackman lo hizo por más de 20 años. Su regreso como Logan en Deadpool y Lobezno abrió la puerta a seguir dando vida al personaje por tiempo …
+https://hipertextual.com/cine-television/hugh-jackman-futuro-lobezno-posible-reemplazante/
+🗓️ 2026-07-02 • 🏷️ hipertextual.com
