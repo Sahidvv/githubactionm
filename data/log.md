@@ -5176,3 +5176,19 @@ https://hipertextual.com/mobile/google-cierra-api-tenor-gifs-apps/
 🗓️ 2026-06-30 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-02
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 SpaceX prepara un rival para el iPhone impulsado por la IA de Elon Musk
+Elon Musk está desarrollando un dispositivo impulsado por IA para competir con OpenAI. Según los reportes más recientes, SpaceX le mostró a inversores un prototipo de este gadget antes de su salida a la bolsa. El aparato busca integrar la t…
+https://hipertextual.com/inteligencia-artificial/spacex-prototipo-dispositivo-ia-xai/
+🗓️ 2026-07-01 • 🏷️ hipertextual.com
+
+---

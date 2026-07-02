@@ -5827,3 +5827,9 @@ https://hipertextual.com/cine-television/proyecto-salvacion-fecha-estreno-stream
 Microsoft está trabajando en una nueva herramienta para que los usuarios de Xbox puedan digitalizar sus juegos en formato físico. La función en cuestión, que ya se está probando internamente, permitiría a los jugadores convertir toda su col…
 https://hipertextual.com/videojuegos/xbox-plan-digitalizar-juegos-formato-fisico/
 🗓️ 2026-07-01 • 🏷️ hipertextual.com
+
+### 2026-07-02T04:56:47.934Z
+📰 SpaceX prepara un rival para el iPhone impulsado por la IA de Elon Musk
+Elon Musk está desarrollando un dispositivo impulsado por IA para competir con OpenAI. Según los reportes más recientes, SpaceX le mostró a inversores un prototipo de este gadget antes de su salida a la bolsa. El aparato busca integrar la t…
+https://hipertextual.com/inteligencia-artificial/spacex-prototipo-dispositivo-ia-xai/
+🗓️ 2026-07-01 • 🏷️ hipertextual.com
