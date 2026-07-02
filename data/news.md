@@ -5839,3 +5839,9 @@ https://hipertextual.com/inteligencia-artificial/spacex-prototipo-dispositivo-ia
 Imaginar a otro actor interpretando a Lobezno en el cine es bastante difícil, considerando que Hugh Jackman lo hizo por más de 20 años. Su regreso como Logan en Deadpool y Lobezno abrió la puerta a seguir dando vida al personaje por tiempo …
 https://hipertextual.com/cine-television/hugh-jackman-futuro-lobezno-posible-reemplazante/
 🗓️ 2026-07-02 • 🏷️ hipertextual.com
+
+### 2026-07-02T20:18:00.270Z
+📰 Quién es Alex Karp, el filósofo a la sombra de Peter Thiel en Palantir que encarna el giro autoritario de Silicon Valley
+El consejero delegado de Palantir pasó de considerarse "neosocialista" y apoyar a Hillary Clinton a liderar el nacionalismo tecnológico de Silicon Valley y apoyar a Trump Peter Thiel: el milmillonario de ideas peligrosas Peter Thiel fue el …
+https://www.eldiario.es/tecnologia/alex-karp-filosofo-sombra-peter-thiel-palantir-encarna-giro-autoritario-silicon-valley_1_13345635.html
+🗓️ 2026-07-02 • 🏷️ eldiario.es
