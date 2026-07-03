@@ -5857,3 +5857,9 @@ https://elpais.com/tecnologia/2026-07-03/el-lenguaje-de-los-otros-animales-como-
 El gigante del chip ha logrado resolver todos los problemas que tenía con el nodo Intel 18A, un avance muy importante que en teoría le permitirá producir 300.000 obleas de silicio al mes basadas en dicho nodo. Es importante destacar que esa…
 https://www.muycomputer.com/2026/07/03/el-nodo-intel-18a-ya-ha-superado-todos-los-problemas-que-tenia-la-produccion-va-viento-en-popa/
 🗓️ 2026-07-03 • 🏷️ muycomputer.com
+
+### 2026-07-03T20:13:34.722Z
+📰 Windows 10 y 11 sufren un fallo misterioso y Google Chrome sería el culpable
+Windows tiene un nuevo fallo, pero en esta ocasión no es culpa de Microsoft. Usuarios de Windows 10 y 11 llevan varios días reportando un bug que aparece justo al encender el ordenador, el cual involucra una pantalla blanca que ocupa parte …
+https://hipertextual.com/software/windows-fallo-google-chrome-pantalla-blanca/
+🗓️ 2026-07-03 • 🏷️ hipertextual.com
