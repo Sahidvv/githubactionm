@@ -5851,3 +5851,9 @@ https://www.eldiario.es/tecnologia/alex-karp-filosofo-sombra-peter-thiel-palanti
 Hemos dado el paso de querer que los animales entiendan lenguaje humano, a querer entender cómo se comunican entre ellos, ¿Estamos dispuestos a escuchar lo que tengan que decir?
 https://elpais.com/tecnologia/2026-07-03/el-lenguaje-de-los-otros-animales-como-la-ia-nos-esta-ayudando-a-entender-la-comunicacion-en-otras-especies.html
 🗓️ 2026-07-03 • 🏷️ elpais.com
+
+### 2026-07-03T15:11:14.976Z
+📰 El nodo Intel 18A ya ha superado todos los problemas que tenía: la producción va viento en popa
+El gigante del chip ha logrado resolver todos los problemas que tenía con el nodo Intel 18A, un avance muy importante que en teoría le permitirá producir 300.000 obleas de silicio al mes basadas en dicho nodo. Es importante destacar que esa…
+https://www.muycomputer.com/2026/07/03/el-nodo-intel-18a-ya-ha-superado-todos-los-problemas-que-tenia-la-produccion-va-viento-en-popa/
+🗓️ 2026-07-03 • 🏷️ muycomputer.com
