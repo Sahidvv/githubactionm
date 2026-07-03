@@ -5192,3 +5192,19 @@ https://hipertextual.com/inteligencia-artificial/spacex-prototipo-dispositivo-ia
 🗓️ 2026-07-01 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-03
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El lenguaje de los otros animales: Cómo la IA nos está ayudando a entender la comunicación en otras especies
+Hemos dado el paso de querer que los animales entiendan lenguaje humano, a querer entender cómo se comunican entre ellos, ¿Estamos dispuestos a escuchar lo que tengan que decir?
+https://elpais.com/tecnologia/2026-07-03/el-lenguaje-de-los-otros-animales-como-la-ia-nos-esta-ayudando-a-entender-la-comunicacion-en-otras-especies.html
+🗓️ 2026-07-03 • 🏷️ elpais.com
+
+---

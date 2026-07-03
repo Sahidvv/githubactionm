@@ -5845,3 +5845,9 @@ https://hipertextual.com/cine-television/hugh-jackman-futuro-lobezno-posible-ree
 El consejero delegado de Palantir pasó de considerarse "neosocialista" y apoyar a Hillary Clinton a liderar el nacionalismo tecnológico de Silicon Valley y apoyar a Trump Peter Thiel: el milmillonario de ideas peligrosas Peter Thiel fue el …
 https://www.eldiario.es/tecnologia/alex-karp-filosofo-sombra-peter-thiel-palantir-encarna-giro-autoritario-silicon-valley_1_13345635.html
 🗓️ 2026-07-02 • 🏷️ eldiario.es
+
+### 2026-07-03T04:40:57.330Z
+📰 El lenguaje de los otros animales: Cómo la IA nos está ayudando a entender la comunicación en otras especies
+Hemos dado el paso de querer que los animales entiendan lenguaje humano, a querer entender cómo se comunican entre ellos, ¿Estamos dispuestos a escuchar lo que tengan que decir?
+https://elpais.com/tecnologia/2026-07-03/el-lenguaje-de-los-otros-animales-como-la-ia-nos-esta-ayudando-a-entender-la-comunicacion-en-otras-especies.html
+🗓️ 2026-07-03 • 🏷️ elpais.com
