@@ -5875,3 +5875,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-desarrollo-farmacos-i
 La casa del Dragón regresó con una tercera temporada que intenta corregir los errores de las dos primeras. Mucho más, de la evidente caída de calidad en la segunda entrega. Que, como se recordará, tuvo como consecuencia una pérdida de la au…
 https://hipertextual.com/cine-television/todo-lo-que-debes-tener-en-cuenta-de-la-nueva-temporada-de-la-casa-del-dragon/
 🗓️ 2026-07-04 • 🏷️ hipertextual.com
+
+### 2026-07-04T20:08:19.972Z
+📰 Las 5 mejores series de ciencia ficción canceladas con una sola temporada en Netflix
+Netflix tiene una mano larga e implacable para cancelar series sin que nunca esté muy claro el motivo. Algo que demostró la abrupta cancelación de The Boroughs: Jubilación rebelde. Una decisión que se ha convertido en las últimas semanas en…
+https://hipertextual.com/cine-television/las-5-mejores-series-de-ciencia-ficcion-canceladas-con-una-sola-temporada-en-netflix/
+🗓️ 2026-07-04 • 🏷️ hipertextual.com
