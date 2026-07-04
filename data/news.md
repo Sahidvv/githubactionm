@@ -5869,3 +5869,9 @@ https://hipertextual.com/software/windows-fallo-google-chrome-pantalla-blanca/
 Anthropic quiere desarrollar fármacos con ayuda de la inteligencia artificial. Aprovechando la presentación de Claude Science, la empresa confirmó que tiene intenciones de crear sus propios medicamentos. La decisión ha prendido las alertas …
 https://hipertextual.com/inteligencia-artificial/anthropic-desarrollo-farmacos-inteligencia-artificial/
 🗓️ 2026-07-03 • 🏷️ hipertextual.com
+
+### 2026-07-04T14:37:02.387Z
+📰 Todo lo que debes tener en cuenta de la nueva temporada de ‘La Casa del Dragón’
+La casa del Dragón regresó con una tercera temporada que intenta corregir los errores de las dos primeras. Mucho más, de la evidente caída de calidad en la segunda entrega. Que, como se recordará, tuvo como consecuencia una pérdida de la au…
+https://hipertextual.com/cine-television/todo-lo-que-debes-tener-en-cuenta-de-la-nueva-temporada-de-la-casa-del-dragon/
+🗓️ 2026-07-04 • 🏷️ hipertextual.com
