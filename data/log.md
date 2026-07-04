@@ -5208,3 +5208,19 @@ https://elpais.com/tecnologia/2026-07-03/el-lenguaje-de-los-otros-animales-como-
 🗓️ 2026-07-03 • 🏷️ elpais.com
 
 ---
+## 2026-07-04
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La empresa detrás de Claude quiere desarrollar sus propios medicamentos con inteligencia artificial
+Anthropic quiere desarrollar fármacos con ayuda de la inteligencia artificial. Aprovechando la presentación de Claude Science, la empresa confirmó que tiene intenciones de crear sus propios medicamentos. La decisión ha prendido las alertas …
+https://hipertextual.com/inteligencia-artificial/anthropic-desarrollo-farmacos-inteligencia-artificial/
+🗓️ 2026-07-03 • 🏷️ hipertextual.com
+
+---

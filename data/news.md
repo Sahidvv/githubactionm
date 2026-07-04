@@ -5863,3 +5863,9 @@ https://www.muycomputer.com/2026/07/03/el-nodo-intel-18a-ya-ha-superado-todos-lo
 Windows tiene un nuevo fallo, pero en esta ocasión no es culpa de Microsoft. Usuarios de Windows 10 y 11 llevan varios días reportando un bug que aparece justo al encender el ordenador, el cual involucra una pantalla blanca que ocupa parte …
 https://hipertextual.com/software/windows-fallo-google-chrome-pantalla-blanca/
 🗓️ 2026-07-03 • 🏷️ hipertextual.com
+
+### 2026-07-04T04:34:26.884Z
+📰 La empresa detrás de Claude quiere desarrollar sus propios medicamentos con inteligencia artificial
+Anthropic quiere desarrollar fármacos con ayuda de la inteligencia artificial. Aprovechando la presentación de Claude Science, la empresa confirmó que tiene intenciones de crear sus propios medicamentos. La decisión ha prendido las alertas …
+https://hipertextual.com/inteligencia-artificial/anthropic-desarrollo-farmacos-inteligencia-artificial/
+🗓️ 2026-07-03 • 🏷️ hipertextual.com
