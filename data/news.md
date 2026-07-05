@@ -5893,3 +5893,9 @@ https://hipertextual.com/cine-television/netflix-serie-muy-buena-nadie-habla-de-
 Google ha publicado una nueva actualización de seguridad para Android que corrige nada menos que 124 vulnerabilidades, una cifra que ya de por sí resulta llamativa. Sin embargo, lo realmente preocupante es que una de ellas ya estaba siendo …
 https://www.muycomputer.com/2026/07/05/android-corrige-una-vulnerabilidad-que-ya-esta-siendo-explotada/
 🗓️ 2026-07-05 • 🏷️ muycomputer.com
+
+### 2026-07-05T20:13:32.288Z
+📰 ‘El chico de la última fila’, el aterrador éxito coreano de Netflix del que todo el mundo habla
+El chico de la última fila, la más reciente serie surcoreana en Netflix, es inquietante por varias razones. Por un lado, la de explorar la rivalidad intelectual, desde un punto de vista aterrador, inquietante y siniestro que sorprende capít…
+https://hipertextual.com/cine-television/el-chico-de-la-ultima-fila-el-aterrador-exito-coreano-de-netflix-del-que-todo-el-mundo-habla/
+🗓️ 2026-07-05 • 🏷️ hipertextual.com
