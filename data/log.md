@@ -5224,3 +5224,19 @@ https://hipertextual.com/inteligencia-artificial/anthropic-desarrollo-farmacos-i
 🗓️ 2026-07-03 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-05
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Se estrenó en Netflix hace un mes, es una de las mejores series del año y casi nadie está hablando de ella
+La imagen general que tenemos de Netflix es que su catálogo de estrenos suele ser de mucha cantidad, pero poca calidad. Es cierto que la plataforma, indiscutible líder en el mercado del streaming, siempre ha primado el lanzar contenidos sin…
+https://hipertextual.com/cine-television/netflix-serie-muy-buena-nadie-habla-de-ella/
+🗓️ 2026-07-04 • 🏷️ hipertextual.com
+
+---

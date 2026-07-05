@@ -5881,3 +5881,9 @@ https://hipertextual.com/cine-television/todo-lo-que-debes-tener-en-cuenta-de-la
 Netflix tiene una mano larga e implacable para cancelar series sin que nunca esté muy claro el motivo. Algo que demostró la abrupta cancelación de The Boroughs: Jubilación rebelde. Una decisión que se ha convertido en las últimas semanas en…
 https://hipertextual.com/cine-television/las-5-mejores-series-de-ciencia-ficcion-canceladas-con-una-sola-temporada-en-netflix/
 🗓️ 2026-07-04 • 🏷️ hipertextual.com
+
+### 2026-07-05T04:56:43.606Z
+📰 Se estrenó en Netflix hace un mes, es una de las mejores series del año y casi nadie está hablando de ella
+La imagen general que tenemos de Netflix es que su catálogo de estrenos suele ser de mucha cantidad, pero poca calidad. Es cierto que la plataforma, indiscutible líder en el mercado del streaming, siempre ha primado el lanzar contenidos sin…
+https://hipertextual.com/cine-television/netflix-serie-muy-buena-nadie-habla-de-ella/
+🗓️ 2026-07-04 • 🏷️ hipertextual.com
