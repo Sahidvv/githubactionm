@@ -5887,3 +5887,9 @@ https://hipertextual.com/cine-television/las-5-mejores-series-de-ciencia-ficcion
 La imagen general que tenemos de Netflix es que su catálogo de estrenos suele ser de mucha cantidad, pero poca calidad. Es cierto que la plataforma, indiscutible líder en el mercado del streaming, siempre ha primado el lanzar contenidos sin…
 https://hipertextual.com/cine-television/netflix-serie-muy-buena-nadie-habla-de-ella/
 🗓️ 2026-07-04 • 🏷️ hipertextual.com
+
+### 2026-07-05T14:43:03.977Z
+📰 Android corrige una vulnerabilidad que ya está siendo explotada
+Google ha publicado una nueva actualización de seguridad para Android que corrige nada menos que 124 vulnerabilidades, una cifra que ya de por sí resulta llamativa. Sin embargo, lo realmente preocupante es que una de ellas ya estaba siendo …
+https://www.muycomputer.com/2026/07/05/android-corrige-una-vulnerabilidad-que-ya-esta-siendo-explotada/
+🗓️ 2026-07-05 • 🏷️ muycomputer.com
