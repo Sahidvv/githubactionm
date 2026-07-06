@@ -5911,3 +5911,9 @@ https://elpais.com/tecnologia/2026-07-06/cinco-estrategias-para-reducir-las-inte
 La Nintendo Switch 2 va a recibir su primera gran revisión con la introducción de un modelo con baterías reemplazables, que pronto comenzará su despliegue en Europa para ajustarse a la normativa que regirá desde 2027. Pero la compañía japon…
 https://hipertextual.com/videojuegos/nintendo-switch-original-lite-y-oled-final-ventas-europa/
 🗓️ 2026-07-06 • 🏷️ hipertextual.com
+
+### 2026-07-06T20:52:21.862Z
+📰 ¿Más &#8216;Fallout&#8217; y menos &#8216;Starfield&#8217;? Bethesda se apoyará en sus franquicias principales tras los despidos en Xbox
+ZeniMax, la casa matriz de Bethesda, se encuentra entre las más impactadas por los despidos que Xbox anunció este lunes. La división de gaming de Microsoft prescindió de 1.600 empleados y planea eliminar otros 1.600 roles en el transcurso d…
+https://hipertextual.com/videojuegos/plan-bethesda-escapar-crisis-xbox/
+🗓️ 2026-07-06 • 🏷️ hipertextual.com
