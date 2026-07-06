@@ -5899,3 +5899,9 @@ https://www.muycomputer.com/2026/07/05/android-corrige-una-vulnerabilidad-que-ya
 El chico de la última fila, la más reciente serie surcoreana en Netflix, es inquietante por varias razones. Por un lado, la de explorar la rivalidad intelectual, desde un punto de vista aterrador, inquietante y siniestro que sorprende capít…
 https://hipertextual.com/cine-television/el-chico-de-la-ultima-fila-el-aterrador-exito-coreano-de-netflix-del-que-todo-el-mundo-habla/
 🗓️ 2026-07-05 • 🏷️ hipertextual.com
+
+### 2026-07-06T05:11:20.253Z
+📰 Cinco estrategias para reducir las interrupciones digitales sin dejar la tecnología
+Aunque las notificaciones suelen señalarse como principal problema, el origen de muchas interrupciones está en los hábitos de uso del móvil
+https://elpais.com/tecnologia/2026-07-06/cinco-estrategias-para-reducir-las-interrupciones-digitales-sin-dejar-la-tecnologia.html
+🗓️ 2026-07-06 • 🏷️ elpais.com

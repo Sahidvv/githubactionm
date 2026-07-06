@@ -5240,3 +5240,19 @@ https://hipertextual.com/cine-television/netflix-serie-muy-buena-nadie-habla-de-
 🗓️ 2026-07-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-06
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Cinco estrategias para reducir las interrupciones digitales sin dejar la tecnología
+Aunque las notificaciones suelen señalarse como principal problema, el origen de muchas interrupciones está en los hábitos de uso del móvil
+https://elpais.com/tecnologia/2026-07-06/cinco-estrategias-para-reducir-las-interrupciones-digitales-sin-dejar-la-tecnologia.html
+🗓️ 2026-07-06 • 🏷️ elpais.com
+
+---
