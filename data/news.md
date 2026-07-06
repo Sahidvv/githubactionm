@@ -5905,3 +5905,9 @@ https://hipertextual.com/cine-television/el-chico-de-la-ultima-fila-el-aterrador
 Aunque las notificaciones suelen señalarse como principal problema, el origen de muchas interrupciones está en los hábitos de uso del móvil
 https://elpais.com/tecnologia/2026-07-06/cinco-estrategias-para-reducir-las-interrupciones-digitales-sin-dejar-la-tecnologia.html
 🗓️ 2026-07-06 • 🏷️ elpais.com
+
+### 2026-07-06T16:20:44.791Z
+📰 Nintendo pone punto y final a la Switch original en Europa
+La Nintendo Switch 2 va a recibir su primera gran revisión con la introducción de un modelo con baterías reemplazables, que pronto comenzará su despliegue en Europa para ajustarse a la normativa que regirá desde 2027. Pero la compañía japon…
+https://hipertextual.com/videojuegos/nintendo-switch-original-lite-y-oled-final-ventas-europa/
+🗓️ 2026-07-06 • 🏷️ hipertextual.com
