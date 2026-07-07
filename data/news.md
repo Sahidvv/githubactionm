@@ -5923,3 +5923,9 @@ https://hipertextual.com/videojuegos/plan-bethesda-escapar-crisis-xbox/
 La directora del Laboratorio de Gobernanza de la IA para la Humanidad de las Naciones Unidas, con sede en Valencia, confía en que el diálogo global abierto en torno a esta temática logre consensos de mínimos
 https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
 🗓️ 2026-07-07 • 🏷️ elpais.com
+
+### 2026-07-07T15:42:51.671Z
+📰 Lo próximo de Windows 11 te ahorrará un dolor de cabeza: dile adiós a los USB de recuperación
+Windows 11 está preparando un nuevo método de recuperación que te hará olvidar las memorias USB, las imágenes de disco y otros procesos complicados. Básicamente, Microsoft dotará a su sistema operativo de una función que le permitirá reinst…
+https://hipertextual.com/software/nuevo-metodo-recuperacion-windows-11-cloud-rebuild/
+🗓️ 2026-07-07 • 🏷️ hipertextual.com
