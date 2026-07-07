@@ -5929,3 +5929,9 @@ https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una
 Windows 11 está preparando un nuevo método de recuperación que te hará olvidar las memorias USB, las imágenes de disco y otros procesos complicados. Básicamente, Microsoft dotará a su sistema operativo de una función que le permitirá reinst…
 https://hipertextual.com/software/nuevo-metodo-recuperacion-windows-11-cloud-rebuild/
 🗓️ 2026-07-07 • 🏷️ hipertextual.com
+
+### 2026-07-07T20:48:58.742Z
+📰 Así funciona Muse Image, la IA de Meta para crear fotos en WhatsApp e Instagram
+Meta ha presentado Muse Image, su último modelo de generación de imágenes con inteligencia artificial. La nueva herramienta permitirá crear imágenes dentro Instagram y WhatsApp con solo una instrucción de texto, tal y como hacemos con Gemin…
+https://hipertextual.com/inteligencia-artificial/muse-image-meta-ia-generacion-imagenes/
+🗓️ 2026-07-07 • 🏷️ hipertextual.com
