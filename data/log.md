@@ -5256,3 +5256,19 @@ https://elpais.com/tecnologia/2026-07-06/cinco-estrategias-para-reducir-las-inte
 🗓️ 2026-07-06 • 🏷️ elpais.com
 
 ---
+## 2026-07-07
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Ana García Robles: “Tenemos una de las últimas oportunidades para lograr un acuerdo global sobre IA”
+La directora del Laboratorio de Gobernanza de la IA para la Humanidad de las Naciones Unidas, con sede en Valencia, confía en que el diálogo global abierto en torno a esta temática logre consensos de mínimos
+https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
+🗓️ 2026-07-07 • 🏷️ elpais.com
+
+---
