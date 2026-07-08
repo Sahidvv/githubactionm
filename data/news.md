@@ -5941,3 +5941,9 @@ https://hipertextual.com/inteligencia-artificial/muse-image-meta-ia-generacion-i
 Samsung ha confirmado cuál será el procesador de sus próximos plegables. A unos días de su presentación oficial, ahora sabemos que los Galaxy Z Fold 8 y Z Fold 8 Ultra montarán el chip Snapdragon 8 Elite Gen 5. Siguiendo la línea del Galaxy…
 https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-snapdragon-elite-gen5/
 🗓️ 2026-07-07 • 🏷️ hipertextual.com
+
+### 2026-07-08T15:21:41.089Z
+📰 ‘Moana’ (Vaiana) (★★☆☆☆) es el peor live-action de Disney
+El live-action de Moana (Vaiana) se enfrenta de entrada a un problema difícil de manejar. El de ser un remake de una cinta exitosa estrenada apenas 10 años atrás, que además tuvo una reciente secuela. Que, a su vez, fue un fenómeno de taqui…
+https://hipertextual.com/cine-television/moana-vaiana-%e2%98%85%e2%98%85%e2%98%86%e2%98%86%e2%98%86-es-el-peor-live-action-de-disney/
+🗓️ 2026-07-08 • 🏷️ hipertextual.com
