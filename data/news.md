@@ -5947,3 +5947,9 @@ https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-snapdragon-elite-gen5/
 El live-action de Moana (Vaiana) se enfrenta de entrada a un problema difícil de manejar. El de ser un remake de una cinta exitosa estrenada apenas 10 años atrás, que además tuvo una reciente secuela. Que, a su vez, fue un fenómeno de taqui…
 https://hipertextual.com/cine-television/moana-vaiana-%e2%98%85%e2%98%85%e2%98%86%e2%98%86%e2%98%86-es-el-peor-live-action-de-disney/
 🗓️ 2026-07-08 • 🏷️ hipertextual.com
+
+### 2026-07-08T20:20:11.241Z
+📰 &#8216;Dune 3&#8217; lanza su nuevo (y muy intenso) tráiler oficial
+Dune 3 (cuyo título oficial es Dune: Parte tres) acaba de lanzar su esperado tráiler oficial. Si bien la película de Denis Villeneuve ya había entregado un teaser en marzo pasado, el nuevo avance permite conocer un poco de lo que veremos a …
+https://hipertextual.com/cine-television/nuevo-trailer-dune-3-julio-2026/
+🗓️ 2026-07-08 • 🏷️ hipertextual.com
