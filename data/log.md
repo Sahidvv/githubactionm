@@ -5272,3 +5272,19 @@ https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una
 🗓️ 2026-07-07 • 🏷️ elpais.com
 
 ---
+## 2026-07-08
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Samsung confirma el procesador que llevarán sus nuevos plegables, pero no te emociones todavía
+Samsung ha confirmado cuál será el procesador de sus próximos plegables. A unos días de su presentación oficial, ahora sabemos que los Galaxy Z Fold 8 y Z Fold 8 Ultra montarán el chip Snapdragon 8 Elite Gen 5. Siguiendo la línea del Galaxy…
+https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-snapdragon-elite-gen5/
+🗓️ 2026-07-07 • 🏷️ hipertextual.com
+
+---

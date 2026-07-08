@@ -5935,3 +5935,9 @@ https://hipertextual.com/software/nuevo-metodo-recuperacion-windows-11-cloud-reb
 Meta ha presentado Muse Image, su último modelo de generación de imágenes con inteligencia artificial. La nueva herramienta permitirá crear imágenes dentro Instagram y WhatsApp con solo una instrucción de texto, tal y como hacemos con Gemin…
 https://hipertextual.com/inteligencia-artificial/muse-image-meta-ia-generacion-imagenes/
 🗓️ 2026-07-07 • 🏷️ hipertextual.com
+
+### 2026-07-08T04:14:19.429Z
+📰 Samsung confirma el procesador que llevarán sus nuevos plegables, pero no te emociones todavía
+Samsung ha confirmado cuál será el procesador de sus próximos plegables. A unos días de su presentación oficial, ahora sabemos que los Galaxy Z Fold 8 y Z Fold 8 Ultra montarán el chip Snapdragon 8 Elite Gen 5. Siguiendo la línea del Galaxy…
+https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-snapdragon-elite-gen5/
+🗓️ 2026-07-07 • 🏷️ hipertextual.com
