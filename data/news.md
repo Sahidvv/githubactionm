@@ -5959,3 +5959,9 @@ https://hipertextual.com/cine-television/nuevo-trailer-dune-3-julio-2026/
 La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores
 https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html
 🗓️ 2026-07-09 • 🏷️ elpais.com
+
+### 2026-07-09T15:55:31.421Z
+📰 Meta permite que la IA genere imágenes a partir de tu perfil abierto de Instagram sin avisarte: así puedes protegerte
+La herramienta Muse Image se alimenta de las fotos públicas subidas a la red social. Basta con etiquetar a un usuario y pedirle que lo represente haciendo algo y la imagen se crea en segundos
+https://elpais.com/tecnologia/2026-07-09/meta-permite-que-la-ia-genere-imagenes-a-partir-de-tu-perfil-abierto-de-instagram-sin-avisarte-asi-puedes-protegerte.html
+🗓️ 2026-07-09 • 🏷️ elpais.com
