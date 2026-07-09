@@ -5953,3 +5953,9 @@ https://hipertextual.com/cine-television/moana-vaiana-%e2%98%85%e2%98%85%e2%98%8
 Dune 3 (cuyo título oficial es Dune: Parte tres) acaba de lanzar su esperado tráiler oficial. Si bien la película de Denis Villeneuve ya había entregado un teaser en marzo pasado, el nuevo avance permite conocer un poco de lo que veremos a …
 https://hipertextual.com/cine-television/nuevo-trailer-dune-3-julio-2026/
 🗓️ 2026-07-08 • 🏷️ hipertextual.com
+
+### 2026-07-09T04:52:50.503Z
+📰 A Anthropic le sale rentable ser la IA antagonista de Donald Trump
+La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores
+https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html
+🗓️ 2026-07-09 • 🏷️ elpais.com

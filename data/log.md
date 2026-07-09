@@ -5288,3 +5288,19 @@ https://hipertextual.com/mobile/samsung-galaxy-z-fold-8-snapdragon-elite-gen5/
 🗓️ 2026-07-07 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-09
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 A Anthropic le sale rentable ser la IA antagonista de Donald Trump
+La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores
+https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html
+🗓️ 2026-07-09 • 🏷️ elpais.com
+
+---
