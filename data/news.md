@@ -5965,3 +5965,9 @@ https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-
 La herramienta Muse Image se alimenta de las fotos públicas subidas a la red social. Basta con etiquetar a un usuario y pedirle que lo represente haciendo algo y la imagen se crea en segundos
 https://elpais.com/tecnologia/2026-07-09/meta-permite-que-la-ia-genere-imagenes-a-partir-de-tu-perfil-abierto-de-instagram-sin-avisarte-asi-puedes-protegerte.html
 🗓️ 2026-07-09 • 🏷️ elpais.com
+
+### 2026-07-09T20:46:43.659Z
+📰 Windows 11 se prepara para cambiar sus actualizaciones mensuales por culpa de la inteligencia artificial
+Microsoft cambiará la forma en como recibes las actualizaciones de seguridad de Windows 11. El gigante tecnológico anunció que a partir de ahora vas a recibir más parches en cada actualización mensual. La compañía señaló que este ajuste tie…
+https://hipertextual.com/seguridad/windows-actualizaciones-seguridad-inteligencia-artificial/
+🗓️ 2026-07-09 • 🏷️ hipertextual.com
