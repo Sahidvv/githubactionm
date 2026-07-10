@@ -5304,3 +5304,19 @@ https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-
 🗓️ 2026-07-09 • 🏷️ elpais.com
 
 ---
+## 2026-07-10
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El fin de los discos físicos de PlayStation marca el fin de una era en los videojuegos
+La compañía japonesa Sony dejará de fabricar discos a partir de enero de 2028, una decisión que ya ha provocado críticas de tiendas y llamamientos al boicot en redes socialesMicrosoft despedirá a 6.400 trabajadores, la mitad en la división …
+https://www.eldiario.es/tecnologia/discos-fisicos-playstation-marca-videojuegos_1_13364550.html
+🗓️ 2026-07-09 • 🏷️ eldiario.es
+
+---
