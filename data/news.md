@@ -5977,3 +5977,9 @@ https://hipertextual.com/seguridad/windows-actualizaciones-seguridad-inteligenci
 La compañía japonesa Sony dejará de fabricar discos a partir de enero de 2028, una decisión que ya ha provocado críticas de tiendas y llamamientos al boicot en redes socialesMicrosoft despedirá a 6.400 trabajadores, la mitad en la división …
 https://www.eldiario.es/tecnologia/discos-fisicos-playstation-marca-videojuegos_1_13364550.html
 🗓️ 2026-07-09 • 🏷️ eldiario.es
+
+### 2026-07-10T15:31:35.850Z
+📰 Qué tipo de actualizaciones recibe Windows 11: todo lo que debes saber explicado de forma sencilla
+Windows 11 recibe actualizaciones con frecuencia, y por desgracia muchas de ellas suelen acabar dando problemas de cierta gravedad, lo que ha generado mucha polémica y ha disparado las críticas contra Microsoft. Ya sabemos que la compañía d…
+https://www.muycomputer.com/2026/07/10/que-tipo-de-actualizaciones-recibe-windows-11-todo-lo-que-debes-saber-explicado-de-forma-sencilla/
+🗓️ 2026-07-10 • 🏷️ muycomputer.com
