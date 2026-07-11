@@ -5989,3 +5989,9 @@ https://www.muycomputer.com/2026/07/10/que-tipo-de-actualizaciones-recibe-window
 Motorola tiene un nuevo as bajo la manga y esta vez no apunta a la gama de entrada. El fabricante está a punto de presentar el nuevo Edge 70 Max, un móvil que llegará con un potente procesador de Qualcomm y una batería de miedo. Motorola co…
 https://hipertextual.com/mobile/motorola-edge-70-max-snapdragon-bateria/
 🗓️ 2026-07-10 • 🏷️ hipertextual.com
+
+### 2026-07-11T04:12:13.575Z
+📰 Apple presenta una demanda contra OpenAI, creadora de ChatGPT, por robo de secretos comerciales
+Apple afirma en la demanda presentada ante un tribunal federal de California que el robo de secretos comerciales formaba parte de un "patrón coordinado de conducta indebida a nivel institucional" por parte de OpenAI Apple ha acusado este vi…
+https://www.eldiario.es/tecnologia/apple-presenta-demanda-openai-creadora-chatgpt-robar-secretos-comerciales_1_13372946.html
+🗓️ 2026-07-10 • 🏷️ eldiario.es

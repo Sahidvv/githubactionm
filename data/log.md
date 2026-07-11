@@ -5320,3 +5320,19 @@ https://www.eldiario.es/tecnologia/discos-fisicos-playstation-marca-videojuegos_
 🗓️ 2026-07-09 • 🏷️ eldiario.es
 
 ---
+## 2026-07-11
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Apple presenta una demanda contra OpenAI, creadora de ChatGPT, por robo de secretos comerciales
+Apple afirma en la demanda presentada ante un tribunal federal de California que el robo de secretos comerciales formaba parte de un "patrón coordinado de conducta indebida a nivel institucional" por parte de OpenAI Apple ha acusado este vi…
+https://www.eldiario.es/tecnologia/apple-presenta-demanda-openai-creadora-chatgpt-robar-secretos-comerciales_1_13372946.html
+🗓️ 2026-07-10 • 🏷️ eldiario.es
+
+---
