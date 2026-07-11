@@ -5995,3 +5995,9 @@ https://hipertextual.com/mobile/motorola-edge-70-max-snapdragon-bateria/
 Apple afirma en la demanda presentada ante un tribunal federal de California que el robo de secretos comerciales formaba parte de un "patrón coordinado de conducta indebida a nivel institucional" por parte de OpenAI Apple ha acusado este vi…
 https://www.eldiario.es/tecnologia/apple-presenta-demanda-openai-creadora-chatgpt-robar-secretos-comerciales_1_13372946.html
 🗓️ 2026-07-10 • 🏷️ eldiario.es
+
+### 2026-07-11T14:22:12.367Z
+📰 7 razones por las que los &#8216;live-action&#8217; sí valen la pena (aunque no lo creas)
+Moana (Vaiana) es el live-action número 25 de Disney. Uno, además, que deja claro que la tendencia de brindar una segunda mirada a las grandes historias de la cultura pop es incombustible. Más interesada en copiar la magia de la cinta origi…
+https://hipertextual.com/cine-television/7-razones-por-las-que-los-live-action-si-valen-la-pena-aunque-no-lo-creas/
+🗓️ 2026-07-11 • 🏷️ hipertextual.com
