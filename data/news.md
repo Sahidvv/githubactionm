@@ -6013,3 +6013,9 @@ https://hipertextual.com/tecnologia/hacen-lo-mismo-y-cuestan-mucho-menos-las-3-m
 Moana (Vaiana) se estrenó y deja a su paso algunas preguntas sobre la validez de los live-action. En especial, porque el que se ha convertido en el género favorito del Hollywood contemporáneo (y de estudio Disney en particular) vuelve a enf…
 https://hipertextual.com/cine-television/en-que-se-diferencia-el-live-action-del-animado-original-de-moana-vaiana/
 🗓️ 2026-07-11 • 🏷️ hipertextual.com
+
+### 2026-07-12T14:25:42.114Z
+📰 6 cosas que van a pasar en ‘La casa del Dragón’ si se respeta la trama de los libros
+Con su tercer episodio, La casa del Dragón dejó algo claro. El segundo gran spin-off de la saga de Juego de Tronos hará hincapié en el intrincado mundo político de la trama. Pero mucho más, pretende sacar ventaja de explorar en nuevos escen…
+https://hipertextual.com/cine-television/6-cosas-que-van-a-pasar-en-la-casa-del-dragon-si-se-respeta-la-trama-de-los-libros/
+🗓️ 2026-07-12 • 🏷️ hipertextual.com
