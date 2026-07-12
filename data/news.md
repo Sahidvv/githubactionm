@@ -6019,3 +6019,9 @@ https://hipertextual.com/cine-television/en-que-se-diferencia-el-live-action-del
 Con su tercer episodio, La casa del Dragón dejó algo claro. El segundo gran spin-off de la saga de Juego de Tronos hará hincapié en el intrincado mundo político de la trama. Pero mucho más, pretende sacar ventaja de explorar en nuevos escen…
 https://hipertextual.com/cine-television/6-cosas-que-van-a-pasar-en-la-casa-del-dragon-si-se-respeta-la-trama-de-los-libros/
 🗓️ 2026-07-12 • 🏷️ hipertextual.com
+
+### 2026-07-12T20:05:20.896Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXXII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: De Windows 1 a Windows 11: historia visual de sus i…
+https://www.muycomputer.com/2026/07/12/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxii/
+🗓️ 2026-07-12 • 🏷️ muycomputer.com
