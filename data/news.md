@@ -6007,3 +6007,9 @@ https://hipertextual.com/cine-television/7-razones-por-las-que-los-live-action-s
 El AirTag es uno de los mejores productos de Apple. Es relativamente económico, muy útil (especialmente si tienes un iPhone) y, además, hace tan solo unos meses mejoraba con una segunda generación mucho más precisa y con mejor sonido. Pero …
 https://hipertextual.com/tecnologia/hacen-lo-mismo-y-cuestan-mucho-menos-las-3-mejores-alternativas-al-airtag-de-apple/
 🗓️ 2026-07-11 • 🏷️ hipertextual.com
+
+### 2026-07-12T04:24:21.126Z
+📰 ¿En qué se diferencia el live action del animado original de ‘Moana (Vaiana)’?
+Moana (Vaiana) se estrenó y deja a su paso algunas preguntas sobre la validez de los live-action. En especial, porque el que se ha convertido en el género favorito del Hollywood contemporáneo (y de estudio Disney en particular) vuelve a enf…
+https://hipertextual.com/cine-television/en-que-se-diferencia-el-live-action-del-animado-original-de-moana-vaiana/
+🗓️ 2026-07-11 • 🏷️ hipertextual.com

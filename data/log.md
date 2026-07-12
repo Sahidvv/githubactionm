@@ -5336,3 +5336,19 @@ https://www.eldiario.es/tecnologia/apple-presenta-demanda-openai-creadora-chatgp
 🗓️ 2026-07-10 • 🏷️ eldiario.es
 
 ---
+## 2026-07-12
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 ¿En qué se diferencia el live action del animado original de ‘Moana (Vaiana)’?
+Moana (Vaiana) se estrenó y deja a su paso algunas preguntas sobre la validez de los live-action. En especial, porque el que se ha convertido en el género favorito del Hollywood contemporáneo (y de estudio Disney en particular) vuelve a enf…
+https://hipertextual.com/cine-television/en-que-se-diferencia-el-live-action-del-animado-original-de-moana-vaiana/
+🗓️ 2026-07-11 • 🏷️ hipertextual.com
+
+---
