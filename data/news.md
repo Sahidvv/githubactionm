@@ -6031,3 +6031,9 @@ https://www.muycomputer.com/2026/07/12/los-mejores-contenidos-de-la-semana-en-mu
 Samsung ha dado un paso gigante en la personalización de sus dispositivos, pero esas nuevas funciones y aplicaciones que la compañía está incluyendo en sus móviles están perjudicando a muchos usuarios. De hecho, la compañía acaba de confirm…
 https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-de-los-moviles-samsung-y-nadie-sabe-por-que-la-marca-lo-confirma-y-revela-cuando-volvera/
 🗓️ 2026-07-12 • 🏷️ hipertextual.com
+
+### 2026-07-13T15:44:28.277Z
+📰 Steven Spielberg honra la memoria de Sam Neill: «Nunca será olvidado»
+La muerte de Sam Neill ha tomado al mundo por sorpresa. El actor neozelandés, quien logró estrellato mundial por su rol como el Dr. Alan Grant en Jurassic Park, falleció este lunes a los 78 años. Su deceso se produjo de forma repentina, seg…
+https://hipertextual.com/cine-television/steven-spielberg-recuerda-sam-neill-jurassic-park/
+🗓️ 2026-07-13 • 🏷️ hipertextual.com
