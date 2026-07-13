@@ -6037,3 +6037,9 @@ https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-d
 La muerte de Sam Neill ha tomado al mundo por sorpresa. El actor neozelandés, quien logró estrellato mundial por su rol como el Dr. Alan Grant en Jurassic Park, falleció este lunes a los 78 años. Su deceso se produjo de forma repentina, seg…
 https://hipertextual.com/cine-television/steven-spielberg-recuerda-sam-neill-jurassic-park/
 🗓️ 2026-07-13 • 🏷️ hipertextual.com
+
+### 2026-07-13T20:14:36.760Z
+📰 Un nuevo reboot de &#8216;Pesadilla en Elm Street&#8217; está en camino
+Pesadilla en Elm Street, la película que convirtió a Freddy Krueger en un ícono del cine de terror y que dio inicio a una de las franquicias más prolíficas de los ochenta y noventa, tendrá un nuevo reboot. Esta vez será de la mano de Paramo…
+https://hipertextual.com/cine-television/pesadilla-en-elm-street-freddy-krueger-reboot-paramount/
+🗓️ 2026-07-13 • 🏷️ hipertextual.com
