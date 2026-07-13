@@ -6025,3 +6025,9 @@ https://hipertextual.com/cine-television/6-cosas-que-van-a-pasar-en-la-casa-del-
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: De Windows 1 a Windows 11: historia visual de sus i…
 https://www.muycomputer.com/2026/07/12/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxii/
 🗓️ 2026-07-12 • 🏷️ muycomputer.com
+
+### 2026-07-13T04:29:41.876Z
+📰 Esta función superútil está desapareciendo de los móviles Samsung y nadie sabe por qué: la marca lo confirma y revela cuándo volverá
+Samsung ha dado un paso gigante en la personalización de sus dispositivos, pero esas nuevas funciones y aplicaciones que la compañía está incluyendo en sus móviles están perjudicando a muchos usuarios. De hecho, la compañía acaba de confirm…
+https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-de-los-moviles-samsung-y-nadie-sabe-por-que-la-marca-lo-confirma-y-revela-cuando-volvera/
+🗓️ 2026-07-12 • 🏷️ hipertextual.com

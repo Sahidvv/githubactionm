@@ -5352,3 +5352,19 @@ https://hipertextual.com/cine-television/en-que-se-diferencia-el-live-action-del
 🗓️ 2026-07-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-13
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Esta función superútil está desapareciendo de los móviles Samsung y nadie sabe por qué: la marca lo confirma y revela cuándo volverá
+Samsung ha dado un paso gigante en la personalización de sus dispositivos, pero esas nuevas funciones y aplicaciones que la compañía está incluyendo en sus móviles están perjudicando a muchos usuarios. De hecho, la compañía acaba de confirm…
+https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-de-los-moviles-samsung-y-nadie-sabe-por-que-la-marca-lo-confirma-y-revela-cuando-volvera/
+🗓️ 2026-07-12 • 🏷️ hipertextual.com
+
+---
