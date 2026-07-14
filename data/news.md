@@ -6043,3 +6043,9 @@ https://hipertextual.com/cine-television/steven-spielberg-recuerda-sam-neill-jur
 Pesadilla en Elm Street, la película que convirtió a Freddy Krueger en un ícono del cine de terror y que dio inicio a una de las franquicias más prolíficas de los ochenta y noventa, tendrá un nuevo reboot. Esta vez será de la mano de Paramo…
 https://hipertextual.com/cine-television/pesadilla-en-elm-street-freddy-krueger-reboot-paramount/
 🗓️ 2026-07-13 • 🏷️ hipertextual.com
+
+### 2026-07-14T03:56:08.017Z
+📰 Estos serían los colores del Pixel 11, según la filtración más reciente de Amazon
+Google todavía no ha presentado oficialmente el Pixel 11, pero una serie de filtraciones ya adelantaron cómo se verán los nuevos móviles. La más reciente tiene que ver con múltiples listados de Amazon que muestran al modelo base, Pro y Fold…
+https://hipertextual.com/mobile/pixel-11-colores-filtrados-amazon/
+🗓️ 2026-07-13 • 🏷️ hipertextual.com

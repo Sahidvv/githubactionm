@@ -5368,3 +5368,19 @@ https://hipertextual.com/tecnologia/esta-funcion-superutil-esta-desapareciendo-d
 🗓️ 2026-07-12 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-14
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Estos serían los colores del Pixel 11, según la filtración más reciente de Amazon
+Google todavía no ha presentado oficialmente el Pixel 11, pero una serie de filtraciones ya adelantaron cómo se verán los nuevos móviles. La más reciente tiene que ver con múltiples listados de Amazon que muestran al modelo base, Pro y Fold…
+https://hipertextual.com/mobile/pixel-11-colores-filtrados-amazon/
+🗓️ 2026-07-13 • 🏷️ hipertextual.com
+
+---
