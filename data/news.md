@@ -6055,3 +6055,9 @@ https://hipertextual.com/mobile/pixel-11-colores-filtrados-amazon/
 Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 millones de unidades en todo el mundo. La consola de la firma japonesa se impuso a la incertidumbre de los aranceles de Trump, la escasez de componentes y el encar…
 https://hipertextual.com/videojuegos/nintendo-switch-2-oled/
 🗓️ 2026-07-14 • 🏷️ hipertextual.com
+
+### 2026-07-14T20:11:31.295Z
+📰 Samsung responde a la polémica sobre el borrado de datos en Samsung Health
+Samsung ha salido a aclarar un punto que había generado confusión y enojo entre sus usuarios. A un día de que surgieran reportes sobre la nueva política que usará tu información para entrenar a su IA, la surcoreana explicó qué pasará con tu…
+https://hipertextual.com/mobile/samsung-health-aclaracion-consentimiento-ia-datos/
+🗓️ 2026-07-14 • 🏷️ hipertextual.com
