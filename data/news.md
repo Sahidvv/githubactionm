@@ -6049,3 +6049,9 @@ https://hipertextual.com/cine-television/pesadilla-en-elm-street-freddy-krueger-
 Google todavía no ha presentado oficialmente el Pixel 11, pero una serie de filtraciones ya adelantaron cómo se verán los nuevos móviles. La más reciente tiene que ver con múltiples listados de Amazon que muestran al modelo base, Pro y Fold…
 https://hipertextual.com/mobile/pixel-11-colores-filtrados-amazon/
 🗓️ 2026-07-13 • 🏷️ hipertextual.com
+
+### 2026-07-14T14:51:18.937Z
+📰 Nintendo ya piensa en una Switch 2 OLED, pero hay un gran problema (es lo que imaginas)
+Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 millones de unidades en todo el mundo. La consola de la firma japonesa se impuso a la incertidumbre de los aranceles de Trump, la escasez de componentes y el encar…
+https://hipertextual.com/videojuegos/nintendo-switch-2-oled/
+🗓️ 2026-07-14 • 🏷️ hipertextual.com
