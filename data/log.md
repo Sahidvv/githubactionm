@@ -5384,3 +5384,19 @@ https://hipertextual.com/mobile/pixel-11-colores-filtrados-amazon/
 🗓️ 2026-07-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-15
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Ni ChatGPT ni Gemini: Spotify estrena una IA con la que puedes hablar para pedir música
+Spotify quiere que dejes de escribir en el buscador para encontrar música. Tras unos meses de prueba, la compañía de streaming lanzó una función que permite hablar con una IA para pedirle lo que quieres escuchar. La nueva característica ya …
+https://hipertextual.com/inteligencia-artificial/spotify-chat-ia-conversacional-musica/
+🗓️ 2026-07-14 • 🏷️ hipertextual.com
+
+---

@@ -6061,3 +6061,9 @@ https://hipertextual.com/videojuegos/nintendo-switch-2-oled/
 Samsung ha salido a aclarar un punto que había generado confusión y enojo entre sus usuarios. A un día de que surgieran reportes sobre la nueva política que usará tu información para entrenar a su IA, la surcoreana explicó qué pasará con tu…
 https://hipertextual.com/mobile/samsung-health-aclaracion-consentimiento-ia-datos/
 🗓️ 2026-07-14 • 🏷️ hipertextual.com
+
+### 2026-07-15T03:57:37.141Z
+📰 Ni ChatGPT ni Gemini: Spotify estrena una IA con la que puedes hablar para pedir música
+Spotify quiere que dejes de escribir en el buscador para encontrar música. Tras unos meses de prueba, la compañía de streaming lanzó una función que permite hablar con una IA para pedirle lo que quieres escuchar. La nueva característica ya …
+https://hipertextual.com/inteligencia-artificial/spotify-chat-ia-conversacional-musica/
+🗓️ 2026-07-14 • 🏷️ hipertextual.com
