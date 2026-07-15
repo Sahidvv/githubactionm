@@ -6067,3 +6067,9 @@ https://hipertextual.com/mobile/samsung-health-aclaracion-consentimiento-ia-dato
 Spotify quiere que dejes de escribir en el buscador para encontrar música. Tras unos meses de prueba, la compañía de streaming lanzó una función que permite hablar con una IA para pedirle lo que quieres escuchar. La nueva característica ya …
 https://hipertextual.com/inteligencia-artificial/spotify-chat-ia-conversacional-musica/
 🗓️ 2026-07-14 • 🏷️ hipertextual.com
+
+### 2026-07-15T14:50:17.652Z
+📰 &#8216;The Batman 2&#8217; lanza su primer teaser, pero trae malas noticias
+The Batman 2, la próxima entrega de la saga de Matt Reeves, acaba de lanzar su muy esperado primer teaser. El clip nos entrega el primer vistazo a Robert Pattinson en su regreso como el héroe de Gotham. Sin embargo, no todo son buenas notic…
+https://hipertextual.com/cine-television/the-batman-2-primer-teaser/
+🗓️ 2026-07-15 • 🏷️ hipertextual.com
