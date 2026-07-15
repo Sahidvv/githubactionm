@@ -6073,3 +6073,9 @@ https://hipertextual.com/inteligencia-artificial/spotify-chat-ia-conversacional-
 The Batman 2, la próxima entrega de la saga de Matt Reeves, acaba de lanzar su muy esperado primer teaser. El clip nos entrega el primer vistazo a Robert Pattinson en su regreso como el héroe de Gotham. Sin embargo, no todo son buenas notic…
 https://hipertextual.com/cine-television/the-batman-2-primer-teaser/
 🗓️ 2026-07-15 • 🏷️ hipertextual.com
+
+### 2026-07-15T20:08:44.417Z
+📰 Microsoft resuelve un molesto fallo de la Papelera de reciclaje en Windows 11
+La más reciente actualización de Windows 11, que ayer inició su despliegue en los ordenadores compatibles, llega con varias soluciones de bugs. Entre tantos, resuelve un molesto fallo que se presentaba al tratar de eliminar elementos conten…
+https://hipertextual.com/software/windows-11-resuelve-fallo-papelera-de-reciclaje/
+🗓️ 2026-07-15 • 🏷️ hipertextual.com
