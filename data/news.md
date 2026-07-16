@@ -6085,3 +6085,9 @@ https://hipertextual.com/software/windows-11-resuelve-fallo-papelera-de-reciclaj
 Google ha publicado el primer adelanto oficial del Pixel 11. A unas cuantas semanas de su presentación oficial, el gigante tecnológico habilitó una página en su tienda en línea que revela la fecha de lanzamiento y ofrece un descuento. Aunqu…
 https://hipertextual.com/mobile/pixel-glow-pixel-11-teaser-tienda/
 🗓️ 2026-07-15 • 🏷️ hipertextual.com
+
+### 2026-07-16T15:01:59.477Z
+📰 Claude se integra con 1Password y ahora puede usar tus contraseñas para iniciar sesión por ti
+1Password acaba de lanzar una nueva integración con Claude que le permita a la IA iniciar sesión en diferentes servicios usando tus contraseñas de forma segura. Esta característica ya se encuentra disponible en los planes individuales, fami…
+https://hipertextual.com/inteligencia-artificial/1password-integracion-claude/
+🗓️ 2026-07-16 • 🏷️ hipertextual.com
