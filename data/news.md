@@ -6091,3 +6091,9 @@ https://hipertextual.com/mobile/pixel-glow-pixel-11-teaser-tienda/
 1Password acaba de lanzar una nueva integración con Claude que le permita a la IA iniciar sesión en diferentes servicios usando tus contraseñas de forma segura. Esta característica ya se encuentra disponible en los planes individuales, fami…
 https://hipertextual.com/inteligencia-artificial/1password-integracion-claude/
 🗓️ 2026-07-16 • 🏷️ hipertextual.com
+
+### 2026-07-16T20:02:09.163Z
+📰 Esta nueva app para iPhone convierte tu carrete de fotos en vídeos para TikTok
+Editar vÍdeos cortos para publicarlos en redes sociales puede volverse en una tarea tediosa. No solo es grabar el contenido, sino organizarlo y editarlo hasta que quede como deseas. Si no quieres perder demasiado tiempo y automatizar todo, …
+https://hipertextual.com/mobile/reelful-app-ios-videos-ia-tiktok-instagram/
+🗓️ 2026-07-16 • 🏷️ hipertextual.com
