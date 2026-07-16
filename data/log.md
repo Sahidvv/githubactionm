@@ -5400,3 +5400,19 @@ https://hipertextual.com/inteligencia-artificial/spotify-chat-ia-conversacional-
 🗓️ 2026-07-14 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-16
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 La última filtración del Pixel 11 revela su función más importante
+Google ha publicado el primer adelanto oficial del Pixel 11. A unas cuantas semanas de su presentación oficial, el gigante tecnológico habilitó una página en su tienda en línea que revela la fecha de lanzamiento y ofrece un descuento. Aunqu…
+https://hipertextual.com/mobile/pixel-glow-pixel-11-teaser-tienda/
+🗓️ 2026-07-15 • 🏷️ hipertextual.com
+
+---

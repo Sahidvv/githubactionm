@@ -6079,3 +6079,9 @@ https://hipertextual.com/cine-television/the-batman-2-primer-teaser/
 La más reciente actualización de Windows 11, que ayer inició su despliegue en los ordenadores compatibles, llega con varias soluciones de bugs. Entre tantos, resuelve un molesto fallo que se presentaba al tratar de eliminar elementos conten…
 https://hipertextual.com/software/windows-11-resuelve-fallo-papelera-de-reciclaje/
 🗓️ 2026-07-15 • 🏷️ hipertextual.com
+
+### 2026-07-16T04:08:29.739Z
+📰 La última filtración del Pixel 11 revela su función más importante
+Google ha publicado el primer adelanto oficial del Pixel 11. A unas cuantas semanas de su presentación oficial, el gigante tecnológico habilitó una página en su tienda en línea que revela la fecha de lanzamiento y ofrece un descuento. Aunqu…
+https://hipertextual.com/mobile/pixel-glow-pixel-11-teaser-tienda/
+🗓️ 2026-07-15 • 🏷️ hipertextual.com
