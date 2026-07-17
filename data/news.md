@@ -6109,3 +6109,9 @@ https://elpais.com/tecnologia/2026-07-17/pedofilia-en-streaming-gran-mercado-de-
 El verano está pegando fuerte. Si te has cansado de los 30 grados a la sombra que hace en casi toda España estás de suerte, porque PcComponentes ha abierto una campaña de ofertas centrada en ventiladores, aires acondicionados y más solucion…
 https://www.muycomputer.com/2026/07/17/las-mejores-ofertas-en-un-nuevo-red-friday-especial-ventilacion-y-clima/
 🗓️ 2026-07-17 • 🏷️ muycomputer.com
+
+### 2026-07-17T20:04:56.525Z
+📰 Apple Music sube de precio: esto pagarás a partir de hoy
+Malas noticias para los usuarios de Apple Music: desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento q…
+https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/
+🗓️ 2026-07-17 • 🏷️ hipertextual.com
