@@ -5416,3 +5416,19 @@ https://hipertextual.com/mobile/pixel-glow-pixel-11-teaser-tienda/
 🗓️ 2026-07-15 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-17
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Pedofilia en ‘streaming’, gran mercado de tarjetas robadas y más pequeña de lo que parece: así es la ‘dark web’
+Un grupo de investigadores españoles aclara en un nuevo estudio cuánto material delictivo original hay en el rincón más profundo de internet
+https://elpais.com/tecnologia/2026-07-17/pedofilia-en-streaming-gran-mercado-de-tarjetas-robadas-y-mas-pequena-de-lo-que-parece-asi-es-la-dark-web.html
+🗓️ 2026-07-17 • 🏷️ elpais.com
+
+---

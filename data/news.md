@@ -6097,3 +6097,9 @@ https://hipertextual.com/inteligencia-artificial/1password-integracion-claude/
 Editar vÍdeos cortos para publicarlos en redes sociales puede volverse en una tarea tediosa. No solo es grabar el contenido, sino organizarlo y editarlo hasta que quede como deseas. Si no quieres perder demasiado tiempo y automatizar todo, …
 https://hipertextual.com/mobile/reelful-app-ios-videos-ia-tiktok-instagram/
 🗓️ 2026-07-16 • 🏷️ hipertextual.com
+
+### 2026-07-17T04:05:42.516Z
+📰 Pedofilia en ‘streaming’, gran mercado de tarjetas robadas y más pequeña de lo que parece: así es la ‘dark web’
+Un grupo de investigadores españoles aclara en un nuevo estudio cuánto material delictivo original hay en el rincón más profundo de internet
+https://elpais.com/tecnologia/2026-07-17/pedofilia-en-streaming-gran-mercado-de-tarjetas-robadas-y-mas-pequena-de-lo-que-parece-asi-es-la-dark-web.html
+🗓️ 2026-07-17 • 🏷️ elpais.com
