@@ -6121,3 +6121,9 @@ https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/
 Microsoft está trabajando en un competidor de Claude Mythos, el modelo de IA enfocado en ciberseguridad. Según los reportes más recientes, los de Redmond ya desarrollan Project Perception, una herramienta enfocada en detectar y reparar vuln…
 https://hipertextual.com/inteligencia-artificial/microsoft-project-perception-claude-mythos-anthropic/
 🗓️ 2026-07-17 • 🏷️ hipertextual.com
+
+### 2026-07-18T14:19:31.962Z
+📰 Malas noticias si tienes uno de estos 10 móviles Xiaomi: dejan de recibir actualizaciones de HyperOS a partir de este mes
+Xiaomi es uno de los fabricantes que más hincapié hace en las actualizaciones de software. La compañía, de hecho, ya está actualizando a Android 17 algunos de sus modelos más recientes y todo apunta a que esta nueva versión llegará a muchos…
+https://hipertextual.com/mobile/malas-noticias-si-tienes-uno-de-estos-10-moviles-xiaomi-dejan-de-recibir-actualizaciones-de-hyperos-a-partir-de-este-mes/
+🗓️ 2026-07-18 • 🏷️ hipertextual.com
