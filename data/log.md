@@ -5432,3 +5432,19 @@ https://elpais.com/tecnologia/2026-07-17/pedofilia-en-streaming-gran-mercado-de-
 🗓️ 2026-07-17 • 🏷️ elpais.com
 
 ---
+## 2026-07-18
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Así es Project Perception, la inteligencia artificial de Microsoft que encontrará fallos en Windows
+Microsoft está trabajando en un competidor de Claude Mythos, el modelo de IA enfocado en ciberseguridad. Según los reportes más recientes, los de Redmond ya desarrollan Project Perception, una herramienta enfocada en detectar y reparar vuln…
+https://hipertextual.com/inteligencia-artificial/microsoft-project-perception-claude-mythos-anthropic/
+🗓️ 2026-07-17 • 🏷️ hipertextual.com
+
+---

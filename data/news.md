@@ -6115,3 +6115,9 @@ https://www.muycomputer.com/2026/07/17/las-mejores-ofertas-en-un-nuevo-red-frida
 Malas noticias para los usuarios de Apple Music: desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento q…
 https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/
 🗓️ 2026-07-17 • 🏷️ hipertextual.com
+
+### 2026-07-18T03:54:26.162Z
+📰 Así es Project Perception, la inteligencia artificial de Microsoft que encontrará fallos en Windows
+Microsoft está trabajando en un competidor de Claude Mythos, el modelo de IA enfocado en ciberseguridad. Según los reportes más recientes, los de Redmond ya desarrollan Project Perception, una herramienta enfocada en detectar y reparar vuln…
+https://hipertextual.com/inteligencia-artificial/microsoft-project-perception-claude-mythos-anthropic/
+🗓️ 2026-07-17 • 🏷️ hipertextual.com
