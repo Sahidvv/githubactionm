@@ -6127,3 +6127,9 @@ https://hipertextual.com/inteligencia-artificial/microsoft-project-perception-cl
 Xiaomi es uno de los fabricantes que más hincapié hace en las actualizaciones de software. La compañía, de hecho, ya está actualizando a Android 17 algunos de sus modelos más recientes y todo apunta a que esta nueva versión llegará a muchos…
 https://hipertextual.com/mobile/malas-noticias-si-tienes-uno-de-estos-10-moviles-xiaomi-dejan-de-recibir-actualizaciones-de-hyperos-a-partir-de-este-mes/
 🗓️ 2026-07-18 • 🏷️ hipertextual.com
+
+### 2026-07-18T20:03:15.189Z
+📰 5 adaptaciones de &#8216;La Odisea&#8217; más allá de la película de Christopher Nolan (y dónde verlas)
+La Odisea de Christopher Nolan acaba de llegar a los cines y, con ella, el mundo cuenta con una nueva adaptación de la legendaria historia escrita por Homero hace 2.700 años. El director británico parecía predestinado a encargarse de un pro…
+https://hipertextual.com/cine-television/5-adaptaciones-de-la-odisea-mas-alla-de-la-pelicula-de-christopher-nolan-y-donde-verlas/
+🗓️ 2026-07-18 • 🏷️ hipertextual.com
