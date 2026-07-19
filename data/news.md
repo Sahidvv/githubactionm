@@ -6145,3 +6145,9 @@ https://hipertextual.com/guias/que-es-windows-11-ltsc-profesionales-gamers/
 Google ha integrado la inteligencia artificial generativa en su buscador hasta convertirla en una parte prácticamente inevitable de la experiencia, también para los menores que lo utilizan en el colegio o para hacer los deberes. Un nuevo in…
 https://www.muycomputer.com/2026/07/19/google-search-preocupa-por-su-ia-para-menores/
 🗓️ 2026-07-19 • 🏷️ muycomputer.com
+
+### 2026-07-19T20:06:42.131Z
+📰 ¿&#8217;La Odisea’ es tan buena como lo dice la crítica? Por estos motivos, no me gustó
+La Odisea es un evento cinematográfico y nadie lo pone en duda. De hecho, la más reciente película de Christopher Nolan ya asombró a la crítica y lo más probable es que deslumbre al público. Razones no faltan. Del apartado técnico al desemp…
+https://hipertextual.com/cine-television/la-odisea-es-tan-buena-como-lo-dice-la-critica-por-estos-motivos-no-me-gusto/
+🗓️ 2026-07-19 • 🏷️ hipertextual.com
