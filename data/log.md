@@ -5448,3 +5448,19 @@ https://hipertextual.com/inteligencia-artificial/microsoft-project-perception-cl
 🗓️ 2026-07-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-19
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Qué es Windows 11 LTSC y por qué gusta tanto a profesionales y gamers
+Windows 11 llegó a nosotros a finales de 2021. Desde entonces, Microsoft lo ha ido actualizando y ha incorporado toda clase de novedades que no siempre han gustado al usuario. Cambios constantes que, en ocasiones, afectan al rendimiento del…
+https://hipertextual.com/guias/que-es-windows-11-ltsc-profesionales-gamers/
+🗓️ 2026-07-18 • 🏷️ hipertextual.com
+
+---

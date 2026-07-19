@@ -6133,3 +6133,9 @@ https://hipertextual.com/mobile/malas-noticias-si-tienes-uno-de-estos-10-moviles
 La Odisea de Christopher Nolan acaba de llegar a los cines y, con ella, el mundo cuenta con una nueva adaptación de la legendaria historia escrita por Homero hace 2.700 años. El director británico parecía predestinado a encargarse de un pro…
 https://hipertextual.com/cine-television/5-adaptaciones-de-la-odisea-mas-alla-de-la-pelicula-de-christopher-nolan-y-donde-verlas/
 🗓️ 2026-07-18 • 🏷️ hipertextual.com
+
+### 2026-07-19T04:21:35.972Z
+📰 Qué es Windows 11 LTSC y por qué gusta tanto a profesionales y gamers
+Windows 11 llegó a nosotros a finales de 2021. Desde entonces, Microsoft lo ha ido actualizando y ha incorporado toda clase de novedades que no siempre han gustado al usuario. Cambios constantes que, en ocasiones, afectan al rendimiento del…
+https://hipertextual.com/guias/que-es-windows-11-ltsc-profesionales-gamers/
+🗓️ 2026-07-18 • 🏷️ hipertextual.com
