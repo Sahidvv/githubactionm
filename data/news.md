@@ -6139,3 +6139,9 @@ https://hipertextual.com/cine-television/5-adaptaciones-de-la-odisea-mas-alla-de
 Windows 11 llegó a nosotros a finales de 2021. Desde entonces, Microsoft lo ha ido actualizando y ha incorporado toda clase de novedades que no siempre han gustado al usuario. Cambios constantes que, en ocasiones, afectan al rendimiento del…
 https://hipertextual.com/guias/que-es-windows-11-ltsc-profesionales-gamers/
 🗓️ 2026-07-18 • 🏷️ hipertextual.com
+
+### 2026-07-19T14:23:01.832Z
+📰 Google Search preocupa por su IA para menores
+Google ha integrado la inteligencia artificial generativa en su buscador hasta convertirla en una parte prácticamente inevitable de la experiencia, también para los menores que lo utilizan en el colegio o para hacer los deberes. Un nuevo in…
+https://www.muycomputer.com/2026/07/19/google-search-preocupa-por-su-ia-para-menores/
+🗓️ 2026-07-19 • 🏷️ muycomputer.com
