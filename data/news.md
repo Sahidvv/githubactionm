@@ -6157,3 +6157,9 @@ https://hipertextual.com/cine-television/la-odisea-es-tan-buena-como-lo-dice-la-
 Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo indaga en un complicado pasaje de la historia reciente de España. Eso, al reconstruir de forma minuciosa uno de los episodios más dramáticos, dolorosos y determinantes de la historia c…
 https://hipertextual.com/cine-television/de-que-va-miguel-angel-blanco-las-48-horas-que-lo-cambiaron-todo-el-documental-espanol-que-impacta-en-netflix/
 🗓️ 2026-07-19 • 🏷️ hipertextual.com
+
+### 2026-07-20T15:11:06.907Z
+📰 &#8216;Las hijas de la criada&#8217; llega a Prime Video y Antena 3: la serie del Premio Planeta 2023 se verá gratis en septiembre
+Prime Video ha puesto en circulación una de esas adaptaciones que llegan con dos avales muy claros antes incluso de que el espectador vea el primer episodio. Por un lado, una novela que ganó el Premio Planeta en 2023 y que además fue el lib…
+https://hipertextual.com/cine-television/las-hijas-de-la-criada-llega-a-prime-video-y-antena-3-la-serie-del-premio-planeta-2023-se-vera-gratis-en-septiembre/
+🗓️ 2026-07-20 • 🏷️ hipertextual.com
