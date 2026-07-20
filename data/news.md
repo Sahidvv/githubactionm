@@ -6163,3 +6163,9 @@ https://hipertextual.com/cine-television/de-que-va-miguel-angel-blanco-las-48-ho
 Prime Video ha puesto en circulación una de esas adaptaciones que llegan con dos avales muy claros antes incluso de que el espectador vea el primer episodio. Por un lado, una novela que ganó el Premio Planeta en 2023 y que además fue el lib…
 https://hipertextual.com/cine-television/las-hijas-de-la-criada-llega-a-prime-video-y-antena-3-la-serie-del-premio-planeta-2023-se-vera-gratis-en-septiembre/
 🗓️ 2026-07-20 • 🏷️ hipertextual.com
+
+### 2026-07-20T20:20:41.910Z
+📰 Este es el riesgo real de seguir usando Windows 10 en 2026
+Windows 10 se quedó sin soporte oficial desde octubre de 2025, pero eso no ha impedido que millones de personas lo sigan usando. A nueve meses de que Microsoft retirara las actualizaciones, todavía existe un porcentaje importante de usuario…
+https://hipertextual.com/seguridad/windows-10-riesgos-seguridad-vs-windows-11/
+🗓️ 2026-07-20 • 🏷️ hipertextual.com
