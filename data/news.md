@@ -6151,3 +6151,9 @@ https://www.muycomputer.com/2026/07/19/google-search-preocupa-por-su-ia-para-men
 La Odisea es un evento cinematográfico y nadie lo pone en duda. De hecho, la más reciente película de Christopher Nolan ya asombró a la crítica y lo más probable es que deslumbre al público. Razones no faltan. Del apartado técnico al desemp…
 https://hipertextual.com/cine-television/la-odisea-es-tan-buena-como-lo-dice-la-critica-por-estos-motivos-no-me-gusto/
 🗓️ 2026-07-19 • 🏷️ hipertextual.com
+
+### 2026-07-20T04:35:23.243Z
+📰 De qué va ‘Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo’, el documental español que impacta en Netflix
+Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo indaga en un complicado pasaje de la historia reciente de España. Eso, al reconstruir de forma minuciosa uno de los episodios más dramáticos, dolorosos y determinantes de la historia c…
+https://hipertextual.com/cine-television/de-que-va-miguel-angel-blanco-las-48-horas-que-lo-cambiaron-todo-el-documental-espanol-que-impacta-en-netflix/
+🗓️ 2026-07-19 • 🏷️ hipertextual.com

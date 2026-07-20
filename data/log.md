@@ -5464,3 +5464,19 @@ https://hipertextual.com/guias/que-es-windows-11-ltsc-profesionales-gamers/
 🗓️ 2026-07-18 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-20
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 De qué va ‘Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo’, el documental español que impacta en Netflix
+Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo indaga en un complicado pasaje de la historia reciente de España. Eso, al reconstruir de forma minuciosa uno de los episodios más dramáticos, dolorosos y determinantes de la historia c…
+https://hipertextual.com/cine-television/de-que-va-miguel-angel-blanco-las-48-horas-que-lo-cambiaron-todo-el-documental-espanol-que-impacta-en-netflix/
+🗓️ 2026-07-19 • 🏷️ hipertextual.com
+
+---
