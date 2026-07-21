@@ -6181,3 +6181,9 @@ https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-n
 Netflix suele mezclar novedades con rescates de catálogo, y a veces el resultado dice más sobre el momento del espectador que sobre la propia plataforma. Ahora le ha tocado a Elefante blanco, que se ha colocado entre los títulos más vistos …
 https://hipertextual.com/cine-television/elefante-blanco-entra-en-lo-mas-visto-de-netflix-mas-de-10-anos-despues-de-su-estreno/
 🗓️ 2026-07-21 • 🏷️ hipertextual.com
+
+### 2026-07-21T20:18:16.440Z
+📰 Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa
+Apple está preparando uno de los cambios más importantes en la forma de vender el iPhone y otros dispositivos. La compañía anunciará Apple Upgrade, un programa de arrendamiento que promete pagos más accesibles frente a los planes de financi…
+https://hipertextual.com/apple/apple-upgrade-programa-renta-iphone-mac-ipad/
+🗓️ 2026-07-21 • 🏷️ hipertextual.com
