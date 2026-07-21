@@ -6175,3 +6175,9 @@ https://hipertextual.com/seguridad/windows-10-riesgos-seguridad-vs-windows-11/
 Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial
 https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html
 🗓️ 2026-07-21 • 🏷️ elpais.com
+
+### 2026-07-21T15:03:17.296Z
+📰 ‘Elefante blanco’ entra en lo más visto de Netflix más de 10 años después de su estreno
+Netflix suele mezclar novedades con rescates de catálogo, y a veces el resultado dice más sobre el momento del espectador que sobre la propia plataforma. Ahora le ha tocado a Elefante blanco, que se ha colocado entre los títulos más vistos …
+https://hipertextual.com/cine-television/elefante-blanco-entra-en-lo-mas-visto-de-netflix-mas-de-10-anos-despues-de-su-estreno/
+🗓️ 2026-07-21 • 🏷️ hipertextual.com
