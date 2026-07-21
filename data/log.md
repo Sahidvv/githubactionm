@@ -5480,3 +5480,19 @@ https://hipertextual.com/cine-television/de-que-va-miguel-angel-blanco-las-48-ho
 🗓️ 2026-07-19 • 🏷️ hipertextual.com
 
 ---
+## 2026-07-21
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Cuando el conocimiento de internet ya no es suficiente: la IA le pone el ojo a las librerías de segunda mano
+Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial
+https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html
+🗓️ 2026-07-21 • 🏷️ elpais.com
+
+---

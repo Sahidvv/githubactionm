@@ -6169,3 +6169,9 @@ https://hipertextual.com/cine-television/las-hijas-de-la-criada-llega-a-prime-vi
 Windows 10 se quedó sin soporte oficial desde octubre de 2025, pero eso no ha impedido que millones de personas lo sigan usando. A nueve meses de que Microsoft retirara las actualizaciones, todavía existe un porcentaje importante de usuario…
 https://hipertextual.com/seguridad/windows-10-riesgos-seguridad-vs-windows-11/
 🗓️ 2026-07-20 • 🏷️ hipertextual.com
+
+### 2026-07-21T04:14:47.147Z
+📰 Cuando el conocimiento de internet ya no es suficiente: la IA le pone el ojo a las librerías de segunda mano
+Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial
+https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html
+🗓️ 2026-07-21 • 🏷️ elpais.com
