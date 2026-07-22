@@ -6193,3 +6193,9 @@ https://hipertextual.com/apple/apple-upgrade-programa-renta-iphone-mac-ipad/
 El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial
 https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html
 🗓️ 2026-07-22 • 🏷️ elpais.com
+
+### 2026-07-22T15:03:29.354Z
+📰 Francia prohíbe a menores de 15 años el acceso a redes sociales
+El Parlamento francés ha aprobado definitivamente la ley que prohíbe a los menores de 15 años el acceso a las redes sociales. La Asamblea Nacional votó 279 a 81, después de que el Senado aprobara el texto ese mismo día. Esta votación se pro…
+https://www.muycomputer.com/2026/07/22/francia-prohibe-a-menores-de-15-anos-el-acceso-a-redes-sociales/
+🗓️ 2026-07-22 • 🏷️ muycomputer.com
