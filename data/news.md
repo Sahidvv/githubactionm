@@ -6187,3 +6187,9 @@ https://hipertextual.com/cine-television/elefante-blanco-entra-en-lo-mas-visto-d
 Apple está preparando uno de los cambios más importantes en la forma de vender el iPhone y otros dispositivos. La compañía anunciará Apple Upgrade, un programa de arrendamiento que promete pagos más accesibles frente a los planes de financi…
 https://hipertextual.com/apple/apple-upgrade-programa-renta-iphone-mac-ipad/
 🗓️ 2026-07-21 • 🏷️ hipertextual.com
+
+### 2026-07-22T04:16:06.084Z
+📰 ‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?
+El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial
+https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html
+🗓️ 2026-07-22 • 🏷️ elpais.com

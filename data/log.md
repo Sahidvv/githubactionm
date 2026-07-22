@@ -5496,3 +5496,19 @@ https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-n
 🗓️ 2026-07-21 • 🏷️ elpais.com
 
 ---
+## 2026-07-22
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 ‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?
+El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial
+https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html
+🗓️ 2026-07-22 • 🏷️ elpais.com
+
+---
