@@ -6199,3 +6199,9 @@ https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-en
 El Parlamento francés ha aprobado definitivamente la ley que prohíbe a los menores de 15 años el acceso a las redes sociales. La Asamblea Nacional votó 279 a 81, después de que el Senado aprobara el texto ese mismo día. Esta votación se pro…
 https://www.muycomputer.com/2026/07/22/francia-prohibe-a-menores-de-15-anos-el-acceso-a-redes-sociales/
 🗓️ 2026-07-22 • 🏷️ muycomputer.com
+
+### 2026-07-22T20:11:13.150Z
+📰 Xbox por fin permite jugar tus juegos de consola en PC
+Xbox ha anunciado una de las funciones más pedidas por los usuarios desde hace años. La compañía anunció un programa de retrocompatibilidad que permitirá jugar títulos de consola en PC. La función estará disponible tanto en ordenadores como…
+https://hipertextual.com/videojuegos/xbox-retrocompatibilidad-pc-juegos-clasicos/
+🗓️ 2026-07-22 • 🏷️ hipertextual.com
