@@ -5512,3 +5512,19 @@ https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-en
 🗓️ 2026-07-22 • 🏷️ elpais.com
 
 ---
+## 2026-07-23
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Así funciona Kimi K3, la IA china que asusta a Silicon Valley
+En la última semana dos modelos del país asiático han acaparado titulares y comentarios: cómo son y qué impacto tendrán
+https://elpais.com/tecnologia/2026-07-23/asi-funciona-kimi-k3-la-ia-china-que-asusta-a-silicon-valley.html
+🗓️ 2026-07-23 • 🏷️ elpais.com
+
+---

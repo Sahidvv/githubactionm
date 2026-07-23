@@ -6205,3 +6205,9 @@ https://www.muycomputer.com/2026/07/22/francia-prohibe-a-menores-de-15-anos-el-a
 Xbox ha anunciado una de las funciones más pedidas por los usuarios desde hace años. La compañía anunció un programa de retrocompatibilidad que permitirá jugar títulos de consola en PC. La función estará disponible tanto en ordenadores como…
 https://hipertextual.com/videojuegos/xbox-retrocompatibilidad-pc-juegos-clasicos/
 🗓️ 2026-07-22 • 🏷️ hipertextual.com
+
+### 2026-07-23T04:14:51.925Z
+📰 Así funciona Kimi K3, la IA china que asusta a Silicon Valley
+En la última semana dos modelos del país asiático han acaparado titulares y comentarios: cómo son y qué impacto tendrán
+https://elpais.com/tecnologia/2026-07-23/asi-funciona-kimi-k3-la-ia-china-que-asusta-a-silicon-valley.html
+🗓️ 2026-07-23 • 🏷️ elpais.com
