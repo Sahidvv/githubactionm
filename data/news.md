@@ -6217,3 +6217,9 @@ https://elpais.com/tecnologia/2026-07-23/asi-funciona-kimi-k3-la-ia-china-que-as
 Una vez más, la Comisión Europea ha aplicado una multa millonaria a Google por infringir las normativas de la UE con sus productos. En esta oportunidad, se trata de una sanción de 890 millones de euros por dos infracciones a la Ley de Merca…
 https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026/
 🗓️ 2026-07-23 • 🏷️ hipertextual.com
+
+### 2026-07-23T20:11:36.956Z
+📰 AMD Advancing AI 2026: construyendo el futuro de la IA
+AMD está celebrando en San Francisco la conferencia Advancing AI 2026. Un evento anual para desarrolladores, clientes y socios donde la firma californiana quiere ir más allá de impulsar la IA, «construyendo el futuro de las tecnologías de i…
+https://www.muycomputerpro.com/2026/07/23/amd-advancing-ai-2026-construyendo-el-futuro-de-la-ia
+🗓️ 2026-07-23 • 🏷️ muycomputerpro.com
