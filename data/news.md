@@ -6211,3 +6211,9 @@ https://hipertextual.com/videojuegos/xbox-retrocompatibilidad-pc-juegos-clasicos
 En la última semana dos modelos del país asiático han acaparado titulares y comentarios: cómo son y qué impacto tendrán
 https://elpais.com/tecnologia/2026-07-23/asi-funciona-kimi-k3-la-ia-china-que-asusta-a-silicon-valley.html
 🗓️ 2026-07-23 • 🏷️ elpais.com
+
+### 2026-07-23T15:08:25.266Z
+📰 Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales
+Una vez más, la Comisión Europea ha aplicado una multa millonaria a Google por infringir las normativas de la UE con sus productos. En esta oportunidad, se trata de una sanción de 890 millones de euros por dos infracciones a la Ley de Merca…
+https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026/
+🗓️ 2026-07-23 • 🏷️ hipertextual.com
