@@ -6223,3 +6223,9 @@ https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026
 AMD está celebrando en San Francisco la conferencia Advancing AI 2026. Un evento anual para desarrolladores, clientes y socios donde la firma californiana quiere ir más allá de impulsar la IA, «construyendo el futuro de las tecnologías de i…
 https://www.muycomputerpro.com/2026/07/23/amd-advancing-ai-2026-construyendo-el-futuro-de-la-ia
 🗓️ 2026-07-23 • 🏷️ muycomputerpro.com
+
+### 2026-07-24T04:13:51.743Z
+📰 Un misterioso relato gay de Alan Turing lo retrata como descarado, amante de la literatura y del sexo
+La imagen de uno de los mayores científicos del siglo XX está lejos de lo que fueron su vida y gustos reales, según un estudio de la Universidad de Cambridge
+https://elpais.com/tecnologia/2026-07-23/un-misterioso-relato-gay-de-alan-turing-lo-retrata-como-descarado-amante-de-la-literatura-y-del-sexo.html
+🗓️ 2026-07-23 • 🏷️ elpais.com

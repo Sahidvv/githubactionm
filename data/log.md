@@ -5528,3 +5528,19 @@ https://elpais.com/tecnologia/2026-07-23/asi-funciona-kimi-k3-la-ia-china-que-as
 🗓️ 2026-07-23 • 🏷️ elpais.com
 
 ---
+## 2026-07-24
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Un misterioso relato gay de Alan Turing lo retrata como descarado, amante de la literatura y del sexo
+La imagen de uno de los mayores científicos del siglo XX está lejos de lo que fueron su vida y gustos reales, según un estudio de la Universidad de Cambridge
+https://elpais.com/tecnologia/2026-07-23/un-misterioso-relato-gay-de-alan-turing-lo-retrata-como-descarado-amante-de-la-literatura-y-del-sexo.html
+🗓️ 2026-07-23 • 🏷️ elpais.com
+
+---
