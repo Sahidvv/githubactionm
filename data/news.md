@@ -6229,3 +6229,9 @@ https://www.muycomputerpro.com/2026/07/23/amd-advancing-ai-2026-construyendo-el-
 La imagen de uno de los mayores científicos del siglo XX está lejos de lo que fueron su vida y gustos reales, según un estudio de la Universidad de Cambridge
 https://elpais.com/tecnologia/2026-07-23/un-misterioso-relato-gay-de-alan-turing-lo-retrata-como-descarado-amante-de-la-literatura-y-del-sexo.html
 🗓️ 2026-07-23 • 🏷️ elpais.com
+
+### 2026-07-24T14:54:24.438Z
+📰 La Comisión Europea impone otra multa a Google por incumplir la DMA
+La Comisión Europea ha impuesto otra multa a Google por incumplir la Ley de Mercados Digitales (DMA). Para el ejecutivo europeo queda demostrado que el gigante de Internet priorizó sus propios servicios en la Búsqueda de Google y limitó la …
+https://www.muycomputer.com/2026/07/24/la-comision-europea-impone-otra-multa-a-google-por-incumplir-la-dma/
+🗓️ 2026-07-24 • 🏷️ muycomputer.com
