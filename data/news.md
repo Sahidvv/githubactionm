@@ -6235,3 +6235,9 @@ https://elpais.com/tecnologia/2026-07-23/un-misterioso-relato-gay-de-alan-turing
 La Comisión Europea ha impuesto otra multa a Google por incumplir la Ley de Mercados Digitales (DMA). Para el ejecutivo europeo queda demostrado que el gigante de Internet priorizó sus propios servicios en la Búsqueda de Google y limitó la …
 https://www.muycomputer.com/2026/07/24/la-comision-europea-impone-otra-multa-a-google-por-incumplir-la-dma/
 🗓️ 2026-07-24 • 🏷️ muycomputer.com
+
+### 2026-07-24T20:19:12.255Z
+📰 Samsung prepara una gran sorpresa para el Galaxy S27 con una cámara que nadie esperaba
+El lanzamiento del Galaxy S27 todavía está a varios meses de distancia, pero eso no significa que tengamos que esperar para conocer sus características. Una filtración ha revelado que el próximo gama alta de Samsung llegará con un cambio qu…
+https://hipertextual.com/mobile/galaxy-s27-rumores-camaras-modelos/
+🗓️ 2026-07-24 • 🏷️ hipertextual.com
