@@ -6247,3 +6247,9 @@ https://hipertextual.com/mobile/galaxy-s27-rumores-camaras-modelos/
 Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles
 https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html
 🗓️ 2026-07-25 • 🏷️ elpais.com
+
+### 2026-07-25T14:37:23.675Z
+📰 LG está instalando un polémico spyware en los PC de sus usuarios sin avisar: así puedes eliminarlo
+Si has comprado un monitor LG, es probable que esté instalando spyware sin que lo sepas apenas lo conectas al ordenador. El fabricante ha quedado al centro de una polémica tras aprovecharse de una función legítima de Windows 11 para instala…
+https://hipertextual.com/tecnologia/spyware-monitores-lg-windows-11-como-eliminarlo/
+🗓️ 2026-07-25 • 🏷️ hipertextual.com
