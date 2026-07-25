@@ -5544,3 +5544,19 @@ https://elpais.com/tecnologia/2026-07-23/un-misterioso-relato-gay-de-alan-turing
 🗓️ 2026-07-23 • 🏷️ elpais.com
 
 ---
+## 2026-07-25
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo
+Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles
+https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html
+🗓️ 2026-07-25 • 🏷️ elpais.com
+
+---

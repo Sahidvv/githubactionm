@@ -6241,3 +6241,9 @@ https://www.muycomputer.com/2026/07/24/la-comision-europea-impone-otra-multa-a-g
 El lanzamiento del Galaxy S27 todavía está a varios meses de distancia, pero eso no significa que tengamos que esperar para conocer sus características. Una filtración ha revelado que el próximo gama alta de Samsung llegará con un cambio qu…
 https://hipertextual.com/mobile/galaxy-s27-rumores-camaras-modelos/
 🗓️ 2026-07-24 • 🏷️ hipertextual.com
+
+### 2026-07-25T04:10:12.036Z
+📰 Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo
+Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles
+https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html
+🗓️ 2026-07-25 • 🏷️ elpais.com
