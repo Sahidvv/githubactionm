@@ -6253,3 +6253,9 @@ https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-
 Si has comprado un monitor LG, es probable que esté instalando spyware sin que lo sepas apenas lo conectas al ordenador. El fabricante ha quedado al centro de una polémica tras aprovecharse de una función legítima de Windows 11 para instala…
 https://hipertextual.com/tecnologia/spyware-monitores-lg-windows-11-como-eliminarlo/
 🗓️ 2026-07-25 • 🏷️ hipertextual.com
+
+### 2026-07-25T20:10:11.701Z
+📰 7 animes de los últimos años que se volvieron clásicos
+Si eres fanático del mundo de la animación, ya lo sabes. El anime ha dejado de ser un producto de nicho exclusivo de Japón para volverse uno de los fenómenos más influyentes del planeta. Con una historia que se remonta a principios del sigl…
+https://hipertextual.com/cine-television/7-animes-de-los-ultimos-anos-que-se-volvieron-clasicos/
+🗓️ 2026-07-25 • 🏷️ hipertextual.com
