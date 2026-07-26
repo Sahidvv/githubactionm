@@ -6265,3 +6265,9 @@ https://hipertextual.com/cine-television/7-animes-de-los-ultimos-anos-que-se-vol
 Un grupo de tecnólogos imaginó hace más de 20 años qué pasaría al encargar a una máquina que fabrique un objeto sin límites: podía acabar con todo. Esta semana hemos asistido a un ejemplo de que algo así es posible
 https://elpais.com/tecnologia/2026-07-26/el-problema-de-los-clips-ya-esta-aqui-las-ia-pueden-destruir-el-mundo-sin-querer.html
 🗓️ 2026-07-26 • 🏷️ elpais.com
+
+### 2026-07-26T14:36:05.845Z
+📰 Apple prepara su primer iPad resistente al agua
+Hay características que, con el paso de los años, hemos terminado por dar prácticamente por sentadas en determinados dispositivos. La resistencia al agua es una de ellas, especialmente en los smartphones, pero curiosamente sigue siendo una …
+https://www.muycomputer.com/2026/07/26/apple-prepara-su-primer-ipad-resistente-al-agua/
+🗓️ 2026-07-26 • 🏷️ muycomputer.com
