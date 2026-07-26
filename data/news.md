@@ -6271,3 +6271,9 @@ https://elpais.com/tecnologia/2026-07-26/el-problema-de-los-clips-ya-esta-aqui-l
 Hay características que, con el paso de los años, hemos terminado por dar prácticamente por sentadas en determinados dispositivos. La resistencia al agua es una de ellas, especialmente en los smartphones, pero curiosamente sigue siendo una …
 https://www.muycomputer.com/2026/07/26/apple-prepara-su-primer-ipad-resistente-al-agua/
 🗓️ 2026-07-26 • 🏷️ muycomputer.com
+
+### 2026-07-26T20:09:02.354Z
+📰 Me cambié a un móvil plegable y esta es mi experiencia: ¿Realmente merece la pena?
+Hace poco di el paso que muchos todavía temen y me compré un móvil plegable. Más precisamente, un Motorola Razr 70, la versión de entrada de gama de la línea que se presentó a finales de abril. Si bien ya había tenido algún foldable en la m…
+https://hipertextual.com/mobile/mi-experiencia-con-un-movil-plegable-merece-la-pena/
+🗓️ 2026-07-26 • 🏷️ hipertextual.com
