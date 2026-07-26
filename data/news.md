@@ -6259,3 +6259,9 @@ https://hipertextual.com/tecnologia/spyware-monitores-lg-windows-11-como-elimina
 Si eres fanático del mundo de la animación, ya lo sabes. El anime ha dejado de ser un producto de nicho exclusivo de Japón para volverse uno de los fenómenos más influyentes del planeta. Con una historia que se remonta a principios del sigl…
 https://hipertextual.com/cine-television/7-animes-de-los-ultimos-anos-que-se-volvieron-clasicos/
 🗓️ 2026-07-25 • 🏷️ hipertextual.com
+
+### 2026-07-26T04:25:40.321Z
+📰 El problema de los clips ya está aquí: las IA pueden destruir el mundo sin querer
+Un grupo de tecnólogos imaginó hace más de 20 años qué pasaría al encargar a una máquina que fabrique un objeto sin límites: podía acabar con todo. Esta semana hemos asistido a un ejemplo de que algo así es posible
+https://elpais.com/tecnologia/2026-07-26/el-problema-de-los-clips-ya-esta-aqui-las-ia-pueden-destruir-el-mundo-sin-querer.html
+🗓️ 2026-07-26 • 🏷️ elpais.com
