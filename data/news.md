@@ -6283,3 +6283,9 @@ https://hipertextual.com/mobile/mi-experiencia-con-un-movil-plegable-merece-la-p
 La concepción europea sobre este asunto nunca se ha basado en la idea de que “quien habla puede decir cualquier cosa y los demás deben callarse”
 https://elpais.com/tecnologia/2026-07-27/proteger-la-libertad-de-expresion-es-mucho-mas-que-poder-decir-lo-que-te-de-la-gana.html
 🗓️ 2026-07-27 • 🏷️ elpais.com
+
+### 2026-07-27T15:41:38.758Z
+📰 Mucho ojo con Claude si hiciste esto: tus chats con la IA se pueden haber filtrado
+Si usas Claude a diario, presta atención porque es posible que tus chats con la IA se hayan filtrado y sean visibles para todo el mundo. Usuarios del chatbot de Anthropic han descubierto un truco que permite acceder a miles de conversacione…
+https://hipertextual.com/inteligencia-artificial/claude-chats-filtracion-buscador-google/
+🗓️ 2026-07-27 • 🏷️ hipertextual.com
