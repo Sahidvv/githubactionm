@@ -5576,3 +5576,19 @@ https://elpais.com/tecnologia/2026-07-26/el-problema-de-los-clips-ya-esta-aqui-l
 🗓️ 2026-07-26 • 🏷️ elpais.com
 
 ---
+## 2026-07-27
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Proteger la libertad de expresión es mucho más que poder decir lo que te dé la gana
+La concepción europea sobre este asunto nunca se ha basado en la idea de que “quien habla puede decir cualquier cosa y los demás deben callarse”
+https://elpais.com/tecnologia/2026-07-27/proteger-la-libertad-de-expresion-es-mucho-mas-que-poder-decir-lo-que-te-de-la-gana.html
+🗓️ 2026-07-27 • 🏷️ elpais.com
+
+---

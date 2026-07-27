@@ -6277,3 +6277,9 @@ https://www.muycomputer.com/2026/07/26/apple-prepara-su-primer-ipad-resistente-a
 Hace poco di el paso que muchos todavía temen y me compré un móvil plegable. Más precisamente, un Motorola Razr 70, la versión de entrada de gama de la línea que se presentó a finales de abril. Si bien ya había tenido algún foldable en la m…
 https://hipertextual.com/mobile/mi-experiencia-con-un-movil-plegable-merece-la-pena/
 🗓️ 2026-07-26 • 🏷️ hipertextual.com
+
+### 2026-07-27T04:36:00.498Z
+📰 Proteger la libertad de expresión es mucho más que poder decir lo que te dé la gana
+La concepción europea sobre este asunto nunca se ha basado en la idea de que “quien habla puede decir cualquier cosa y los demás deben callarse”
+https://elpais.com/tecnologia/2026-07-27/proteger-la-libertad-de-expresion-es-mucho-mas-que-poder-decir-lo-que-te-de-la-gana.html
+🗓️ 2026-07-27 • 🏷️ elpais.com
