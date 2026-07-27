@@ -6289,3 +6289,9 @@ https://elpais.com/tecnologia/2026-07-27/proteger-la-libertad-de-expresion-es-mu
 Si usas Claude a diario, presta atención porque es posible que tus chats con la IA se hayan filtrado y sean visibles para todo el mundo. Usuarios del chatbot de Anthropic han descubierto un truco que permite acceder a miles de conversacione…
 https://hipertextual.com/inteligencia-artificial/claude-chats-filtracion-buscador-google/
 🗓️ 2026-07-27 • 🏷️ hipertextual.com
+
+### 2026-07-27T20:22:03.765Z
+📰 GTA 6 dispara la fiebre de los vídeos falsos hechos con IA, que acumulan millones de reproducciones
+Con las reservas de GTA 6 a todo vapor desde hace varias semanas, la expectación de los fanáticos está por el aire. Pero a pesar de que está todo encaminado para que el juego debute el 19 de noviembre, la pereza de Rockstar y Take-Two Inter…
+https://hipertextual.com/videojuegos/gta-6-fiebre-videos-falsos-gameplay-hechos-con-ia/
+🗓️ 2026-07-27 • 🏷️ hipertextual.com
