@@ -6307,3 +6307,9 @@ https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaz
 Las gafas inteligentes se están convirtiendo rápidamente en uno de los grandes campos de batalla de la inteligencia artificial, y Apple no quiere quedarse fuera. Meta lleva tiempo avanzando en esta dirección, Samsung también ha mostrado sus…
 https://www.muycomputer.com/2026/07/28/apple-ai-glasses-menos-vision-pro-mas-ia-2027/
 🗓️ 2026-07-28 • 🏷️ muycomputer.com
+
+### 2026-07-28T20:15:29.665Z
+📰 Anthropic revela que Claude es capaz de romper el cifrado que protege a medio internet
+La inteligencia artificial de Anthropic ha conseguido algo que hasta hace poco era un terreno exclusivo de matemáticos y criptógrafos humanos. Claude Mythos encontró nuevas formas de atacar algoritmos criptográficos que protegen transaccion…
+https://hipertextual.com/seguridad/claude-mythos-vulnera-cifrado-aes-anthropic/
+🗓️ 2026-07-28 • 🏷️ hipertextual.com
