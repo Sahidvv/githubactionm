@@ -5592,3 +5592,19 @@ https://elpais.com/tecnologia/2026-07-27/proteger-la-libertad-de-expresion-es-mu
 🗓️ 2026-07-27 • 🏷️ elpais.com
 
 ---
+## 2026-07-28
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes
+Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa
+https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html
+🗓️ 2026-07-28 • 🏷️ elpais.com
+
+---

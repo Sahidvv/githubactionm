@@ -6295,3 +6295,9 @@ https://hipertextual.com/inteligencia-artificial/claude-chats-filtracion-buscado
 Con las reservas de GTA 6 a todo vapor desde hace varias semanas, la expectación de los fanáticos está por el aire. Pero a pesar de que está todo encaminado para que el juego debute el 19 de noviembre, la pereza de Rockstar y Take-Two Inter…
 https://hipertextual.com/videojuegos/gta-6-fiebre-videos-falsos-gameplay-hechos-con-ia/
 🗓️ 2026-07-27 • 🏷️ hipertextual.com
+
+### 2026-07-28T04:09:35.299Z
+📰 Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes
+Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa
+https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html
+🗓️ 2026-07-28 • 🏷️ elpais.com
