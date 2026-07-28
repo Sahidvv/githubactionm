@@ -6301,3 +6301,9 @@ https://hipertextual.com/videojuegos/gta-6-fiebre-videos-falsos-gameplay-hechos-
 Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa
 https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html
 🗓️ 2026-07-28 • 🏷️ elpais.com
+
+### 2026-07-28T15:20:53.675Z
+📰 Apple AI glasses: menos Vision Pro, más IA, 2027
+Las gafas inteligentes se están convirtiendo rápidamente en uno de los grandes campos de batalla de la inteligencia artificial, y Apple no quiere quedarse fuera. Meta lleva tiempo avanzando en esta dirección, Samsung también ha mostrado sus…
+https://www.muycomputer.com/2026/07/28/apple-ai-glasses-menos-vision-pro-mas-ia-2027/
+🗓️ 2026-07-28 • 🏷️ muycomputer.com
