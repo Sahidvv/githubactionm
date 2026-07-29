@@ -5608,3 +5608,19 @@ https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaz
 🗓️ 2026-07-28 • 🏷️ elpais.com
 
 ---
+## 2026-07-29
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 De la Thermomix al cortacésped autónomo: así se están llenando las casas de robots
+Una nueva generación de máquinas autónomas se abre paso en casa y apuntan a un mantenimiento cotidiano del hogar casi invisible
+https://elpais.com/tecnologia/2026-07-29/de-la-thermomix-al-cortacesped-autonomo-asi-se-estan-llenando-las-casas-de-robots.html
+🗓️ 2026-07-29 • 🏷️ elpais.com
+
+---

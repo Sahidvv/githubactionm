@@ -6313,3 +6313,9 @@ https://www.muycomputer.com/2026/07/28/apple-ai-glasses-menos-vision-pro-mas-ia-
 La inteligencia artificial de Anthropic ha conseguido algo que hasta hace poco era un terreno exclusivo de matemáticos y criptógrafos humanos. Claude Mythos encontró nuevas formas de atacar algoritmos criptográficos que protegen transaccion…
 https://hipertextual.com/seguridad/claude-mythos-vulnera-cifrado-aes-anthropic/
 🗓️ 2026-07-28 • 🏷️ hipertextual.com
+
+### 2026-07-29T04:11:40.279Z
+📰 De la Thermomix al cortacésped autónomo: así se están llenando las casas de robots
+Una nueva generación de máquinas autónomas se abre paso en casa y apuntan a un mantenimiento cotidiano del hogar casi invisible
+https://elpais.com/tecnologia/2026-07-29/de-la-thermomix-al-cortacesped-autonomo-asi-se-estan-llenando-las-casas-de-robots.html
+🗓️ 2026-07-29 • 🏷️ elpais.com
