@@ -6325,3 +6325,9 @@ https://elpais.com/tecnologia/2026-07-29/de-la-thermomix-al-cortacesped-autonomo
 Después de cinco largos años de espera Spider-Man: Brand New Day por fin ha llegado a los cines. La cuarta película de la saga de Tom Holland regresa a las salas con la firme intención de demostrar que el arácnido sigue siendo el superhéroe…
 https://hipertextual.com/cine-television/tiene-spider-man-brand-new-day-escena-post-creditos/
 🗓️ 2026-07-29 • 🏷️ hipertextual.com
+
+### 2026-07-29T20:12:16.265Z
+📰 El Ferrari Luce, diseñado por Jony Ive y odiado por todos, ya vendió lo que tenía previsto para 2026
+A dos meses de su polémica presentación, el Ferrari Luce ya cumplió con su objetivo de ventas para todo el año. El primer coche eléctrico de Maranello, diseñado en colaboración con Jony Ive y con un precio de salida de 550.000 euros, vendió…
+https://hipertextual.com/movilidad/ferrari-luce-ventas-objetivo-2026/
+🗓️ 2026-07-29 • 🏷️ hipertextual.com
