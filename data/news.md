@@ -6319,3 +6319,9 @@ https://hipertextual.com/seguridad/claude-mythos-vulnera-cifrado-aes-anthropic/
 Una nueva generación de máquinas autónomas se abre paso en casa y apuntan a un mantenimiento cotidiano del hogar casi invisible
 https://elpais.com/tecnologia/2026-07-29/de-la-thermomix-al-cortacesped-autonomo-asi-se-estan-llenando-las-casas-de-robots.html
 🗓️ 2026-07-29 • 🏷️ elpais.com
+
+### 2026-07-29T15:07:15.122Z
+📰 ¿Tiene ‘Spider-Man: Brand New Day’ escena post-créditos?
+Después de cinco largos años de espera Spider-Man: Brand New Day por fin ha llegado a los cines. La cuarta película de la saga de Tom Holland regresa a las salas con la firme intención de demostrar que el arácnido sigue siendo el superhéroe…
+https://hipertextual.com/cine-television/tiene-spider-man-brand-new-day-escena-post-creditos/
+🗓️ 2026-07-29 • 🏷️ hipertextual.com
