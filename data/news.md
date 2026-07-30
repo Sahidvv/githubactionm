@@ -6337,3 +6337,9 @@ https://hipertextual.com/movilidad/ferrari-luce-ventas-objetivo-2026/
 Las redes sociales reflejan las dinámicas de fragmentación que atraviesan las relaciones internacionales
 https://elpais.com/tecnologia/2026-07-30/el-salvaje-oeste-digital-y-la-ilusion-de-las-fronteras.html
 🗓️ 2026-07-30 • 🏷️ elpais.com
+
+### 2026-07-30T15:09:31.118Z
+📰 La escena post-créditos de &#8216;Spider-Man: Brand New Day&#8217;, explicada: ¿cómo conecta con &#8216;Avengers: Doomsday&#8217; y &#8216;Avengers: Secret Wars&#8217;?
+ATENCIÓN: El artículo contiene SPOILERS de Spider-Man: Brand New Day. La nueva película de Marvel, Spider-Man: Brand New Day, ya está en cines. Con ella, el arácnido de Tom Holland protagoniza su cuarta entrega en solitario, convirtiéndose …
+https://hipertextual.com/cine-television/spider-man-brand-new-day-escena-post-creditos-explicada-como-conecta-con-avengers-doomsday-y-secret-wars/
+🗓️ 2026-07-30 • 🏷️ hipertextual.com
