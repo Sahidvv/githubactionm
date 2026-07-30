@@ -6343,3 +6343,9 @@ https://elpais.com/tecnologia/2026-07-30/el-salvaje-oeste-digital-y-la-ilusion-d
 ATENCIÓN: El artículo contiene SPOILERS de Spider-Man: Brand New Day. La nueva película de Marvel, Spider-Man: Brand New Day, ya está en cines. Con ella, el arácnido de Tom Holland protagoniza su cuarta entrega en solitario, convirtiéndose …
 https://hipertextual.com/cine-television/spider-man-brand-new-day-escena-post-creditos-explicada-como-conecta-con-avengers-doomsday-y-secret-wars/
 🗓️ 2026-07-30 • 🏷️ hipertextual.com
+
+### 2026-07-30T20:13:53.948Z
+📰 Spotify lanza un modo para corredores que adapta la música a tu entrenamiento
+Spotify ha anunciado una nueva función que te ayudará a entrenar mejor todos los días. Si sueles salir a correr con los auriculares nuevos, la plataforma de streaming ha integrado un modo Running personalizable para tus rutinas. La función …
+https://hipertextual.com/mobile/spotify-running-mode-notas-usuario/
+🗓️ 2026-07-30 • 🏷️ hipertextual.com
