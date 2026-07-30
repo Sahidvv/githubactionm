@@ -5624,3 +5624,19 @@ https://elpais.com/tecnologia/2026-07-29/de-la-thermomix-al-cortacesped-autonomo
 🗓️ 2026-07-29 • 🏷️ elpais.com
 
 ---
+## 2026-07-30
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El salvaje oeste digital y la ilusión de las fronteras
+Las redes sociales reflejan las dinámicas de fragmentación que atraviesan las relaciones internacionales
+https://elpais.com/tecnologia/2026-07-30/el-salvaje-oeste-digital-y-la-ilusion-de-las-fronteras.html
+🗓️ 2026-07-30 • 🏷️ elpais.com
+
+---
