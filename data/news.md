@@ -6349,3 +6349,9 @@ https://hipertextual.com/cine-television/spider-man-brand-new-day-escena-post-cr
 Spotify ha anunciado una nueva función que te ayudará a entrenar mejor todos los días. Si sueles salir a correr con los auriculares nuevos, la plataforma de streaming ha integrado un modo Running personalizable para tus rutinas. La función …
 https://hipertextual.com/mobile/spotify-running-mode-notas-usuario/
 🗓️ 2026-07-30 • 🏷️ hipertextual.com
+
+### 2026-07-31T04:22:13.068Z
+📰 “Gafas de pervertido”: Meta ya no sabe cómo frenar las burlas y recelos hacia su producto estrella
+El lanzamiento de los nuevos modelos de gafas con cámaras integradas ha provocado una campaña global para desacreditar una de las grandes esperanzas de la compañía
+https://elpais.com/tecnologia/2026-07-31/gafas-de-pervertido-meta-ya-no-sabe-como-frenar-las-burlas-y-recelos-hacia-su-producto-estrella.html
+🗓️ 2026-07-31 • 🏷️ elpais.com
