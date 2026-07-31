@@ -6361,3 +6361,9 @@ https://elpais.com/tecnologia/2026-07-31/gafas-de-pervertido-meta-ya-no-sabe-com
 ATENCIÓN: El artículo contiene SPOILERS de Spider-Man: Brand New Day. El estreno de Spider-Man: Brand New Day llegaba con una gran incógnita sobre la mesa: ¿quién es realmente el personaje de Sadie Sink? La estrella de Stranger Things fichó…
 https://hipertextual.com/cine-television/el-personaje-de-sadie-sink-en-spider-man-brand-new-day-revelado-oficialmente/
 🗓️ 2026-07-31 • 🏷️ hipertextual.com
+
+### 2026-07-31T20:20:17.256Z
+📰 La nueva película de &#8216;X-Men&#8217; toma forma y ya tiene a su Emma Frost
+Con Spider-Man: Brand New Day en boca de todos y Avengers: Doomsday cada vez más cerca, Marvel Studios sigue trabajando en la expansión del UCM, con los X-Men como grandes protagonistas. Según reporta Deadline, la compañía está avanzando a …
+https://hipertextual.com/cine-television/la-nueva-pelicula-de-x-men-toma-forma-y-ya-tiene-a-su-emma-frost/
+🗓️ 2026-07-31 • 🏷️ hipertextual.com
