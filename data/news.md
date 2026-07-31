@@ -6355,3 +6355,9 @@ https://hipertextual.com/mobile/spotify-running-mode-notas-usuario/
 El lanzamiento de los nuevos modelos de gafas con cámaras integradas ha provocado una campaña global para desacreditar una de las grandes esperanzas de la compañía
 https://elpais.com/tecnologia/2026-07-31/gafas-de-pervertido-meta-ya-no-sabe-como-frenar-las-burlas-y-recelos-hacia-su-producto-estrella.html
 🗓️ 2026-07-31 • 🏷️ elpais.com
+
+### 2026-07-31T15:19:16.724Z
+📰 El personaje de Sadie Sink en &#8216;Spider-Man: Brand New Day&#8217;, revelado oficialmente
+ATENCIÓN: El artículo contiene SPOILERS de Spider-Man: Brand New Day. El estreno de Spider-Man: Brand New Day llegaba con una gran incógnita sobre la mesa: ¿quién es realmente el personaje de Sadie Sink? La estrella de Stranger Things fichó…
+https://hipertextual.com/cine-television/el-personaje-de-sadie-sink-en-spider-man-brand-new-day-revelado-oficialmente/
+🗓️ 2026-07-31 • 🏷️ hipertextual.com
