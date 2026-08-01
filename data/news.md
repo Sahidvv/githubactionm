@@ -6379,3 +6379,9 @@ https://hipertextual.com/tecnologia/lg-respuesta-adware-monitores/
 Prime Video es una de las plataformas más curiosas del mundo del streaming. Por un lado y al contrario de gigantes como Netflix y HBO Max, no tiene un catálogo en frecuente renovación. Al contrario, el servicio por suscripción hace una cuid…
 https://hipertextual.com/cine-television/10-peliculas-de-prime-video-que-te-sorprenderan/
 🗓️ 2026-08-01 • 🏷️ hipertextual.com
+
+### 2026-08-01T20:09:02.485Z
+📰 3 razones para ver la última temporada de ‘Cien años de soledad’ de Netflix
+En 2024, la adaptación de Cien años de soledad de Netflix sorprendió. No solo porque la serie logró captar lo mejor del universo de realismo mágico imaginado por Gabriel García Márquez. Además, porque la producción exploró a través de sus c…
+https://hipertextual.com/cine-television/3-razones-para-ver-la-ultima-temporada-de-cien-anos-de-soledad-de-netflix/
+🗓️ 2026-08-01 • 🏷️ hipertextual.com
