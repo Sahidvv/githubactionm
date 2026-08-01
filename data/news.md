@@ -6367,3 +6367,9 @@ https://hipertextual.com/cine-television/el-personaje-de-sadie-sink-en-spider-ma
 Con Spider-Man: Brand New Day en boca de todos y Avengers: Doomsday cada vez más cerca, Marvel Studios sigue trabajando en la expansión del UCM, con los X-Men como grandes protagonistas. Según reporta Deadline, la compañía está avanzando a …
 https://hipertextual.com/cine-television/la-nueva-pelicula-de-x-men-toma-forma-y-ya-tiene-a-su-emma-frost/
 🗓️ 2026-07-31 • 🏷️ hipertextual.com
+
+### 2026-08-01T04:21:20.729Z
+📰 LG se defiende tras ser acusada de instalar anuncios sin permiso en tu PC
+LG ha instalado durante meses una aplicación en los ordenadores de los usuarios sin pedir permiso. Hace unos días se desató una polémica después de que varios usuarios reportaran anuncios de McAfee al conectar sus monitores. Tras las crític…
+https://hipertextual.com/tecnologia/lg-respuesta-adware-monitores/
+🗓️ 2026-07-31 • 🏷️ hipertextual.com

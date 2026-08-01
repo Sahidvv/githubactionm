@@ -5656,3 +5656,19 @@ https://elpais.com/tecnologia/2026-07-31/gafas-de-pervertido-meta-ya-no-sabe-com
 🗓️ 2026-07-31 • 🏷️ elpais.com
 
 ---
+## 2026-08-01
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 LG se defiende tras ser acusada de instalar anuncios sin permiso en tu PC
+LG ha instalado durante meses una aplicación en los ordenadores de los usuarios sin pedir permiso. Hace unos días se desató una polémica después de que varios usuarios reportaran anuncios de McAfee al conectar sus monitores. Tras las crític…
+https://hipertextual.com/tecnologia/lg-respuesta-adware-monitores/
+🗓️ 2026-07-31 • 🏷️ hipertextual.com
+
+---
