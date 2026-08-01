@@ -6373,3 +6373,9 @@ https://hipertextual.com/cine-television/la-nueva-pelicula-de-x-men-toma-forma-y
 LG ha instalado durante meses una aplicación en los ordenadores de los usuarios sin pedir permiso. Hace unos días se desató una polémica después de que varios usuarios reportaran anuncios de McAfee al conectar sus monitores. Tras las crític…
 https://hipertextual.com/tecnologia/lg-respuesta-adware-monitores/
 🗓️ 2026-07-31 • 🏷️ hipertextual.com
+
+### 2026-08-01T14:25:44.629Z
+📰 10 películas de Prime Video que te sorprenderán
+Prime Video es una de las plataformas más curiosas del mundo del streaming. Por un lado y al contrario de gigantes como Netflix y HBO Max, no tiene un catálogo en frecuente renovación. Al contrario, el servicio por suscripción hace una cuid…
+https://hipertextual.com/cine-television/10-peliculas-de-prime-video-que-te-sorprenderan/
+🗓️ 2026-08-01 • 🏷️ hipertextual.com
