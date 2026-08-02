@@ -6385,3 +6385,9 @@ https://hipertextual.com/cine-television/10-peliculas-de-prime-video-que-te-sorp
 En 2024, la adaptación de Cien años de soledad de Netflix sorprendió. No solo porque la serie logró captar lo mejor del universo de realismo mágico imaginado por Gabriel García Márquez. Además, porque la producción exploró a través de sus c…
 https://hipertextual.com/cine-television/3-razones-para-ver-la-ultima-temporada-de-cien-anos-de-soledad-de-netflix/
 🗓️ 2026-08-01 • 🏷️ hipertextual.com
+
+### 2026-08-02T04:22:22.917Z
+📰 Los 10 directores más poderosos de Hollywood según ‘New York Magazine’
+New York Magazine ya tiene claro quiénes son los grandes directores de nuestra época. Un veredicto que muestra un punto clave del séptimo arte actual. A diferencia de otras décadas, el cine contemporáneo brinda una especial importancia a lo…
+https://hipertextual.com/cine-television/los-10-directores-mas-poderosos-de-hollywood-segun-new-york-magazine/
+🗓️ 2026-08-01 • 🏷️ hipertextual.com

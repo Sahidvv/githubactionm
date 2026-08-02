@@ -5672,3 +5672,19 @@ https://hipertextual.com/tecnologia/lg-respuesta-adware-monitores/
 🗓️ 2026-07-31 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-02
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Los 10 directores más poderosos de Hollywood según ‘New York Magazine’
+New York Magazine ya tiene claro quiénes son los grandes directores de nuestra época. Un veredicto que muestra un punto clave del séptimo arte actual. A diferencia de otras décadas, el cine contemporáneo brinda una especial importancia a lo…
+https://hipertextual.com/cine-television/los-10-directores-mas-poderosos-de-hollywood-segun-new-york-magazine/
+🗓️ 2026-08-01 • 🏷️ hipertextual.com
+
+---
