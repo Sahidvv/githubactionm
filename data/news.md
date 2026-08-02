@@ -6391,3 +6391,9 @@ https://hipertextual.com/cine-television/3-razones-para-ver-la-ultima-temporada-
 New York Magazine ya tiene claro quiénes son los grandes directores de nuestra época. Un veredicto que muestra un punto clave del séptimo arte actual. A diferencia de otras décadas, el cine contemporáneo brinda una especial importancia a lo…
 https://hipertextual.com/cine-television/los-10-directores-mas-poderosos-de-hollywood-segun-new-york-magazine/
 🗓️ 2026-08-01 • 🏷️ hipertextual.com
+
+### 2026-08-02T14:35:47.903Z
+📰 Europa obliga desde hoy a etiquetar los deepfakes
+Desde hoy, 2 de agosto de 2026, los deepfakes que puedan pasar por imágenes, vídeos o grabaciones auténticas deberán identificarse claramente cuando se publiquen en la Unión Europea. Empiezan a aplicarse las obligaciones de transparencia de…
+https://www.muycomputer.com/2026/08/02/europa-obliga-desde-hoy-a-etiquetar-los-deepfakes/
+🗓️ 2026-08-02 • 🏷️ muycomputer.com
