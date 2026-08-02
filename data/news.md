@@ -6397,3 +6397,9 @@ https://hipertextual.com/cine-television/los-10-directores-mas-poderosos-de-holl
 Desde hoy, 2 de agosto de 2026, los deepfakes que puedan pasar por imágenes, vídeos o grabaciones auténticas deberán identificarse claramente cuando se publiquen en la Unión Europea. Empiezan a aplicarse las obligaciones de transparencia de…
 https://www.muycomputer.com/2026/08/02/europa-obliga-desde-hoy-a-etiquetar-los-deepfakes/
 🗓️ 2026-08-02 • 🏷️ muycomputer.com
+
+### 2026-08-02T20:09:52.394Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXXV)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Qué es un SoC y por qué es tan importante en la ind…
+https://www.muycomputer.com/2026/08/02/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxv/
+🗓️ 2026-08-02 • 🏷️ muycomputer.com
