@@ -6409,3 +6409,9 @@ https://www.muycomputer.com/2026/08/02/los-mejores-contenidos-de-la-semana-en-mu
 Marvel lo ha hecho de nuevo y vuelve a marcar historia. Spider-Man: Brand New Day está a punto de convertirse en uno de los grandes estrenos del año y quizás de la década. Lo que deja claro que, a pesar de los sinsabores y algún que otro tr…
 https://hipertextual.com/cine-television/cinco-personajes-de-marvel-que-marcaron-historia/
 🗓️ 2026-08-02 • 🏷️ hipertextual.com
+
+### 2026-08-03T15:42:53.207Z
+📰 No solo Kratos: la serie de &#8216;God of War&#8217; planea reemplazar a más protagonistas
+La serie de God of War para Prime Video no ha tenido el inicio de producción que Amazon esperaba. Al sinfín de demoras que sufrió el proyecto en la etapa de elaboración del guion, que incluyó un reinicio creativo, se le sumó la reciente sal…
+https://hipertextual.com/cine-television/serie-god-of-war-planea-reemplazar-mas-protagonistas/
+🗓️ 2026-08-03 • 🏷️ hipertextual.com
