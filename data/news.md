@@ -6415,3 +6415,9 @@ https://hipertextual.com/cine-television/cinco-personajes-de-marvel-que-marcaron
 La serie de God of War para Prime Video no ha tenido el inicio de producción que Amazon esperaba. Al sinfín de demoras que sufrió el proyecto en la etapa de elaboración del guion, que incluyó un reinicio creativo, se le sumó la reciente sal…
 https://hipertextual.com/cine-television/serie-god-of-war-planea-reemplazar-mas-protagonistas/
 🗓️ 2026-08-03 • 🏷️ hipertextual.com
+
+### 2026-08-03T20:26:15.158Z
+📰 Europa obligará a marcar todo el contenido creado por inteligencia artificial
+Europa ha comenzado a aplicar una regla que etiquetará el contenido generado por inteligencia artificial. La Comisión Europea anunció que a partir del 2 de agosto entrarán en vigor nuevas obligaciones de transparencia para sistemas de IA. L…
+https://hipertextual.com/inteligencia-artificial/etiquetas-ia-union-europea-transparencia/
+🗓️ 2026-08-03 • 🏷️ hipertextual.com
