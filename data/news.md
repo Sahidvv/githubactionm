@@ -6433,3 +6433,9 @@ https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de
 Pocas industrias han dado un salto tan visible en la última década como la ficción española, y la plataforma de la N roja ha sido el escaparate desde el que ese catálogo ha llegado a medio mundo. Esta selección de las mejores series español…
 https://hipertextual.com/cine-television/las-mejores-series-espanolas-en-netflix/
 🗓️ 2026-08-04 • 🏷️ hipertextual.com
+
+### 2026-08-04T20:24:10.003Z
+📰 El estudio detrás del «FIFA» de Netflix, el desastroso juego oficial del Mundial, despide a casi todos sus empleados
+Los empleados del estudio responsable de FIFA World Cup: Launch Edition, el juego oficial del Mundial 2026 que debutó en Netflix en junio, fueron despedidos casi en su totalidad. Según reporta GamesBeat, Refactor Games prescindió del 85 % d…
+https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mundial-2026-netflix/
+🗓️ 2026-08-04 • 🏷️ hipertextual.com
