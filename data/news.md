@@ -6427,3 +6427,9 @@ https://hipertextual.com/inteligencia-artificial/etiquetas-ia-union-europea-tran
 Las ofertas de trabajo remoto se han convertido en el nuevo anzuelo del cibercrimen a través de redes organizadas que mezclan ingeniería social, criptomonedas y suplantación de empresas reales para vaciar cuentas y desaparecer sin dejar ras…
 https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de-las-falsas-ofertas-laborales-que-se-difunden-por-whatsapp-y-otras-redes-de-mensajeria.html
 🗓️ 2026-08-04 • 🏷️ elpais.com
+
+### 2026-08-04T15:23:28.520Z
+📰 Las mejores series españolas en Netflix (hasta 2026)
+Pocas industrias han dado un salto tan visible en la última década como la ficción española, y la plataforma de la N roja ha sido el escaparate desde el que ese catálogo ha llegado a medio mundo. Esta selección de las mejores series español…
+https://hipertextual.com/cine-television/las-mejores-series-espanolas-en-netflix/
+🗓️ 2026-08-04 • 🏷️ hipertextual.com
