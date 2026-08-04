@@ -6421,3 +6421,9 @@ https://hipertextual.com/cine-television/serie-god-of-war-planea-reemplazar-mas-
 Europa ha comenzado a aplicar una regla que etiquetará el contenido generado por inteligencia artificial. La Comisión Europea anunció que a partir del 2 de agosto entrarán en vigor nuevas obligaciones de transparencia para sistemas de IA. L…
 https://hipertextual.com/inteligencia-artificial/etiquetas-ia-union-europea-transparencia/
 🗓️ 2026-08-03 • 🏷️ hipertextual.com
+
+### 2026-08-04T04:13:52.086Z
+📰 “No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería
+Las ofertas de trabajo remoto se han convertido en el nuevo anzuelo del cibercrimen a través de redes organizadas que mezclan ingeniería social, criptomonedas y suplantación de empresas reales para vaciar cuentas y desaparecer sin dejar ras…
+https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de-las-falsas-ofertas-laborales-que-se-difunden-por-whatsapp-y-otras-redes-de-mensajeria.html
+🗓️ 2026-08-04 • 🏷️ elpais.com

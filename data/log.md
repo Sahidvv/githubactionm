@@ -5704,3 +5704,19 @@ https://hipertextual.com/cine-television/cinco-personajes-de-marvel-que-marcaron
 🗓️ 2026-08-02 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-04
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 “No pensé que yo pudiera caer”: el auge de las falsas ofertas laborales que se difunden por WhatsApp y otras redes de mensajería
+Las ofertas de trabajo remoto se han convertido en el nuevo anzuelo del cibercrimen a través de redes organizadas que mezclan ingeniería social, criptomonedas y suplantación de empresas reales para vaciar cuentas y desaparecer sin dejar ras…
+https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de-las-falsas-ofertas-laborales-que-se-difunden-por-whatsapp-y-otras-redes-de-mensajeria.html
+🗓️ 2026-08-04 • 🏷️ elpais.com
+
+---
