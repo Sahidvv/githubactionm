@@ -6451,3 +6451,9 @@ https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-sto
 El próximo gran proyecto de Anthropic es crear sus propios chips de inteligencia artificial optimizados para entrenar y ejecutar Claude. Según reporta Business Insider, la empresa ha confirmado que se encuentra conformando un equipo cuya ta…
 https://hipertextual.com/inteligencia-artificial/anthropic-confirma-que-planea-crear-sus-propios-chips-de-ia-para-claude/
 🗓️ 2026-08-05 • 🏷️ hipertextual.com
+
+### 2026-08-05T20:26:07.292Z
+📰 Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic
+Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará …
+https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/
+🗓️ 2026-08-05 • 🏷️ hipertextual.com
