@@ -6445,3 +6445,9 @@ https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mu
 Telegram ha vivido un momento difícil luego de que Apple retirara la aplicación de la App Store sin previo aviso. La noche del lunes, los usuarios de iPhone no pudieron descargar el cliente de mensajería debido a una violación de las normas…
 https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/
 🗓️ 2026-08-04 • 🏷️ hipertextual.com
+
+### 2026-08-05T15:12:59.419Z
+📰 Anthropic confirma que planea crear sus propios chips de IA para Claude
+El próximo gran proyecto de Anthropic es crear sus propios chips de inteligencia artificial optimizados para entrenar y ejecutar Claude. Según reporta Business Insider, la empresa ha confirmado que se encuentra conformando un equipo cuya ta…
+https://hipertextual.com/inteligencia-artificial/anthropic-confirma-que-planea-crear-sus-propios-chips-de-ia-para-claude/
+🗓️ 2026-08-05 • 🏷️ hipertextual.com
