@@ -5720,3 +5720,19 @@ https://elpais.com/tecnologia/2026-08-04/no-pense-que-yo-pudiera-caer-el-auge-de
 🗓️ 2026-08-04 • 🏷️ elpais.com
 
 ---
+## 2026-08-05
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Pável Dúrov explica por qué Apple eliminó Telegram de la App Store
+Telegram ha vivido un momento difícil luego de que Apple retirara la aplicación de la App Store sin previo aviso. La noche del lunes, los usuarios de iPhone no pudieron descargar el cliente de mensajería debido a una violación de las normas…
+https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/
+🗓️ 2026-08-04 • 🏷️ hipertextual.com
+
+---

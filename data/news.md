@@ -6439,3 +6439,9 @@ https://hipertextual.com/cine-television/las-mejores-series-espanolas-en-netflix
 Los empleados del estudio responsable de FIFA World Cup: Launch Edition, el juego oficial del Mundial 2026 que debutó en Netflix en junio, fueron despedidos casi en su totalidad. Según reporta GamesBeat, Refactor Games prescindió del 85 % d…
 https://hipertextual.com/videojuegos/despiden-empleados-crearon-juego-oficial-mundial-2026-netflix/
 🗓️ 2026-08-04 • 🏷️ hipertextual.com
+
+### 2026-08-05T04:09:23.369Z
+📰 Pável Dúrov explica por qué Apple eliminó Telegram de la App Store
+Telegram ha vivido un momento difícil luego de que Apple retirara la aplicación de la App Store sin previo aviso. La noche del lunes, los usuarios de iPhone no pudieron descargar el cliente de mensajería debido a una violación de las normas…
+https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/
+🗓️ 2026-08-04 • 🏷️ hipertextual.com
