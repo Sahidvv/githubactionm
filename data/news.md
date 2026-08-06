@@ -6463,3 +6463,9 @@ https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligenci
 Todavía ni siquiera sabemos cómo sería una máquina que podría llegar a tener consciencia
 https://elpais.com/ciencia/materia-gris/2026-08-06/seria-posible-saber-si-un-ingenio-artificial-tiene-consciencia.html
 🗓️ 2026-08-06 • 🏷️ elpais.com
+
+### 2026-08-06T15:15:27.220Z
+📰 El Galaxy S26 FE se filtra de nuevo y revela su fecha de lanzamiento
+Una nueva filtración del Samsung Galaxy S26 FE ha revelado su fecha de lanzamiento, como también la de las tablets de la línea Galaxy Tab S12. Según reporta Android Headlines, una parte del nuevo leak ratifica lo que ya se especulaba respec…
+https://hipertextual.com/mobile/samsung-galaxy-s26-fe-filtrada-fecha-lanzamiento/
+🗓️ 2026-08-06 • 🏷️ hipertextual.com
