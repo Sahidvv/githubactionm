@@ -5736,3 +5736,19 @@ https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-sto
 🗓️ 2026-08-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-06
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 ¿Sería posible saber si un ingenio artificial tiene consciencia?
+Todavía ni siquiera sabemos cómo sería una máquina que podría llegar a tener consciencia
+https://elpais.com/ciencia/materia-gris/2026-08-06/seria-posible-saber-si-un-ingenio-artificial-tiene-consciencia.html
+🗓️ 2026-08-06 • 🏷️ elpais.com
+
+---

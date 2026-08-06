@@ -6457,3 +6457,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-confirma-que-planea-c
 Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará …
 https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/
 🗓️ 2026-08-05 • 🏷️ hipertextual.com
+
+### 2026-08-06T04:12:08.846Z
+📰 ¿Sería posible saber si un ingenio artificial tiene consciencia?
+Todavía ni siquiera sabemos cómo sería una máquina que podría llegar a tener consciencia
+https://elpais.com/ciencia/materia-gris/2026-08-06/seria-posible-saber-si-un-ingenio-artificial-tiene-consciencia.html
+🗓️ 2026-08-06 • 🏷️ elpais.com
