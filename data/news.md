@@ -6487,3 +6487,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-chats-ilimitados-gpt-5-
 La GeForce RTX 2080 Ti es una tarjeta gráfica que todavía ofrece un buen rendimiento. Su potencia bruta es comparable a la de una GeForce RTX 3070, pero tiene la ventaja de contar con 11 GB de memoria gráfica, lo que le permite aguantar mej…
 https://www.muycomputer.com/2026/08/07/la-geforce-rtx-2080-ti-con-22-gb-llega-al-mercado-por-499-dolares/
 🗓️ 2026-08-07 • 🏷️ muycomputer.com
+
+### 2026-08-07T19:52:22.406Z
+📰 Disney Plus está probando una IA que entiende lo que quieres ver
+Si eres usuario de Netflix, Prime Video o cualquier servicio de streaming, sabrás lo complicado que es encontrar una película que te guste. Las compañías han modificado hasta el hartazgo su algoritmo, que las personas se cansan de buscar y …
+https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones/
+🗓️ 2026-08-07 • 🏷️ hipertextual.com
