@@ -6469,3 +6469,9 @@ https://elpais.com/ciencia/materia-gris/2026-08-06/seria-posible-saber-si-un-ing
 Una nueva filtración del Samsung Galaxy S26 FE ha revelado su fecha de lanzamiento, como también la de las tablets de la línea Galaxy Tab S12. Según reporta Android Headlines, una parte del nuevo leak ratifica lo que ya se especulaba respec…
 https://hipertextual.com/mobile/samsung-galaxy-s26-fe-filtrada-fecha-lanzamiento/
 🗓️ 2026-08-06 • 🏷️ hipertextual.com
+
+### 2026-08-07T00:39:49.214Z
+📰 Se filtra el HomePod con ChatGPT que prepara OpenAI y su diseño es una locura
+OpenAI está lista para sorprender a medio mundo con su primer dispositivo con IA. Tras meses de rumores y especulaciones, la compañía debutará un altavoz inteligente con ChatGPT que se aleja de todos los productos de este segmento, incluido…
+https://hipertextual.com/inteligencia-artificial/openai-dispositivo-ia-altavoz-chatgpt/
+🗓️ 2026-08-06 • 🏷️ hipertextual.com

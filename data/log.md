@@ -5752,3 +5752,19 @@ https://elpais.com/ciencia/materia-gris/2026-08-06/seria-posible-saber-si-un-ing
 🗓️ 2026-08-06 • 🏷️ elpais.com
 
 ---
+## 2026-08-07
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Se filtra el HomePod con ChatGPT que prepara OpenAI y su diseño es una locura
+OpenAI está lista para sorprender a medio mundo con su primer dispositivo con IA. Tras meses de rumores y especulaciones, la compañía debutará un altavoz inteligente con ChatGPT que se aleja de todos los productos de este segmento, incluido…
+https://hipertextual.com/inteligencia-artificial/openai-dispositivo-ia-altavoz-chatgpt/
+🗓️ 2026-08-06 • 🏷️ hipertextual.com
+
+---
