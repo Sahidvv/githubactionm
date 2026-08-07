@@ -6475,3 +6475,9 @@ https://hipertextual.com/mobile/samsung-galaxy-s26-fe-filtrada-fecha-lanzamiento
 OpenAI está lista para sorprender a medio mundo con su primer dispositivo con IA. Tras meses de rumores y especulaciones, la compañía debutará un altavoz inteligente con ChatGPT que se aleja de todos los productos de este segmento, incluido…
 https://hipertextual.com/inteligencia-artificial/openai-dispositivo-ia-altavoz-chatgpt/
 🗓️ 2026-08-06 • 🏷️ hipertextual.com
+
+### 2026-08-07T03:48:47.490Z
+📰 La versión gratis de ChatGPT elimina uno de sus límites más pedidos y ahora es más útil
+OpenAI ha lanzado una actualización que mejora las conversaciones con ChatGPT. A unos meses de presentar sus modelos GPT-5.6 Sol, Luna y Terra, la compañía decidió integrarlos a todos sus usuarios en los próximos días. El cambio llega acomp…
+https://hipertextual.com/inteligencia-artificial/chatgpt-chats-ilimitados-gpt-5-6/
+🗓️ 2026-08-06 • 🏷️ hipertextual.com
