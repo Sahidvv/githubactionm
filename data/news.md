@@ -6481,3 +6481,9 @@ https://hipertextual.com/inteligencia-artificial/openai-dispositivo-ia-altavoz-c
 OpenAI ha lanzado una actualización que mejora las conversaciones con ChatGPT. A unos meses de presentar sus modelos GPT-5.6 Sol, Luna y Terra, la compañía decidió integrarlos a todos sus usuarios en los próximos días. El cambio llega acomp…
 https://hipertextual.com/inteligencia-artificial/chatgpt-chats-ilimitados-gpt-5-6/
 🗓️ 2026-08-06 • 🏷️ hipertextual.com
+
+### 2026-08-07T14:12:21.318Z
+📰 La GeForce RTX 2080 Ti con 22 GB llega al mercado por 499 dólares
+La GeForce RTX 2080 Ti es una tarjeta gráfica que todavía ofrece un buen rendimiento. Su potencia bruta es comparable a la de una GeForce RTX 3070, pero tiene la ventaja de contar con 11 GB de memoria gráfica, lo que le permite aguantar mej…
+https://www.muycomputer.com/2026/08/07/la-geforce-rtx-2080-ti-con-22-gb-llega-al-mercado-por-499-dolares/
+🗓️ 2026-08-07 • 🏷️ muycomputer.com
