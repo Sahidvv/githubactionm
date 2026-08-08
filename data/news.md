@@ -6499,3 +6499,9 @@ https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones
 La idea de que no somos dueños de los archivos digitales ha quedado demostrada una vez más. A unas semanas de que Sony anunciara que eliminaría cientos de películas de su catálogo digital, incluyendo las que compraron los usuarios, un nuevo…
 https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-digital/
 🗓️ 2026-08-07 • 🏷️ hipertextual.com
+
+### 2026-08-08T13:45:14.054Z
+📰 Las mejores series de ciencia ficción de 2026 hasta ahora
+La ciencia ficción vive un año especialmente boyante en el cine y las series. Algunos estrenos han devuelto la ilusión y la esperanza en los espectadores, pero también en los estudios, que vuelven a confiar ciegamente en uno de los géneros …
+https://hipertextual.com/cine-television/las-mejores-series-de-ciencia-ficcion-de-2026-hasta-ahora/
+🗓️ 2026-08-08 • 🏷️ hipertextual.com
