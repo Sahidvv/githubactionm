@@ -6505,3 +6505,9 @@ https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-
 La ciencia ficción vive un año especialmente boyante en el cine y las series. Algunos estrenos han devuelto la ilusión y la esperanza en los espectadores, pero también en los estudios, que vuelven a confiar ciegamente en uno de los géneros …
 https://hipertextual.com/cine-television/las-mejores-series-de-ciencia-ficcion-de-2026-hasta-ahora/
 🗓️ 2026-08-08 • 🏷️ hipertextual.com
+
+### 2026-08-08T19:29:08.867Z
+📰 Los 10 mejores documentales de todos los tiempos
+A lo largo de la historia del cine, los documentales se han convertido en una herramienta fundamental para la memoria histórica. También, para el registro de la realidad. Todo debido a su capacidad de usar los recursos del cine para captura…
+https://hipertextual.com/cine-television/los-10-mejores-documentales-de-todos-los-tiempos/
+🗓️ 2026-08-08 • 🏷️ hipertextual.com
