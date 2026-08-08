@@ -5768,3 +5768,19 @@ https://hipertextual.com/inteligencia-artificial/openai-dispositivo-ia-altavoz-c
 🗓️ 2026-08-06 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-08
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Google borra las películas de &#8216;El Señor de los Anillos&#8217; y reabre el debate sobre la propiedad digital
+La idea de que no somos dueños de los archivos digitales ha quedado demostrada una vez más. A unas semanas de que Sony anunciara que eliminaría cientos de películas de su catálogo digital, incluyendo las que compraron los usuarios, un nuevo…
+https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-digital/
+🗓️ 2026-08-07 • 🏷️ hipertextual.com
+
+---

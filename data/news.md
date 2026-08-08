@@ -6493,3 +6493,9 @@ https://www.muycomputer.com/2026/08/07/la-geforce-rtx-2080-ti-con-22-gb-llega-al
 Si eres usuario de Netflix, Prime Video o cualquier servicio de streaming, sabrás lo complicado que es encontrar una película que te guste. Las compañías han modificado hasta el hartazgo su algoritmo, que las personas se cansan de buscar y …
 https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones/
 🗓️ 2026-08-07 • 🏷️ hipertextual.com
+
+### 2026-08-08T02:53:48.413Z
+📰 Google borra las películas de &#8216;El Señor de los Anillos&#8217; y reabre el debate sobre la propiedad digital
+La idea de que no somos dueños de los archivos digitales ha quedado demostrada una vez más. A unas semanas de que Sony anunciara que eliminaría cientos de películas de su catálogo digital, incluyendo las que compraron los usuarios, un nuevo…
+https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-digital/
+🗓️ 2026-08-07 • 🏷️ hipertextual.com
