@@ -6511,3 +6511,9 @@ https://hipertextual.com/cine-television/las-mejores-series-de-ciencia-ficcion-d
 A lo largo de la historia del cine, los documentales se han convertido en una herramienta fundamental para la memoria histórica. También, para el registro de la realidad. Todo debido a su capacidad de usar los recursos del cine para captura…
 https://hipertextual.com/cine-television/los-10-mejores-documentales-de-todos-los-tiempos/
 🗓️ 2026-08-08 • 🏷️ hipertextual.com
+
+### 2026-08-09T03:01:27.157Z
+📰 ¿Se acabó la fatiga del cine de superhéroes? 10 motivos por los que ‘Spider-Man: Brand New Day» desmiente esa teoría
+Spider-Man: Brand New Day dejó claro un punto: la fatiga del cine de superhéroes no alcanza a Spidey. La cuarta entrega del superhéroe dentro del Universo Cinematográfico de Marvel no solo se ha convertido en uno de los grandes éxitos del v…
+https://hipertextual.com/cine-television/se-acabo-la-fatiga-del-cine-de-superheroes-10-motivos-por-los-que-spider-man-brand-new-day-desmiente-esa-teoria/
+🗓️ 2026-08-08 • 🏷️ hipertextual.com

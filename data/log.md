@@ -5784,3 +5784,19 @@ https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-
 🗓️ 2026-08-07 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-09
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ¿Se acabó la fatiga del cine de superhéroes? 10 motivos por los que ‘Spider-Man: Brand New Day» desmiente esa teoría
+Spider-Man: Brand New Day dejó claro un punto: la fatiga del cine de superhéroes no alcanza a Spidey. La cuarta entrega del superhéroe dentro del Universo Cinematográfico de Marvel no solo se ha convertido en uno de los grandes éxitos del v…
+https://hipertextual.com/cine-television/se-acabo-la-fatiga-del-cine-de-superheroes-10-motivos-por-los-que-spider-man-brand-new-day-desmiente-esa-teoria/
+🗓️ 2026-08-08 • 🏷️ hipertextual.com
+
+---
