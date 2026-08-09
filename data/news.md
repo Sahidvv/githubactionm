@@ -6523,3 +6523,9 @@ https://hipertextual.com/cine-television/se-acabo-la-fatiga-del-cine-de-superher
 Uno de los grandes puntos fuertes de Spider-Man: Brand New Day es que sus numerosos cameos esta vez no opacan a Peter Parker sino que viven en el mismo mundo que él, pero no están por encima. Este es solo uno de los muchos motivos que han p…
 https://hipertextual.com/cine-television/el-cameo-eliminado-de-spider-man-brand-new-day-que-ha-enfadado-a-los-fans/
 🗓️ 2026-08-09 • 🏷️ hipertextual.com
+
+### 2026-08-09T19:32:46.604Z
+📰 No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución está en camino
+En las últimas semanas, usuarios del Samsung Galaxy S26 Ultra comenzaron a notar que la pantalla del dispositivo presentaba un extraño tinte rojo. El temor inmediato fue por un potencial fallo de hardware, pero esto finalmente quedó descart…
+https://hipertextual.com/mobile/samsung-galaxy-s26-ultra-problema-pantalla-rojiza-tiene-solucion/
+🗓️ 2026-08-09 • 🏷️ hipertextual.com
