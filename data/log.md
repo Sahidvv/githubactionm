@@ -5800,3 +5800,19 @@ https://hipertextual.com/cine-television/se-acabo-la-fatiga-del-cine-de-superher
 🗓️ 2026-08-08 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-10
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Esta app gratis convierte tu viejo Android en una consola retro de videojuegos
+Cuando pensamos en lanzadores de Android, lo primero que nos viene en mente es una capa que mejore la experiencia de uso. Rara vez se nos ocurre que este tipo de programas podrían abarcar otro tipo de interacciones o que podrían convertir n…
+https://hipertextual.com/mobile/iisu-launcher-android-juegos-retro/
+🗓️ 2026-08-09 • 🏷️ hipertextual.com
+
+---

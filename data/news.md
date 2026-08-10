@@ -6529,3 +6529,9 @@ https://hipertextual.com/cine-television/el-cameo-eliminado-de-spider-man-brand-
 En las últimas semanas, usuarios del Samsung Galaxy S26 Ultra comenzaron a notar que la pantalla del dispositivo presentaba un extraño tinte rojo. El temor inmediato fue por un potencial fallo de hardware, pero esto finalmente quedó descart…
 https://hipertextual.com/mobile/samsung-galaxy-s26-ultra-problema-pantalla-rojiza-tiene-solucion/
 🗓️ 2026-08-09 • 🏷️ hipertextual.com
+
+### 2026-08-10T03:10:52.208Z
+📰 Esta app gratis convierte tu viejo Android en una consola retro de videojuegos
+Cuando pensamos en lanzadores de Android, lo primero que nos viene en mente es una capa que mejore la experiencia de uso. Rara vez se nos ocurre que este tipo de programas podrían abarcar otro tipo de interacciones o que podrían convertir n…
+https://hipertextual.com/mobile/iisu-launcher-android-juegos-retro/
+🗓️ 2026-08-09 • 🏷️ hipertextual.com
