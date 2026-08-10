@@ -6541,3 +6541,9 @@ https://hipertextual.com/mobile/iisu-launcher-android-juegos-retro/
 LG xboom Blast es el nuevo altavoz que la firma surcoreana propone para entretener las actividades al aire libre que se incrementan durante la época estival. Combina un sonido potente, una batería de larga duración y la resistencia necesari…
 https://www.muycomputer.com/2026/08/10/lg-xboom-blast-un-potente-altavoz-bluetooth-para-tus-fiestas-de-verano/
 🗓️ 2026-08-10 • 🏷️ muycomputer.com
+
+### 2026-08-10T19:54:31.677Z
+📰 Zuckerberg publica en abierto su IA más potente y pone patas arriba el intento de frenar a China
+Meta vuelve a apostar por los modelos abiertos mientras crece en Washington el temor a que China utilice esta tecnología para reducir su desventaja frente a EEUUChina ultima un desembarco en la IA similar al de los coches: “Va a llegar una …
+https://www.eldiario.es/tecnologia/zuckerberg-publica-abierto-ia-potente-pone-patas-frenar-china_1_13438231.html
+🗓️ 2026-08-10 • 🏷️ eldiario.es
