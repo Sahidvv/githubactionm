@@ -6535,3 +6535,9 @@ https://hipertextual.com/mobile/samsung-galaxy-s26-ultra-problema-pantalla-rojiz
 Cuando pensamos en lanzadores de Android, lo primero que nos viene en mente es una capa que mejore la experiencia de uso. Rara vez se nos ocurre que este tipo de programas podrían abarcar otro tipo de interacciones o que podrían convertir n…
 https://hipertextual.com/mobile/iisu-launcher-android-juegos-retro/
 🗓️ 2026-08-09 • 🏷️ hipertextual.com
+
+### 2026-08-10T14:19:16.702Z
+📰 LG xboom Blast, un potente altavoz Bluetooth para tus fiestas de verano
+LG xboom Blast es el nuevo altavoz que la firma surcoreana propone para entretener las actividades al aire libre que se incrementan durante la época estival. Combina un sonido potente, una batería de larga duración y la resistencia necesari…
+https://www.muycomputer.com/2026/08/10/lg-xboom-blast-un-potente-altavoz-bluetooth-para-tus-fiestas-de-verano/
+🗓️ 2026-08-10 • 🏷️ muycomputer.com
