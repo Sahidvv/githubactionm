@@ -6553,3 +6553,9 @@ https://www.eldiario.es/tecnologia/zuckerberg-publica-abierto-ia-potente-pone-pa
 Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone. L…
 https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/
 🗓️ 2026-08-10 • 🏷️ hipertextual.com
+
+### 2026-08-11T14:18:55.200Z
+📰 La versión más cara de &#8216;GTA 6&#8217; se vende como pan caliente, y Take-Two festeja
+Las reservas de GTA 6 avanzan a todo vapor y Take-Two Interactive poco a poco va revelando más detalles del proceso. Durante la presentación de los resultados financieros del primer trimestre fiscal 2027, la casa matriz de Rockstar Games ca…
+https://hipertextual.com/videojuegos/gta-6-ultimate-vende-mas-que-la-version-estandar/
+🗓️ 2026-08-11 • 🏷️ hipertextual.com
