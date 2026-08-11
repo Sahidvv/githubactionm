@@ -6559,3 +6559,9 @@ https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/
 Las reservas de GTA 6 avanzan a todo vapor y Take-Two Interactive poco a poco va revelando más detalles del proceso. Durante la presentación de los resultados financieros del primer trimestre fiscal 2027, la casa matriz de Rockstar Games ca…
 https://hipertextual.com/videojuegos/gta-6-ultimate-vende-mas-que-la-version-estandar/
 🗓️ 2026-08-11 • 🏷️ hipertextual.com
+
+### 2026-08-11T19:58:58.778Z
+📰 Elon Musk lanza una IA que trabaja por ti las 24 horas con solo enviar un mensaje
+SpaceXAI ha lanzado una nueva app que competirá de frente con Claude y ChatGPT en tareas de agente. Conocida como Grok Bot, esta IA promete agentes capaces de completar tareas completas sin tener que supervisarlos todo el tiempo. La primera…
+https://hipertextual.com/inteligencia-artificial/grok-bot-app-agentes-ia-spacexai-elon-musk/
+🗓️ 2026-08-11 • 🏷️ hipertextual.com
