@@ -6547,3 +6547,9 @@ https://www.muycomputer.com/2026/08/10/lg-xboom-blast-un-potente-altavoz-bluetoo
 Meta vuelve a apostar por los modelos abiertos mientras crece en Washington el temor a que China utilice esta tecnología para reducir su desventaja frente a EEUUChina ultima un desembarco en la IA similar al de los coches: “Va a llegar una …
 https://www.eldiario.es/tecnologia/zuckerberg-publica-abierto-ia-potente-pone-patas-frenar-china_1_13438231.html
 🗓️ 2026-08-10 • 🏷️ eldiario.es
+
+### 2026-08-11T03:03:48.984Z
+📰 El iPhone tendrá una función para demostrar que una foto es real y no de IA
+Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone. L…
+https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/
+🗓️ 2026-08-10 • 🏷️ hipertextual.com

@@ -5816,3 +5816,19 @@ https://hipertextual.com/mobile/iisu-launcher-android-juegos-retro/
 🗓️ 2026-08-09 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-11
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 El iPhone tendrá una función para demostrar que una foto es real y no de IA
+Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone. L…
+https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/
+🗓️ 2026-08-10 • 🏷️ hipertextual.com
+
+---
