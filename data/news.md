@@ -6577,3 +6577,9 @@ https://hipertextual.com/cine-television/nicholas-hoult-gilderoy-lockhart-harry-
 Tal como venían anticipando los rumores, y acompañado de los nuevos Pixel y Pixel Watch, Google ha presentado el que será uno de sus accesorios estrella: el Pixel Tag. Su propia versión alternativa a las AirTag de Apple y del resto de fabri…
 https://hipertextual.com/tecnologia/el-nuevo-pixel-tag-es-la-respuesta-de-google-al-airtag-de-apple-y-tiene-un-diseno-exquisito/
 🗓️ 2026-08-12 • 🏷️ hipertextual.com
+
+### 2026-08-12T19:59:54.735Z
+📰 Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador
+Microsoft ha lanzado un parche de emergencia para resolver una vulnerabilidad que ya estaba siendo aprovechada por atacantes. El fallo, considerado de alta gravedad, está presente en múltiples versiones de Windows 10 y Windows 11, por lo qu…
+https://hipertextual.com/seguridad/microsoft-parchea-fallo-critico-windows-explotado-activamente/
+🗓️ 2026-08-12 • 🏷️ hipertextual.com
