@@ -6565,3 +6565,9 @@ https://hipertextual.com/videojuegos/gta-6-ultimate-vende-mas-que-la-version-est
 SpaceXAI ha lanzado una nueva app que competirá de frente con Claude y ChatGPT en tareas de agente. Conocida como Grok Bot, esta IA promete agentes capaces de completar tareas completas sin tener que supervisarlos todo el tiempo. La primera…
 https://hipertextual.com/inteligencia-artificial/grok-bot-app-agentes-ia-spacexai-elon-musk/
 🗓️ 2026-08-11 • 🏷️ hipertextual.com
+
+### 2026-08-12T03:22:31.842Z
+📰 Estrella de &#8216;Superman&#8217; se une a la serie de &#8216;Harry Potter&#8217; para interpretar a un profesor inolvidable
+La serie de Harry Potter ha encontrado a su nuevo Gilderoy Lockhart. De acuerdo con Deadline, Nicholas Hoult sumará un nuevo villano a su carrera al interpretar a uno de los profesores más recordados de la saga creada por J.K. Rowling. El a…
+https://hipertextual.com/cine-television/nicholas-hoult-gilderoy-lockhart-harry-potter-temporada-2/
+🗓️ 2026-08-11 • 🏷️ hipertextual.com

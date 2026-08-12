@@ -5832,3 +5832,19 @@ https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/
 🗓️ 2026-08-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-12
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Estrella de &#8216;Superman&#8217; se une a la serie de &#8216;Harry Potter&#8217; para interpretar a un profesor inolvidable
+La serie de Harry Potter ha encontrado a su nuevo Gilderoy Lockhart. De acuerdo con Deadline, Nicholas Hoult sumará un nuevo villano a su carrera al interpretar a uno de los profesores más recordados de la saga creada por J.K. Rowling. El a…
+https://hipertextual.com/cine-television/nicholas-hoult-gilderoy-lockhart-harry-potter-temporada-2/
+🗓️ 2026-08-11 • 🏷️ hipertextual.com
+
+---
