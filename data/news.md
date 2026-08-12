@@ -6571,3 +6571,9 @@ https://hipertextual.com/inteligencia-artificial/grok-bot-app-agentes-ia-spacexa
 La serie de Harry Potter ha encontrado a su nuevo Gilderoy Lockhart. De acuerdo con Deadline, Nicholas Hoult sumará un nuevo villano a su carrera al interpretar a uno de los profesores más recordados de la saga creada por J.K. Rowling. El a…
 https://hipertextual.com/cine-television/nicholas-hoult-gilderoy-lockhart-harry-potter-temporada-2/
 🗓️ 2026-08-11 • 🏷️ hipertextual.com
+
+### 2026-08-12T14:19:52.112Z
+📰 El nuevo Pixel Tag es la respuesta de Google al AirTag de Apple (y tiene un diseño exquisito)
+Tal como venían anticipando los rumores, y acompañado de los nuevos Pixel y Pixel Watch, Google ha presentado el que será uno de sus accesorios estrella: el Pixel Tag. Su propia versión alternativa a las AirTag de Apple y del resto de fabri…
+https://hipertextual.com/tecnologia/el-nuevo-pixel-tag-es-la-respuesta-de-google-al-airtag-de-apple-y-tiene-un-diseno-exquisito/
+🗓️ 2026-08-12 • 🏷️ hipertextual.com
