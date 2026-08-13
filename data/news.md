@@ -6589,3 +6589,9 @@ https://hipertextual.com/seguridad/microsoft-parchea-fallo-critico-windows-explo
 Christopher Judge, el actor que dio vida a Kratos en los dos últimos juegos de God of War, ha lanzado una dura crítica contra la serie de televisión. El actor aprovechó un panel en una convención para hablar sin filtros sobre cómo Hollywood…
 https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-god-of-war-guionistas/
 🗓️ 2026-08-12 • 🏷️ hipertextual.com
+
+### 2026-08-13T14:21:09.367Z
+📰 Steam podría llegar a PS6, y esto destrozaría a Sony
+Sony tiene un problema, bueno, en realidad tiene varios, aunque estos concurren en un mismo frente. La compañía japonesa lleva tiempo abusando de su posición dominante con la venta de juegos en formato digital para PlayStation, una realidad…
+https://www.muycomputer.com/2026/08/13/steam-podria-llegar-a-ps6-y-esto-destrozaria-a-sony/
+🗓️ 2026-08-13 • 🏷️ muycomputer.com
