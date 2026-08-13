@@ -6595,3 +6595,9 @@ https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-
 Sony tiene un problema, bueno, en realidad tiene varios, aunque estos concurren en un mismo frente. La compañía japonesa lleva tiempo abusando de su posición dominante con la venta de juegos en formato digital para PlayStation, una realidad…
 https://www.muycomputer.com/2026/08/13/steam-podria-llegar-a-ps6-y-esto-destrozaria-a-sony/
 🗓️ 2026-08-13 • 🏷️ muycomputer.com
+
+### 2026-08-13T19:54:49.691Z
+📰 OpenAI acelera ChatGPT como nunca: su IA más potente ya responde en segundos gracias a esta función
+OpenAI ha lanzado una versión de ChatGPT que ejecuta su modelo más potente a una velocidad nunca antes vista. Conocido como Ultrafast, este modo permite correr GPT-5.6 Sol hasta 14 veces más rápido que el procesamiento estándar. La nueva fu…
+https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/
+🗓️ 2026-08-13 • 🏷️ hipertextual.com
