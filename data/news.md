@@ -6583,3 +6583,9 @@ https://hipertextual.com/tecnologia/el-nuevo-pixel-tag-es-la-respuesta-de-google
 Microsoft ha lanzado un parche de emergencia para resolver una vulnerabilidad que ya estaba siendo aprovechada por atacantes. El fallo, considerado de alta gravedad, está presente en múltiples versiones de Windows 10 y Windows 11, por lo qu…
 https://hipertextual.com/seguridad/microsoft-parchea-fallo-critico-windows-explotado-activamente/
 🗓️ 2026-08-12 • 🏷️ hipertextual.com
+
+### 2026-08-13T03:25:48.677Z
+📰 El actor de Kratos lanza una fuerte crítica contra la serie de &#8216;God of War&#8217; y otras adaptaciones
+Christopher Judge, el actor que dio vida a Kratos en los dos últimos juegos de God of War, ha lanzado una dura crítica contra la serie de televisión. El actor aprovechó un panel en una convención para hablar sin filtros sobre cómo Hollywood…
+https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-god-of-war-guionistas/
+🗓️ 2026-08-12 • 🏷️ hipertextual.com

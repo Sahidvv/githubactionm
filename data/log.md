@@ -5848,3 +5848,19 @@ https://hipertextual.com/cine-television/nicholas-hoult-gilderoy-lockhart-harry-
 🗓️ 2026-08-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-13
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 El actor de Kratos lanza una fuerte crítica contra la serie de &#8216;God of War&#8217; y otras adaptaciones
+Christopher Judge, el actor que dio vida a Kratos en los dos últimos juegos de God of War, ha lanzado una dura crítica contra la serie de televisión. El actor aprovechó un panel en una convención para hablar sin filtros sobre cómo Hollywood…
+https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-god-of-war-guionistas/
+🗓️ 2026-08-12 • 🏷️ hipertextual.com
+
+---
