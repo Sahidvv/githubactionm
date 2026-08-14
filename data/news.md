@@ -6613,3 +6613,9 @@ https://hipertextual.com/cine-television/matthew-mcconaughey-revela-por-que-rech
 El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude
 https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html
 🗓️ 2026-08-14 • 🏷️ elpais.com
+
+### 2026-08-14T19:48:03.159Z
+📰 ChatGPT ha copiado una de las funciones más odiadas de Windows 11 en su app para Mac
+OpenAI se acaba de hacer un harakiri al copiar una de las funciones más polémicas de Windows 11 en su aplicación para Mac. La compañía anunció Computer History, una característica que analiza tu actividad en el ordenador y la convierte en m…
+https://hipertextual.com/inteligencia-artificial/chatgpt-ha-copiado-una-de-las-funciones-mas-odiadas-de-windows-11-en-su-app-para-mac/
+🗓️ 2026-08-14 • 🏷️ hipertextual.com
