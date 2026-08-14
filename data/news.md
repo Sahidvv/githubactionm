@@ -6601,3 +6601,9 @@ https://www.muycomputer.com/2026/08/13/steam-podria-llegar-a-ps6-y-esto-destroza
 OpenAI ha lanzado una versión de ChatGPT que ejecuta su modelo más potente a una velocidad nunca antes vista. Conocido como Ultrafast, este modo permite correr GPT-5.6 Sol hasta 14 veces más rápido que el procesamiento estándar. La nueva fu…
 https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/
 🗓️ 2026-08-13 • 🏷️ hipertextual.com
+
+### 2026-08-14T03:23:06.938Z
+📰 Matthew McConaughey revela por qué rechazó ser Joel en &#8216;The Last of Us&#8217;
+Después de años de rumores y especulaciones, Matthew McConaughey confirmó que le fue ofrecido el rol de Joel en The Last of Us antes que a Pedro Pascal. Pero no solo eso, sino que también reveló por qué decidió no aceptar el protagónico en …
+https://hipertextual.com/cine-television/matthew-mcconaughey-revela-por-que-rechazo-ser-joel-en-the-last-of-us/
+🗓️ 2026-08-13 • 🏷️ hipertextual.com

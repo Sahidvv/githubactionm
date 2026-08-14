@@ -5864,3 +5864,19 @@ https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-
 🗓️ 2026-08-12 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-14
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Matthew McConaughey revela por qué rechazó ser Joel en &#8216;The Last of Us&#8217;
+Después de años de rumores y especulaciones, Matthew McConaughey confirmó que le fue ofrecido el rol de Joel en The Last of Us antes que a Pedro Pascal. Pero no solo eso, sino que también reveló por qué decidió no aceptar el protagónico en …
+https://hipertextual.com/cine-television/matthew-mcconaughey-revela-por-que-rechazo-ser-joel-en-the-last-of-us/
+🗓️ 2026-08-13 • 🏷️ hipertextual.com
+
+---
