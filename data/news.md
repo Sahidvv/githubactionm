@@ -6607,3 +6607,9 @@ https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/
 Después de años de rumores y especulaciones, Matthew McConaughey confirmó que le fue ofrecido el rol de Joel en The Last of Us antes que a Pedro Pascal. Pero no solo eso, sino que también reveló por qué decidió no aceptar el protagónico en …
 https://hipertextual.com/cine-television/matthew-mcconaughey-revela-por-que-rechazo-ser-joel-en-the-last-of-us/
 🗓️ 2026-08-13 • 🏷️ hipertextual.com
+
+### 2026-08-14T14:14:55.366Z
+📰 Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei
+El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude
+https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html
+🗓️ 2026-08-14 • 🏷️ elpais.com
