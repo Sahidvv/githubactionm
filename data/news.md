@@ -6625,3 +6625,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-ha-copiado-una-de-las-f
 Marvel está a punto de tomar una decisión que cambiaría el futuro de sus series de televisión. Según un reporte, la compañía dejará de producir series live-action de alto presupuesto para enfocarse por completo en el cine. VisionQuest sería…
 https://hipertextual.com/cine-television/marvel-recorta-series-disney-plus/
 🗓️ 2026-08-14 • 🏷️ hipertextual.com
+
+### 2026-08-15T13:29:44.071Z
+📰 ‘El final de Oak Street’ (★★★★☆) es espeluznante y divertida, pero excesivamente caótica
+El final de Oak Street es varias cosas a la vez. Por un lado, una película de ciencia ficción disparatada en la que David Robert Mitchell pone toda la carne en el asador para divertir. Por el otro, es una especie de homenaje involuntario al…
+https://hipertextual.com/cine-television/el-final-de-oak-street-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-espeluznante-y-divertida-pero-excesivamente-caotica/
+🗓️ 2026-08-15 • 🏷️ hipertextual.com
