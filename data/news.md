@@ -6619,3 +6619,9 @@ https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-
 OpenAI se acaba de hacer un harakiri al copiar una de las funciones más polémicas de Windows 11 en su aplicación para Mac. La compañía anunció Computer History, una característica que analiza tu actividad en el ordenador y la convierte en m…
 https://hipertextual.com/inteligencia-artificial/chatgpt-ha-copiado-una-de-las-funciones-mas-odiadas-de-windows-11-en-su-app-para-mac/
 🗓️ 2026-08-14 • 🏷️ hipertextual.com
+
+### 2026-08-15T02:12:53.756Z
+📰 Marvel dice adiós a sus series de Disney Plus: VisionQuest será la última
+Marvel está a punto de tomar una decisión que cambiaría el futuro de sus series de televisión. Según un reporte, la compañía dejará de producir series live-action de alto presupuesto para enfocarse por completo en el cine. VisionQuest sería…
+https://hipertextual.com/cine-television/marvel-recorta-series-disney-plus/
+🗓️ 2026-08-14 • 🏷️ hipertextual.com

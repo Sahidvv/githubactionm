@@ -5880,3 +5880,19 @@ https://hipertextual.com/cine-television/matthew-mcconaughey-revela-por-que-rech
 🗓️ 2026-08-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-15
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Marvel dice adiós a sus series de Disney Plus: VisionQuest será la última
+Marvel está a punto de tomar una decisión que cambiaría el futuro de sus series de televisión. Según un reporte, la compañía dejará de producir series live-action de alto presupuesto para enfocarse por completo en el cine. VisionQuest sería…
+https://hipertextual.com/cine-television/marvel-recorta-series-disney-plus/
+🗓️ 2026-08-14 • 🏷️ hipertextual.com
+
+---
