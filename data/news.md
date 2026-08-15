@@ -6631,3 +6631,9 @@ https://hipertextual.com/cine-television/marvel-recorta-series-disney-plus/
 El final de Oak Street es varias cosas a la vez. Por un lado, una película de ciencia ficción disparatada en la que David Robert Mitchell pone toda la carne en el asador para divertir. Por el otro, es una especie de homenaje involuntario al…
 https://hipertextual.com/cine-television/el-final-de-oak-street-%e2%98%85%e2%98%85%e2%98%85%e2%98%85%e2%98%86-es-espeluznante-y-divertida-pero-excesivamente-caotica/
 🗓️ 2026-08-15 • 🏷️ hipertextual.com
+
+### 2026-08-15T19:20:42.451Z
+📰 Todo lo que debes saber de Linterna Verde antes de ver ‘Linternas’, la nueva serie de DC en HBO Max
+Linternas, que podrás ver a partir del 16 de agosto por HBO Max, es la más reciente adición al recién renacido universo de DC. Y una especialmente buena. En particular, porque Linterna Verde no solo es uno de los personajes más enigmáticos …
+https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-linterna-verde-antes-de-ver-linternas-la-nueva-serie-de-dc-en-hbo-max/
+🗓️ 2026-08-15 • 🏷️ hipertextual.com
