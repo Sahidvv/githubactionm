@@ -5896,3 +5896,19 @@ https://hipertextual.com/cine-television/marvel-recorta-series-disney-plus/
 🗓️ 2026-08-14 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-16
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 ¿Podría la IA tener conciencia? Los expertos creen que (como mínimo) es posible
+Podríamos estar creando un nuevo tipo de ser, lo más trascendental que nuestra especie haya hecho jamás. Necesitamos urgentementre un plan sobre cómo abordar este proceso de forma éticaChina ultima un desembarco en la IA similar al de los c…
+https://www.eldiario.es/tecnologia/ia-conciencia-expertos-creen-minimo-posible_1_13445884.html
+🗓️ 2026-08-15 • 🏷️ eldiario.es
+
+---

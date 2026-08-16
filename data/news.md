@@ -6637,3 +6637,9 @@ https://hipertextual.com/cine-television/el-final-de-oak-street-%e2%98%85%e2%98%
 Linternas, que podrás ver a partir del 16 de agosto por HBO Max, es la más reciente adición al recién renacido universo de DC. Y una especialmente buena. En particular, porque Linterna Verde no solo es uno de los personajes más enigmáticos …
 https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-linterna-verde-antes-de-ver-linternas-la-nueva-serie-de-dc-en-hbo-max/
 🗓️ 2026-08-15 • 🏷️ hipertextual.com
+
+### 2026-08-16T02:20:15.622Z
+📰 ¿Podría la IA tener conciencia? Los expertos creen que (como mínimo) es posible
+Podríamos estar creando un nuevo tipo de ser, lo más trascendental que nuestra especie haya hecho jamás. Necesitamos urgentementre un plan sobre cómo abordar este proceso de forma éticaChina ultima un desembarco en la IA similar al de los c…
+https://www.eldiario.es/tecnologia/ia-conciencia-expertos-creen-minimo-posible_1_13445884.html
+🗓️ 2026-08-15 • 🏷️ eldiario.es
