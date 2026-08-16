@@ -6649,3 +6649,9 @@ https://www.eldiario.es/tecnologia/ia-conciencia-expertos-creen-minimo-posible_1
 Al año 2026 se le recordará como el del renacimiento de las salas de cine, rompiendo récords gracias a una masiva afluencia de público. Todo, en un fenómeno multitudinario que no se recordaba desde antes de la pandemia. Por primera vez en s…
 https://hipertextual.com/tecnologia/las-peliculas-mas-raras-del-2026-hasta-ahora/
 🗓️ 2026-08-16 • 🏷️ hipertextual.com
+
+### 2026-08-16T19:20:15.016Z
+📰 Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code
+Microsoft ha lanzado una nueva IA para competir con Claude Code y otros modelos de desarrollo de software. Conocido como MAI-Code-1.1-Flash, el modelo está pensado para tareas de programación dentro de GitHub Copilot. Según sus creadores, e…
+https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/
+🗓️ 2026-08-16 • 🏷️ hipertextual.com
