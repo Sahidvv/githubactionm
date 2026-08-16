@@ -6643,3 +6643,9 @@ https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-linterna-ver
 Podríamos estar creando un nuevo tipo de ser, lo más trascendental que nuestra especie haya hecho jamás. Necesitamos urgentementre un plan sobre cómo abordar este proceso de forma éticaChina ultima un desembarco en la IA similar al de los c…
 https://www.eldiario.es/tecnologia/ia-conciencia-expertos-creen-minimo-posible_1_13445884.html
 🗓️ 2026-08-15 • 🏷️ eldiario.es
+
+### 2026-08-16T13:30:56.290Z
+📰 Las películas más raras del 2026 hasta ahora
+Al año 2026 se le recordará como el del renacimiento de las salas de cine, rompiendo récords gracias a una masiva afluencia de público. Todo, en un fenómeno multitudinario que no se recordaba desde antes de la pandemia. Por primera vez en s…
+https://hipertextual.com/tecnologia/las-peliculas-mas-raras-del-2026-hasta-ahora/
+🗓️ 2026-08-16 • 🏷️ hipertextual.com
