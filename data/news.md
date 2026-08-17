@@ -6667,3 +6667,9 @@ https://hipertextual.com/aviacion/virgin-galactic-posterga-vuelos-comerciales-20
 Microsoft está preparando mejoras importantes que llegarán a Windows 11 en forma de actualizaciones. Una de las más relevantes que el gigante de Redmond tiene en la recámara es la 26H2, cuyo lanzamiento está previsto para finales de este añ…
 https://www.muycomputer.com/2026/08/17/windows-11-se-esta-convirtiendo-en-lo-que-debio-ser-desde-un-principio/
 🗓️ 2026-08-17 • 🏷️ muycomputer.com
+
+### 2026-08-17T19:27:54.139Z
+📰 Amazon está destruyendo miles de libros para entrenar sus modelos de IA
+Amazon está comprando miles de libros raros para escanearlos y entrenar a su inteligencia artificial. Una investigación descubrió que el gigante tecnológico está aplicando una técnica anteriormente usada por Anthropic, la cual consiste en e…
+https://hipertextual.com/inteligencia-artificial/amazon-destruye-libros-raros-entrenar-ia/
+🗓️ 2026-08-17 • 🏷️ hipertextual.com
