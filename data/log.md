@@ -5912,3 +5912,19 @@ https://www.eldiario.es/tecnologia/ia-conciencia-expertos-creen-minimo-posible_1
 🗓️ 2026-08-15 • 🏷️ eldiario.es
 
 ---
+## 2026-08-17
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La pesadilla de Virgin Galactic no tiene fin: otra vez retrasa sus vuelos comerciales al borde del espacio
+El plan de Virgin Galactic para llevar turistas al borde del espacio se ha vuelto a complicar. Esta semana, la empresa fundada por el magnate Richard Branson anunció que los primeros vuelos comerciales con su nueva nave SpaceShip se han pos…
+https://hipertextual.com/aviacion/virgin-galactic-posterga-vuelos-comerciales-2027/
+🗓️ 2026-08-16 • 🏷️ hipertextual.com
+
+---

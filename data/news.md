@@ -6655,3 +6655,9 @@ https://hipertextual.com/tecnologia/las-peliculas-mas-raras-del-2026-hasta-ahora
 Microsoft ha lanzado una nueva IA para competir con Claude Code y otros modelos de desarrollo de software. Conocido como MAI-Code-1.1-Flash, el modelo está pensado para tareas de programación dentro de GitHub Copilot. Según sus creadores, e…
 https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/
 🗓️ 2026-08-16 • 🏷️ hipertextual.com
+
+### 2026-08-17T02:18:44.542Z
+📰 La pesadilla de Virgin Galactic no tiene fin: otra vez retrasa sus vuelos comerciales al borde del espacio
+El plan de Virgin Galactic para llevar turistas al borde del espacio se ha vuelto a complicar. Esta semana, la empresa fundada por el magnate Richard Branson anunció que los primeros vuelos comerciales con su nueva nave SpaceShip se han pos…
+https://hipertextual.com/aviacion/virgin-galactic-posterga-vuelos-comerciales-2027/
+🗓️ 2026-08-16 • 🏷️ hipertextual.com
