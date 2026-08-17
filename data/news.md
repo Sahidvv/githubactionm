@@ -6661,3 +6661,9 @@ https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo
 El plan de Virgin Galactic para llevar turistas al borde del espacio se ha vuelto a complicar. Esta semana, la empresa fundada por el magnate Richard Branson anunció que los primeros vuelos comerciales con su nueva nave SpaceShip se han pos…
 https://hipertextual.com/aviacion/virgin-galactic-posterga-vuelos-comerciales-2027/
 🗓️ 2026-08-16 • 🏷️ hipertextual.com
+
+### 2026-08-17T13:38:39.624Z
+📰 Windows 11 se está convirtiendo en lo que debió ser desde un principio
+Microsoft está preparando mejoras importantes que llegarán a Windows 11 en forma de actualizaciones. Una de las más relevantes que el gigante de Redmond tiene en la recámara es la 26H2, cuyo lanzamiento está previsto para finales de este añ…
+https://www.muycomputer.com/2026/08/17/windows-11-se-esta-convirtiendo-en-lo-que-debio-ser-desde-un-principio/
+🗓️ 2026-08-17 • 🏷️ muycomputer.com
