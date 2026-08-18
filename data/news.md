@@ -6685,3 +6685,9 @@ https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/
 Por fin vuelve una de las mejores series que se han hecho en los últimos años. La temporada 6 de Slow Horses está a la vuelta de la esquina y así lo demuestra su nuevo tráiler. El título, un thriller de espías cargado de comedia, se ha conv…
 https://hipertextual.com/cine-television/trailer-slow-horses-temporada-6-mejores-series-de-espias-modernas-gary-oldman-desatado/
 🗓️ 2026-08-18 • 🏷️ hipertextual.com
+
+### 2026-08-18T19:27:00.763Z
+📰 Sony revela más detalles sobre la fecha de lanzamiento de la PS6 y su precio
+La espera por la PlayStation 6 podría ser más larga de lo que pensabas. Si bien Sony tiene claro que la consola llegará en algún punto, la compañía no ha decidido la fecha de lanzamiento ni el precio. La razón principal es la escasez de mem…
+https://hipertextual.com/videojuegos/ps6-fecha-precio-crisis-memoria-ram/
+🗓️ 2026-08-18 • 🏷️ hipertextual.com
