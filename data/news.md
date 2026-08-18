@@ -6679,3 +6679,9 @@ https://hipertextual.com/inteligencia-artificial/amazon-destruye-libros-raros-en
 A unas semanas de borrar la evidencia de que sus gafas Ray-Ban utilizarían reconocimiento facial, Meta vuelve al centro de la polémica. La compañía ha registrado una patente que combina cámaras con reconocimiento facial e inteligencia artif…
 https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/
 🗓️ 2026-08-18 • 🏷️ hipertextual.com
+
+### 2026-08-18T13:41:09.143Z
+📰 Mira el genial tráiler de &#8216;Slow Horses&#8217; temporada 6, una de las mejores series de espías modernas, con Gary Oldman desatado
+Por fin vuelve una de las mejores series que se han hecho en los últimos años. La temporada 6 de Slow Horses está a la vuelta de la esquina y así lo demuestra su nuevo tráiler. El título, un thriller de espías cargado de comedia, se ha conv…
+https://hipertextual.com/cine-television/trailer-slow-horses-temporada-6-mejores-series-de-espias-modernas-gary-oldman-desatado/
+🗓️ 2026-08-18 • 🏷️ hipertextual.com
