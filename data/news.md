@@ -6673,3 +6673,9 @@ https://www.muycomputer.com/2026/08/17/windows-11-se-esta-convirtiendo-en-lo-que
 Amazon está comprando miles de libros raros para escanearlos y entrenar a su inteligencia artificial. Una investigación descubrió que el gigante tecnológico está aplicando una técnica anteriormente usada por Anthropic, la cual consiste en e…
 https://hipertextual.com/inteligencia-artificial/amazon-destruye-libros-raros-entrenar-ia/
 🗓️ 2026-08-17 • 🏷️ hipertextual.com
+
+### 2026-08-18T02:14:46.582Z
+📰 Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo
+A unas semanas de borrar la evidencia de que sus gafas Ray-Ban utilizarían reconocimiento facial, Meta vuelve al centro de la polémica. La compañía ha registrado una patente que combina cámaras con reconocimiento facial e inteligencia artif…
+https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/
+🗓️ 2026-08-18 • 🏷️ hipertextual.com

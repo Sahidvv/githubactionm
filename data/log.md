@@ -5928,3 +5928,19 @@ https://hipertextual.com/aviacion/virgin-galactic-posterga-vuelos-comerciales-20
 🗓️ 2026-08-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-18
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo
+A unas semanas de borrar la evidencia de que sus gafas Ray-Ban utilizarían reconocimiento facial, Meta vuelve al centro de la polémica. La compañía ha registrado una patente que combina cámaras con reconocimiento facial e inteligencia artif…
+https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/
+🗓️ 2026-08-18 • 🏷️ hipertextual.com
+
+---
