@@ -6703,3 +6703,9 @@ https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin
 Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial
 https://elpais.com/tecnologia/2026-08-19/openai-paraliza-el-entrenamiento-de-su-ia-mas-avanzada-tras-la-rebelion-de-sus-agentes-este-verano.html
 🗓️ 2026-08-19 • 🏷️ elpais.com
+
+### 2026-08-19T19:24:49.664Z
+📰 Meta AI lanza su app para Mac con una función que preocupa a ChatGPT y Claude
+Meta ha lanzado una aplicación de Meta AI para Mac. Mark Zuckerberg no quiere cederle más terreno a ChatGPT y Claude, por lo que decidió ofrecer una app que permite acceder a todas las funciones del chatbot, como compartir pantalla o recibi…
+https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/
+🗓️ 2026-08-19 • 🏷️ hipertextual.com
