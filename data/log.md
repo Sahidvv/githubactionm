@@ -5944,3 +5944,19 @@ https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/
 🗓️ 2026-08-18 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-19
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Claude ahora puede enviar tus correos de Gmail sin pedirte permiso
+Claude ya puede enviar correos desde tu cuenta de Gmail sin pedirte confirmación previa. La IA de Anthropic implementó una función en los conectores de Google Workspace que la dotan de nuevas habilidades. A partir de hoy, el asistente puede…
+https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/
+🗓️ 2026-08-18 • 🏷️ hipertextual.com
+
+---

@@ -6691,3 +6691,9 @@ https://hipertextual.com/cine-television/trailer-slow-horses-temporada-6-mejores
 La espera por la PlayStation 6 podría ser más larga de lo que pensabas. Si bien Sony tiene claro que la consola llegará en algún punto, la compañía no ha decidido la fecha de lanzamiento ni el precio. La razón principal es la escasez de mem…
 https://hipertextual.com/videojuegos/ps6-fecha-precio-crisis-memoria-ram/
 🗓️ 2026-08-18 • 🏷️ hipertextual.com
+
+### 2026-08-19T02:17:31.265Z
+📰 Claude ahora puede enviar tus correos de Gmail sin pedirte permiso
+Claude ya puede enviar correos desde tu cuenta de Gmail sin pedirte confirmación previa. La IA de Anthropic implementó una función en los conectores de Google Workspace que la dotan de nuevas habilidades. A partir de hoy, el asistente puede…
+https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/
+🗓️ 2026-08-18 • 🏷️ hipertextual.com
