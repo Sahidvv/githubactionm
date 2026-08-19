@@ -6697,3 +6697,9 @@ https://hipertextual.com/videojuegos/ps6-fecha-precio-crisis-memoria-ram/
 Claude ya puede enviar correos desde tu cuenta de Gmail sin pedirte confirmación previa. La IA de Anthropic implementó una función en los conectores de Google Workspace que la dotan de nuevas habilidades. A partir de hoy, el asistente puede…
 https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/
 🗓️ 2026-08-18 • 🏷️ hipertextual.com
+
+### 2026-08-19T13:42:58.436Z
+📰 OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano
+Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial
+https://elpais.com/tecnologia/2026-08-19/openai-paraliza-el-entrenamiento-de-su-ia-mas-avanzada-tras-la-rebelion-de-sus-agentes-este-verano.html
+🗓️ 2026-08-19 • 🏷️ elpais.com
