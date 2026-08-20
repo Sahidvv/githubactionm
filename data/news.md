@@ -6715,3 +6715,9 @@ https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/
 Google ha lanzado una promoción que entusiasmará a todos los que usan Gemini. El gigante tecnológico anunció que regalará un año completo de Google AI Plus a los usuarios elegibles de todo el mundo. La oferta llega a unos días de la vuelta …
 https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades-gemini/
 🗓️ 2026-08-19 • 🏷️ hipertextual.com
+
+### 2026-08-20T13:46:14.729Z
+📰 Las filtraciones de &#8216;GTA 6&#8217; no se detienen y ya son la peor pesadilla de Rockstar
+Las filtraciones de GTA 6 sumaron un nuevo episodio en las últimas horas con la aparición de un nuevo vídeo mostrando el gameplay del esperado juego de Rockstar Games. Pero esta no fue una filtración más, pues reveló que los autores de los …
+https://hipertextual.com/videojuegos/mas-filtraciones-gta-6-build-jugable-cyberleek/
+🗓️ 2026-08-20 • 🏷️ hipertextual.com
