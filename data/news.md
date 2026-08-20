@@ -6721,3 +6721,9 @@ https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades
 Las filtraciones de GTA 6 sumaron un nuevo episodio en las últimas horas con la aparición de un nuevo vídeo mostrando el gameplay del esperado juego de Rockstar Games. Pero esta no fue una filtración más, pues reveló que los autores de los …
 https://hipertextual.com/videojuegos/mas-filtraciones-gta-6-build-jugable-cyberleek/
 🗓️ 2026-08-20 • 🏷️ hipertextual.com
+
+### 2026-08-20T19:30:40.887Z
+📰 Estrella de &#8216;Wonder Man&#8217; se pronuncia sobre su cancelación y lanza dardos contra Marvel
+El caso de Wonder Man es de los más peculiares en la historia reciente del Universo Cinematográfico de Marvel. La serie llegó a Disney+ con expectativas prácticamente nulas por parte del público y la crítica, pero cosechó muy buena aceptaci…
+https://hipertextual.com/cine-television/protagonista-wonder-man-motivos-cancelacion-marvel/
+🗓️ 2026-08-20 • 🏷️ hipertextual.com
