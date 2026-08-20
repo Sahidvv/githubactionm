@@ -5960,3 +5960,19 @@ https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin
 🗓️ 2026-08-18 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-20
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Google regala un año completo de Google AI Plus si cumples este requisito
+Google ha lanzado una promoción que entusiasmará a todos los que usan Gemini. El gigante tecnológico anunció que regalará un año completo de Google AI Plus a los usuarios elegibles de todo el mundo. La oferta llega a unos días de la vuelta …
+https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades-gemini/
+🗓️ 2026-08-19 • 🏷️ hipertextual.com
+
+---

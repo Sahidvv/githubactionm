@@ -6709,3 +6709,9 @@ https://elpais.com/tecnologia/2026-08-19/openai-paraliza-el-entrenamiento-de-su-
 Meta ha lanzado una aplicación de Meta AI para Mac. Mark Zuckerberg no quiere cederle más terreno a ChatGPT y Claude, por lo que decidió ofrecer una app que permite acceder a todas las funciones del chatbot, como compartir pantalla o recibi…
 https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/
 🗓️ 2026-08-19 • 🏷️ hipertextual.com
+
+### 2026-08-20T02:15:58.021Z
+📰 Google regala un año completo de Google AI Plus si cumples este requisito
+Google ha lanzado una promoción que entusiasmará a todos los que usan Gemini. El gigante tecnológico anunció que regalará un año completo de Google AI Plus a los usuarios elegibles de todo el mundo. La oferta llega a unos días de la vuelta …
+https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades-gemini/
+🗓️ 2026-08-19 • 🏷️ hipertextual.com
