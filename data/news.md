@@ -6739,3 +6739,9 @@ https://hipertextual.com/cine-television/yellowstone-spin-off-6666-cancelado/
 Activision Blizzard ha confirmado los requisitos mínimos y recomendados de Call of Duty: Modern Warfare 4, y al final estos han quedado muy cerca de la estimación que compartimos con vosotros en su momento en este artículo, aunque en genera…
 https://www.muycomputer.com/2026/08/21/que-pc-necesitaras-para-jugar-a-call-of-duty-modern-warfare-4/
 🗓️ 2026-08-21 • 🏷️ muycomputer.com
+
+### 2026-08-21T19:25:11.849Z
+📰 DeepSeek presenta una IA que interpreta imágenes casi tan bien como Claude Opus 4.8
+Si el lanzamiento de Kimi K3 y Qwen 3.8 no fue suficiente, Anthropic tiene otra preocupación más proveniente de China. DeepSeek lanzó una versión experimental de su modelo insignia, el cual es capaz de interpretar imágenes y capturas de pan…
+https://hipertextual.com/inteligencia-artificial/deepseek-presenta-una-ia-que-interpreta-imagenes-casi-tan-bien-como-claude-opus-4-8/
+🗓️ 2026-08-21 • 🏷️ hipertextual.com
