@@ -5976,3 +5976,19 @@ https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades
 🗓️ 2026-08-19 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-21
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 El creador de &#8216;Yellowstone&#8217; cancela una de sus series más esperadas: «Nunca la haría»
+Hace unos años, la fiebre por Yellowstone llegó a tal nivel que se anunciaron múltiples secuelas y spin-offs. Si bien algunas se materializaron o siguen en el calendario, hay otras que no se sabe si volverán. Entre todas ellas se encuentra …
+https://hipertextual.com/cine-television/yellowstone-spin-off-6666-cancelado/
+🗓️ 2026-08-20 • 🏷️ hipertextual.com
+
+---

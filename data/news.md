@@ -6727,3 +6727,9 @@ https://hipertextual.com/videojuegos/mas-filtraciones-gta-6-build-jugable-cyberl
 El caso de Wonder Man es de los más peculiares en la historia reciente del Universo Cinematográfico de Marvel. La serie llegó a Disney+ con expectativas prácticamente nulas por parte del público y la crítica, pero cosechó muy buena aceptaci…
 https://hipertextual.com/cine-television/protagonista-wonder-man-motivos-cancelacion-marvel/
 🗓️ 2026-08-20 • 🏷️ hipertextual.com
+
+### 2026-08-21T02:22:26.812Z
+📰 El creador de &#8216;Yellowstone&#8217; cancela una de sus series más esperadas: «Nunca la haría»
+Hace unos años, la fiebre por Yellowstone llegó a tal nivel que se anunciaron múltiples secuelas y spin-offs. Si bien algunas se materializaron o siguen en el calendario, hay otras que no se sabe si volverán. Entre todas ellas se encuentra …
+https://hipertextual.com/cine-television/yellowstone-spin-off-6666-cancelado/
+🗓️ 2026-08-20 • 🏷️ hipertextual.com
