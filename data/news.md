@@ -6733,3 +6733,9 @@ https://hipertextual.com/cine-television/protagonista-wonder-man-motivos-cancela
 Hace unos años, la fiebre por Yellowstone llegó a tal nivel que se anunciaron múltiples secuelas y spin-offs. Si bien algunas se materializaron o siguen en el calendario, hay otras que no se sabe si volverán. Entre todas ellas se encuentra …
 https://hipertextual.com/cine-television/yellowstone-spin-off-6666-cancelado/
 🗓️ 2026-08-20 • 🏷️ hipertextual.com
+
+### 2026-08-21T13:44:23.595Z
+📰 Qué PC necesitarás para jugar a Call of Duty: Modern Warfare 4
+Activision Blizzard ha confirmado los requisitos mínimos y recomendados de Call of Duty: Modern Warfare 4, y al final estos han quedado muy cerca de la estimación que compartimos con vosotros en su momento en este artículo, aunque en genera…
+https://www.muycomputer.com/2026/08/21/que-pc-necesitaras-para-jugar-a-call-of-duty-modern-warfare-4/
+🗓️ 2026-08-21 • 🏷️ muycomputer.com
