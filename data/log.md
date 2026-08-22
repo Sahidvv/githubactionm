@@ -5992,3 +5992,19 @@ https://hipertextual.com/cine-television/yellowstone-spin-off-6666-cancelado/
 🗓️ 2026-08-20 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-22
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Apple despide a cientos de empleados de los equipos de Siri y Vision Pro
+Apple se ha sumado al resto de empresas tecnológicas que recortan su plantilla para adaptarse a la era de la IA. El gigante de Cupertino despidió a más de 200 empleados de múltiples divisiones. El recorte afecta directamente a los equipos d…
+https://hipertextual.com/apple/apple-despidos-siri-vision-pro/
+🗓️ 2026-08-21 • 🏷️ hipertextual.com
+
+---

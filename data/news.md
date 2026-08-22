@@ -6745,3 +6745,9 @@ https://www.muycomputer.com/2026/08/21/que-pc-necesitaras-para-jugar-a-call-of-d
 Si el lanzamiento de Kimi K3 y Qwen 3.8 no fue suficiente, Anthropic tiene otra preocupación más proveniente de China. DeepSeek lanzó una versión experimental de su modelo insignia, el cual es capaz de interpretar imágenes y capturas de pan…
 https://hipertextual.com/inteligencia-artificial/deepseek-presenta-una-ia-que-interpreta-imagenes-casi-tan-bien-como-claude-opus-4-8/
 🗓️ 2026-08-21 • 🏷️ hipertextual.com
+
+### 2026-08-22T02:14:56.064Z
+📰 Apple despide a cientos de empleados de los equipos de Siri y Vision Pro
+Apple se ha sumado al resto de empresas tecnológicas que recortan su plantilla para adaptarse a la era de la IA. El gigante de Cupertino despidió a más de 200 empleados de múltiples divisiones. El recorte afecta directamente a los equipos d…
+https://hipertextual.com/apple/apple-despidos-siri-vision-pro/
+🗓️ 2026-08-21 • 🏷️ hipertextual.com
