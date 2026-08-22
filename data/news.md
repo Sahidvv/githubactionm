@@ -6751,3 +6751,9 @@ https://hipertextual.com/inteligencia-artificial/deepseek-presenta-una-ia-que-in
 Apple se ha sumado al resto de empresas tecnológicas que recortan su plantilla para adaptarse a la era de la IA. El gigante de Cupertino despidió a más de 200 empleados de múltiples divisiones. El recorte afecta directamente a los equipos d…
 https://hipertextual.com/apple/apple-despidos-siri-vision-pro/
 🗓️ 2026-08-21 • 🏷️ hipertextual.com
+
+### 2026-08-22T13:31:19.755Z
+📰 Las 10 películas más aburridas de la historia
+Nadie sabe muy bien qué hace a una película ser aburrida. Lo que sí está claro es que, cuando ocurre, no hay duda de que lo es y eso forma parte de la historia del cine. Pero de hecho, el concepto de cine aburrido es profundamente subjetivo…
+https://hipertextual.com/tecnologia/las-10-peliculas-mas-aburridas-de-la-historia/
+🗓️ 2026-08-22 • 🏷️ hipertextual.com
