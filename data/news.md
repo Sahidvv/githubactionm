@@ -6763,3 +6763,9 @@ https://hipertextual.com/tecnologia/las-10-peliculas-mas-aburridas-de-la-histori
 A estas alturas nadie lo duda: La Odisea se ha convertido en todo un suceso. No solo porque Christopher Nolan logró convertir a la cinta en un evento cinematográfico que levantó revuelo ahí donde ha sido estrenada. También porque se convirt…
 https://hipertextual.com/cine-television/quieres-ver-una-version-de-la-odisea-que-te-sorprenda-tenemos-la-opcion-ideal/
 🗓️ 2026-08-22 • 🏷️ hipertextual.com
+
+### 2026-08-23T02:22:39.924Z
+📰 El juicio contra Meta por causar adicción a los menores busca repetir la historia que tumbó el muro de las tabaqueras
+Los fiscales replican la misma estrategia con la que se consiguió el histórico acuerdo para limitar la industria del tabaco a finales del siglo XXMeta se enfrenta al mayor juicio de su historia, acusada de fomentar la adicción de menores en…
+https://www.eldiario.es/tecnologia/juicio-meta-causar-adiccion-menores-busca-repetir-historia-tumbo-muro-tabaqueras_1_13460631.html
+🗓️ 2026-08-22 • 🏷️ eldiario.es

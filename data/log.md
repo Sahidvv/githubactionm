@@ -6008,3 +6008,19 @@ https://hipertextual.com/apple/apple-despidos-siri-vision-pro/
 🗓️ 2026-08-21 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-23
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 El juicio contra Meta por causar adicción a los menores busca repetir la historia que tumbó el muro de las tabaqueras
+Los fiscales replican la misma estrategia con la que se consiguió el histórico acuerdo para limitar la industria del tabaco a finales del siglo XXMeta se enfrenta al mayor juicio de su historia, acusada de fomentar la adicción de menores en…
+https://www.eldiario.es/tecnologia/juicio-meta-causar-adiccion-menores-busca-repetir-historia-tumbo-muro-tabaqueras_1_13460631.html
+🗓️ 2026-08-22 • 🏷️ eldiario.es
+
+---
