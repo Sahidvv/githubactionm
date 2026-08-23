@@ -6775,3 +6775,9 @@ https://www.eldiario.es/tecnologia/juicio-meta-causar-adiccion-menores-busca-rep
 Aunque ha tardado más de lo esperado, por fin acaba de estrenarse en España Avatar Aang: El último maestro del aire, la nueva película de la icónica franquicia de animación. El filme, secuela directa de la serie original de los 2000, iba a …
 https://hipertextual.com/cine-television/3-razones-para-ver-avatar-aang-el-ultimo-maestro-del-aire-pelicula/
 🗓️ 2026-08-23 • 🏷️ hipertextual.com
+
+### 2026-08-23T19:21:19.845Z
+📰 Adiós a las apps que se comen la memoria de tu móvil: Android 17 trae una solución
+Con el correr de los años, el consumo de RAM de las apps para móviles se ha incrementado de forma dramática. Redes sociales y plataformas de mensajería suelen estar entre las principales que se comen la memoria del teléfono, generando un pr…
+https://hipertextual.com/mobile/android-17-apps-memoria-ram-movil/
+🗓️ 2026-08-23 • 🏷️ hipertextual.com
