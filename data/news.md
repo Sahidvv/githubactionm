@@ -6793,3 +6793,9 @@ https://www.eldiario.es/tecnologia/trabajadores-india-les-ordeno-grabarse-ia-pag
 Si tuviste la oportunidad de disfrutar en su momento de Windows 95 estoy seguro de que recordarás 3D Pinball Space Cadet, un juego que venía preinstalado con dicho sistema operativo y que era una manera muy divertida de matar el tiempo por …
 https://www.muycomputer.com/2026/08/24/esta-es-la-verdadera-razon-por-la-que-3d-pinball-se-elimino-de-windows/
 🗓️ 2026-08-24 • 🏷️ muycomputer.com
+
+### 2026-08-24T19:28:55.827Z
+📰 &#8216;The Witcher 4&#8217; se hará desear más de lo pensado, confirma CD Projekt: «La espera valdrá la pena»
+The Witcher 4 es de los proyectos más ambiciosos y esperados de CD Projekt RED. La nueva entrega de la saga tendrá la particularidad de colocar a Ciri como gran protagonista, tomando el testigo de Geralt de Rivia. Y si bien el estudio polac…
+https://hipertextual.com/videojuegos/the-witcher-4-estara-disponible-en-2028-confirma-cd-projekt/
+🗓️ 2026-08-24 • 🏷️ hipertextual.com
