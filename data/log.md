@@ -6024,3 +6024,19 @@ https://www.eldiario.es/tecnologia/juicio-meta-causar-adiccion-menores-busca-rep
 🗓️ 2026-08-22 • 🏷️ eldiario.es
 
 ---
+## 2026-08-24
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 A estos trabajadores de la India se les ordenó grabarse para la IA: "¿Quién nos pagará cuando nos sustituyan los robots?"
+Al principio, a los trabajadores les parecía gracioso llevar cámaras acopladas al cuerpo. Pero la novedad pronto se convirtió en preocupaciónQué hay detrás del boom de los robots humanoides chinos: ¿ha llegado la hora de la verdad de los an…
+https://www.eldiario.es/tecnologia/trabajadores-india-les-ordeno-grabarse-ia-pagara-sustituyan-robots_1_13454939.html
+🗓️ 2026-08-23 • 🏷️ eldiario.es
+
+---

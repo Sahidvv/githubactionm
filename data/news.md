@@ -6781,3 +6781,9 @@ https://hipertextual.com/cine-television/3-razones-para-ver-avatar-aang-el-ultim
 Con el correr de los años, el consumo de RAM de las apps para móviles se ha incrementado de forma dramática. Redes sociales y plataformas de mensajería suelen estar entre las principales que se comen la memoria del teléfono, generando un pr…
 https://hipertextual.com/mobile/android-17-apps-memoria-ram-movil/
 🗓️ 2026-08-23 • 🏷️ hipertextual.com
+
+### 2026-08-24T02:22:13.340Z
+📰 A estos trabajadores de la India se les ordenó grabarse para la IA: "¿Quién nos pagará cuando nos sustituyan los robots?"
+Al principio, a los trabajadores les parecía gracioso llevar cámaras acopladas al cuerpo. Pero la novedad pronto se convirtió en preocupaciónQué hay detrás del boom de los robots humanoides chinos: ¿ha llegado la hora de la verdad de los an…
+https://www.eldiario.es/tecnologia/trabajadores-india-les-ordeno-grabarse-ia-pagara-sustituyan-robots_1_13454939.html
+🗓️ 2026-08-23 • 🏷️ eldiario.es
