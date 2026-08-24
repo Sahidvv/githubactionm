@@ -6787,3 +6787,9 @@ https://hipertextual.com/mobile/android-17-apps-memoria-ram-movil/
 Al principio, a los trabajadores les parecía gracioso llevar cámaras acopladas al cuerpo. Pero la novedad pronto se convirtió en preocupaciónQué hay detrás del boom de los robots humanoides chinos: ¿ha llegado la hora de la verdad de los an…
 https://www.eldiario.es/tecnologia/trabajadores-india-les-ordeno-grabarse-ia-pagara-sustituyan-robots_1_13454939.html
 🗓️ 2026-08-23 • 🏷️ eldiario.es
+
+### 2026-08-24T13:51:12.650Z
+📰 Esta es la verdadera razón por la que 3D Pinball se eliminó de Windows
+Si tuviste la oportunidad de disfrutar en su momento de Windows 95 estoy seguro de que recordarás 3D Pinball Space Cadet, un juego que venía preinstalado con dicho sistema operativo y que era una manera muy divertida de matar el tiempo por …
+https://www.muycomputer.com/2026/08/24/esta-es-la-verdadera-razon-por-la-que-3d-pinball-se-elimino-de-windows/
+🗓️ 2026-08-24 • 🏷️ muycomputer.com
