@@ -6811,3 +6811,9 @@ https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/
 Tal y como se rumoreaba, Apple acaba de anunciar nuevos Mac mini con chips M5 Pro y M6. Si bien el dispositivo mantiene el formato del modelo previo, introduce mejoras en materia de rendimiento especialmente enfocadas en la ejecución de mod…
 https://hipertextual.com/apple/nuevos-mac-mini-m6-y-m5-pro-caracteristicas-y-precio/
 🗓️ 2026-08-25 • 🏷️ hipertextual.com
+
+### 2026-08-25T19:31:13.539Z
+📰 Dolly Parton, la reina de la música country, ha muerto a los 80 años
+Dolly Parton, considerada la reina del country y un ícono tanto de la música, como del cine y la TV, ha muerto a los 80 años. La noticia de su fallecimiento fue dada a conocer a través de sus redes sociales oficiales, por intermedio de un v…
+https://hipertextual.com/musica/dolly-parton-ha-muerto-a-los-80-anos/
+🗓️ 2026-08-25 • 🏷️ hipertextual.com
