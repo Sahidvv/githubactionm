@@ -6805,3 +6805,9 @@ https://hipertextual.com/videojuegos/the-witcher-4-estara-disponible-en-2028-con
 Google está probando una nueva herramienta dentro de Gemini que te ayudará a resolver problemas en el móvil. El gigante tecnológico le ha seguido los pasos a Samsung e integró una función de ayuda con IA dentro del Pixel 11 Pro. El objetivo…
 https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/
 🗓️ 2026-08-25 • 🏷️ hipertextual.com
+
+### 2026-08-25T13:49:53.480Z
+📰 Nuevos Mac mini M5 Pro y M6: Apple mejora el rendimiento de IA, pero prepárate a pagar más
+Tal y como se rumoreaba, Apple acaba de anunciar nuevos Mac mini con chips M5 Pro y M6. Si bien el dispositivo mantiene el formato del modelo previo, introduce mejoras en materia de rendimiento especialmente enfocadas en la ejecución de mod…
+https://hipertextual.com/apple/nuevos-mac-mini-m6-y-m5-pro-caracteristicas-y-precio/
+🗓️ 2026-08-25 • 🏷️ hipertextual.com
