@@ -6799,3 +6799,9 @@ https://www.muycomputer.com/2026/08/24/esta-es-la-verdadera-razon-por-la-que-3d-
 The Witcher 4 es de los proyectos más ambiciosos y esperados de CD Projekt RED. La nueva entrega de la saga tendrá la particularidad de colocar a Ciri como gran protagonista, tomando el testigo de Geralt de Rivia. Y si bien el estudio polac…
 https://hipertextual.com/videojuegos/the-witcher-4-estara-disponible-en-2028-confirma-cd-projekt/
 🗓️ 2026-08-24 • 🏷️ hipertextual.com
+
+### 2026-08-25T02:17:21.373Z
+📰 Gemini ya puede resolver los fallos de tu Pixel con solo pedírselo
+Google está probando una nueva herramienta dentro de Gemini que te ayudará a resolver problemas en el móvil. El gigante tecnológico le ha seguido los pasos a Samsung e integró una función de ayuda con IA dentro del Pixel 11 Pro. El objetivo…
+https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/
+🗓️ 2026-08-25 • 🏷️ hipertextual.com

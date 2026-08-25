@@ -6040,3 +6040,19 @@ https://www.eldiario.es/tecnologia/trabajadores-india-les-ordeno-grabarse-ia-pag
 🗓️ 2026-08-23 • 🏷️ eldiario.es
 
 ---
+## 2026-08-25
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Gemini ya puede resolver los fallos de tu Pixel con solo pedírselo
+Google está probando una nueva herramienta dentro de Gemini que te ayudará a resolver problemas en el móvil. El gigante tecnológico le ha seguido los pasos a Samsung e integró una función de ayuda con IA dentro del Pixel 11 Pro. El objetivo…
+https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/
+🗓️ 2026-08-25 • 🏷️ hipertextual.com
+
+---
