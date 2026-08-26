@@ -6829,3 +6829,9 @@ https://hipertextual.com/videojuegos/the-witcher-3-remastered-fecha-lanzamiento/
 Con un peso de tan solo 798 g y un perfil de 11,9 mm, HUAWEI quiere llevar el nuevo MateBook Pro S a una nueva dimensión, redefiniendo lo del «portátil ultraligero». Construido sobre la arquitectura Cloud Falcon de HUAWEI, el MateBook Pro S…
 https://www.muycomputer.com/2026/08/26/huawei-bate-records-con-un-matebook-pro-s-de-798-gramos/
 🗓️ 2026-08-26 • 🏷️ muycomputer.com
+
+### 2026-08-26T21:41:22.480Z
+📰 El rediseño del Galaxy S27 Ultra se filtra al completo: o lo amas, o lo odias
+El rediseño del Galaxy S27 Ultra sigue dando que hablar, y ahora tenemos una idea todavía más firme sobre cómo se verá el próximo buque insignia de Samsung. Android Headlines ha publicado imágenes basadas en presuntos archivos CAD que revel…
+https://hipertextual.com/mobile/rediseno-filtrado-samsung-galaxy-s27-ultra/
+🗓️ 2026-08-26 • 🏷️ hipertextual.com
