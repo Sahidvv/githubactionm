@@ -6823,3 +6823,9 @@ https://hipertextual.com/musica/dolly-parton-ha-muerto-a-los-80-anos/
 CD Projekt Red confirmó que The Witcher 3: Wild Hunt tendrá una edición remasterizada que llegará el próximo mes. Aprovechando el arranque de Gamescom 2026, el estudio presentó una nueva versión del aclamado RPG que debutó hace más de una d…
 https://hipertextual.com/videojuegos/the-witcher-3-remastered-fecha-lanzamiento/
 🗓️ 2026-08-26 • 🏷️ hipertextual.com
+
+### 2026-08-26T13:53:51.865Z
+📰 HUAWEI bate récords con un MateBook Pro S de 798 gramos
+Con un peso de tan solo 798 g y un perfil de 11,9 mm, HUAWEI quiere llevar el nuevo MateBook Pro S a una nueva dimensión, redefiniendo lo del «portátil ultraligero». Construido sobre la arquitectura Cloud Falcon de HUAWEI, el MateBook Pro S…
+https://www.muycomputer.com/2026/08/26/huawei-bate-records-con-un-matebook-pro-s-de-798-gramos/
+🗓️ 2026-08-26 • 🏷️ muycomputer.com
