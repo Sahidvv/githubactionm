@@ -6817,3 +6817,9 @@ https://hipertextual.com/apple/nuevos-mac-mini-m6-y-m5-pro-caracteristicas-y-pre
 Dolly Parton, considerada la reina del country y un ícono tanto de la música, como del cine y la TV, ha muerto a los 80 años. La noticia de su fallecimiento fue dada a conocer a través de sus redes sociales oficiales, por intermedio de un v…
 https://hipertextual.com/musica/dolly-parton-ha-muerto-a-los-80-anos/
 🗓️ 2026-08-25 • 🏷️ hipertextual.com
+
+### 2026-08-26T02:23:56.848Z
+📰 &#8216;The Witcher 3&#8217; tendrá versión remasterizada gratis: así es el nuevo Geralt
+CD Projekt Red confirmó que The Witcher 3: Wild Hunt tendrá una edición remasterizada que llegará el próximo mes. Aprovechando el arranque de Gamescom 2026, el estudio presentó una nueva versión del aclamado RPG que debutó hace más de una d…
+https://hipertextual.com/videojuegos/the-witcher-3-remastered-fecha-lanzamiento/
+🗓️ 2026-08-26 • 🏷️ hipertextual.com

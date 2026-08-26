@@ -6056,3 +6056,19 @@ https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/
 🗓️ 2026-08-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-26
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 &#8216;The Witcher 3&#8217; tendrá versión remasterizada gratis: así es el nuevo Geralt
+CD Projekt Red confirmó que The Witcher 3: Wild Hunt tendrá una edición remasterizada que llegará el próximo mes. Aprovechando el arranque de Gamescom 2026, el estudio presentó una nueva versión del aclamado RPG que debutó hace más de una d…
+https://hipertextual.com/videojuegos/the-witcher-3-remastered-fecha-lanzamiento/
+🗓️ 2026-08-26 • 🏷️ hipertextual.com
+
+---
