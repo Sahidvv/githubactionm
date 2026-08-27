@@ -6072,3 +6072,19 @@ https://hipertextual.com/videojuegos/the-witcher-3-remastered-fecha-lanzamiento/
 🗓️ 2026-08-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-27
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ‘La constelación del perro’ (★★★☆☆) es una tediosa distopía sin mucho que aportar al género
+La constelación del perro es una distopía (y una especialmente deprimente), pero podría solo ser un western. Eso, gracias a que buena parte de sus escenas transcurre entre paisajes interminables y una notoria sensación de desolación. Todo, …
+https://hipertextual.com/cine-television/la-constelacion-del-perro-%e2%98%85%e2%98%85%e2%98%85%e2%98%86%e2%98%86-es-una-tediosa-distopia-sin-mucho-que-aportar-al-genero/
+🗓️ 2026-08-27 • 🏷️ hipertextual.com
+
+---

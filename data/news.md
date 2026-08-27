@@ -6835,3 +6835,9 @@ https://www.muycomputer.com/2026/08/26/huawei-bate-records-con-un-matebook-pro-s
 El rediseño del Galaxy S27 Ultra sigue dando que hablar, y ahora tenemos una idea todavía más firme sobre cómo se verá el próximo buque insignia de Samsung. Android Headlines ha publicado imágenes basadas en presuntos archivos CAD que revel…
 https://hipertextual.com/mobile/rediseno-filtrado-samsung-galaxy-s27-ultra/
 🗓️ 2026-08-26 • 🏷️ hipertextual.com
+
+### 2026-08-27T10:56:12.363Z
+📰 ‘La constelación del perro’ (★★★☆☆) es una tediosa distopía sin mucho que aportar al género
+La constelación del perro es una distopía (y una especialmente deprimente), pero podría solo ser un western. Eso, gracias a que buena parte de sus escenas transcurre entre paisajes interminables y una notoria sensación de desolación. Todo, …
+https://hipertextual.com/cine-television/la-constelacion-del-perro-%e2%98%85%e2%98%85%e2%98%85%e2%98%86%e2%98%86-es-una-tediosa-distopia-sin-mucho-que-aportar-al-genero/
+🗓️ 2026-08-27 • 🏷️ hipertextual.com
