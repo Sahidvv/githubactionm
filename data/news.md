@@ -6841,3 +6841,9 @@ https://hipertextual.com/mobile/rediseno-filtrado-samsung-galaxy-s27-ultra/
 La constelación del perro es una distopía (y una especialmente deprimente), pero podría solo ser un western. Eso, gracias a que buena parte de sus escenas transcurre entre paisajes interminables y una notoria sensación de desolación. Todo, …
 https://hipertextual.com/cine-television/la-constelacion-del-perro-%e2%98%85%e2%98%85%e2%98%85%e2%98%86%e2%98%86-es-una-tediosa-distopia-sin-mucho-que-aportar-al-genero/
 🗓️ 2026-08-27 • 🏷️ hipertextual.com
+
+### 2026-08-27T22:50:16.199Z
+📰 Hemos tenido que esperar mucho, sí, pero &#8216;GTA 6&#8217; es una auténtica locura
+El vistazo extendido a GTA 6 que ya se puede ver en Netflix, y que en cuestión de horas estará disponible en YouTube, es la prueba cabal de que la espera por el juego ha sido tediosa e insoportable por momentos, pero que ha valido la pena. …
+https://hipertextual.com/videojuegos/espera-gta-6-ha-valido-la-pena/
+🗓️ 2026-08-27 • 🏷️ hipertextual.com
