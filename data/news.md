@@ -6853,3 +6853,9 @@ https://hipertextual.com/videojuegos/espera-gta-6-ha-valido-la-pena/
 Nos vamos de compras como cada viernes para aprovechar las mejores ofertas Red Friday, una selección variada de tecnología y electrónica donde te ofrecemos los mejores descuentos disponibles y que hoy enfocamos a la campaña de Vuelta al col…
 https://www.muycomputer.com/2026/08/28/las-mejores-ofertas-de-la-semana-ultimas-antes-de-otro-subidon-de-precios/
 🗓️ 2026-08-28 • 🏷️ muycomputer.com
+
+### 2026-08-28T22:54:16.979Z
+📰 Malas noticias: este superventas de Motorola no se actualizará a Android 17
+Hace tres años que Motorola lanzó un móvil de gama media con acabados premium y un precio rompedor. Tras su debut, el Motorola Edge 40 se convirtió en uno de los modelos más vendidos de la marca en Europa y América Latina. Lamentablemente p…
+https://hipertextual.com/mobile/motorola-edge-40-no-actualizara-android-17/
+🗓️ 2026-08-28 • 🏷️ hipertextual.com
