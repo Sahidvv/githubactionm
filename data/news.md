@@ -6847,3 +6847,9 @@ https://hipertextual.com/cine-television/la-constelacion-del-perro-%e2%98%85%e2%
 El vistazo extendido a GTA 6 que ya se puede ver en Netflix, y que en cuestión de horas estará disponible en YouTube, es la prueba cabal de que la espera por el juego ha sido tediosa e insoportable por momentos, pero que ha valido la pena. …
 https://hipertextual.com/videojuegos/espera-gta-6-ha-valido-la-pena/
 🗓️ 2026-08-27 • 🏷️ hipertextual.com
+
+### 2026-08-28T12:31:52.502Z
+📰 Las mejores ofertas de la semana ¡Últimas antes de otro subidón de precios!
+Nos vamos de compras como cada viernes para aprovechar las mejores ofertas Red Friday, una selección variada de tecnología y electrónica donde te ofrecemos los mejores descuentos disponibles y que hoy enfocamos a la campaña de Vuelta al col…
+https://www.muycomputer.com/2026/08/28/las-mejores-ofertas-de-la-semana-ultimas-antes-de-otro-subidon-de-precios/
+🗓️ 2026-08-28 • 🏷️ muycomputer.com

@@ -6088,3 +6088,19 @@ https://hipertextual.com/cine-television/la-constelacion-del-perro-%e2%98%85%e2%
 🗓️ 2026-08-27 • 🏷️ hipertextual.com
 
 ---
+## 2026-08-28
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Las mejores ofertas de la semana ¡Últimas antes de otro subidón de precios!
+Nos vamos de compras como cada viernes para aprovechar las mejores ofertas Red Friday, una selección variada de tecnología y electrónica donde te ofrecemos los mejores descuentos disponibles y que hoy enfocamos a la campaña de Vuelta al col…
+https://www.muycomputer.com/2026/08/28/las-mejores-ofertas-de-la-semana-ultimas-antes-de-otro-subidon-de-precios/
+🗓️ 2026-08-28 • 🏷️ muycomputer.com
+
+---
