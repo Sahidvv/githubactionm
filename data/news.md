@@ -6865,3 +6865,9 @@ https://hipertextual.com/mobile/motorola-edge-40-no-actualizara-android-17/
 GTA VI no llegará hasta el próximo 19 de noviembre, pero algunos jugadores ya están organizando sus vacaciones alrededor de una fecha que empieza a parecerse sospechosamente a un festivo no oficial. Después de 13 años sin una nueva entrega …
 https://www.muycomputer.com/2026/08/29/gta-vi-amenaza-con-vaciar-oficinas-el-dia-de-su-lanzamiento/
 🗓️ 2026-08-29 • 🏷️ muycomputer.com
+
+### 2026-08-29T16:59:50.314Z
+📰 ¿Valió la pena adaptar ‘Cien años de soledad’? Tres grandes fallos de la serie sorpresa de Netflix
+Cien años de soledad de Gabriel García Márquez no es solo un clásico de la literatura latinoamericana. Que lo es y, por descontado. También es una historia fundacional que abarca la historia del continente y la transforma en realismo mágico…
+https://hipertextual.com/cine-television/valio-la-pena-adaptar-cien-anos-de-soledad-tres-grandes-fallos-de-la-serie-sorpresa-de-netflix/
+🗓️ 2026-08-29 • 🏷️ hipertextual.com
