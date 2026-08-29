@@ -6871,3 +6871,9 @@ https://www.muycomputer.com/2026/08/29/gta-vi-amenaza-con-vaciar-oficinas-el-dia
 Cien años de soledad de Gabriel García Márquez no es solo un clásico de la literatura latinoamericana. Que lo es y, por descontado. También es una historia fundacional que abarca la historia del continente y la transforma en realismo mágico…
 https://hipertextual.com/cine-television/valio-la-pena-adaptar-cien-anos-de-soledad-tres-grandes-fallos-de-la-serie-sorpresa-de-netflix/
 🗓️ 2026-08-29 • 🏷️ hipertextual.com
+
+### 2026-08-29T21:31:30.036Z
+📰 China 'rompe' con la IA y prohíbe los chatbots emocionales para salvar las relaciones humanas
+El gigante asiático se convierte en el primer país en regular este tipo de conexiones ante la preocupación de que fomenten la "dependencia emocional" y que los jóvenes dejen de casarse y formar familias Qué hay detrás del boom de los robots…
+https://www.eldiario.es/tecnologia/china-rompe-ia-prohibe-chatbots-emocionales-salvar-relaciones-humanas_1_13467950.html
+🗓️ 2026-08-29 • 🏷️ eldiario.es
