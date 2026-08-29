@@ -6859,3 +6859,9 @@ https://www.muycomputer.com/2026/08/28/las-mejores-ofertas-de-la-semana-ultimas-
 Hace tres años que Motorola lanzó un móvil de gama media con acabados premium y un precio rompedor. Tras su debut, el Motorola Edge 40 se convirtió en uno de los modelos más vendidos de la marca en Europa y América Latina. Lamentablemente p…
 https://hipertextual.com/mobile/motorola-edge-40-no-actualizara-android-17/
 🗓️ 2026-08-28 • 🏷️ hipertextual.com
+
+### 2026-08-29T07:41:06.193Z
+📰 GTA VI amenaza con vaciar oficinas el día de su lanzamiento
+GTA VI no llegará hasta el próximo 19 de noviembre, pero algunos jugadores ya están organizando sus vacaciones alrededor de una fecha que empieza a parecerse sospechosamente a un festivo no oficial. Después de 13 años sin una nueva entrega …
+https://www.muycomputer.com/2026/08/29/gta-vi-amenaza-con-vaciar-oficinas-el-dia-de-su-lanzamiento/
+🗓️ 2026-08-29 • 🏷️ muycomputer.com

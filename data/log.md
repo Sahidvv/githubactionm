@@ -6104,3 +6104,19 @@ https://www.muycomputer.com/2026/08/28/las-mejores-ofertas-de-la-semana-ultimas-
 🗓️ 2026-08-28 • 🏷️ muycomputer.com
 
 ---
+## 2026-08-29
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 GTA VI amenaza con vaciar oficinas el día de su lanzamiento
+GTA VI no llegará hasta el próximo 19 de noviembre, pero algunos jugadores ya están organizando sus vacaciones alrededor de una fecha que empieza a parecerse sospechosamente a un festivo no oficial. Después de 13 años sin una nueva entrega …
+https://www.muycomputer.com/2026/08/29/gta-vi-amenaza-con-vaciar-oficinas-el-dia-de-su-lanzamiento/
+🗓️ 2026-08-29 • 🏷️ muycomputer.com
+
+---
