@@ -6120,3 +6120,19 @@ https://www.muycomputer.com/2026/08/29/gta-vi-amenaza-con-vaciar-oficinas-el-dia
 🗓️ 2026-08-29 • 🏷️ muycomputer.com
 
 ---
+## 2026-08-30
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El pecado original de Meta: así acabó la mayor red social del mundo acorralada en los tribunales
+La obsesión por recabar cada vez más datos de los usuarios para monetizarlos, y la falta de límites en ese proceso, han llevado a la tecnológica a un infierno judicial de difícil salida
+https://elpais.com/tecnologia/2026-08-30/el-pecado-original-de-meta-asi-acabo-la-mayor-red-social-del-mundo-acorralada-en-los-tribunales.html
+🗓️ 2026-08-30 • 🏷️ elpais.com
+
+---

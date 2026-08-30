@@ -6877,3 +6877,9 @@ https://hipertextual.com/cine-television/valio-la-pena-adaptar-cien-anos-de-sole
 El gigante asiático se convierte en el primer país en regular este tipo de conexiones ante la preocupación de que fomenten la "dependencia emocional" y que los jóvenes dejen de casarse y formar familias Qué hay detrás del boom de los robots…
 https://www.eldiario.es/tecnologia/china-rompe-ia-prohibe-chatbots-emocionales-salvar-relaciones-humanas_1_13467950.html
 🗓️ 2026-08-29 • 🏷️ eldiario.es
+
+### 2026-08-30T06:16:33.322Z
+📰 El pecado original de Meta: así acabó la mayor red social del mundo acorralada en los tribunales
+La obsesión por recabar cada vez más datos de los usuarios para monetizarlos, y la falta de límites en ese proceso, han llevado a la tecnológica a un infierno judicial de difícil salida
+https://elpais.com/tecnologia/2026-08-30/el-pecado-original-de-meta-asi-acabo-la-mayor-red-social-del-mundo-acorralada-en-los-tribunales.html
+🗓️ 2026-08-30 • 🏷️ elpais.com
