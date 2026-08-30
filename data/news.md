@@ -6889,3 +6889,9 @@ https://elpais.com/tecnologia/2026-08-30/el-pecado-original-de-meta-asi-acabo-la
 Si tienes un Samsung Galaxy Watch y has comenzado a padecer un extraño bug de reinicio, no estás solo. Usuarios de los relojes inteligentes de la marca coreana han reportado que estos muestran una alerta invitando a reiniciar el dispositivo…
 https://hipertextual.com/tecnologia/bug-samsung-galaxy-watch-reinicio-zonas-horarias/
 🗓️ 2026-08-30 • 🏷️ hipertextual.com
+
+### 2026-08-30T21:50:14.634Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXXIX)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Guía Gaming MC 2026: todo lo que debes saber para s…
+https://www.muycomputer.com/2026/08/30/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxix/
+🗓️ 2026-08-30 • 🏷️ muycomputer.com
