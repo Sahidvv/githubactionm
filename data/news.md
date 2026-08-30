@@ -6883,3 +6883,9 @@ https://www.eldiario.es/tecnologia/china-rompe-ia-prohibe-chatbots-emocionales-s
 La obsesión por recabar cada vez más datos de los usuarios para monetizarlos, y la falta de límites en ese proceso, han llevado a la tecnológica a un infierno judicial de difícil salida
 https://elpais.com/tecnologia/2026-08-30/el-pecado-original-de-meta-asi-acabo-la-mayor-red-social-del-mundo-acorralada-en-los-tribunales.html
 🗓️ 2026-08-30 • 🏷️ elpais.com
+
+### 2026-08-30T17:13:14.153Z
+📰 No eres solo tú: un extraño bug está afectando a varios Galaxy Watch y así puedes resolverlo
+Si tienes un Samsung Galaxy Watch y has comenzado a padecer un extraño bug de reinicio, no estás solo. Usuarios de los relojes inteligentes de la marca coreana han reportado que estos muestran una alerta invitando a reiniciar el dispositivo…
+https://hipertextual.com/tecnologia/bug-samsung-galaxy-watch-reinicio-zonas-horarias/
+🗓️ 2026-08-30 • 🏷️ hipertextual.com
