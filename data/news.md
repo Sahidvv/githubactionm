@@ -6901,3 +6901,9 @@ https://www.muycomputer.com/2026/08/30/los-mejores-contenidos-de-la-semana-en-mu
 Las reservas de GTA VI ya eran impresionantes, pero se han disparado después de la llegada del vistazo extendido del juego. A pesar de la preocupación porque los gráficos estén limitados a 30 FPS el nuevo metraje de contenido parece que ha …
 https://www.muycomputer.com/2026/08/31/las-reservas-de-gta-6-se-disparan-tras-el-trailer-de-netflix/
 🗓️ 2026-08-31 • 🏷️ muycomputer.com
+
+### 2026-08-31T19:24:19.400Z
+📰 Europa designa a ChatGPT como buscador y ahora deberá cumplir reglas más duras
+Europa ha reforzado las regulaciones contra ChatGPT y otras plataformas en línea. El chatbot de IA ha sido designado como motor de búsqueda de gran tamaño dentro de la Ley de Servicios Digitales (DSA), lo que significa que tendrá que cumpli…
+https://hipertextual.com/inteligencia-artificial/chatgpt-comision-europea-dsa-buscador-ia/
+🗓️ 2026-08-31 • 🏷️ hipertextual.com
