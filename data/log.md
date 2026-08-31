@@ -6136,3 +6136,19 @@ https://elpais.com/tecnologia/2026-08-30/el-pecado-original-de-meta-asi-acabo-la
 🗓️ 2026-08-30 • 🏷️ elpais.com
 
 ---
+## 2026-08-31
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Las reservas de GTA 6 se disparan tras el tráiler de Netflix
+Las reservas de GTA VI ya eran impresionantes, pero se han disparado después de la llegada del vistazo extendido del juego. A pesar de la preocupación porque los gráficos estén limitados a 30 FPS el nuevo metraje de contenido parece que ha …
+https://www.muycomputer.com/2026/08/31/las-reservas-de-gta-6-se-disparan-tras-el-trailer-de-netflix/
+🗓️ 2026-08-31 • 🏷️ muycomputer.com
+
+---

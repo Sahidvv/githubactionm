@@ -6895,3 +6895,9 @@ https://hipertextual.com/tecnologia/bug-samsung-galaxy-watch-reinicio-zonas-hora
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Guía Gaming MC 2026: todo lo que debes saber para s…
 https://www.muycomputer.com/2026/08/30/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxix/
 🗓️ 2026-08-30 • 🏷️ muycomputer.com
+
+### 2026-08-31T06:43:17.528Z
+📰 Las reservas de GTA 6 se disparan tras el tráiler de Netflix
+Las reservas de GTA VI ya eran impresionantes, pero se han disparado después de la llegada del vistazo extendido del juego. A pesar de la preocupación porque los gráficos estén limitados a 30 FPS el nuevo metraje de contenido parece que ha …
+https://www.muycomputer.com/2026/08/31/las-reservas-de-gta-6-se-disparan-tras-el-trailer-de-netflix/
+🗓️ 2026-08-31 • 🏷️ muycomputer.com
