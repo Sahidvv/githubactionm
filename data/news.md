@@ -6907,3 +6907,9 @@ https://www.muycomputer.com/2026/08/31/las-reservas-de-gta-6-se-disparan-tras-el
 Europa ha reforzado las regulaciones contra ChatGPT y otras plataformas en línea. El chatbot de IA ha sido designado como motor de búsqueda de gran tamaño dentro de la Ley de Servicios Digitales (DSA), lo que significa que tendrá que cumpli…
 https://hipertextual.com/inteligencia-artificial/chatgpt-comision-europea-dsa-buscador-ia/
 🗓️ 2026-08-31 • 🏷️ hipertextual.com
+
+### 2026-09-01T06:03:05.532Z
+📰 Sony y Warner acusan a Anthropic de robar millones de canciones para entrenar a Claude
+Sony y Warner han presentado una demanda conjunta contra Anthropic. Los dos gigantes de la música acusan a la empresa de inteligencia artificial de orquestar el robo de propiedad intelectual más grave de la historia. El caso se suma a una l…
+https://hipertextual.com/inteligencia-artificial/sony-warner-demanda-anthropic-claude/
+🗓️ 2026-09-01 • 🏷️ hipertextual.com

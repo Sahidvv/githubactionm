@@ -6152,3 +6152,19 @@ https://www.muycomputer.com/2026/08/31/las-reservas-de-gta-6-se-disparan-tras-el
 🗓️ 2026-08-31 • 🏷️ muycomputer.com
 
 ---
+## 2026-09-01
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Sony y Warner acusan a Anthropic de robar millones de canciones para entrenar a Claude
+Sony y Warner han presentado una demanda conjunta contra Anthropic. Los dos gigantes de la música acusan a la empresa de inteligencia artificial de orquestar el robo de propiedad intelectual más grave de la historia. El caso se suma a una l…
+https://hipertextual.com/inteligencia-artificial/sony-warner-demanda-anthropic-claude/
+🗓️ 2026-09-01 • 🏷️ hipertextual.com
+
+---
