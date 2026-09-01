@@ -6913,3 +6913,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-comision-europea-dsa-bu
 Sony y Warner han presentado una demanda conjunta contra Anthropic. Los dos gigantes de la música acusan a la empresa de inteligencia artificial de orquestar el robo de propiedad intelectual más grave de la historia. El caso se suma a una l…
 https://hipertextual.com/inteligencia-artificial/sony-warner-demanda-anthropic-claude/
 🗓️ 2026-09-01 • 🏷️ hipertextual.com
+
+### 2026-09-01T17:10:39.395Z
+📰 ASUS ROG lleva los esports al siguiente nivel con su nueva gama Ace
+ASUS ROG ha aprovechado Gamescom 2026 para reforzar de manera importante su presencia en el mundo de los esports, combinando nuevo hardware de altas prestaciones con alianzas estratégicas y una mayor implicación con jugadores profesionales …
+https://www.muycomputer.com/2026/09/01/asus-rog-lleva-los-esports-al-siguiente-nivel-con-su-nueva-gama-ace/
+🗓️ 2026-09-01 • 🏷️ muycomputer.com
