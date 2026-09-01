@@ -6919,3 +6919,9 @@ https://hipertextual.com/inteligencia-artificial/sony-warner-demanda-anthropic-c
 ASUS ROG ha aprovechado Gamescom 2026 para reforzar de manera importante su presencia en el mundo de los esports, combinando nuevo hardware de altas prestaciones con alianzas estratégicas y una mayor implicación con jugadores profesionales …
 https://www.muycomputer.com/2026/09/01/asus-rog-lleva-los-esports-al-siguiente-nivel-con-su-nueva-gama-ace/
 🗓️ 2026-09-01 • 🏷️ muycomputer.com
+
+### 2026-09-01T21:36:50.898Z
+📰 Anthropic lanza Claude Mythos 5.1 y Fable 5.1, sus IA más avanzadas, y hay muy buenas noticias para tu bolsillo
+Anthropic no quita el pie del acelerador y continúa evolucionando sus IA más avanzadas. La compañía acaba de lanzar Claude Mythos 5.1 y Fable 5.1, sus nuevos modelos insignia, que una vez más elevan el listón en lo que respecta a rendimient…
+https://hipertextual.com/inteligencia-artificial/anthropic-claude-mythos-5-1-y-fable-5-1/
+🗓️ 2026-09-01 • 🏷️ hipertextual.com
