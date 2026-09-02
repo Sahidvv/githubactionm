@@ -6931,3 +6931,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-claude-mythos-5-1-y-f
 El rechazo a las grandes tecnológicas y sus formas de vigilancia se convirtió en una sátira en Argentina, donde un grupo de manifestantes vestidos del mago de ‘El Señor de los Anillos’ protestó contra el CEO de Palantir
 https://elpais.com/tecnologia/2026-09-02/gandalfs-1-peter-thiel-0-protestas-para-vigilar-a-los-que-vigilan.html
 🗓️ 2026-09-02 • 🏷️ elpais.com
+
+### 2026-09-02T17:01:22.074Z
+📰 SteamDB es adquirido por Chosen, propietaria de Nexus Mods
+SteamDB, uno de los servicios de referencia para quienes quieren consultar información detallada sobre Steam, cambia de manos después de 13 años. Sus fundadores han anunciado la adquisición del proyecto por parte de Chosen, la compañía prop…
+https://www.muycomputer.com/2026/09/02/steamdb-es-adquirido-por-chosen-propietaria-de-nexus-mods/
+🗓️ 2026-09-02 • 🏷️ muycomputer.com
