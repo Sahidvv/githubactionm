@@ -6937,3 +6937,9 @@ https://elpais.com/tecnologia/2026-09-02/gandalfs-1-peter-thiel-0-protestas-para
 SteamDB, uno de los servicios de referencia para quienes quieren consultar información detallada sobre Steam, cambia de manos después de 13 años. Sus fundadores han anunciado la adquisición del proyecto por parte de Chosen, la compañía prop…
 https://www.muycomputer.com/2026/09/02/steamdb-es-adquirido-por-chosen-propietaria-de-nexus-mods/
 🗓️ 2026-09-02 • 🏷️ muycomputer.com
+
+### 2026-09-02T21:36:40.421Z
+📰 Lo nuevo de Excel promete cambiar cómo usas las hojas de cálculo en Office
+Microsoft está trabajando en una función que cambiará la interacción con tus hojas de cálculo. Conocida como Excel Canvas, esta característica promete convertir los datos aburridos de tus tablas en paneles visuales interactivos. Para conseg…
+https://hipertextual.com/software/excel-canvas-copilot-ia-hojas-calculo/
+🗓️ 2026-09-02 • 🏷️ hipertextual.com
