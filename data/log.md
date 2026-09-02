@@ -6168,3 +6168,19 @@ https://hipertextual.com/inteligencia-artificial/sony-warner-demanda-anthropic-c
 🗓️ 2026-09-01 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-02
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Gandalfs 1 - Peter Thiel 0: protestas para vigilar a los que vigilan
+El rechazo a las grandes tecnológicas y sus formas de vigilancia se convirtió en una sátira en Argentina, donde un grupo de manifestantes vestidos del mago de ‘El Señor de los Anillos’ protestó contra el CEO de Palantir
+https://elpais.com/tecnologia/2026-09-02/gandalfs-1-peter-thiel-0-protestas-para-vigilar-a-los-que-vigilan.html
+🗓️ 2026-09-02 • 🏷️ elpais.com
+
+---

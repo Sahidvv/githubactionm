@@ -6925,3 +6925,9 @@ https://www.muycomputer.com/2026/09/01/asus-rog-lleva-los-esports-al-siguiente-n
 Anthropic no quita el pie del acelerador y continúa evolucionando sus IA más avanzadas. La compañía acaba de lanzar Claude Mythos 5.1 y Fable 5.1, sus nuevos modelos insignia, que una vez más elevan el listón en lo que respecta a rendimient…
 https://hipertextual.com/inteligencia-artificial/anthropic-claude-mythos-5-1-y-fable-5-1/
 🗓️ 2026-09-01 • 🏷️ hipertextual.com
+
+### 2026-09-02T05:29:03.176Z
+📰 Gandalfs 1 - Peter Thiel 0: protestas para vigilar a los que vigilan
+El rechazo a las grandes tecnológicas y sus formas de vigilancia se convirtió en una sátira en Argentina, donde un grupo de manifestantes vestidos del mago de ‘El Señor de los Anillos’ protestó contra el CEO de Palantir
+https://elpais.com/tecnologia/2026-09-02/gandalfs-1-peter-thiel-0-protestas-para-vigilar-a-los-que-vigilan.html
+🗓️ 2026-09-02 • 🏷️ elpais.com
