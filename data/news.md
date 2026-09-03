@@ -6943,3 +6943,9 @@ https://www.muycomputer.com/2026/09/02/steamdb-es-adquirido-por-chosen-propietar
 Microsoft está trabajando en una función que cambiará la interacción con tus hojas de cálculo. Conocida como Excel Canvas, esta característica promete convertir los datos aburridos de tus tablas en paneles visuales interactivos. Para conseg…
 https://hipertextual.com/software/excel-canvas-copilot-ia-hojas-calculo/
 🗓️ 2026-09-02 • 🏷️ hipertextual.com
+
+### 2026-09-03T05:29:56.236Z
+📰 Así funciona la nueva estafa de WhatsApp: piden dinero desde tu perfil a amigos y familiares sin que tú te des cuenta
+El Instituto Nacional de Ciberseguridad alerta de un timo que afecta a usuarios con un iPhone desactualizado. Es especialmente peligroso porque son los contactos más cercanos quienes solicitan ayuda económica
+https://elpais.com/tecnologia/2026-09-03/asi-funciona-la-nueva-estafa-de-whatsapp-piden-dinero-desde-tu-perfil-a-amigos-y-familiares-sin-que-tu-te-des-cuenta.html
+🗓️ 2026-09-03 • 🏷️ elpais.com
