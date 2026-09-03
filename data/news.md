@@ -6955,3 +6955,9 @@ https://elpais.com/tecnologia/2026-09-03/asi-funciona-la-nueva-estafa-de-whatsap
 Los usuarios de las plataformas de ChatGPT, Claude, Grok y Gemini registran problemas desde hace unas horas
 https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html
 🗓️ 2026-09-03 • 🏷️ elpais.com
+
+### 2026-09-03T21:34:42.641Z
+📰 OpenAI lanza GPT-6 Astra, su IA más potente, pero no te emociones todavía
+GPT-6 Astra, la IA más potente de OpenAI hasta la fecha, acaba de hacer su estreno oficial. Si bien la compañía anunció esta semana que iba a pisar el freno con el desarrollo de este modelo durante un par de semanas para evitar un nuevo inc…
+https://hipertextual.com/inteligencia-artificial/openai-lanza-gpt-6-astra-su-ia-mas-potente-pero-no-te-emociones-todavia/
+🗓️ 2026-09-03 • 🏷️ hipertextual.com
