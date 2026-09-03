@@ -6949,3 +6949,9 @@ https://hipertextual.com/software/excel-canvas-copilot-ia-hojas-calculo/
 El Instituto Nacional de Ciberseguridad alerta de un timo que afecta a usuarios con un iPhone desactualizado. Es especialmente peligroso porque son los contactos más cercanos quienes solicitan ayuda económica
 https://elpais.com/tecnologia/2026-09-03/asi-funciona-la-nueva-estafa-de-whatsapp-piden-dinero-desde-tu-perfil-a-amigos-y-familiares-sin-que-tu-te-des-cuenta.html
 🗓️ 2026-09-03 • 🏷️ elpais.com
+
+### 2026-09-03T16:56:44.575Z
+📰 Los grandes chatbots de inteligencia artificial sufren una caída global y dejan de funcionar
+Los usuarios de las plataformas de ChatGPT, Claude, Grok y Gemini registran problemas desde hace unas horas
+https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html
+🗓️ 2026-09-03 • 🏷️ elpais.com
