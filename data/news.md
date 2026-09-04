@@ -6973,3 +6973,9 @@ https://www.muycomputer.com/2026/09/04/nvidia-dlss-5-a-prueba-en-nba-2k27-con-un
 Una nueva filtración ha revelado que Motorola planea ampliar su catálogo de plegables con un nuevo modelo de smartphone. Según bocetos a los que accedió Android Headlines, el fabricante prepara su propia versión del formato pasaporte para c…
 https://hipertextual.com/mobile/que-tiemblen-el-galaxy-z-fold-8-y-el-xiaomi-18-fold-motorola-tambien-prepara-un-plegable-tipo-pasaporte/
 🗓️ 2026-09-04 • 🏷️ hipertextual.com
+
+### 2026-09-04T21:16:29.045Z
+📰 Un diputado rebotado del grupo de Alvise será la voz clave en la próxima gran ley para la IA europea
+Diego Solier, uno de los eurodiputados que denunció al agitador ultra por acoso, será el arquitecto de la ley que regulará los centros de datos en Europa, para los que defiende la energía nuclear y "alianzas" con los gigantes de EEUUInvesti…
+https://www.eldiario.es/tecnologia/diputado-rebotado-grupo-alvise-sera-voz-clave-proxima-gran-ley-ia-europea_1_13484944.html
+🗓️ 2026-09-04 • 🏷️ eldiario.es
