@@ -6200,3 +6200,19 @@ https://elpais.com/tecnologia/2026-09-03/asi-funciona-la-nueva-estafa-de-whatsap
 🗓️ 2026-09-03 • 🏷️ elpais.com
 
 ---
+## 2026-09-04
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 NVIDIA DLSS 5 a prueba en NBA 2K27 con una GeForce RTX 5090
+La presentación definitiva de NVIDIA DLSS 5 tuvo lugar hace solo unos días. En este artículo ya te contamos qué es, cómo funciona, qué opciones ofrece a los desarrolladores y cómo puede mejorar los juegos en los que se implementa. También t…
+https://www.muycomputer.com/2026/09/04/nvidia-dlss-5-a-prueba-en-nba-2k27-con-una-geforce-rtx-5090/
+🗓️ 2026-09-04 • 🏷️ muycomputer.com
+
+---

@@ -6961,3 +6961,9 @@ https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-
 GPT-6 Astra, la IA más potente de OpenAI hasta la fecha, acaba de hacer su estreno oficial. Si bien la compañía anunció esta semana que iba a pisar el freno con el desarrollo de este modelo durante un par de semanas para evitar un nuevo inc…
 https://hipertextual.com/inteligencia-artificial/openai-lanza-gpt-6-astra-su-ia-mas-potente-pero-no-te-emociones-todavia/
 🗓️ 2026-09-03 • 🏷️ hipertextual.com
+
+### 2026-09-04T05:34:36.903Z
+📰 NVIDIA DLSS 5 a prueba en NBA 2K27 con una GeForce RTX 5090
+La presentación definitiva de NVIDIA DLSS 5 tuvo lugar hace solo unos días. En este artículo ya te contamos qué es, cómo funciona, qué opciones ofrece a los desarrolladores y cómo puede mejorar los juegos en los que se implementa. También t…
+https://www.muycomputer.com/2026/09/04/nvidia-dlss-5-a-prueba-en-nba-2k27-con-una-geforce-rtx-5090/
+🗓️ 2026-09-04 • 🏷️ muycomputer.com
