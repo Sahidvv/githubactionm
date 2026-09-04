@@ -6967,3 +6967,9 @@ https://hipertextual.com/inteligencia-artificial/openai-lanza-gpt-6-astra-su-ia-
 La presentación definitiva de NVIDIA DLSS 5 tuvo lugar hace solo unos días. En este artículo ya te contamos qué es, cómo funciona, qué opciones ofrece a los desarrolladores y cómo puede mejorar los juegos en los que se implementa. También t…
 https://www.muycomputer.com/2026/09/04/nvidia-dlss-5-a-prueba-en-nba-2k27-con-una-geforce-rtx-5090/
 🗓️ 2026-09-04 • 🏷️ muycomputer.com
+
+### 2026-09-04T16:45:26.821Z
+📰 Que tiemblen el Galaxy Z Fold 8 y el Xiaomi 18 Fold: Motorola también prepara un plegable tipo pasaporte
+Una nueva filtración ha revelado que Motorola planea ampliar su catálogo de plegables con un nuevo modelo de smartphone. Según bocetos a los que accedió Android Headlines, el fabricante prepara su propia versión del formato pasaporte para c…
+https://hipertextual.com/mobile/que-tiemblen-el-galaxy-z-fold-8-y-el-xiaomi-18-fold-motorola-tambien-prepara-un-plegable-tipo-pasaporte/
+🗓️ 2026-09-04 • 🏷️ hipertextual.com
