@@ -6979,3 +6979,9 @@ https://hipertextual.com/mobile/que-tiemblen-el-galaxy-z-fold-8-y-el-xiaomi-18-f
 Diego Solier, uno de los eurodiputados que denunció al agitador ultra por acoso, será el arquitecto de la ley que regulará los centros de datos en Europa, para los que defiende la energía nuclear y "alianzas" con los gigantes de EEUUInvesti…
 https://www.eldiario.es/tecnologia/diputado-rebotado-grupo-alvise-sera-voz-clave-proxima-gran-ley-ia-europea_1_13484944.html
 🗓️ 2026-09-04 • 🏷️ eldiario.es
+
+### 2026-09-05T05:18:02.656Z
+📰 OpenAI abre GPT-6 Astra a más usuarios de ChatGPT
+Apenas un día después de su lanzamiento limitado a clientes de ciberseguridad, OpenAI ha decidido abrir el acceso a GPT-6 Astra a más usuarios de ChatGPT. Tras las críticas recibidas por no permitir que los suscriptores de los planes de pag…
+https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/
+🗓️ 2026-09-04 • 🏷️ hipertextual.com

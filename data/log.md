@@ -6216,3 +6216,19 @@ https://www.muycomputer.com/2026/09/04/nvidia-dlss-5-a-prueba-en-nba-2k27-con-un
 🗓️ 2026-09-04 • 🏷️ muycomputer.com
 
 ---
+## 2026-09-05
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 OpenAI abre GPT-6 Astra a más usuarios de ChatGPT
+Apenas un día después de su lanzamiento limitado a clientes de ciberseguridad, OpenAI ha decidido abrir el acceso a GPT-6 Astra a más usuarios de ChatGPT. Tras las críticas recibidas por no permitir que los suscriptores de los planes de pag…
+https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/
+🗓️ 2026-09-04 • 🏷️ hipertextual.com
+
+---
