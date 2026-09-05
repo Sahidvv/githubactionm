@@ -6985,3 +6985,9 @@ https://www.eldiario.es/tecnologia/diputado-rebotado-grupo-alvise-sera-voz-clave
 Apenas un día después de su lanzamiento limitado a clientes de ciberseguridad, OpenAI ha decidido abrir el acceso a GPT-6 Astra a más usuarios de ChatGPT. Tras las críticas recibidas por no permitir que los suscriptores de los planes de pag…
 https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/
 🗓️ 2026-09-04 • 🏷️ hipertextual.com
+
+### 2026-09-05T15:49:24.530Z
+📰 Tres razones para ver la segunda temporada de ‘The Gentlemen: La serie en Netflix
+The Gentlemen: La serie es muchas cosas a la vez. La más interesante, una visión mucho más amplia de la conocida película homónima de Guy Ritchie, estrenada en 2019. Como se recordará, la cinta causó sensación entre los amantes de la acción…
+https://hipertextual.com/cine-television/tres-razones-para-ver-la-segunda-temporada-de-the-gentlemen-la-serie-en-netflix/
+🗓️ 2026-09-05 • 🏷️ hipertextual.com
