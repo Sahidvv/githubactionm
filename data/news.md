@@ -6991,3 +6991,9 @@ https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/
 The Gentlemen: La serie es muchas cosas a la vez. La más interesante, una visión mucho más amplia de la conocida película homónima de Guy Ritchie, estrenada en 2019. Como se recordará, la cinta causó sensación entre los amantes de la acción…
 https://hipertextual.com/cine-television/tres-razones-para-ver-la-segunda-temporada-de-the-gentlemen-la-serie-en-netflix/
 🗓️ 2026-09-05 • 🏷️ hipertextual.com
+
+### 2026-09-05T20:56:45.686Z
+📰 La IA podría causar una crisis financiera peor que la que vivimos en 2008
+Uno de los mayores temores con respecto a la IA es perder el control sobre sistemas que podrían superar nuestra comprensión y capacidad de decisión. La idea de un Skynet que acabe con la raza humana ya dejó de ser argumento para una películ…
+https://hipertextual.com/inteligencia-artificial/ia-crisis-financiera-carta-banco-inglaterra-openai/
+🗓️ 2026-09-05 • 🏷️ hipertextual.com
