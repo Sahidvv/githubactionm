@@ -7003,3 +7003,9 @@ https://hipertextual.com/inteligencia-artificial/ia-crisis-financiera-carta-banc
 Durante mucho tiempo, la sexualidad y las relaciones afectivas en esta población han sido un tabú. Ahora empiezan a surgir aplicaciones, encuentros y talleres específicos para establecer vínculos y aprender a relacionarse
 https://elpais.com/sociedad/2026-09-06/puede-uno-aprender-a-enamorarse-la-app-de-citas-que-ayuda-a-las-personas-con-discapacidad-intelectual.html
 🗓️ 2026-09-06 • 🏷️ elpais.com
+
+### 2026-09-06T16:00:01.742Z
+📰 7 libros de fantasía que deberías leer ahora mismo
+La literatura fantástica es un género inmortal, algo que ha quedado más que demostrado durante buena parte de la historia de la escritura. Y lo es por una razón obvia. Es fundamental porque permite explorar la condición humana, la moral y l…
+https://hipertextual.com/cine-television/7-libros-de-fantasia-que-deberias-leer-ahora-mismo/
+🗓️ 2026-09-06 • 🏷️ hipertextual.com
