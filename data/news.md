@@ -6997,3 +6997,9 @@ https://hipertextual.com/cine-television/tres-razones-para-ver-la-segunda-tempor
 Uno de los mayores temores con respecto a la IA es perder el control sobre sistemas que podrían superar nuestra comprensión y capacidad de decisión. La idea de un Skynet que acabe con la raza humana ya dejó de ser argumento para una películ…
 https://hipertextual.com/inteligencia-artificial/ia-crisis-financiera-carta-banco-inglaterra-openai/
 🗓️ 2026-09-05 • 🏷️ hipertextual.com
+
+### 2026-09-06T05:33:44.477Z
+📰 ¿Puede uno aprender a enamorarse? La app de citas que ayuda a las personas con discapacidad intelectual
+Durante mucho tiempo, la sexualidad y las relaciones afectivas en esta población han sido un tabú. Ahora empiezan a surgir aplicaciones, encuentros y talleres específicos para establecer vínculos y aprender a relacionarse
+https://elpais.com/sociedad/2026-09-06/puede-uno-aprender-a-enamorarse-la-app-de-citas-que-ayuda-a-las-personas-con-discapacidad-intelectual.html
+🗓️ 2026-09-06 • 🏷️ elpais.com

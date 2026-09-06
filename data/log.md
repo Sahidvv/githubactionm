@@ -6232,3 +6232,19 @@ https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/
 🗓️ 2026-09-04 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-06
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Puede uno aprender a enamorarse? La app de citas que ayuda a las personas con discapacidad intelectual
+Durante mucho tiempo, la sexualidad y las relaciones afectivas en esta población han sido un tabú. Ahora empiezan a surgir aplicaciones, encuentros y talleres específicos para establecer vínculos y aprender a relacionarse
+https://elpais.com/sociedad/2026-09-06/puede-uno-aprender-a-enamorarse-la-app-de-citas-que-ayuda-a-las-personas-con-discapacidad-intelectual.html
+🗓️ 2026-09-06 • 🏷️ elpais.com
+
+---
