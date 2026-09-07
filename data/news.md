@@ -7027,3 +7027,9 @@ https://elpais.com/tecnologia/2026-09-07/el-decreto-de-meloni-de-reconocimiento-
 El desarrollo de The Matrix 5 puede estar en problemas. Lilly Wachowski ha revelado que existe una "situación complicada" detrás de la nueva película que podría terminar impidiendo su concreción. Y si bien el futuro de la siguiente entrega …
 https://hipertextual.com/cine-television/the-matrix-5-en-peligro-lilly-wachowski/
 🗓️ 2026-09-07 • 🏷️ hipertextual.com
+
+### 2026-09-07T21:55:06.706Z
+📰 &#8216;Forza Horizon 6&#8217;, uno de los mejores juegos de Xbox de los últimos tiempos, actualiza el estado de su lanzamiento en PS5
+Forza Horizon 6 es, sin lugar a discusión, de los mejores juegos que Xbox ha lanzado en los últimos tiempos. Tras debutar a mediados de año en la plataforma de Microsoft y en PC, el título sigue cosechando muy buena aceptación entre los fan…
+https://hipertextual.com/videojuegos/forza-horizon-6-actualiza-estado-lanzamiento-ps5/
+🗓️ 2026-09-07 • 🏷️ hipertextual.com
