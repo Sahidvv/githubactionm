@@ -7015,3 +7015,9 @@ https://hipertextual.com/cine-television/7-libros-de-fantasia-que-deberias-leer-
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Cómo poner a punto tu PC ante la vuelta al cole. La…
 https://www.muycomputer.com/2026/09/06/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxx/
 🗓️ 2026-09-06 • 🏷️ muycomputer.com
+
+### 2026-09-07T05:44:11.850Z
+📰 El decreto de Meloni de reconocimiento facial con IA genera preocupación entre los expertos
+Italia ultima una de las regulaciones más ambiciosas de Europa para el uso policial de estas tecnologías
+https://elpais.com/tecnologia/2026-09-07/el-decreto-de-meloni-de-reconocimiento-facial-con-ia-genera-preocupacion-entre-los-expertos.html
+🗓️ 2026-09-07 • 🏷️ elpais.com

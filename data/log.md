@@ -6248,3 +6248,19 @@ https://elpais.com/sociedad/2026-09-06/puede-uno-aprender-a-enamorarse-la-app-de
 🗓️ 2026-09-06 • 🏷️ elpais.com
 
 ---
+## 2026-09-07
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 El decreto de Meloni de reconocimiento facial con IA genera preocupación entre los expertos
+Italia ultima una de las regulaciones más ambiciosas de Europa para el uso policial de estas tecnologías
+https://elpais.com/tecnologia/2026-09-07/el-decreto-de-meloni-de-reconocimiento-facial-con-ia-genera-preocupacion-entre-los-expertos.html
+🗓️ 2026-09-07 • 🏷️ elpais.com
+
+---
