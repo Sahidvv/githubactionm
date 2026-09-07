@@ -7021,3 +7021,9 @@ https://www.muycomputer.com/2026/09/06/los-mejores-contenidos-de-la-semana-en-mu
 Italia ultima una de las regulaciones más ambiciosas de Europa para el uso policial de estas tecnologías
 https://elpais.com/tecnologia/2026-09-07/el-decreto-de-meloni-de-reconocimiento-facial-con-ia-genera-preocupacion-entre-los-expertos.html
 🗓️ 2026-09-07 • 🏷️ elpais.com
+
+### 2026-09-07T18:07:27.087Z
+📰 ¿&#8217;The Matrix 5&#8242; en peligro? Lilly Wachowski revela una «situación complicada» que pondría en jaque a la película
+El desarrollo de The Matrix 5 puede estar en problemas. Lilly Wachowski ha revelado que existe una "situación complicada" detrás de la nueva película que podría terminar impidiendo su concreción. Y si bien el futuro de la siguiente entrega …
+https://hipertextual.com/cine-television/the-matrix-5-en-peligro-lilly-wachowski/
+🗓️ 2026-09-07 • 🏷️ hipertextual.com
