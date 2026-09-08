@@ -7039,3 +7039,9 @@ https://hipertextual.com/videojuegos/forza-horizon-6-actualiza-estado-lanzamient
 WhatsApp prepara una nueva función que te permitirá chatear con varios agentes de IA. La compañía lanzó una actualización con chats dedicados para agentes de terceros para hablar con ellos en una conversación por separado. Si bien el client…
 https://hipertextual.com/inteligencia-artificial/whatsapp-chats-agentes-terceros/
 🗓️ 2026-09-08 • 🏷️ hipertextual.com
+
+### 2026-09-08T17:05:28.573Z
+📰 Lo que faltaba: Microsoft ahora muestra anuncios en los fondos de pantalla de Windows 11
+Una vez más, Microsoft se está ganando el disgusto de los usuarios de Windows 11 por forzar anuncios en los espacios más insólitos. En esta oportunidad, múltiples reportes indican que los de Redmond han comenzado a inyectar publicidades en …
+https://hipertextual.com/software/windows-11-anuncios-fondos-de-pantalla/
+🗓️ 2026-09-08 • 🏷️ hipertextual.com
