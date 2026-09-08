@@ -7045,3 +7045,9 @@ https://hipertextual.com/inteligencia-artificial/whatsapp-chats-agentes-terceros
 Una vez más, Microsoft se está ganando el disgusto de los usuarios de Windows 11 por forzar anuncios en los espacios más insólitos. En esta oportunidad, múltiples reportes indican que los de Redmond han comenzado a inyectar publicidades en …
 https://hipertextual.com/software/windows-11-anuncios-fondos-de-pantalla/
 🗓️ 2026-09-08 • 🏷️ hipertextual.com
+
+### 2026-09-08T21:36:33.873Z
+📰 OpenAI sube el listón con su nueva IA para generar imágenes: es mejor, más rápida y te permite dibujar en ChatGPT
+OpenAI acaba de estrenar ChatGPT Images 2.5, un nuevo modelo de inteligencia artificial dedicado a la generación de imágenes. La tecnología supone una importante mejora respecto de la versión 2.0 que debutó en abril pasado y que también bri…
+https://hipertextual.com/inteligencia-artificial/openai-chatgpt-images-2-5/
+🗓️ 2026-09-08 • 🏷️ hipertextual.com
