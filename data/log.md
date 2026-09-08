@@ -6264,3 +6264,19 @@ https://elpais.com/tecnologia/2026-09-07/el-decreto-de-meloni-de-reconocimiento-
 🗓️ 2026-09-07 • 🏷️ elpais.com
 
 ---
+## 2026-09-08
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La nueva función de WhatsApp te permitirá chatear y controlar agentes de IA dentro de la app
+WhatsApp prepara una nueva función que te permitirá chatear con varios agentes de IA. La compañía lanzó una actualización con chats dedicados para agentes de terceros para hablar con ellos en una conversación por separado. Si bien el client…
+https://hipertextual.com/inteligencia-artificial/whatsapp-chats-agentes-terceros/
+🗓️ 2026-09-08 • 🏷️ hipertextual.com
+
+---

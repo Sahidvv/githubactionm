@@ -7033,3 +7033,9 @@ https://hipertextual.com/cine-television/the-matrix-5-en-peligro-lilly-wachowski
 Forza Horizon 6 es, sin lugar a discusión, de los mejores juegos que Xbox ha lanzado en los últimos tiempos. Tras debutar a mediados de año en la plataforma de Microsoft y en PC, el título sigue cosechando muy buena aceptación entre los fan…
 https://hipertextual.com/videojuegos/forza-horizon-6-actualiza-estado-lanzamiento-ps5/
 🗓️ 2026-09-07 • 🏷️ hipertextual.com
+
+### 2026-09-08T05:39:11.221Z
+📰 La nueva función de WhatsApp te permitirá chatear y controlar agentes de IA dentro de la app
+WhatsApp prepara una nueva función que te permitirá chatear con varios agentes de IA. La compañía lanzó una actualización con chats dedicados para agentes de terceros para hablar con ellos en una conversación por separado. Si bien el client…
+https://hipertextual.com/inteligencia-artificial/whatsapp-chats-agentes-terceros/
+🗓️ 2026-09-08 • 🏷️ hipertextual.com
