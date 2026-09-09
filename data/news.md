@@ -7051,3 +7051,9 @@ https://hipertextual.com/software/windows-11-anuncios-fondos-de-pantalla/
 OpenAI acaba de estrenar ChatGPT Images 2.5, un nuevo modelo de inteligencia artificial dedicado a la generación de imágenes. La tecnología supone una importante mejora respecto de la versión 2.0 que debutó en abril pasado y que también bri…
 https://hipertextual.com/inteligencia-artificial/openai-chatgpt-images-2-5/
 🗓️ 2026-09-08 • 🏷️ hipertextual.com
+
+### 2026-09-09T05:44:58.081Z
+📰 Intel volverá a subir el precio de sus procesadores antes de que termine el año
+Si pensabas que la memoria era lo único que subiría de precio, tenemos malas noticias. Intel prepara un aumento de precios en sus procesadores para PC por segunda vez en lo que va del año. La compañía necesita más ingresos, por lo que su CE…
+https://hipertextual.com/hardware/intel-sube-precios-procesadores-2026/
+🗓️ 2026-09-08 • 🏷️ hipertextual.com

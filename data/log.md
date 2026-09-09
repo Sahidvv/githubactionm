@@ -6280,3 +6280,19 @@ https://hipertextual.com/inteligencia-artificial/whatsapp-chats-agentes-terceros
 🗓️ 2026-09-08 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-09
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Intel volverá a subir el precio de sus procesadores antes de que termine el año
+Si pensabas que la memoria era lo único que subiría de precio, tenemos malas noticias. Intel prepara un aumento de precios en sus procesadores para PC por segunda vez en lo que va del año. La compañía necesita más ingresos, por lo que su CE…
+https://hipertextual.com/hardware/intel-sube-precios-procesadores-2026/
+🗓️ 2026-09-08 • 🏷️ hipertextual.com
+
+---
