@@ -7063,3 +7063,9 @@ https://hipertextual.com/hardware/intel-sube-precios-procesadores-2026/
 Hace unas semanas tuvimos esa bochornosa versión de La Odisea hecha por IA. Y ahora, la apuesta de Amazon Prime Video por la Inteligencia Artificial acaba de dar un nuevo paso. A pesar de que el lado artístico de la industria (directores, a…
 https://hipertextual.com/cine-television/amazon-prime-video-da-un-paso-mas-con-la-ia-empezara-a-usar-esta-nueva-funcionalidad-en-una-de-sus-series-mas-exitosas/
 🗓️ 2026-09-09 • 🏷️ hipertextual.com
+
+### 2026-09-09T21:31:01.668Z
+📰 iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada
+Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max, Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el de…
+https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/
+🗓️ 2026-09-09 • 🏷️ hipertextual.com
