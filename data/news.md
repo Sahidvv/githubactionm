@@ -7057,3 +7057,9 @@ https://hipertextual.com/inteligencia-artificial/openai-chatgpt-images-2-5/
 Si pensabas que la memoria era lo único que subiría de precio, tenemos malas noticias. Intel prepara un aumento de precios en sus procesadores para PC por segunda vez en lo que va del año. La compañía necesita más ingresos, por lo que su CE…
 https://hipertextual.com/hardware/intel-sube-precios-procesadores-2026/
 🗓️ 2026-09-08 • 🏷️ hipertextual.com
+
+### 2026-09-09T17:02:48.754Z
+📰 Amazon Prime Video da un paso más con la IA&#8230; empezará a usar esta nueva funcionalidad en una de sus series más exitosas
+Hace unas semanas tuvimos esa bochornosa versión de La Odisea hecha por IA. Y ahora, la apuesta de Amazon Prime Video por la Inteligencia Artificial acaba de dar un nuevo paso. A pesar de que el lado artístico de la industria (directores, a…
+https://hipertextual.com/cine-television/amazon-prime-video-da-un-paso-mas-con-la-ia-empezara-a-usar-esta-nueva-funcionalidad-en-una-de-sus-series-mas-exitosas/
+🗓️ 2026-09-09 • 🏷️ hipertextual.com
