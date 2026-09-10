@@ -7081,3 +7081,9 @@ https://www.muycomputer.com/2026/09/10/apple-watch-series-12-y-ultra-4-cuando-me
 Ayer miércoles, Apple presentó sus nuevos teléfonos y aunque todas las miradas se dirigen al iPhone Duo, el primer plegable de la compañía, la opción más lógica es irse a cualquiera de los nuevos iPhone 18. Sin embargo, ¿compensa lanzarse a…
 https://hipertextual.com/tecnologia/iphone-18-17/
 🗓️ 2026-09-10 • 🏷️ hipertextual.com
+
+### 2026-09-10T21:26:36.312Z
+📰 ¿Puede la IA perder el control y amenazar a la humanidad? Esto es lo que dicen algunos de los mayores expertos del mundo
+El principal comité internacional de expertos en IA, reunido por la ONU, ha alertado de que la posibilidad de que la IA se salga de control es real y de "consecuencias catastróficas"Anthropic asegura que ha detenido varios intentos de crear…
+https://www.eldiario.es/tecnologia/ia-perder-control-amenazar-humanidad-dicen-mayores-expertos-mundo_1_13499280.html
+🗓️ 2026-09-10 • 🏷️ eldiario.es
