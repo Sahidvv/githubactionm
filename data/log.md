@@ -6296,3 +6296,19 @@ https://hipertextual.com/hardware/intel-sube-precios-procesadores-2026/
 🗓️ 2026-09-08 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-10
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Apple Watch Series 12 y Ultra 4: cuando medir mejor significa entender mejor
+El Apple Watch lleva ya muchas generaciones demostrando que, en un dispositivo tan pequeño y condicionado por su forma física, las grandes revoluciones no tienen por qué llegar necesariamente acompañadas de un rediseño. Con el paso de los a…
+https://www.muycomputer.com/2026/09/10/apple-watch-series-12-y-ultra-4-cuando-medir-mejor-significa-entender-mejor/
+🗓️ 2026-09-09 • 🏷️ muycomputer.com
+
+---

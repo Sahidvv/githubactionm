@@ -7069,3 +7069,9 @@ https://hipertextual.com/cine-television/amazon-prime-video-da-un-paso-mas-con-l
 Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max, Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el de…
 https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/
 🗓️ 2026-09-09 • 🏷️ hipertextual.com
+
+### 2026-09-10T05:39:23.636Z
+📰 Apple Watch Series 12 y Ultra 4: cuando medir mejor significa entender mejor
+El Apple Watch lleva ya muchas generaciones demostrando que, en un dispositivo tan pequeño y condicionado por su forma física, las grandes revoluciones no tienen por qué llegar necesariamente acompañadas de un rediseño. Con el paso de los a…
+https://www.muycomputer.com/2026/09/10/apple-watch-series-12-y-ultra-4-cuando-medir-mejor-significa-entender-mejor/
+🗓️ 2026-09-09 • 🏷️ muycomputer.com
