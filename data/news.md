@@ -7075,3 +7075,9 @@ https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-
 El Apple Watch lleva ya muchas generaciones demostrando que, en un dispositivo tan pequeño y condicionado por su forma física, las grandes revoluciones no tienen por qué llegar necesariamente acompañadas de un rediseño. Con el paso de los a…
 https://www.muycomputer.com/2026/09/10/apple-watch-series-12-y-ultra-4-cuando-medir-mejor-significa-entender-mejor/
 🗓️ 2026-09-09 • 🏷️ muycomputer.com
+
+### 2026-09-10T16:54:15.500Z
+📰 ¿Merece la pena comprar el iPhone 18 o compensa más el iPhone 17? ¿Qué iPhone debo comprarme?
+Ayer miércoles, Apple presentó sus nuevos teléfonos y aunque todas las miradas se dirigen al iPhone Duo, el primer plegable de la compañía, la opción más lógica es irse a cualquiera de los nuevos iPhone 18. Sin embargo, ¿compensa lanzarse a…
+https://hipertextual.com/tecnologia/iphone-18-17/
+🗓️ 2026-09-10 • 🏷️ hipertextual.com
