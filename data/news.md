@@ -7093,3 +7093,9 @@ https://www.eldiario.es/tecnologia/ia-perder-control-amenazar-humanidad-dicen-ma
 Instagram ha lanzado una nueva función que te permitirá añadir las fotos en las que apareces etiquetado directamente a tu perfil. Ahora, los usuarios podrán añadir a la cuadrícula cualquier foto que haya tomado otra persona, lo que evitará …
 https://hipertextual.com/mobile/instagram-fotos-etiquetadas-perfil-grid/
 🗓️ 2026-09-10 • 🏷️ hipertextual.com
+
+### 2026-09-11T16:55:49.011Z
+📰 Samsung prepara nuevos Galaxy SmartTag con diseño actualizado, más parecidos a los AirTag de Apple
+Samsung se prepara para actualizar los Galaxy SmartTag con un modelo de tercera generación. La firma coreana va a cambiar el diseño del dispositivo una vez más, adoptando una estética más parecida a la de los AirTag de Apple a partir de los…
+https://hipertextual.com/tecnologia/samsung-galaxy-smarttag-3-diseno-parecido-airtag/
+🗓️ 2026-09-11 • 🏷️ hipertextual.com
