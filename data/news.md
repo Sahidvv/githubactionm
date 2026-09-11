@@ -7099,3 +7099,9 @@ https://hipertextual.com/mobile/instagram-fotos-etiquetadas-perfil-grid/
 Samsung se prepara para actualizar los Galaxy SmartTag con un modelo de tercera generación. La firma coreana va a cambiar el diseño del dispositivo una vez más, adoptando una estética más parecida a la de los AirTag de Apple a partir de los…
 https://hipertextual.com/tecnologia/samsung-galaxy-smarttag-3-diseno-parecido-airtag/
 🗓️ 2026-09-11 • 🏷️ hipertextual.com
+
+### 2026-09-11T21:32:57.697Z
+📰 El creador de &#8216;VisionQuest&#8217; explica por qué Ultrón aparece en forma humana: «No es por presupuesto»
+VisionQuest promete ser una propuesta interesante para expandir el arco argumental de Visión tras los eventos de Avengers: Infinity (2018) y WandaVision (2021). Además, todo apunta a que será la última serie live-action del Universo Cinemat…
+https://hipertextual.com/cine-television/creador-visionquest-james-spader-ultron-forma-humana/
+🗓️ 2026-09-11 • 🏷️ hipertextual.com
