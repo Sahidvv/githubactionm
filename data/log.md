@@ -6312,3 +6312,19 @@ https://www.muycomputer.com/2026/09/10/apple-watch-series-12-y-ultra-4-cuando-me
 🗓️ 2026-09-09 • 🏷️ muycomputer.com
 
 ---
+## 2026-09-11
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Lo nuevo de Instagram te deja subir a tu perfil las fotos en las que te etiquetan
+Instagram ha lanzado una nueva función que te permitirá añadir las fotos en las que apareces etiquetado directamente a tu perfil. Ahora, los usuarios podrán añadir a la cuadrícula cualquier foto que haya tomado otra persona, lo que evitará …
+https://hipertextual.com/mobile/instagram-fotos-etiquetadas-perfil-grid/
+🗓️ 2026-09-10 • 🏷️ hipertextual.com
+
+---

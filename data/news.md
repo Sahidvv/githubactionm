@@ -7087,3 +7087,9 @@ https://hipertextual.com/tecnologia/iphone-18-17/
 El principal comité internacional de expertos en IA, reunido por la ONU, ha alertado de que la posibilidad de que la IA se salga de control es real y de "consecuencias catastróficas"Anthropic asegura que ha detenido varios intentos de crear…
 https://www.eldiario.es/tecnologia/ia-perder-control-amenazar-humanidad-dicen-mayores-expertos-mundo_1_13499280.html
 🗓️ 2026-09-10 • 🏷️ eldiario.es
+
+### 2026-09-11T05:38:52.253Z
+📰 Lo nuevo de Instagram te deja subir a tu perfil las fotos en las que te etiquetan
+Instagram ha lanzado una nueva función que te permitirá añadir las fotos en las que apareces etiquetado directamente a tu perfil. Ahora, los usuarios podrán añadir a la cuadrícula cualquier foto que haya tomado otra persona, lo que evitará …
+https://hipertextual.com/mobile/instagram-fotos-etiquetadas-perfil-grid/
+🗓️ 2026-09-10 • 🏷️ hipertextual.com
