@@ -7111,3 +7111,9 @@ https://hipertextual.com/cine-television/creador-visionquest-james-spader-ultron
 Meta ha filtrado sus próximas gafas de realidad aumentada. La última actualización del firmware de Horizon OS incluye imágenes que muestran el diseño de Project Phoenix, un visor premium de realidad aumentada que prepara la compañía. La fil…
 https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-especificaciones/
 🗓️ 2026-09-11 • 🏷️ hipertextual.com
+
+### 2026-09-12T16:01:02.633Z
+📰 Esta herramienta te ayuda a desarrollar apps de Windows en 30 minutos (y es gratis)
+Microsoft ha publicado una guía que cambia las reglas del juego para quienes quieren programar aplicaciones nativas de Windows 11. Como parte de su estrategia para mejorar el sistema operativo, la compañía lanzó un documento que explica cóm…
+https://hipertextual.com/inteligencia-artificial/windows11-apps-nativas-ia/
+🗓️ 2026-09-12 • 🏷️ hipertextual.com
