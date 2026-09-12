@@ -7117,3 +7117,9 @@ https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-espec
 Microsoft ha publicado una guía que cambia las reglas del juego para quienes quieren programar aplicaciones nativas de Windows 11. Como parte de su estrategia para mejorar el sistema operativo, la compañía lanzó un documento que explica cóm…
 https://hipertextual.com/inteligencia-artificial/windows11-apps-nativas-ia/
 🗓️ 2026-09-12 • 🏷️ hipertextual.com
+
+### 2026-09-12T21:15:10.941Z
+📰 La carrera no acaba en la IA: la inversión en cuántica se dispara un 500% en otra pugna clave entre EEUU, Europa y China
+En medio del debate sobre el desarrollo de la inteligencia artificial, gobiernos y empresas aceleran sus apuestas por la computación cuántica, otra tecnología que podría revolucionar la ciencia y romper la seguridad informática global ¿Pued…
+https://www.eldiario.es/tecnologia/carrera-no-acaba-ia-inversion-cuantica-dispara-500-pugna-clave-eeuu-europa-china_1_13492155.html
+🗓️ 2026-09-12 • 🏷️ eldiario.es
