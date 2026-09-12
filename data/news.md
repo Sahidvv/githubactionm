@@ -7105,3 +7105,9 @@ https://hipertextual.com/tecnologia/samsung-galaxy-smarttag-3-diseno-parecido-ai
 VisionQuest promete ser una propuesta interesante para expandir el arco argumental de Visión tras los eventos de Avengers: Infinity (2018) y WandaVision (2021). Además, todo apunta a que será la última serie live-action del Universo Cinemat…
 https://hipertextual.com/cine-television/creador-visionquest-james-spader-ultron-forma-humana/
 🗓️ 2026-09-11 • 🏷️ hipertextual.com
+
+### 2026-09-12T05:26:13.455Z
+📰 Meta filtra por error sus nuevas gafas de realidad mixta que sustituirán al Quest Pro
+Meta ha filtrado sus próximas gafas de realidad aumentada. La última actualización del firmware de Horizon OS incluye imágenes que muestran el diseño de Project Phoenix, un visor premium de realidad aumentada que prepara la compañía. La fil…
+https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-especificaciones/
+🗓️ 2026-09-11 • 🏷️ hipertextual.com

@@ -6328,3 +6328,19 @@ https://hipertextual.com/mobile/instagram-fotos-etiquetadas-perfil-grid/
 🗓️ 2026-09-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-12
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Meta filtra por error sus nuevas gafas de realidad mixta que sustituirán al Quest Pro
+Meta ha filtrado sus próximas gafas de realidad aumentada. La última actualización del firmware de Horizon OS incluye imágenes que muestran el diseño de Project Phoenix, un visor premium de realidad aumentada que prepara la compañía. La fil…
+https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-especificaciones/
+🗓️ 2026-09-11 • 🏷️ hipertextual.com
+
+---
