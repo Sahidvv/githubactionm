@@ -7135,3 +7135,9 @@ https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza
 IBM y NASA han presentado el NASA-IBM Lunar Foundation Model, un modelo fundacional de código abierto diseñado específicamente para trabajar con la enorme cantidad de información científica acumulada sobre la Luna durante décadas. La idea n…
 https://www.muycomputer.com/2026/09/13/ibm-y-nasa-lanzan-una-ia-abierta-para-explorar-la-luna/
 🗓️ 2026-09-13 • 🏷️ muycomputer.com
+
+### 2026-09-13T21:15:17.278Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXXXXI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Linux contra Windows 11: ¿realmente es más rápido? …
+https://www.muycomputer.com/2026/09/13/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxxi/
+🗓️ 2026-09-13 • 🏷️ muycomputer.com
