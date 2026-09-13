@@ -7129,3 +7129,9 @@ https://www.eldiario.es/tecnologia/carrera-no-acaba-ia-inversion-cuantica-dispar
 La concienciación de los extraordinarios peligros de la tecnología espolea un creciente y multifacético movimiento de oposición y sabotaje contra ella
 https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza.html
 🗓️ 2026-09-13 • 🏷️ elpais.com
+
+### 2026-09-13T16:51:06.411Z
+📰 IBM y NASA lanzan una IA abierta para explorar la Luna
+IBM y NASA han presentado el NASA-IBM Lunar Foundation Model, un modelo fundacional de código abierto diseñado específicamente para trabajar con la enorme cantidad de información científica acumulada sobre la Luna durante décadas. La idea n…
+https://www.muycomputer.com/2026/09/13/ibm-y-nasa-lanzan-una-ia-abierta-para-explorar-la-luna/
+🗓️ 2026-09-13 • 🏷️ muycomputer.com
