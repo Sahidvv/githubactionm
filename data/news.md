@@ -7123,3 +7123,9 @@ https://hipertextual.com/inteligencia-artificial/windows11-apps-nativas-ia/
 En medio del debate sobre el desarrollo de la inteligencia artificial, gobiernos y empresas aceleran sus apuestas por la computación cuántica, otra tecnología que podría revolucionar la ciencia y romper la seguridad informática global ¿Pued…
 https://www.eldiario.es/tecnologia/carrera-no-acaba-ia-inversion-cuantica-dispara-500-pugna-clave-eeuu-europa-china_1_13492155.html
 🗓️ 2026-09-12 • 🏷️ eldiario.es
+
+### 2026-09-13T05:42:14.385Z
+📰 La resistencia contra la IA gana fuerza
+La concienciación de los extraordinarios peligros de la tecnología espolea un creciente y multifacético movimiento de oposición y sabotaje contra ella
+https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza.html
+🗓️ 2026-09-13 • 🏷️ elpais.com

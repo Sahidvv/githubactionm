@@ -6344,3 +6344,19 @@ https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-espec
 🗓️ 2026-09-11 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-13
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La resistencia contra la IA gana fuerza
+La concienciación de los extraordinarios peligros de la tecnología espolea un creciente y multifacético movimiento de oposición y sabotaje contra ella
+https://elpais.com/tecnologia/2026-09-13/la-resistencia-contra-la-ia-gana-fuerza.html
+🗓️ 2026-09-13 • 🏷️ elpais.com
+
+---
