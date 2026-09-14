@@ -7153,3 +7153,9 @@ https://elpais.com/educacion/2026-09-14/la-pantalla-mato-la-comprension-lectora-
 Tras la presentación de los iPhone 18 Pro y el iPhone Duo, Apple ha cumplido con su promesa y acaba de lanzar la actualización a iOS 27. Desde ahora, puedes instalar la versión estable del nuevo sistema operativo en cualquier iPhone compati…
 https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/
 🗓️ 2026-09-14 • 🏷️ hipertextual.com
+
+### 2026-09-14T22:17:03.192Z
+📰 Microsoft confirma que esta versión de Office dejará de funcionar en un mes
+Si todavía usas Office 2021 en tu ordenador, es momento de pensar en el reemplazo. Microsoft confirmó que esta versión de la suite ofimática dejará de recibir soporte en unas cuantas semanas. La compañía ya envió avisos a los usuarios para …
+https://hipertextual.com/software/office-2021-fin-de-soporte-octubre-2026/
+🗓️ 2026-09-14 • 🏷️ hipertextual.com
