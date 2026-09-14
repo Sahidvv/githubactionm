@@ -7147,3 +7147,9 @@ https://www.muycomputer.com/2026/09/13/los-mejores-contenidos-de-la-semana-en-mu
 El informe PISA es el canario en la mina de la falta de atención y concentración, pero no le pasa solo a los adolescentes
 https://elpais.com/educacion/2026-09-14/la-pantalla-mato-la-comprension-lectora-como-el-cerebro-se-esta-adaptando-a-un-entorno-digital.html
 🗓️ 2026-09-14 • 🏷️ elpais.com
+
+### 2026-09-14T18:21:43.511Z
+📰 iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles
+Tras la presentación de los iPhone 18 Pro y el iPhone Duo, Apple ha cumplido con su promesa y acaba de lanzar la actualización a iOS 27. Desde ahora, puedes instalar la versión estable del nuevo sistema operativo en cualquier iPhone compati…
+https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/
+🗓️ 2026-09-14 • 🏷️ hipertextual.com
