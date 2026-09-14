@@ -7141,3 +7141,9 @@ https://www.muycomputer.com/2026/09/13/ibm-y-nasa-lanzan-una-ia-abierta-para-exp
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Linux contra Windows 11: ¿realmente es más rápido? …
 https://www.muycomputer.com/2026/09/13/los-mejores-contenidos-de-la-semana-en-muycomputer-dxxxxi/
 🗓️ 2026-09-13 • 🏷️ muycomputer.com
+
+### 2026-09-14T05:51:47.348Z
+📰 La pantalla mató la comprensión lectora: cómo el cerebro se está adaptando a un entorno digital
+El informe PISA es el canario en la mina de la falta de atención y concentración, pero no le pasa solo a los adolescentes
+https://elpais.com/educacion/2026-09-14/la-pantalla-mato-la-comprension-lectora-como-el-cerebro-se-esta-adaptando-a-un-entorno-digital.html
+🗓️ 2026-09-14 • 🏷️ elpais.com
