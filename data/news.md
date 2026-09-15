@@ -7159,3 +7159,9 @@ https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphon
 Si todavía usas Office 2021 en tu ordenador, es momento de pensar en el reemplazo. Microsoft confirmó que esta versión de la suite ofimática dejará de recibir soporte en unas cuantas semanas. La compañía ya envió avisos a los usuarios para …
 https://hipertextual.com/software/office-2021-fin-de-soporte-octubre-2026/
 🗓️ 2026-09-14 • 🏷️ hipertextual.com
+
+### 2026-09-15T05:54:14.267Z
+📰 EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica
+Las dos grandes potencias exhiben su enfrentamiento por el futuro de la inteligencia artificial al estallar el debate sobre cómo regularla para evitar escenarios catastróficos
+https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-por-la-ia-del-miedo-al-apocalipsis-a-la-guerra-fria-tecnologica.html
+🗓️ 2026-09-15 • 🏷️ elpais.com

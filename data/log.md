@@ -6376,3 +6376,19 @@ https://elpais.com/educacion/2026-09-14/la-pantalla-mato-la-comprension-lectora-
 🗓️ 2026-09-14 • 🏷️ elpais.com
 
 ---
+## 2026-09-15
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica
+Las dos grandes potencias exhiben su enfrentamiento por el futuro de la inteligencia artificial al estallar el debate sobre cómo regularla para evitar escenarios catastróficos
+https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-por-la-ia-del-miedo-al-apocalipsis-a-la-guerra-fria-tecnologica.html
+🗓️ 2026-09-15 • 🏷️ elpais.com
+
+---
