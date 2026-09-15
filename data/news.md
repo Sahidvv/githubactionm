@@ -7171,3 +7171,9 @@ https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-po
 Hay juegos que llegan al mercado con una identidad técnica ya completamente definida y otros que siguen creciendo después de su estreno, incorporando mejoras capaces de cambiar de forma apreciable cómo se ven y cómo se sienten. Y 007 First …
 https://www.muycomputer.com/2026/09/15/007-first-light-estrena-path-tracing-y-dlss-4-5-ray-reconstruction/
 🗓️ 2026-09-15 • 🏷️ muycomputer.com
+
+### 2026-09-15T21:55:52.440Z
+📰 Gemini Notebook (NotebookLM) suma una de las funciones más útiles para estudiar
+Gemini Notebook ha lanzado una actualización que mejora el estudio con la inteligencia artificial. La aplicación, anteriormente conocida como NotebookLM, añadió nuevas herramientas para las sesiones de repaso, las cuales ayudarán a entender…
+https://hipertextual.com/inteligencia-artificial/gemini-notebook-nuevas-funciones-notebooklm/
+🗓️ 2026-09-15 • 🏷️ hipertextual.com
