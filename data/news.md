@@ -7165,3 +7165,9 @@ https://hipertextual.com/software/office-2021-fin-de-soporte-octubre-2026/
 Las dos grandes potencias exhiben su enfrentamiento por el futuro de la inteligencia artificial al estallar el debate sobre cómo regularla para evitar escenarios catastróficos
 https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-por-la-ia-del-miedo-al-apocalipsis-a-la-guerra-fria-tecnologica.html
 🗓️ 2026-09-15 • 🏷️ elpais.com
+
+### 2026-09-15T17:29:28.185Z
+📰 007 First Light estrena path tracing y DLSS 4.5 Ray Reconstruction
+Hay juegos que llegan al mercado con una identidad técnica ya completamente definida y otros que siguen creciendo después de su estreno, incorporando mejoras capaces de cambiar de forma apreciable cómo se ven y cómo se sienten. Y 007 First …
+https://www.muycomputer.com/2026/09/15/007-first-light-estrena-path-tracing-y-dlss-4-5-ray-reconstruction/
+🗓️ 2026-09-15 • 🏷️ muycomputer.com
