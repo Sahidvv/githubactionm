@@ -7189,3 +7189,9 @@ https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-la
 Optimizar un juego suele tener algo de trabajo artesanal: bajar una opción, probar otra, vigilar temperaturas, revisar el consumo y repetir hasta encontrar el punto en el que calidad y rendimiento dejan de pelearse entre sí. DeepSeek introd…
 https://www.muycomputer.com/2026/09/16/deepseek-logra-un-50-mas-de-fps-en-resident-evil-7/
 🗓️ 2026-09-16 • 🏷️ muycomputer.com
+
+### 2026-09-16T21:55:58.418Z
+📰 ¿Revive el Xserve? Apple volvería a fabricar servidores para aprovechar el furor por la IA
+Apple podría volver a fabricar servidores para terceros, aprovechando el furor por la inteligencia artificial generativa. Según reporta The Information, los de Cupertino verían con buenos ojos la posibilidad de regresar al mercado de hardwa…
+https://hipertextual.com/apple/xserve-apple-podria-volver-a-fabricar-servidores-ia/
+🗓️ 2026-09-16 • 🏷️ hipertextual.com
