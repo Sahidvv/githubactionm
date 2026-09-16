@@ -7177,3 +7177,9 @@ https://www.muycomputer.com/2026/09/15/007-first-light-estrena-path-tracing-y-dl
 Gemini Notebook ha lanzado una actualización que mejora el estudio con la inteligencia artificial. La aplicación, anteriormente conocida como NotebookLM, añadió nuevas herramientas para las sesiones de repaso, las cuales ayudarán a entender…
 https://hipertextual.com/inteligencia-artificial/gemini-notebook-nuevas-funciones-notebooklm/
 🗓️ 2026-09-15 • 🏷️ hipertextual.com
+
+### 2026-09-16T05:40:19.406Z
+📰 Los planes para restringir el uso de las redes a los menores, país por país
+Francia, España e Italia son tres de los Estados de la UE con propuestas para limitar el uso de las plataformas digitales según la edad
+https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-las-redes-a-los-menores-pais-por-pais.html
+🗓️ 2026-09-16 • 🏷️ elpais.com

@@ -6392,3 +6392,19 @@ https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-po
 🗓️ 2026-09-15 • 🏷️ elpais.com
 
 ---
+## 2026-09-16
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Los planes para restringir el uso de las redes a los menores, país por país
+Francia, España e Italia son tres de los Estados de la UE con propuestas para limitar el uso de las plataformas digitales según la edad
+https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-las-redes-a-los-menores-pais-por-pais.html
+🗓️ 2026-09-16 • 🏷️ elpais.com
+
+---
