@@ -7183,3 +7183,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-notebook-nuevas-funcione
 Francia, España e Italia son tres de los Estados de la UE con propuestas para limitar el uso de las plataformas digitales según la edad
 https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-las-redes-a-los-menores-pais-por-pais.html
 🗓️ 2026-09-16 • 🏷️ elpais.com
+
+### 2026-09-16T17:29:35.064Z
+📰 DeepSeek logra un 50% más de FPS en Resident Evil 7
+Optimizar un juego suele tener algo de trabajo artesanal: bajar una opción, probar otra, vigilar temperaturas, revisar el consumo y repetir hasta encontrar el punto en el que calidad y rendimiento dejan de pelearse entre sí. DeepSeek introd…
+https://www.muycomputer.com/2026/09/16/deepseek-logra-un-50-mas-de-fps-en-resident-evil-7/
+🗓️ 2026-09-16 • 🏷️ muycomputer.com
