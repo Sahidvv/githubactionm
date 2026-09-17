@@ -7207,3 +7207,9 @@ https://elpais.com/tecnologia/2026-09-17/asi-podria-secuestrar-internet-un-enjam
 Que Bungie está pasando por uno de los momentos más complejos de su historia, no es novedad. Tras la conclusión de Destiny 2 y con Marathon sin despegar del todo, los rumores sobre el futuro del estudio que pertenece a PlayStation suelen es…
 https://hipertextual.com/videojuegos/bungie-desmiente-los-rumores-no-piensa-fusionar-destiny-y-marathon/
 🗓️ 2026-09-17 • 🏷️ hipertextual.com
+
+### 2026-09-17T21:55:59.127Z
+📰 Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos”
+El economista y autor de 'Por qué fracasan los países' dice que las empresas tecnológicas están desarrollando la IA de una manera que puede destruir empleo, crear desigualdad y dividir aún más a las sociedades. Su nuevo libro sobre la crisi…
+https://www.eldiario.es/tecnologia/daron-acemoglu-nobel-economia-debate-amenaza-existencial-ia-esconde-riesgos-inmediatos_1_13517771.html
+🗓️ 2026-09-17 • 🏷️ eldiario.es
