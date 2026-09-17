@@ -6408,3 +6408,19 @@ https://elpais.com/tecnologia/2026-09-16/los-planes-para-restringir-el-uso-de-la
 🗓️ 2026-09-16 • 🏷️ elpais.com
 
 ---
+## 2026-09-17
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Así podría secuestrar internet un enjambre de agentes de IA: “Tardaríamos unos añitos en arreglarlo todo”
+El jefe de Anthropic teme uno de los escenarios de caos más probables y cercanos: un ataque informático de miles de agentes que paralizaría una parte de la red
+https://elpais.com/tecnologia/2026-09-17/asi-podria-secuestrar-internet-un-enjambre-de-agentes-de-ia-tardariamos-unos-anitos-en-arreglarlo-todo.html
+🗓️ 2026-09-17 • 🏷️ elpais.com
+
+---

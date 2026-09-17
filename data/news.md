@@ -7195,3 +7195,9 @@ https://www.muycomputer.com/2026/09/16/deepseek-logra-un-50-mas-de-fps-en-reside
 Apple podría volver a fabricar servidores para terceros, aprovechando el furor por la inteligencia artificial generativa. Según reporta The Information, los de Cupertino verían con buenos ojos la posibilidad de regresar al mercado de hardwa…
 https://hipertextual.com/apple/xserve-apple-podria-volver-a-fabricar-servidores-ia/
 🗓️ 2026-09-16 • 🏷️ hipertextual.com
+
+### 2026-09-17T05:48:55.435Z
+📰 Así podría secuestrar internet un enjambre de agentes de IA: “Tardaríamos unos añitos en arreglarlo todo”
+El jefe de Anthropic teme uno de los escenarios de caos más probables y cercanos: un ataque informático de miles de agentes que paralizaría una parte de la red
+https://elpais.com/tecnologia/2026-09-17/asi-podria-secuestrar-internet-un-enjambre-de-agentes-de-ia-tardariamos-unos-anitos-en-arreglarlo-todo.html
+🗓️ 2026-09-17 • 🏷️ elpais.com
