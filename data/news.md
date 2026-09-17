@@ -7201,3 +7201,9 @@ https://hipertextual.com/apple/xserve-apple-podria-volver-a-fabricar-servidores-
 El jefe de Anthropic teme uno de los escenarios de caos más probables y cercanos: un ataque informático de miles de agentes que paralizaría una parte de la red
 https://elpais.com/tecnologia/2026-09-17/asi-podria-secuestrar-internet-un-enjambre-de-agentes-de-ia-tardariamos-unos-anitos-en-arreglarlo-todo.html
 🗓️ 2026-09-17 • 🏷️ elpais.com
+
+### 2026-09-17T17:29:51.892Z
+📰 Bungie desmiente los rumores: no piensa fusionar &#8216;Destiny&#8217; y &#8216;Marathon&#8217;
+Que Bungie está pasando por uno de los momentos más complejos de su historia, no es novedad. Tras la conclusión de Destiny 2 y con Marathon sin despegar del todo, los rumores sobre el futuro del estudio que pertenece a PlayStation suelen es…
+https://hipertextual.com/videojuegos/bungie-desmiente-los-rumores-no-piensa-fusionar-destiny-y-marathon/
+🗓️ 2026-09-17 • 🏷️ hipertextual.com
