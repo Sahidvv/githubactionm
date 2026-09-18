@@ -6424,3 +6424,19 @@ https://elpais.com/tecnologia/2026-09-17/asi-podria-secuestrar-internet-un-enjam
 🗓️ 2026-09-17 • 🏷️ elpais.com
 
 ---
+## 2026-09-18
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La IA no "se rebela": qué hay realmente detrás de los últimos incidentes de OpenAI
+Analistas independientes que han revisado los incidentes señalados por OpenAI concluyen que sus modelos no se rebelaron contra sus creadores, sino que obedecieron instrucciones mal definidas hasta sus últimas consecuencias OpenAI desvela nu…
+https://www.eldiario.es/tecnologia/ia-no-rebela-hay-realmente-detras-ultimos-incidentes-openai_1_13517071.html
+🗓️ 2026-09-17 • 🏷️ eldiario.es
+
+---

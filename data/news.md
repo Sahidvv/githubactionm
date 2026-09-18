@@ -7213,3 +7213,9 @@ https://hipertextual.com/videojuegos/bungie-desmiente-los-rumores-no-piensa-fusi
 El economista y autor de 'Por qué fracasan los países' dice que las empresas tecnológicas están desarrollando la IA de una manera que puede destruir empleo, crear desigualdad y dividir aún más a las sociedades. Su nuevo libro sobre la crisi…
 https://www.eldiario.es/tecnologia/daron-acemoglu-nobel-economia-debate-amenaza-existencial-ia-esconde-riesgos-inmediatos_1_13517771.html
 🗓️ 2026-09-17 • 🏷️ eldiario.es
+
+### 2026-09-18T05:35:04.254Z
+📰 La IA no "se rebela": qué hay realmente detrás de los últimos incidentes de OpenAI
+Analistas independientes que han revisado los incidentes señalados por OpenAI concluyen que sus modelos no se rebelaron contra sus creadores, sino que obedecieron instrucciones mal definidas hasta sus últimas consecuencias OpenAI desvela nu…
+https://www.eldiario.es/tecnologia/ia-no-rebela-hay-realmente-detras-ultimos-incidentes-openai_1_13517071.html
+🗓️ 2026-09-17 • 🏷️ eldiario.es
