@@ -7219,3 +7219,9 @@ https://www.eldiario.es/tecnologia/daron-acemoglu-nobel-economia-debate-amenaza-
 Analistas independientes que han revisado los incidentes señalados por OpenAI concluyen que sus modelos no se rebelaron contra sus creadores, sino que obedecieron instrucciones mal definidas hasta sus últimas consecuencias OpenAI desvela nu…
 https://www.eldiario.es/tecnologia/ia-no-rebela-hay-realmente-detras-ultimos-incidentes-openai_1_13517071.html
 🗓️ 2026-09-17 • 🏷️ eldiario.es
+
+### 2026-09-18T16:57:33.664Z
+📰 El CEO de Twitch se va de lengua y revela cuándo se lanza el multijugador de &#8216;GTA 6&#8217;
+Faltan apenas dos meses para el lanzamiento de GTA 6 y la expectación de todos van en franco ascenso. Tras el vistazo extendido que se difundió a finales de agosto, los fanáticos están tachando los días para por fin poner sus manos sobre el…
+https://hipertextual.com/videojuegos/ceo-twitch-lanzamiento-multijugador-gta-6-2027/
+🗓️ 2026-09-18 • 🏷️ hipertextual.com
