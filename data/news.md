@@ -7225,3 +7225,9 @@ https://www.eldiario.es/tecnologia/ia-no-rebela-hay-realmente-detras-ultimos-inc
 Faltan apenas dos meses para el lanzamiento de GTA 6 y la expectación de todos van en franco ascenso. Tras el vistazo extendido que se difundió a finales de agosto, los fanáticos están tachando los días para por fin poner sus manos sobre el…
 https://hipertextual.com/videojuegos/ceo-twitch-lanzamiento-multijugador-gta-6-2027/
 🗓️ 2026-09-18 • 🏷️ hipertextual.com
+
+### 2026-09-18T21:26:26.744Z
+📰 Es oficial: &#8216;Guerra Mundial Z&#8217; tendrá secuela con el regreso de Brad Pitt
+Guerra Mundial Z, la película de zombies de 2013, finalmente tendrá una secuela con el regreso de Brad Pitt en el rol protagónico. Según reportan Deadline y Variety, Paramount ha llegado a un acuerdo con el actor para volver a liderar el el…
+https://hipertextual.com/cine-television/guerra-mundial-z-secuela-brad-pitt-edward-berger/
+🗓️ 2026-09-18 • 🏷️ hipertextual.com
