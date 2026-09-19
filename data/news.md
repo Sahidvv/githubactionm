@@ -7237,3 +7237,9 @@ https://hipertextual.com/cine-television/guerra-mundial-z-secuela-brad-pitt-edwa
 La resolución de uno de un reto matemático por OpenAI da alas a la sospecha de que estas herramientas podrían estar extrayendo información, según los expertos
 https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-demostrar-al-100-pero-es-logico-pensar-que-si.html
 🗓️ 2026-09-19 • 🏷️ elpais.com
+
+### 2026-09-19T16:16:14.665Z
+📰 GrapheneOS dispara contra Google por restringir funciones de Android 17: ¿Qué está pasando?
+GrapheneOS se ha convertido en la solución ideal para quienes desean tener una experiencia enfocada en la privacidad al usar un móvil. El sistema operativo basado en Android está vitaminado con una gran cantidad de funciones pensadas en pro…
+https://hipertextual.com/mobile/grapheneos-critica-google-api-android-17/
+🗓️ 2026-09-19 • 🏷️ hipertextual.com
