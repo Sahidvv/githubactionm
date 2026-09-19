@@ -6440,3 +6440,19 @@ https://www.eldiario.es/tecnologia/ia-no-rebela-hay-realmente-detras-ultimos-inc
 🗓️ 2026-09-17 • 🏷️ eldiario.es
 
 ---
+## 2026-09-19
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ¿Nos roba la IA las ideas? “No se puede demostrar al 100%, pero es lógico pensar que sí”
+La resolución de uno de un reto matemático por OpenAI da alas a la sospecha de que estas herramientas podrían estar extrayendo información, según los expertos
+https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-demostrar-al-100-pero-es-logico-pensar-que-si.html
+🗓️ 2026-09-19 • 🏷️ elpais.com
+
+---

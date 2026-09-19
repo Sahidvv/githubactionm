@@ -7231,3 +7231,9 @@ https://hipertextual.com/videojuegos/ceo-twitch-lanzamiento-multijugador-gta-6-2
 Guerra Mundial Z, la película de zombies de 2013, finalmente tendrá una secuela con el regreso de Brad Pitt en el rol protagónico. Según reportan Deadline y Variety, Paramount ha llegado a un acuerdo con el actor para volver a liderar el el…
 https://hipertextual.com/cine-television/guerra-mundial-z-secuela-brad-pitt-edward-berger/
 🗓️ 2026-09-18 • 🏷️ hipertextual.com
+
+### 2026-09-19T05:30:51.784Z
+📰 ¿Nos roba la IA las ideas? “No se puede demostrar al 100%, pero es lógico pensar que sí”
+La resolución de uno de un reto matemático por OpenAI da alas a la sospecha de que estas herramientas podrían estar extrayendo información, según los expertos
+https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-demostrar-al-100-pero-es-logico-pensar-que-si.html
+🗓️ 2026-09-19 • 🏷️ elpais.com
