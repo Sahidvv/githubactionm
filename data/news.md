@@ -7243,3 +7243,9 @@ https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-de
 GrapheneOS se ha convertido en la solución ideal para quienes desean tener una experiencia enfocada en la privacidad al usar un móvil. El sistema operativo basado en Android está vitaminado con una gran cantidad de funciones pensadas en pro…
 https://hipertextual.com/mobile/grapheneos-critica-google-api-android-17/
 🗓️ 2026-09-19 • 🏷️ hipertextual.com
+
+### 2026-09-19T21:19:12.029Z
+📰 El ‘freno’ a la IA amenaza al salvavidas billonario de la economía mundial tras los aranceles y la guerra de Trump en Irán
+Una economía "colgada de un chip" hace que la potencial ralentización de las inversiones tecnológicas, que este año podrían superar el billón de dólares, sea un asunto clave para la estabilidad financiera globalEl 'freno' para la IA rompe S…
+https://www.eldiario.es/economia/freno-ia-amenaza-salvavidas-billonario-economia-mundial-aranceles-guerra-trump-iran_1_13520395.html
+🗓️ 2026-09-19 • 🏷️ eldiario.es
