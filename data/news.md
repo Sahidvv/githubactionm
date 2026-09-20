@@ -7261,3 +7261,9 @@ https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-x
 Cuando hablamos de TMOG a finales de julio, el proyecto tenía un componente casi nostálgico: Dave Plummer, creador del Administrador de tareas original de Windows, estaba reconstruyendo aquella filosofía para macOS porque echaba de menos un…
 https://www.muycomputer.com/2026/09/20/tmog-ya-no-es-solo-para-mac-llega-tambien-a-windows-y-linux/
 🗓️ 2026-09-20 • 🏷️ muycomputer.com
+
+### 2026-09-20T21:11:29.238Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXLII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Diablo V ya es oficial y llegará antes de lo espera…
+https://www.muycomputer.com/2026/09/20/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlii/
+🗓️ 2026-09-20 • 🏷️ muycomputer.com
