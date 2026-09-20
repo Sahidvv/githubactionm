@@ -7255,3 +7255,9 @@ https://www.eldiario.es/economia/freno-ia-amenaza-salvavidas-billonario-economia
 La mayoría de los chinos considera excitantes los productos de esta tecnología, mientras más de la mitad de los estadounidenses teme que destruya la humanidad
 https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-xi-afronta-la-ia-con-mentalidades-opuestas-en-china-y-ee-uu.html
 🗓️ 2026-09-20 • 🏷️ elpais.com
+
+### 2026-09-20T16:41:53.264Z
+📰 TMOG ya no es solo para Mac: llega también a Windows y Linux
+Cuando hablamos de TMOG a finales de julio, el proyecto tenía un componente casi nostálgico: Dave Plummer, creador del Administrador de tareas original de Windows, estaba reconstruyendo aquella filosofía para macOS porque echaba de menos un…
+https://www.muycomputer.com/2026/09/20/tmog-ya-no-es-solo-para-mac-llega-tambien-a-windows-y-linux/
+🗓️ 2026-09-20 • 🏷️ muycomputer.com
