@@ -7249,3 +7249,9 @@ https://hipertextual.com/mobile/grapheneos-critica-google-api-android-17/
 Una economía "colgada de un chip" hace que la potencial ralentización de las inversiones tecnológicas, que este año podrían superar el billón de dólares, sea un asunto clave para la estabilidad financiera globalEl 'freno' para la IA rompe S…
 https://www.eldiario.es/economia/freno-ia-amenaza-salvavidas-billonario-economia-mundial-aranceles-guerra-trump-iran_1_13520395.html
 🗓️ 2026-09-19 • 🏷️ eldiario.es
+
+### 2026-09-20T05:46:58.251Z
+📰 Tú la temes, yo la amo: la cumbre Trump-XI afronta la IA con mentalidades opuestas en China y EE UU
+La mayoría de los chinos considera excitantes los productos de esta tecnología, mientras más de la mitad de los estadounidenses teme que destruya la humanidad
+https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-xi-afronta-la-ia-con-mentalidades-opuestas-en-china-y-ee-uu.html
+🗓️ 2026-09-20 • 🏷️ elpais.com

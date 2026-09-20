@@ -6456,3 +6456,19 @@ https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-de
 🗓️ 2026-09-19 • 🏷️ elpais.com
 
 ---
+## 2026-09-20
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Tú la temes, yo la amo: la cumbre Trump-XI afronta la IA con mentalidades opuestas en China y EE UU
+La mayoría de los chinos considera excitantes los productos de esta tecnología, mientras más de la mitad de los estadounidenses teme que destruya la humanidad
+https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-xi-afronta-la-ia-con-mentalidades-opuestas-en-china-y-ee-uu.html
+🗓️ 2026-09-20 • 🏷️ elpais.com
+
+---
