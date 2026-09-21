@@ -6472,3 +6472,19 @@ https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-x
 🗓️ 2026-09-20 • 🏷️ elpais.com
 
 ---
+## 2026-09-21
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos
+El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios
+https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html
+🗓️ 2026-09-21 • 🏷️ elpais.com
+
+---

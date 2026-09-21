@@ -7267,3 +7267,9 @@ https://www.muycomputer.com/2026/09/20/tmog-ya-no-es-solo-para-mac-llega-tambien
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Diablo V ya es oficial y llegará antes de lo espera…
 https://www.muycomputer.com/2026/09/20/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlii/
 🗓️ 2026-09-20 • 🏷️ muycomputer.com
+
+### 2026-09-21T05:56:17.078Z
+📰 Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos
+El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios
+https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html
+🗓️ 2026-09-21 • 🏷️ elpais.com
