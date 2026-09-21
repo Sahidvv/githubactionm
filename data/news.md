@@ -7279,3 +7279,9 @@ https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-gran
 Roborock quiere que te olvides de la fregona de una vez por todas y para ello ha lanzado una actualización a su línea de robots aspiradores y aspiradoras de mano. A unos meses de presentarlos en IFA 2026, estos dispositivos cubren todo el e…
 https://hipertextual.com/tecnologia/roborock-nuevos-robots-aspiradores-espana/
 🗓️ 2026-09-21 • 🏷️ hipertextual.com
+
+### 2026-09-21T22:27:40.913Z
+📰 El Xiaomi 18 Pro copia (y mejora) la función más útil del Galaxy S26 Ultra
+Xiaomi se ha copiado una de las mejores funciones del Galaxy S26 Ultra. Tal y como se había anticipado a comienzos de año, el fabricante chino desarrolló una alternativa a la pantalla de privacidad que oscurece el panel del móvil para ocult…
+https://hipertextual.com/mobile/xiaomi-18-pro-pantalla-privacidad-samsung/
+🗓️ 2026-09-21 • 🏷️ hipertextual.com
