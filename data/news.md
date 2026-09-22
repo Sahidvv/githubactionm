@@ -7291,3 +7291,9 @@ https://hipertextual.com/mobile/xiaomi-18-pro-pantalla-privacidad-samsung/
 Los avances en esta tecnología pueden reorientarse y ajustarse para responder a necesidades concretas de la población, en lugar de aspirar a ser modelos que lo hagan todo
 https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-rumbo.html
 🗓️ 2026-09-22 • 🏷️ elpais.com
+
+### 2026-09-22T17:31:54.307Z
+📰 KIOXIA EXCERIA G3 lleva los 10 GB/s a la gama mainstream
+PCIe 5.0 lleva tiempo demostrando hasta dónde puede llegar el almacenamiento en un PC moderno, pero quizá el paso más interesante no sea seguir elevando el techo de rendimiento, sino conseguir que esas prestaciones lleguen a productos desti…
+https://www.muycomputer.com/2026/09/22/kioxia-exceria-g3-lleva-los-10-gb-s-a-la-gama-mainstream/
+🗓️ 2026-09-22 • 🏷️ muycomputer.com
