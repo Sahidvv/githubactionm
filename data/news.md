@@ -7285,3 +7285,9 @@ https://hipertextual.com/tecnologia/roborock-nuevos-robots-aspiradores-espana/
 Xiaomi se ha copiado una de las mejores funciones del Galaxy S26 Ultra. Tal y como se había anticipado a comienzos de año, el fabricante chino desarrolló una alternativa a la pantalla de privacidad que oscurece el panel del móvil para ocult…
 https://hipertextual.com/mobile/xiaomi-18-pro-pantalla-privacidad-samsung/
 🗓️ 2026-09-21 • 🏷️ hipertextual.com
+
+### 2026-09-22T05:53:24.546Z
+📰 La IA no necesita frenos, necesita otro rumbo
+Los avances en esta tecnología pueden reorientarse y ajustarse para responder a necesidades concretas de la población, en lugar de aspirar a ser modelos que lo hagan todo
+https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-rumbo.html
+🗓️ 2026-09-22 • 🏷️ elpais.com

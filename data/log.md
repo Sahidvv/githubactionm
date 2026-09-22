@@ -6488,3 +6488,19 @@ https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-gran
 🗓️ 2026-09-21 • 🏷️ elpais.com
 
 ---
+## 2026-09-22
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 La IA no necesita frenos, necesita otro rumbo
+Los avances en esta tecnología pueden reorientarse y ajustarse para responder a necesidades concretas de la población, en lugar de aspirar a ser modelos que lo hagan todo
+https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-rumbo.html
+🗓️ 2026-09-22 • 🏷️ elpais.com
+
+---
