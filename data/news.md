@@ -7297,3 +7297,9 @@ https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-
 PCIe 5.0 lleva tiempo demostrando hasta dónde puede llegar el almacenamiento en un PC moderno, pero quizá el paso más interesante no sea seguir elevando el techo de rendimiento, sino conseguir que esas prestaciones lleguen a productos desti…
 https://www.muycomputer.com/2026/09/22/kioxia-exceria-g3-lleva-los-10-gb-s-a-la-gama-mainstream/
 🗓️ 2026-09-22 • 🏷️ muycomputer.com
+
+### 2026-09-22T21:48:36.358Z
+📰 OpenAI lanza GPT-6 Sol y Luna, con varias de las mejoras de Astra pero más eficientes y baratos
+Tras el debut de Astra, OpenAI ha decidido expandir la familia de GPT-6 con el debut de dos nuevas variantes: Sol y Luna. En este caso, se trata de modelos de lenguaje que heredan varios de los puntos fuertes de la IA insignia de la compañí…
+https://hipertextual.com/inteligencia-artificial/gpt-6-sol-y-luna-gran-rendimiento-a-precios-mas-asequibles/
+🗓️ 2026-09-22 • 🏷️ hipertextual.com
