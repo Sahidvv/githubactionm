@@ -7315,3 +7315,9 @@ https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-
 YouTube sigue sumando actualizaciones para mejorar la experiencia a la hora de mirar videos y escuchar música. La compañía presentó un cúmulo de funciones impulsadas por IA durante su evento Made on YouTube, entre las que destaca una que te…
 https://hipertextual.com/internet/youtube-custom-feeds-algoritmo-ia/
 🗓️ 2026-09-23 • 🏷️ hipertextual.com
+
+### 2026-09-23T22:05:24.070Z
+📰 ChatGPT Voice da un salto y ahora puede manejar tu correo y tu agenda mientras hablas
+ChatGPT está a nada de convertirse en Samantha, la asistente de voz que interpretó Scarlett Johansson en Her. OpenAI lanzó una actualización en todas las plataformas que unifica las funciones de texto, voz y trabajo agéntico en una sola exp…
+https://hipertextual.com/inteligencia-artificial/chatgpt-voice-actualizacion-plugins-correo-calendario-slack/
+🗓️ 2026-09-23 • 🏷️ hipertextual.com
