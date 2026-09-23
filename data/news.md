@@ -7309,3 +7309,9 @@ https://hipertextual.com/inteligencia-artificial/gpt-6-sol-y-luna-gran-rendimien
 El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial
 https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-pero-no-es-el-que-te-estan-contando.html
 🗓️ 2026-09-23 • 🏷️ elpais.com
+
+### 2026-09-23T17:44:12.745Z
+📰 YouTube por fin te permitirá personalizar el algoritmo para controlar lo que ves
+YouTube sigue sumando actualizaciones para mejorar la experiencia a la hora de mirar videos y escuchar música. La compañía presentó un cúmulo de funciones impulsadas por IA durante su evento Made on YouTube, entre las que destaca una que te…
+https://hipertextual.com/internet/youtube-custom-feeds-algoritmo-ia/
+🗓️ 2026-09-23 • 🏷️ hipertextual.com
