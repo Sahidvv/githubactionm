@@ -6504,3 +6504,19 @@ https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-
 🗓️ 2026-09-22 • 🏷️ elpais.com
 
 ---
+## 2026-09-23
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El apocalipsis de la IA ya ha empezado (pero no es el que te están contando)
+El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial
+https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-pero-no-es-el-que-te-estan-contando.html
+🗓️ 2026-09-23 • 🏷️ elpais.com
+
+---

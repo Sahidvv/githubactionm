@@ -7303,3 +7303,9 @@ https://www.muycomputer.com/2026/09/22/kioxia-exceria-g3-lleva-los-10-gb-s-a-la-
 Tras el debut de Astra, OpenAI ha decidido expandir la familia de GPT-6 con el debut de dos nuevas variantes: Sol y Luna. En este caso, se trata de modelos de lenguaje que heredan varios de los puntos fuertes de la IA insignia de la compañí…
 https://hipertextual.com/inteligencia-artificial/gpt-6-sol-y-luna-gran-rendimiento-a-precios-mas-asequibles/
 🗓️ 2026-09-22 • 🏷️ hipertextual.com
+
+### 2026-09-23T05:32:57.885Z
+📰 El apocalipsis de la IA ya ha empezado (pero no es el que te están contando)
+El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial
+https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-pero-no-es-el-que-te-estan-contando.html
+🗓️ 2026-09-23 • 🏷️ elpais.com
