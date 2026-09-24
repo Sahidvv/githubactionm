@@ -7327,3 +7327,9 @@ https://hipertextual.com/inteligencia-artificial/chatgpt-voice-actualizacion-plu
 Este programa ha provocado un revuelo literario en Francia tras usarse para identificar como artificial un libro de éxito
 https://elpais.com/tecnologia/2026-09-24/puede-una-ia-desenmascarar-a-otra-pangram-una-herramienta-casi-infalible-para-detectar-textos-y-novelas-creadas-por-maquinas.html
 🗓️ 2026-09-24 • 🏷️ elpais.com
+
+### 2026-09-24T17:45:27.387Z
+📰 &#8216;La Bola Negra&#8217; (★★★★☆), los Javis invocan a Lorca y sueñan con hacer historia en los Oscar
+Por fin llega a los cines la película española más esperada del año, La Bola Negra de Javier Calvo y Javier Ambrossi. Los cineastas responsables de éxitos como Paquita Salas, La Llamada, La Mesías o Veneno, se lanzan ahora con un auténtico …
+https://hipertextual.com/cine-television/la-bola-negra-critica/
+🗓️ 2026-09-24 • 🏷️ hipertextual.com
