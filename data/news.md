@@ -7333,3 +7333,9 @@ https://elpais.com/tecnologia/2026-09-24/puede-una-ia-desenmascarar-a-otra-pangr
 Por fin llega a los cines la película española más esperada del año, La Bola Negra de Javier Calvo y Javier Ambrossi. Los cineastas responsables de éxitos como Paquita Salas, La Llamada, La Mesías o Veneno, se lanzan ahora con un auténtico …
 https://hipertextual.com/cine-television/la-bola-negra-critica/
 🗓️ 2026-09-24 • 🏷️ hipertextual.com
+
+### 2026-09-24T22:01:05.305Z
+📰 Bob Chapek dispara contra Bob Iger y lo acusa de una «campaña implacable» para forzar su salida de Disney
+Bob Chapek, quien fue CEO de Disney entre febrero de 2020 y noviembre de 2022, disparó munición pesada contra Bob Iger, a quien señaló como autor de una "campaña implacable" de tres años para forzar su despido de la compañía. La acusación l…
+https://hipertextual.com/economia-empresas/bob-chapek-dispara-bob-iger-despido-ceo-disney/
+🗓️ 2026-09-24 • 🏷️ hipertextual.com
