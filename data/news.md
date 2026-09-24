@@ -7321,3 +7321,9 @@ https://hipertextual.com/internet/youtube-custom-feeds-algoritmo-ia/
 ChatGPT está a nada de convertirse en Samantha, la asistente de voz que interpretó Scarlett Johansson en Her. OpenAI lanzó una actualización en todas las plataformas que unifica las funciones de texto, voz y trabajo agéntico en una sola exp…
 https://hipertextual.com/inteligencia-artificial/chatgpt-voice-actualizacion-plugins-correo-calendario-slack/
 🗓️ 2026-09-23 • 🏷️ hipertextual.com
+
+### 2026-09-24T05:53:24.154Z
+📰 ¿Puede una IA desenmascarar a otra? Pangram, una herramienta casi infalible para detectar textos y novelas creadas por máquinas
+Este programa ha provocado un revuelo literario en Francia tras usarse para identificar como artificial un libro de éxito
+https://elpais.com/tecnologia/2026-09-24/puede-una-ia-desenmascarar-a-otra-pangram-una-herramienta-casi-infalible-para-detectar-textos-y-novelas-creadas-por-maquinas.html
+🗓️ 2026-09-24 • 🏷️ elpais.com

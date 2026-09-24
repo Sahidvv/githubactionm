@@ -6520,3 +6520,19 @@ https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-
 🗓️ 2026-09-23 • 🏷️ elpais.com
 
 ---
+## 2026-09-24
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 ¿Puede una IA desenmascarar a otra? Pangram, una herramienta casi infalible para detectar textos y novelas creadas por máquinas
+Este programa ha provocado un revuelo literario en Francia tras usarse para identificar como artificial un libro de éxito
+https://elpais.com/tecnologia/2026-09-24/puede-una-ia-desenmascarar-a-otra-pangram-una-herramienta-casi-infalible-para-detectar-textos-y-novelas-creadas-por-maquinas.html
+🗓️ 2026-09-24 • 🏷️ elpais.com
+
+---
