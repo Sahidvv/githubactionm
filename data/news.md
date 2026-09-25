@@ -7339,3 +7339,9 @@ https://hipertextual.com/cine-television/la-bola-negra-critica/
 Bob Chapek, quien fue CEO de Disney entre febrero de 2020 y noviembre de 2022, disparó munición pesada contra Bob Iger, a quien señaló como autor de una "campaña implacable" de tres años para forzar su despido de la compañía. La acusación l…
 https://hipertextual.com/economia-empresas/bob-chapek-dispara-bob-iger-despido-ceo-disney/
 🗓️ 2026-09-24 • 🏷️ hipertextual.com
+
+### 2026-09-25T05:54:05.926Z
+📰 OpenAI dejó vía libre a su IA para hackear a gobiernos y universidades durante meses
+Sus agentes recurrieron al hackeo para completar búsquedas de datos "rutinarias", sin que su programación los frenara ni los trabajadores de la compañía lo detectaranLa IA no “se rebela”: qué hay realmente detrás de los últimos incidentes d…
+https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-universidades-durante-meses_1_13534624.html
+🗓️ 2026-09-24 • 🏷️ eldiario.es

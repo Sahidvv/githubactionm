@@ -6536,3 +6536,19 @@ https://elpais.com/tecnologia/2026-09-24/puede-una-ia-desenmascarar-a-otra-pangr
 🗓️ 2026-09-24 • 🏷️ elpais.com
 
 ---
+## 2026-09-25
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 OpenAI dejó vía libre a su IA para hackear a gobiernos y universidades durante meses
+Sus agentes recurrieron al hackeo para completar búsquedas de datos "rutinarias", sin que su programación los frenara ni los trabajadores de la compañía lo detectaranLa IA no “se rebela”: qué hay realmente detrás de los últimos incidentes d…
+https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-universidades-durante-meses_1_13534624.html
+🗓️ 2026-09-24 • 🏷️ eldiario.es
+
+---
