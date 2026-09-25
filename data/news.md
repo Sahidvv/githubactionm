@@ -7345,3 +7345,9 @@ https://hipertextual.com/economia-empresas/bob-chapek-dispara-bob-iger-despido-c
 Sus agentes recurrieron al hackeo para completar búsquedas de datos "rutinarias", sin que su programación los frenara ni los trabajadores de la compañía lo detectaranLa IA no “se rebela”: qué hay realmente detrás de los últimos incidentes d…
 https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-universidades-durante-meses_1_13534624.html
 🗓️ 2026-09-24 • 🏷️ eldiario.es
+
+### 2026-09-25T17:47:16.105Z
+📰 Microsoft mata los portátiles con los que buscaba dominar en la era de la IA
+A dos años de presentarse como el futuro de los ordenadores portátiles, los Copilot+ PC están por desaparecer. Microsoft ha comenzado a eliminar la marca en sus especificaciones y campañas actuales, lo que deja entrever que su muerte está c…
+https://hipertextual.com/inteligencia-artificial/microsoft-abandona-marca-copilot-plus-pc/
+🗓️ 2026-09-25 • 🏷️ hipertextual.com
