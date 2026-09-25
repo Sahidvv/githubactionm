@@ -7351,3 +7351,9 @@ https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-un
 A dos años de presentarse como el futuro de los ordenadores portátiles, los Copilot+ PC están por desaparecer. Microsoft ha comenzado a eliminar la marca en sus especificaciones y campañas actuales, lo que deja entrever que su muerte está c…
 https://hipertextual.com/inteligencia-artificial/microsoft-abandona-marca-copilot-plus-pc/
 🗓️ 2026-09-25 • 🏷️ hipertextual.com
+
+### 2026-09-25T21:59:48.487Z
+📰 Olvídate de Android 17: Motorola actualizará uno de sus móviles a un sistema más seguro (y gratis)
+Motorola está tomando una eternidad para actualizar sus móviles a Android 17, pero esa no es la única versión del sistema operativo de Google que prepara. Hace unos meses, el fabricante cerró un acuerdo con GrapheneOS, una alternativa segur…
+https://hipertextual.com/mobile/grapheneos-motorola-signature-27-primer-movil/
+🗓️ 2026-09-25 • 🏷️ hipertextual.com
