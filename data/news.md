@@ -7369,3 +7369,9 @@ https://hipertextual.com/inteligencia-artificial/nvidia-jensen-huang-cerrar-labo
 GTA 6 avanza a paso firme en la cuenta regresiva final hacia su lanzamiento el próximo 19 de noviembre. La expectación por disfrutar del nuevo videojuego de Rockstar Games es tan alta que todos esperan que derive en situaciones insólitas; p…
 https://hipertextual.com/videojuegos/gta-6-impacto-nba-deportes-steven-adams/
 🗓️ 2026-09-26 • 🏷️ hipertextual.com
+
+### 2026-09-26T21:52:32.851Z
+📰 El filósofo que asesora a la ONU sobre la IA: "La inmensa mayoría saldrá perdiendo si no actuamos ya"
+"Debemos recuperar el control, pero no frente a la IA, sino frente a los tech bros", pide el reputado filósofo de la tecnología, miembro del comité de 40 expertos internacionales reclutados por Naciones Unidas para aconsejar al mundo sobre …
+https://www.eldiario.es/tecnologia/filosofo-asesora-onu-ia-inmensa-mayoria-saldra-perdiendo-si-no-actuamos_128_13537795.html
+🗓️ 2026-09-26 • 🏷️ eldiario.es
