@@ -6552,3 +6552,19 @@ https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-un
 🗓️ 2026-09-24 • 🏷️ eldiario.es
 
 ---
+## 2026-09-26
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 El jefe de NVIDIA no se anda con rodeos: si la IA no se controla, se apaga
+Jensen Huang cree que si OpenAI no puede controlar lo que hacen sus modelos de inteligencia artificial, debería cerrar sus puertas. El CEO de NVIDIA habló de uno de los temas que más inquieta a la industria tecnológica, luego de que se cono…
+https://hipertextual.com/inteligencia-artificial/nvidia-jensen-huang-cerrar-laboratorios-ia-openai/
+🗓️ 2026-09-25 • 🏷️ hipertextual.com
+
+---

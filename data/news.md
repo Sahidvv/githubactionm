@@ -7357,3 +7357,9 @@ https://hipertextual.com/inteligencia-artificial/microsoft-abandona-marca-copilo
 Motorola está tomando una eternidad para actualizar sus móviles a Android 17, pero esa no es la única versión del sistema operativo de Google que prepara. Hace unos meses, el fabricante cerró un acuerdo con GrapheneOS, una alternativa segur…
 https://hipertextual.com/mobile/grapheneos-motorola-signature-27-primer-movil/
 🗓️ 2026-09-25 • 🏷️ hipertextual.com
+
+### 2026-09-26T05:54:32.625Z
+📰 El jefe de NVIDIA no se anda con rodeos: si la IA no se controla, se apaga
+Jensen Huang cree que si OpenAI no puede controlar lo que hacen sus modelos de inteligencia artificial, debería cerrar sus puertas. El CEO de NVIDIA habló de uno de los temas que más inquieta a la industria tecnológica, luego de que se cono…
+https://hipertextual.com/inteligencia-artificial/nvidia-jensen-huang-cerrar-laboratorios-ia-openai/
+🗓️ 2026-09-25 • 🏷️ hipertextual.com
