@@ -7363,3 +7363,9 @@ https://hipertextual.com/mobile/grapheneos-motorola-signature-27-primer-movil/
 Jensen Huang cree que si OpenAI no puede controlar lo que hacen sus modelos de inteligencia artificial, debería cerrar sus puertas. El CEO de NVIDIA habló de uno de los temas que más inquieta a la industria tecnológica, luego de que se cono…
 https://hipertextual.com/inteligencia-artificial/nvidia-jensen-huang-cerrar-laboratorios-ia-openai/
 🗓️ 2026-09-25 • 🏷️ hipertextual.com
+
+### 2026-09-26T16:52:50.664Z
+📰 El insólito impacto que tendrá ‘GTA 6’ en los deportes, según esta estrella de la NBA
+GTA 6 avanza a paso firme en la cuenta regresiva final hacia su lanzamiento el próximo 19 de noviembre. La expectación por disfrutar del nuevo videojuego de Rockstar Games es tan alta que todos esperan que derive en situaciones insólitas; p…
+https://hipertextual.com/videojuegos/gta-6-impacto-nba-deportes-steven-adams/
+🗓️ 2026-09-26 • 🏷️ hipertextual.com
