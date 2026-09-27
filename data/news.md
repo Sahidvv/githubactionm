@@ -7381,3 +7381,9 @@ https://www.eldiario.es/tecnologia/filosofo-asesora-onu-ia-inmensa-mayoria-saldr
 Un estudio con cientos de miles de discos duros ha puesto en duda la creencia sobre cuánto duran estos dispositivos. La investigación, publicada en arXiv, analiza diferencias de fiabilidad en cuatro de los fabricantes más populares y desmie…
 https://hipertextual.com/hardware/estudio-vida-util-discos-duros-fiabilidad/
 🗓️ 2026-09-26 • 🏷️ hipertextual.com
+
+### 2026-09-27T17:33:00.672Z
+📰 7 películas de ciencia ficción que debes ver sí o sí
+El cine de ciencia ficción es quizás el que permite analizar la evolución del séptimo arte con mayor claridad. No solo por ser una mirada interesante a lo que nuestra cultura imagina para el futuro o escenarios tecnológicos asombrosos. Tamb…
+https://hipertextual.com/cine-television/7-peliculas-de-ciencia-ficcion-que-debes-ver-si-o-si/
+🗓️ 2026-09-27 • 🏷️ hipertextual.com
