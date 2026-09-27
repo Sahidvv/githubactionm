@@ -7375,3 +7375,9 @@ https://hipertextual.com/videojuegos/gta-6-impacto-nba-deportes-steven-adams/
 "Debemos recuperar el control, pero no frente a la IA, sino frente a los tech bros", pide el reputado filósofo de la tecnología, miembro del comité de 40 expertos internacionales reclutados por Naciones Unidas para aconsejar al mundo sobre …
 https://www.eldiario.es/tecnologia/filosofo-asesora-onu-ia-inmensa-mayoria-saldra-perdiendo-si-no-actuamos_128_13537795.html
 🗓️ 2026-09-26 • 🏷️ eldiario.es
+
+### 2026-09-27T06:20:03.710Z
+📰 Un estudio ha descubierto cuánto duran los discos duros y qué marca falla primero
+Un estudio con cientos de miles de discos duros ha puesto en duda la creencia sobre cuánto duran estos dispositivos. La investigación, publicada en arXiv, analiza diferencias de fiabilidad en cuatro de los fabricantes más populares y desmie…
+https://hipertextual.com/hardware/estudio-vida-util-discos-duros-fiabilidad/
+🗓️ 2026-09-26 • 🏷️ hipertextual.com

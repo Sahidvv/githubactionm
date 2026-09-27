@@ -6568,3 +6568,19 @@ https://hipertextual.com/inteligencia-artificial/nvidia-jensen-huang-cerrar-labo
 🗓️ 2026-09-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-27
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Un estudio ha descubierto cuánto duran los discos duros y qué marca falla primero
+Un estudio con cientos de miles de discos duros ha puesto en duda la creencia sobre cuánto duran estos dispositivos. La investigación, publicada en arXiv, analiza diferencias de fiabilidad en cuatro de los fabricantes más populares y desmie…
+https://hipertextual.com/hardware/estudio-vida-util-discos-duros-fiabilidad/
+🗓️ 2026-09-26 • 🏷️ hipertextual.com
+
+---
