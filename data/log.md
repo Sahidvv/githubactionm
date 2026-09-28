@@ -6584,3 +6584,19 @@ https://hipertextual.com/hardware/estudio-vida-util-discos-duros-fiabilidad/
 🗓️ 2026-09-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-09-28
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 MSI cree que AMD AM4 es una buena solución contra el MEMOpocalipsis
+MSI ha ampliado su catálogo de placas base para AMD AM4 con tres nuevos modelos (PRO B550M WIFI6E, PRO B550-S y B550-S WIFI6E) que usan el chipset B550, se entregan en formatos ATX y microATX y permiten instalar procesadores Ryzen de las se…
+https://www.muycomputer.com/2026/09/28/msi-cree-que-amd-am4-es-una-buena-solucion-contra-el-memopocalipsis/
+🗓️ 2026-09-28 • 🏷️ muycomputer.com
+
+---

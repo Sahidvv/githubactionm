@@ -7393,3 +7393,9 @@ https://hipertextual.com/cine-television/7-peliculas-de-ciencia-ficcion-que-debe
 El mercado de robots aspiradores está repleto de alternativas, pero no todas aciertan en los tres puntos claves que buscan los usuarios: que limpien bien, que sean inteligentes y que tengan un precio asequible. Sin embargo, existen un nuevo…
 https://hipertextual.com/ofertas-descuentos/nuevo-lefant-m5-pro/
 🗓️ 2026-09-27 • 🏷️ hipertextual.com
+
+### 2026-09-28T06:21:14.264Z
+📰 MSI cree que AMD AM4 es una buena solución contra el MEMOpocalipsis
+MSI ha ampliado su catálogo de placas base para AMD AM4 con tres nuevos modelos (PRO B550M WIFI6E, PRO B550-S y B550-S WIFI6E) que usan el chipset B550, se entregan en formatos ATX y microATX y permiten instalar procesadores Ryzen de las se…
+https://www.muycomputer.com/2026/09/28/msi-cree-que-amd-am4-es-una-buena-solucion-contra-el-memopocalipsis/
+🗓️ 2026-09-28 • 🏷️ muycomputer.com
