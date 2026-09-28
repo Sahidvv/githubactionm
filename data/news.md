@@ -7399,3 +7399,9 @@ https://hipertextual.com/ofertas-descuentos/nuevo-lefant-m5-pro/
 MSI ha ampliado su catálogo de placas base para AMD AM4 con tres nuevos modelos (PRO B550M WIFI6E, PRO B550-S y B550-S WIFI6E) que usan el chipset B550, se entregan en formatos ATX y microATX y permiten instalar procesadores Ryzen de las se…
 https://www.muycomputer.com/2026/09/28/msi-cree-que-amd-am4-es-una-buena-solucion-contra-el-memopocalipsis/
 🗓️ 2026-09-28 • 🏷️ muycomputer.com
+
+### 2026-09-28T20:00:26.564Z
+📰 El iPhone Duo esconde cinco funciones que Apple no ha querido enseñar todavía
+Los plegables han tardado años en convencer a los usuarios más exigentes, pero Apple no quiere que esa tendencia se mantenga. A unas semanas de su presentación oficial, el iPhone Duo todavía esconde algunas sorpresas que podrían colocarlo c…
+https://hipertextual.com/apple/iphone-duo-nuevas-funciones-standby-modelos-futuros/
+🗓️ 2026-09-28 • 🏷️ hipertextual.com
