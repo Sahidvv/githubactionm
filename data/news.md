@@ -7411,3 +7411,9 @@ https://hipertextual.com/apple/iphone-duo-nuevas-funciones-standby-modelos-futur
 La compañía de Sam Altman asegura que su nuevo modelo “mostró mayores niveles de engaño” y la de Dario Amodei advierte de peligros “existenciales” en su folleto de la salida a Bolsa
 https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problemas-de-seguridad-y-anthropic-alerta-de-riesgos-catastroficos-para-la-humanidad.html
 🗓️ 2026-09-29 • 🏷️ elpais.com
+
+### 2026-09-29T18:28:11.707Z
+📰 Apple quiere lanzar productos todo el año y su nuevo CEO ya tiene un plan para lograrlo
+Una de las cosas que caracteriza a Apple es que siempre llega tarde a la fiesta cuando de nuevos productos o tecnologías se trata. Los de Cupertino nunca son los primeros, pero esos años de retraso se traducen en una mejor experiencia cuand…
+https://hipertextual.com/apple/apple-planea-lanzamientos-todo-el-2027-ceo-john-ternus/
+🗓️ 2026-09-29 • 🏷️ hipertextual.com
