@@ -7405,3 +7405,9 @@ https://www.muycomputer.com/2026/09/28/msi-cree-que-amd-am4-es-una-buena-solucio
 Los plegables han tardado años en convencer a los usuarios más exigentes, pero Apple no quiere que esa tendencia se mantenga. A unas semanas de su presentación oficial, el iPhone Duo todavía esconde algunas sorpresas que podrían colocarlo c…
 https://hipertextual.com/apple/iphone-duo-nuevas-funciones-standby-modelos-futuros/
 🗓️ 2026-09-28 • 🏷️ hipertextual.com
+
+### 2026-09-29T06:36:47.410Z
+📰 OpenAI retrasa su nueva IA por problemas de seguridad y Anthropic alerta de riesgos “catastróficos para la humanidad”
+La compañía de Sam Altman asegura que su nuevo modelo “mostró mayores niveles de engaño” y la de Dario Amodei advierte de peligros “existenciales” en su folleto de la salida a Bolsa
+https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problemas-de-seguridad-y-anthropic-alerta-de-riesgos-catastroficos-para-la-humanidad.html
+🗓️ 2026-09-29 • 🏷️ elpais.com

@@ -6600,3 +6600,19 @@ https://www.muycomputer.com/2026/09/28/msi-cree-que-amd-am4-es-una-buena-solucio
 🗓️ 2026-09-28 • 🏷️ muycomputer.com
 
 ---
+## 2026-09-29
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 OpenAI retrasa su nueva IA por problemas de seguridad y Anthropic alerta de riesgos “catastróficos para la humanidad”
+La compañía de Sam Altman asegura que su nuevo modelo “mostró mayores niveles de engaño” y la de Dario Amodei advierte de peligros “existenciales” en su folleto de la salida a Bolsa
+https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problemas-de-seguridad-y-anthropic-alerta-de-riesgos-catastroficos-para-la-humanidad.html
+🗓️ 2026-09-29 • 🏷️ elpais.com
+
+---
