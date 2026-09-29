@@ -7417,3 +7417,9 @@ https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problema
 Una de las cosas que caracteriza a Apple es que siempre llega tarde a la fiesta cuando de nuevos productos o tecnologías se trata. Los de Cupertino nunca son los primeros, pero esos años de retraso se traducen en una mejor experiencia cuand…
 https://hipertextual.com/apple/apple-planea-lanzamientos-todo-el-2027-ceo-john-ternus/
 🗓️ 2026-09-29 • 🏷️ hipertextual.com
+
+### 2026-09-29T22:50:51.741Z
+📰 La NASA podría resucitar el SR-71 Blackbird: el avión más rápido de la historia
+La NASA podría traer de vuelta uno de los aviones más emblemáticos de Estados Unidos. Un reporte afirma que la agencia espacial reiniciará el programa del Lockheed SR-71, uno de los aviones furtivos más rápidos de la década de 1960. La NASA…
+https://hipertextual.com/aviacion/nasa-sr-71-blackbird-regreso-vuelo/
+🗓️ 2026-09-29 • 🏷️ hipertextual.com
