@@ -7423,3 +7423,9 @@ https://hipertextual.com/apple/apple-planea-lanzamientos-todo-el-2027-ceo-john-t
 La NASA podría traer de vuelta uno de los aviones más emblemáticos de Estados Unidos. Un reporte afirma que la agencia espacial reiniciará el programa del Lockheed SR-71, uno de los aviones furtivos más rápidos de la década de 1960. La NASA…
 https://hipertextual.com/aviacion/nasa-sr-71-blackbird-regreso-vuelo/
 🗓️ 2026-09-29 • 🏷️ hipertextual.com
+
+### 2026-09-30T06:19:21.810Z
+📰 Sony exige 60 horas de juego para comprar una PlayStation 5 Pro en Japón
+Comprar una consola debería ser tan sencillo como encontrar una unidad disponible, pasar por caja y llevársela a casa. Los últimos años, sin embargo, nos han demostrado en más de una ocasión que las circunstancias del mercado pueden complic…
+https://www.muycomputer.com/2026/09/30/sony-exige-60-horas-de-juego-para-comprar-una-playstation-5-pro-en-japon/
+🗓️ 2026-09-30 • 🏷️ muycomputer.com

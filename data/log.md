@@ -6616,3 +6616,19 @@ https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problema
 🗓️ 2026-09-29 • 🏷️ elpais.com
 
 ---
+## 2026-09-30
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Sony exige 60 horas de juego para comprar una PlayStation 5 Pro en Japón
+Comprar una consola debería ser tan sencillo como encontrar una unidad disponible, pasar por caja y llevársela a casa. Los últimos años, sin embargo, nos han demostrado en más de una ocasión que las circunstancias del mercado pueden complic…
+https://www.muycomputer.com/2026/09/30/sony-exige-60-horas-de-juego-para-comprar-una-playstation-5-pro-en-japon/
+🗓️ 2026-09-30 • 🏷️ muycomputer.com
+
+---
