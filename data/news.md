@@ -7429,3 +7429,9 @@ https://hipertextual.com/aviacion/nasa-sr-71-blackbird-regreso-vuelo/
 Comprar una consola debería ser tan sencillo como encontrar una unidad disponible, pasar por caja y llevársela a casa. Los últimos años, sin embargo, nos han demostrado en más de una ocasión que las circunstancias del mercado pueden complic…
 https://www.muycomputer.com/2026/09/30/sony-exige-60-horas-de-juego-para-comprar-una-playstation-5-pro-en-japon/
 🗓️ 2026-09-30 • 🏷️ muycomputer.com
+
+### 2026-09-30T18:17:10.566Z
+📰 Instagram lanza una IA que mejora tus vídeos y te ayuda a ganar más seguidores
+La IA llegó desde hace un tiempo a las herramientas de edición de video y las redes sociales compiten por ver quién la integra mejor. Siguiendo los pasos de CapCut, Instagram anunció que su herramienta Edits integrará un asistente para mejo…
+https://hipertextual.com/internet/asistente-ia-edits-instagram-videos/
+🗓️ 2026-09-30 • 🏷️ hipertextual.com
