@@ -7447,3 +7447,9 @@ https://hipertextual.com/tecnologia/fire-tv-stick-4k-caracteristicas-mando-preci
 Samsung ha anunciado el lanzamiento de las Galaxy Tab S12, nueva generación de las tabletas electrónicas de gama alta y máxima competencia a las iPad Pro de Apple que dominan el segmento, que llegan al mercado en dos variantes (Plus y Ultra…
 https://www.muycomputer.com/2026/10/01/samsung-presenta-sus-nuevos-tablets-de-gama-alta-galaxy-tab-s12/
 🗓️ 2026-10-01 • 🏷️ muycomputer.com
+
+### 2026-10-01T18:42:27.820Z
+📰 Las mejores ofertas de las Rebajas de Otoño de Steam 2026
+Las grandes rebajas de Steam plantean siempre el mismo pequeño problema: hay tantos juegos con descuentos importantes que resulta muy fácil fijarse más en el porcentaje que en lo que realmente estamos comprando. Un 80% puede esconder un pre…
+https://www.muycomputer.com/2026/10/01/las-mejores-ofertas-de-las-rebajas-de-otono-de-steam-2026/
+🗓️ 2026-10-01 • 🏷️ muycomputer.com
