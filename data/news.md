@@ -7453,3 +7453,9 @@ https://www.muycomputer.com/2026/10/01/samsung-presenta-sus-nuevos-tablets-de-ga
 Las grandes rebajas de Steam plantean siempre el mismo pequeño problema: hay tantos juegos con descuentos importantes que resulta muy fácil fijarse más en el porcentaje que en lo que realmente estamos comprando. Un 80% puede esconder un pre…
 https://www.muycomputer.com/2026/10/01/las-mejores-ofertas-de-las-rebajas-de-otono-de-steam-2026/
 🗓️ 2026-10-01 • 🏷️ muycomputer.com
+
+### 2026-10-01T23:00:32.132Z
+📰 Sony lanza QSSR, un nuevo sistema de escalado con IA para la PS5 basado en tecnología de la PS6
+Sony acaba de lanzar una nueva tecnología de escalado de gráficos con IA desarrollada junto a AMD, exclusiva de la PS5. Se trata de Quick Spectral Super Resolution (QSSR), un sistema similar al PSSR de la PS5 Pro, pero adaptado a las capaci…
+https://hipertextual.com/videojuegos/ps5-qssr-escalado-con-ia-basada-tecnologia-ps6/
+🗓️ 2026-10-01 • 🏷️ hipertextual.com
