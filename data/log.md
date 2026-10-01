@@ -6632,3 +6632,19 @@ https://www.muycomputer.com/2026/09/30/sony-exige-60-horas-de-juego-para-comprar
 🗓️ 2026-09-30 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-01
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Samsung presenta sus nuevos tablets de gama alta, Galaxy Tab S12
+Samsung ha anunciado el lanzamiento de las Galaxy Tab S12, nueva generación de las tabletas electrónicas de gama alta y máxima competencia a las iPad Pro de Apple que dominan el segmento, que llegan al mercado en dos variantes (Plus y Ultra…
+https://www.muycomputer.com/2026/10/01/samsung-presenta-sus-nuevos-tablets-de-gama-alta-galaxy-tab-s12/
+🗓️ 2026-10-01 • 🏷️ muycomputer.com
+
+---
