@@ -7465,3 +7465,9 @@ https://hipertextual.com/videojuegos/ps5-qssr-escalado-con-ia-basada-tecnologia-
 Linux es una parte fundamental del desarrollo moderno y los usuarios de Windows suelen recurrir a aplicaciones externas para empezar. Ahora, Microsoft quiere facilitar la tarea con el lanzamiento de los contenedores Linux en Windows a travé…
 https://www.muycomputerpro.com/2026/10/02/los-contenedores-linux-llegan-a-windows-a-traves-del-wsl
 🗓️ 2026-10-02 • 🏷️ muycomputerpro.com
+
+### 2026-10-02T18:13:28.067Z
+📰 No eres tú: al Papa León XIV tampoco le gustan las imágenes generadas por IA
+Si estás cansado de las imágenes generadas por IA, no eres el único. Esta moda está colmando la paciencia de muchos, incluida la del Papa León XIV. El máximo jerarca de la Iglesia católica expresó que es necesario distinguir el arte humano …
+https://hipertextual.com/inteligencia-artificial/papa-leon-xiv-critica-imagenes-generadas-ia/
+🗓️ 2026-10-02 • 🏷️ hipertextual.com
