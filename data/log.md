@@ -6648,3 +6648,19 @@ https://www.muycomputer.com/2026/10/01/samsung-presenta-sus-nuevos-tablets-de-ga
 🗓️ 2026-10-01 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-02
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Los contenedores Linux llegan a Windows a través del WSL
+Linux es una parte fundamental del desarrollo moderno y los usuarios de Windows suelen recurrir a aplicaciones externas para empezar. Ahora, Microsoft quiere facilitar la tarea con el lanzamiento de los contenedores Linux en Windows a travé…
+https://www.muycomputerpro.com/2026/10/02/los-contenedores-linux-llegan-a-windows-a-traves-del-wsl
+🗓️ 2026-10-02 • 🏷️ muycomputerpro.com
+
+---

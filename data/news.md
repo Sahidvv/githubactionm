@@ -7459,3 +7459,9 @@ https://www.muycomputer.com/2026/10/01/las-mejores-ofertas-de-las-rebajas-de-oto
 Sony acaba de lanzar una nueva tecnología de escalado de gráficos con IA desarrollada junto a AMD, exclusiva de la PS5. Se trata de Quick Spectral Super Resolution (QSSR), un sistema similar al PSSR de la PS5 Pro, pero adaptado a las capaci…
 https://hipertextual.com/videojuegos/ps5-qssr-escalado-con-ia-basada-tecnologia-ps6/
 🗓️ 2026-10-01 • 🏷️ hipertextual.com
+
+### 2026-10-02T06:45:20.913Z
+📰 Los contenedores Linux llegan a Windows a través del WSL
+Linux es una parte fundamental del desarrollo moderno y los usuarios de Windows suelen recurrir a aplicaciones externas para empezar. Ahora, Microsoft quiere facilitar la tarea con el lanzamiento de los contenedores Linux en Windows a travé…
+https://www.muycomputerpro.com/2026/10/02/los-contenedores-linux-llegan-a-windows-a-traves-del-wsl
+🗓️ 2026-10-02 • 🏷️ muycomputerpro.com
