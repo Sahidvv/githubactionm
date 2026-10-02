@@ -7471,3 +7471,9 @@ https://www.muycomputerpro.com/2026/10/02/los-contenedores-linux-llegan-a-window
 Si estás cansado de las imágenes generadas por IA, no eres el único. Esta moda está colmando la paciencia de muchos, incluida la del Papa León XIV. El máximo jerarca de la Iglesia católica expresó que es necesario distinguir el arte humano …
 https://hipertextual.com/inteligencia-artificial/papa-leon-xiv-critica-imagenes-generadas-ia/
 🗓️ 2026-10-02 • 🏷️ hipertextual.com
+
+### 2026-10-02T22:49:25.714Z
+📰 Este truco te permite instalar y actualizar Windows 11 2026 en ordenadores de hace 20 años
+Una de las decisiones más controvertidas de Windows 11 desde su lanzamiento fue la compatibilidad. Microsoft endureció los requisitos mínimos, dejando fuera millones de ordenadores con procesadores que no pasaban el filtro. Aunque la tecnol…
+https://hipertextual.com/software/instalar-windows-11-26h2-cpus-antiguas-pop42/
+🗓️ 2026-10-02 • 🏷️ hipertextual.com
