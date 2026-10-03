@@ -7489,3 +7489,9 @@ https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-r
 Al este del Edén, lo nuevo de Florence Pugh para Netflix es más que una miniserie intrigante con una antiheroína de cuidado. Que lo es. También, es una nueva visión de un clásico del cine que llega a la plataforma para una nueva audiencia y…
 https://hipertextual.com/cine-television/3-razones-para-ver-al-este-del-eden-lo-nuevo-de-netflix-con-florence-pugh/
 🗓️ 2026-10-03 • 🏷️ hipertextual.com
+
+### 2026-10-03T21:59:45.025Z
+📰 Deja de buscar atajos de teclado en Google: Windows ya trae la solución
+Los atajos de teclado son esenciales para ahorrarnos tiempo todos los días, pero recordarlos cuando trabajas con una docena de programas diferentes resulta casi imposible. Cada aplicación tiene su repertorio de combinaciones y lo más común …
+https://hipertextual.com/software/guia-accesos-directos-powertoys-atajos-teclado/
+🗓️ 2026-10-03 • 🏷️ hipertextual.com
