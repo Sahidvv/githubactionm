@@ -7483,3 +7483,9 @@ https://hipertextual.com/software/instalar-windows-11-26h2-cpus-antiguas-pop42/
 Hartos del postureo, algunos viajeros optan por vivir la experiencia sin editarla mentalmente para una audiencia. Es lo que se conoce como ‘zeroposting’
 https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-redes-el-viaje-vuelve-a-valer-por-si-mismo.html
 🗓️ 2026-10-03 • 🏷️ elpais.com
+
+### 2026-10-03T17:00:17.114Z
+📰 3 razones para ver &#8216;Al este del Edén&#8217;, lo nuevo de Netflix con Florence Pugh
+Al este del Edén, lo nuevo de Florence Pugh para Netflix es más que una miniserie intrigante con una antiheroína de cuidado. Que lo es. También, es una nueva visión de un clásico del cine que llega a la plataforma para una nueva audiencia y…
+https://hipertextual.com/cine-television/3-razones-para-ver-al-este-del-eden-lo-nuevo-de-netflix-con-florence-pugh/
+🗓️ 2026-10-03 • 🏷️ hipertextual.com
