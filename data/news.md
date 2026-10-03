@@ -7477,3 +7477,9 @@ https://hipertextual.com/inteligencia-artificial/papa-leon-xiv-critica-imagenes-
 Una de las decisiones más controvertidas de Windows 11 desde su lanzamiento fue la compatibilidad. Microsoft endureció los requisitos mínimos, dejando fuera millones de ordenadores con procesadores que no pasaban el filtro. Aunque la tecnol…
 https://hipertextual.com/software/instalar-windows-11-26h2-cpus-antiguas-pop42/
 🗓️ 2026-10-02 • 🏷️ hipertextual.com
+
+### 2026-10-03T06:04:45.651Z
+📰 Irse de vacaciones y no subirlo a las redes: “El viaje vuelve a valer por sí mismo”
+Hartos del postureo, algunos viajeros optan por vivir la experiencia sin editarla mentalmente para una audiencia. Es lo que se conoce como ‘zeroposting’
+https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-redes-el-viaje-vuelve-a-valer-por-si-mismo.html
+🗓️ 2026-10-03 • 🏷️ elpais.com

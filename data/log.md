@@ -6664,3 +6664,19 @@ https://www.muycomputerpro.com/2026/10/02/los-contenedores-linux-llegan-a-window
 🗓️ 2026-10-02 • 🏷️ muycomputerpro.com
 
 ---
+## 2026-10-03
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Irse de vacaciones y no subirlo a las redes: “El viaje vuelve a valer por sí mismo”
+Hartos del postureo, algunos viajeros optan por vivir la experiencia sin editarla mentalmente para una audiencia. Es lo que se conoce como ‘zeroposting’
+https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-redes-el-viaje-vuelve-a-valer-por-si-mismo.html
+🗓️ 2026-10-03 • 🏷️ elpais.com
+
+---
