@@ -7495,3 +7495,9 @@ https://hipertextual.com/cine-television/3-razones-para-ver-al-este-del-eden-lo-
 Los atajos de teclado son esenciales para ahorrarnos tiempo todos los días, pero recordarlos cuando trabajas con una docena de programas diferentes resulta casi imposible. Cada aplicación tiene su repertorio de combinaciones y lo más común …
 https://hipertextual.com/software/guia-accesos-directos-powertoys-atajos-teclado/
 🗓️ 2026-10-03 • 🏷️ hipertextual.com
+
+### 2026-10-04T06:38:26.896Z
+📰 &#8216;Uncharted 5&#8217; está en marcha: todo lo que sabemos hasta ahora
+Los fanáticos de las aventuras de Nathan Drake están de parabienes, pues filtraciones recientes afirman que Naughty Dog ya trabaja en Uncharted 5. La próxima entrega de la aclamada saga ya tendría director confirmado y apuntaría a convertir…
+https://hipertextual.com/videojuegos/uncharted-5-todo-lo-que-sabemos/
+🗓️ 2026-10-03 • 🏷️ hipertextual.com

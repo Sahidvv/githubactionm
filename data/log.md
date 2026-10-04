@@ -6680,3 +6680,19 @@ https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-r
 🗓️ 2026-10-03 • 🏷️ elpais.com
 
 ---
+## 2026-10-04
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 &#8216;Uncharted 5&#8217; está en marcha: todo lo que sabemos hasta ahora
+Los fanáticos de las aventuras de Nathan Drake están de parabienes, pues filtraciones recientes afirman que Naughty Dog ya trabaja en Uncharted 5. La próxima entrega de la aclamada saga ya tendría director confirmado y apuntaría a convertir…
+https://hipertextual.com/videojuegos/uncharted-5-todo-lo-que-sabemos/
+🗓️ 2026-10-03 • 🏷️ hipertextual.com
+
+---
