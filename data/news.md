@@ -7501,3 +7501,9 @@ https://hipertextual.com/software/guia-accesos-directos-powertoys-atajos-teclado
 Los fanáticos de las aventuras de Nathan Drake están de parabienes, pues filtraciones recientes afirman que Naughty Dog ya trabaja en Uncharted 5. La próxima entrega de la aclamada saga ya tendría director confirmado y apuntaría a convertir…
 https://hipertextual.com/videojuegos/uncharted-5-todo-lo-que-sabemos/
 🗓️ 2026-10-03 • 🏷️ hipertextual.com
+
+### 2026-10-04T17:19:03.766Z
+📰 7 distopías ambientadas en un futuro que ocurre antes del año 2026
+Si amas la ciencia ficción, lo sabes. El cine distópico traduce las ansiedades colectivas, proyectando futuros sombríos que nacen de los lugares más oscuros del presente. Lejos de ser meras fantasías escapistas, el lado más tenebroso del gé…
+https://hipertextual.com/cine-television/7-distopias-ambientadas-en-un-futuro-que-ocurre-antes-del-ano-2026/
+🗓️ 2026-10-04 • 🏷️ hipertextual.com
