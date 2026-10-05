@@ -7519,3 +7519,9 @@ https://www.muycomputer.com/2026/10/04/los-mejores-contenidos-de-la-semana-en-mu
 El AORUS ELITE FO32U24G es el nuevo modelo con el que GIGABYTE ampliará su catálogo de monitores para juegos. Destaca por su panel OLED con resolución 4K y un modo dual que permite aumentar el rendimiento. El mercado de monitores sigue acum…
 https://www.muycomputer.com/2026/10/05/gigabyte-presenta-el-oled-4k-para-juegos-aorus-elite-fo32u24g/
 🗓️ 2026-10-05 • 🏷️ muycomputer.com
+
+### 2026-10-05T21:04:04.385Z
+📰 DC paraliza &#8216;The Batman 2&#8217; por problemas personales de su director, Matt Reeves
+Warner Bros y DC Studios anunciaron que la producción de The Batman 2 se ha pausado de forma temporal debido a problemas personales de Matt Reeves. El director de la película se ha visto obligado a alejarse del trabajo debido a una situació…
+https://hipertextual.com/cine-television/pausa-produccion-the-batman-2-problemas-personales-matt-reeves/
+🗓️ 2026-10-05 • 🏷️ hipertextual.com
