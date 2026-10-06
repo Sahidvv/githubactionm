@@ -6712,3 +6712,19 @@ https://www.muycomputer.com/2026/10/05/gigabyte-presenta-el-oled-4k-para-juegos-
 🗓️ 2026-10-05 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-06
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Ofertas en mini PCs GEEKOM en Amazon Prime Day: los mejores precios con descuentos de hasta el 30%
+Hoy arrancan los Amazon Prime Days, y para celebrarlo GEEKOM ha abierto una campaña de ofertas que nos permitirá conseguir muchos de sus mini PCs a un precio realmente económico, y sin complicaciones, ya que disfrutaremos de todas las facil…
+https://www.muycomputer.com/2026/10/06/ofertas-en-mini-pcs-geekom-en-amazon-prime-day-los-mejores-precios-con-descuentos-de-hasta-el-30/
+🗓️ 2026-10-06 • 🏷️ muycomputer.com
+
+---

@@ -7525,3 +7525,9 @@ https://www.muycomputer.com/2026/10/05/gigabyte-presenta-el-oled-4k-para-juegos-
 Warner Bros y DC Studios anunciaron que la producción de The Batman 2 se ha pausado de forma temporal debido a problemas personales de Matt Reeves. El director de la película se ha visto obligado a alejarse del trabajo debido a una situació…
 https://hipertextual.com/cine-television/pausa-produccion-the-batman-2-problemas-personales-matt-reeves/
 🗓️ 2026-10-05 • 🏷️ hipertextual.com
+
+### 2026-10-06T07:14:04.684Z
+📰 Ofertas en mini PCs GEEKOM en Amazon Prime Day: los mejores precios con descuentos de hasta el 30%
+Hoy arrancan los Amazon Prime Days, y para celebrarlo GEEKOM ha abierto una campaña de ofertas que nos permitirá conseguir muchos de sus mini PCs a un precio realmente económico, y sin complicaciones, ya que disfrutaremos de todas las facil…
+https://www.muycomputer.com/2026/10/06/ofertas-en-mini-pcs-geekom-en-amazon-prime-day-los-mejores-precios-con-descuentos-de-hasta-el-30/
+🗓️ 2026-10-06 • 🏷️ muycomputer.com
