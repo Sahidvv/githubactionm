@@ -7537,3 +7537,9 @@ https://www.muycomputer.com/2026/10/06/ofertas-en-mini-pcs-geekom-en-amazon-prim
 Desde que Apple lanzó Face ID hace casi una década, ningún móvil Android ha podido acercársele. El desbloqueo facial eficiente parece ser una de las funciones negadas para quienes no poseen un iPhone. La buena noticia es que Google ya traba…
 https://hipertextual.com/mobile/android-17-mejorara-desbloqueo-facial-pixel/
 🗓️ 2026-10-06 • 🏷️ hipertextual.com
+
+### 2026-10-06T22:54:50.710Z
+📰 Sony prepara una nueva portátil, pero no te emociones todavía
+Sony podría lanzar una nueva portátil en 2026. Una filtración dejó al descubierto dos dispositivos con características similares a las de la PlayStation Portal. Aunque algunos rumores han apuntado a que Sony volverá a los tiempos de la Vita…
+https://hipertextual.com/videojuegos/playstation-portal-oled-filtracion-nuevos-modelos-sony/
+🗓️ 2026-10-06 • 🏷️ hipertextual.com
