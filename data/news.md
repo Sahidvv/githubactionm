@@ -7531,3 +7531,9 @@ https://hipertextual.com/cine-television/pausa-produccion-the-batman-2-problemas
 Hoy arrancan los Amazon Prime Days, y para celebrarlo GEEKOM ha abierto una campaña de ofertas que nos permitirá conseguir muchos de sus mini PCs a un precio realmente económico, y sin complicaciones, ya que disfrutaremos de todas las facil…
 https://www.muycomputer.com/2026/10/06/ofertas-en-mini-pcs-geekom-en-amazon-prime-day-los-mejores-precios-con-descuentos-de-hasta-el-30/
 🗓️ 2026-10-06 • 🏷️ muycomputer.com
+
+### 2026-10-06T18:48:09.631Z
+📰 Google prepara una alternativa real al Face ID para los Pixel
+Desde que Apple lanzó Face ID hace casi una década, ningún móvil Android ha podido acercársele. El desbloqueo facial eficiente parece ser una de las funciones negadas para quienes no poseen un iPhone. La buena noticia es que Google ya traba…
+https://hipertextual.com/mobile/android-17-mejorara-desbloqueo-facial-pixel/
+🗓️ 2026-10-06 • 🏷️ hipertextual.com
