@@ -7549,3 +7549,9 @@ https://hipertextual.com/videojuegos/playstation-portal-oled-filtracion-nuevos-m
 ASUS ha anunciado el lanzamiento en España de dos nuevos monitores ROG Swift OLED, gama alta de su oferta para juegos que llega con todo lo necesario para gustar a los usuarios más avanzados: un impresionante panel 4K de última generación, …
 https://www.muycomputer.com/2026/10/07/asus-trae-a-espana-sus-nuevos-monitores-rog-swift-oled/
 🗓️ 2026-10-07 • 🏷️ muycomputer.com
+
+### 2026-10-07T19:13:08.788Z
+📰 Elon Musk dobla las manos y confirma que usará la IA de sus rivales en Grok
+Elon Musk confirmó que Grok Bot usará modelos de IA rivales para ayudarlo a responder. A unos meses de haber catalogado a Anthropic como "malvada", Musk ahora dependerá de Claude en algunas de las respuestas que se le hagan al asistente de …
+https://hipertextual.com/inteligencia-artificial/grok-bot-claude-opus-5-5-modelos-competencia/
+🗓️ 2026-10-07 • 🏷️ hipertextual.com
