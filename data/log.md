@@ -6728,3 +6728,19 @@ https://www.muycomputer.com/2026/10/06/ofertas-en-mini-pcs-geekom-en-amazon-prim
 🗓️ 2026-10-06 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-07
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 ASUS trae a España sus nuevos monitores ROG Swift OLED
+ASUS ha anunciado el lanzamiento en España de dos nuevos monitores ROG Swift OLED, gama alta de su oferta para juegos que llega con todo lo necesario para gustar a los usuarios más avanzados: un impresionante panel 4K de última generación, …
+https://www.muycomputer.com/2026/10/07/asus-trae-a-espana-sus-nuevos-monitores-rog-swift-oled/
+🗓️ 2026-10-07 • 🏷️ muycomputer.com
+
+---
