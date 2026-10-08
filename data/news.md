@@ -7561,3 +7561,9 @@ https://hipertextual.com/inteligencia-artificial/grok-bot-claude-opus-5-5-modelo
 NVIDIA y Microsoft llevan meses preparando el terreno para una nueva generación de ordenadores capaces de ejecutar inteligencia artificial cada vez más avanzada directamente en local. RTX Spark ya nos había mostrado buena parte del hardware…
 https://www.muycomputerpro.com/2026/10/08/microsoft-y-nvidia-dibujan-el-futuro-del-pc-ia-local-agentes-y-rtx-spark
 🗓️ 2026-10-08 • 🏷️ muycomputerpro.com
+
+### 2026-10-08T19:09:28.309Z
+📰 &#8216;Forza Horizon 6&#8217; tiene fecha de lanzamiento en PS5 y sí, tendrás que esperar hasta 2027
+Los rumores estaban en lo cierto: Forza Horizon 6 debutará en la PS5 en 2027. A pesar de que Playground Games había prometido que su aclamado juego de carreras se iba a lanzar en la consola de Sony antes de finales de 2026, esto finalmente …
+https://hipertextual.com/videojuegos/forza-horizon-6-ps5-fecha-lanzamiento-confirmada/
+🗓️ 2026-10-08 • 🏷️ hipertextual.com
