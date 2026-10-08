@@ -6744,3 +6744,19 @@ https://www.muycomputer.com/2026/10/07/asus-trae-a-espana-sus-nuevos-monitores-r
 🗓️ 2026-10-07 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-08
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Microsoft y NVIDIA dibujan el futuro del PC: IA local, agentes y RTX Spark
+NVIDIA y Microsoft llevan meses preparando el terreno para una nueva generación de ordenadores capaces de ejecutar inteligencia artificial cada vez más avanzada directamente en local. RTX Spark ya nos había mostrado buena parte del hardware…
+https://www.muycomputerpro.com/2026/10/08/microsoft-y-nvidia-dibujan-el-futuro-del-pc-ia-local-agentes-y-rtx-spark
+🗓️ 2026-10-08 • 🏷️ muycomputerpro.com
+
+---

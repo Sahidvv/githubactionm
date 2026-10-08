@@ -7555,3 +7555,9 @@ https://www.muycomputer.com/2026/10/07/asus-trae-a-espana-sus-nuevos-monitores-r
 Elon Musk confirmó que Grok Bot usará modelos de IA rivales para ayudarlo a responder. A unos meses de haber catalogado a Anthropic como "malvada", Musk ahora dependerá de Claude en algunas de las respuestas que se le hagan al asistente de …
 https://hipertextual.com/inteligencia-artificial/grok-bot-claude-opus-5-5-modelos-competencia/
 🗓️ 2026-10-07 • 🏷️ hipertextual.com
+
+### 2026-10-08T07:01:27.897Z
+📰 Microsoft y NVIDIA dibujan el futuro del PC: IA local, agentes y RTX Spark
+NVIDIA y Microsoft llevan meses preparando el terreno para una nueva generación de ordenadores capaces de ejecutar inteligencia artificial cada vez más avanzada directamente en local. RTX Spark ya nos había mostrado buena parte del hardware…
+https://www.muycomputerpro.com/2026/10/08/microsoft-y-nvidia-dibujan-el-futuro-del-pc-ia-local-agentes-y-rtx-spark
+🗓️ 2026-10-08 • 🏷️ muycomputerpro.com
