@@ -7567,3 +7567,9 @@ https://www.muycomputerpro.com/2026/10/08/microsoft-y-nvidia-dibujan-el-futuro-d
 Los rumores estaban en lo cierto: Forza Horizon 6 debutará en la PS5 en 2027. A pesar de que Playground Games había prometido que su aclamado juego de carreras se iba a lanzar en la consola de Sony antes de finales de 2026, esto finalmente …
 https://hipertextual.com/videojuegos/forza-horizon-6-ps5-fecha-lanzamiento-confirmada/
 🗓️ 2026-10-08 • 🏷️ hipertextual.com
+
+### 2026-10-09T07:09:36.982Z
+📰 Seis usos de un pendrive USB más allá de almacenar archivos
+La gran mayoría de usuarios usan un pendrive USB para almacenamiento de archivos. Y es que estas memorias flash externas son ideales para ello teniendo en cuenta sus grandes ventajas: tienen un precio muy económico, un tamaño mínimo para ll…
+https://www.muycomputer.com/2026/10/09/seis-usos-de-un-pendrive-usb-mas-alla-de-almacenar-archivos/
+🗓️ 2026-10-09 • 🏷️ muycomputer.com

@@ -6760,3 +6760,19 @@ https://www.muycomputerpro.com/2026/10/08/microsoft-y-nvidia-dibujan-el-futuro-d
 🗓️ 2026-10-08 • 🏷️ muycomputerpro.com
 
 ---
+## 2026-10-09
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Seis usos de un pendrive USB más allá de almacenar archivos
+La gran mayoría de usuarios usan un pendrive USB para almacenamiento de archivos. Y es que estas memorias flash externas son ideales para ello teniendo en cuenta sus grandes ventajas: tienen un precio muy económico, un tamaño mínimo para ll…
+https://www.muycomputer.com/2026/10/09/seis-usos-de-un-pendrive-usb-mas-alla-de-almacenar-archivos/
+🗓️ 2026-10-09 • 🏷️ muycomputer.com
+
+---
