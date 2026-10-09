@@ -7573,3 +7573,9 @@ https://hipertextual.com/videojuegos/forza-horizon-6-ps5-fecha-lanzamiento-confi
 La gran mayoría de usuarios usan un pendrive USB para almacenamiento de archivos. Y es que estas memorias flash externas son ideales para ello teniendo en cuenta sus grandes ventajas: tienen un precio muy económico, un tamaño mínimo para ll…
 https://www.muycomputer.com/2026/10/09/seis-usos-de-un-pendrive-usb-mas-alla-de-almacenar-archivos/
 🗓️ 2026-10-09 • 🏷️ muycomputer.com
+
+### 2026-10-09T18:40:10.855Z
+📰 Samsung pone el freno a la fabricación de móviles: “No hay beneficio, aunque vendamos”
+Samsung está preparando un recorte en la producción de móviles para el último trimestre del año. Aunque la demanda de producto es estable, los componentes son cada vez más caros de conseguir para los fabricantes. La inteligencia artificial …
+https://hipertextual.com/mobile/samsung-recorte-produccion-moviles-2026-precios/
+🗓️ 2026-10-09 • 🏷️ hipertextual.com
