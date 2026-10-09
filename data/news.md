@@ -7579,3 +7579,9 @@ https://www.muycomputer.com/2026/10/09/seis-usos-de-un-pendrive-usb-mas-alla-de-
 Samsung está preparando un recorte en la producción de móviles para el último trimestre del año. Aunque la demanda de producto es estable, los componentes son cada vez más caros de conseguir para los fabricantes. La inteligencia artificial …
 https://hipertextual.com/mobile/samsung-recorte-produccion-moviles-2026-precios/
 🗓️ 2026-10-09 • 🏷️ hipertextual.com
+
+### 2026-10-09T23:03:08.591Z
+📰 La nueva búsqueda de Windows 11 cambia por completo la forma de usar tu PC
+Tras años de ser el hazmerreír del sistema operativo, la búsqueda de Windows 11 está lista para recibir un cambio definitivo. Microsoft comenzó a abrir el acceso al nuevo sistema de búsqueda que debutará en los próximos meses para todos los…
+https://hipertextual.com/software/nuevo-buscador-windows-11-como-instalar/
+🗓️ 2026-10-09 • 🏷️ hipertextual.com
