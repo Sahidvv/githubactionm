@@ -7591,3 +7591,9 @@ https://hipertextual.com/software/nuevo-buscador-windows-11-como-instalar/
 Un análisis de casi 50.000 intervenciones parlamentarias detecta cómo en las últimas dos décadas ha cambiado el discurso político, impulsado por la viralidad y la desinformación
 https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-sociales-mas-conflicto-y-teatralizacion-en-el-congreso.html
 🗓️ 2026-10-10 • 🏷️ elpais.com
+
+### 2026-10-10T17:39:29.574Z
+📰 ‘La otra madre’ es una de las decepciones del año: terror insípido y sin mucho que ofrecer
+La otra madre bien podría ser un remake de la icónica Coraline de Henry Selick. De hecho, ambas cintas comparten la misma idea de una familia que termina convirtiéndote en objeto de horrores. Pero mientras el clásico del stop motion logra p…
+https://hipertextual.com/cine-television/la-otra-madre-es-una-de-las-decepciones-del-ano-terror-insipido-y-sin-mucho-que-ofrecer/
+🗓️ 2026-10-10 • 🏷️ hipertextual.com
