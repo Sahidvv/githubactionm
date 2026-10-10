@@ -7597,3 +7597,9 @@ https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-so
 La otra madre bien podría ser un remake de la icónica Coraline de Henry Selick. De hecho, ambas cintas comparten la misma idea de una familia que termina convirtiéndote en objeto de horrores. Pero mientras el clásico del stop motion logra p…
 https://hipertextual.com/cine-television/la-otra-madre-es-una-de-las-decepciones-del-ano-terror-insipido-y-sin-mucho-que-ofrecer/
 🗓️ 2026-10-10 • 🏷️ hipertextual.com
+
+### 2026-10-10T22:14:46.933Z
+📰 Eurídice Cabañes, filósofa: “Tenemos tecnologías muy discapacitantes para que dependamos constantemente de ellas”
+La autora publica 'Sembrar futuros. Una guía de resistencia para la era del algoritmo', un ensayo en el que recorre las heridas del capitalismo digital y propone alternativas para recuperar la memoria, descolonizar el tiempo y poner la inno…
+https://www.eldiario.es/cultura/libros/euridice-cabanes-filosofa-tecnologias-discapacitantes-dependamos-constantemente_128_13574946.html
+🗓️ 2026-10-10 • 🏷️ eldiario.es
