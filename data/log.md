@@ -6776,3 +6776,19 @@ https://www.muycomputer.com/2026/10/09/seis-usos-de-un-pendrive-usb-mas-alla-de-
 🗓️ 2026-10-09 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-10
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 La política se contagia de las redes sociales: más conflicto y teatralización en el Congreso
+Un análisis de casi 50.000 intervenciones parlamentarias detecta cómo en las últimas dos décadas ha cambiado el discurso político, impulsado por la viralidad y la desinformación
+https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-sociales-mas-conflicto-y-teatralizacion-en-el-congreso.html
+🗓️ 2026-10-10 • 🏷️ elpais.com
+
+---

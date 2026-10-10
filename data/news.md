@@ -7585,3 +7585,9 @@ https://hipertextual.com/mobile/samsung-recorte-produccion-moviles-2026-precios/
 Tras años de ser el hazmerreír del sistema operativo, la búsqueda de Windows 11 está lista para recibir un cambio definitivo. Microsoft comenzó a abrir el acceso al nuevo sistema de búsqueda que debutará en los próximos meses para todos los…
 https://hipertextual.com/software/nuevo-buscador-windows-11-como-instalar/
 🗓️ 2026-10-09 • 🏷️ hipertextual.com
+
+### 2026-10-10T06:43:15.031Z
+📰 La política se contagia de las redes sociales: más conflicto y teatralización en el Congreso
+Un análisis de casi 50.000 intervenciones parlamentarias detecta cómo en las últimas dos décadas ha cambiado el discurso político, impulsado por la viralidad y la desinformación
+https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-sociales-mas-conflicto-y-teatralizacion-en-el-congreso.html
+🗓️ 2026-10-10 • 🏷️ elpais.com
