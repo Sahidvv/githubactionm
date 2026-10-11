@@ -7609,3 +7609,9 @@ https://www.eldiario.es/cultura/libros/euridice-cabanes-filosofa-tecnologias-dis
 Acaba de llegar a los cines El precio de la red, la esperada secuela de La red social. La película de David Fincher estrenada en 2010 es sin duda uno de los grandes largometrajes de Hollywood de este siglo. La historia del nacimiento de Fac…
 https://hipertextual.com/cine-television/la-historia-real-de-el-precio-de-la-red-quien-es-frances-haugen-y-que-fue-el-caso-the-facebook-files/
 🗓️ 2026-10-10 • 🏷️ hipertextual.com
+
+### 2026-10-11T17:54:53.141Z
+📰 3 series que casi nadie conoce, pero que deberías ver (y dónde verlas ahora mismo)
+Las series suelen ser el plato fuerte de la oferta televisiva y de streaming actual. Y razones no faltan. Es debido a que el formato ha dejado de ser un simple entretenimiento superficial. Todo para convertirse en el eje central de la cultu…
+https://hipertextual.com/cine-television/3-series-que-casi-nadie-conoce-pero-que-deberias-ver-y-donde-verlas-ahora-mismo/
+🗓️ 2026-10-11 • 🏷️ hipertextual.com
