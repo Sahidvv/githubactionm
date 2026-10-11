@@ -7603,3 +7603,9 @@ https://hipertextual.com/cine-television/la-otra-madre-es-una-de-las-decepciones
 La autora publica 'Sembrar futuros. Una guía de resistencia para la era del algoritmo', un ensayo en el que recorre las heridas del capitalismo digital y propone alternativas para recuperar la memoria, descolonizar el tiempo y poner la inno…
 https://www.eldiario.es/cultura/libros/euridice-cabanes-filosofa-tecnologias-discapacitantes-dependamos-constantemente_128_13574946.html
 🗓️ 2026-10-10 • 🏷️ eldiario.es
+
+### 2026-10-11T06:50:54.376Z
+📰 La historia real de ‘El precio de la red’: quién es Frances Haugen y qué fue el caso The Facebook Files
+Acaba de llegar a los cines El precio de la red, la esperada secuela de La red social. La película de David Fincher estrenada en 2010 es sin duda uno de los grandes largometrajes de Hollywood de este siglo. La historia del nacimiento de Fac…
+https://hipertextual.com/cine-television/la-historia-real-de-el-precio-de-la-red-quien-es-frances-haugen-y-que-fue-el-caso-the-facebook-files/
+🗓️ 2026-10-10 • 🏷️ hipertextual.com

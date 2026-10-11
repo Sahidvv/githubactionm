@@ -6792,3 +6792,19 @@ https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-so
 🗓️ 2026-10-10 • 🏷️ elpais.com
 
 ---
+## 2026-10-11
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 La historia real de ‘El precio de la red’: quién es Frances Haugen y qué fue el caso The Facebook Files
+Acaba de llegar a los cines El precio de la red, la esperada secuela de La red social. La película de David Fincher estrenada en 2010 es sin duda uno de los grandes largometrajes de Hollywood de este siglo. La historia del nacimiento de Fac…
+https://hipertextual.com/cine-television/la-historia-real-de-el-precio-de-la-red-quien-es-frances-haugen-y-que-fue-el-caso-the-facebook-files/
+🗓️ 2026-10-10 • 🏷️ hipertextual.com
+
+---
