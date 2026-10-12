@@ -7621,3 +7621,9 @@ https://hipertextual.com/cine-television/3-series-que-casi-nadie-conoce-pero-que
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: AORUS P1600W 80+ Titanium Modular PCIe 5.1 AI TOP a…
 https://www.muycomputer.com/2026/10/11/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlv/
 🗓️ 2026-10-11 • 🏷️ muycomputer.com
+
+### 2026-10-12T07:00:21.677Z
+📰 ¿Por qué vuelven los auriculares con cable a estar de moda? Las razones por las que son de nuevo una opción popular
+Los cascos con cable, que parecían desterrados por los modelos Bluetooth, están viviendo una segunda juventud. Y no solo por nostalgia: también por sonido, precio, fiabilidad y latencia
+https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auriculares-con-cable-a-estar-de-moda-las-razones-por-las-que-son-de-nuevo-una-opcion-popular.html
+🗓️ 2026-10-12 • 🏷️ elpais.com

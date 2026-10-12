@@ -6808,3 +6808,19 @@ https://hipertextual.com/cine-television/la-historia-real-de-el-precio-de-la-red
 🗓️ 2026-10-10 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-12
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 ¿Por qué vuelven los auriculares con cable a estar de moda? Las razones por las que son de nuevo una opción popular
+Los cascos con cable, que parecían desterrados por los modelos Bluetooth, están viviendo una segunda juventud. Y no solo por nostalgia: también por sonido, precio, fiabilidad y latencia
+https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auriculares-con-cable-a-estar-de-moda-las-razones-por-las-que-son-de-nuevo-una-opcion-popular.html
+🗓️ 2026-10-12 • 🏷️ elpais.com
+
+---
