@@ -7627,3 +7627,9 @@ https://www.muycomputer.com/2026/10/11/los-mejores-contenidos-de-la-semana-en-mu
 Los cascos con cable, que parecían desterrados por los modelos Bluetooth, están viviendo una segunda juventud. Y no solo por nostalgia: también por sonido, precio, fiabilidad y latencia
 https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auriculares-con-cable-a-estar-de-moda-las-razones-por-las-que-son-de-nuevo-una-opcion-popular.html
 🗓️ 2026-10-12 • 🏷️ elpais.com
+
+### 2026-10-12T21:34:47.658Z
+📰 NVIDIA mata la RTX 5090 para ganar más dinero con la IA
+La GeForce RTX 5090 ha llegado a su fin, al menos para los consumidores entusiastas. La tarjeta más poderosa de NVIDIA, esa que no se puede conseguir a un precio decente en el mercado, habría sido discontinuada. La compañía ha decidido rese…
+https://hipertextual.com/hardware/rtx-5090-discontinuada-nvidia-prioriza-ia-rtx-pro/
+🗓️ 2026-10-12 • 🏷️ hipertextual.com
