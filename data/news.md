@@ -7633,3 +7633,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auric
 La GeForce RTX 5090 ha llegado a su fin, al menos para los consumidores entusiastas. La tarjeta más poderosa de NVIDIA, esa que no se puede conseguir a un precio decente en el mercado, habría sido discontinuada. La compañía ha decidido rese…
 https://hipertextual.com/hardware/rtx-5090-discontinuada-nvidia-prioriza-ia-rtx-pro/
 🗓️ 2026-10-12 • 🏷️ hipertextual.com
+
+### 2026-10-13T07:24:33.979Z
+📰 ¿Cuánta IA hay en los libros más vendidos? Mucha en novelas románticas de Amazon y en el superventas de Alvise Pérez
+EL PAÍS ha analizado 175 libros populares con el detector Pangram. En 2019 no hay ni rastro, pero ahora uno de cada tres superventas autopublicados está escrito en su mayor parte con inteligencia artificial
+https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoeditadas-cuanta-ia-hay-en-los-libros-mas-vendidos-de-espana.html
+🗓️ 2026-10-13 • 🏷️ elpais.com

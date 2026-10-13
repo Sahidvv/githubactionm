@@ -6824,3 +6824,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auric
 🗓️ 2026-10-12 • 🏷️ elpais.com
 
 ---
+## 2026-10-13
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ¿Cuánta IA hay en los libros más vendidos? Mucha en novelas románticas de Amazon y en el superventas de Alvise Pérez
+EL PAÍS ha analizado 175 libros populares con el detector Pangram. En 2019 no hay ni rastro, pero ahora uno de cada tres superventas autopublicados está escrito en su mayor parte con inteligencia artificial
+https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoeditadas-cuanta-ia-hay-en-los-libros-mas-vendidos-de-espana.html
+🗓️ 2026-10-13 • 🏷️ elpais.com
+
+---
