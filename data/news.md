@@ -7639,3 +7639,9 @@ https://hipertextual.com/hardware/rtx-5090-discontinuada-nvidia-prioriza-ia-rtx-
 EL PAÍS ha analizado 175 libros populares con el detector Pangram. En 2019 no hay ni rastro, pero ahora uno de cada tres superventas autopublicados está escrito en su mayor parte con inteligencia artificial
 https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoeditadas-cuanta-ia-hay-en-los-libros-mas-vendidos-de-espana.html
 🗓️ 2026-10-13 • 🏷️ elpais.com
+
+### 2026-10-13T19:45:31.258Z
+📰 Google lanza Gemini 4 Argon, su IA más potente hasta ahora
+Google ha lanzado Gemini 4 Argon, su modelo de frontera más poderoso a la fecha. Tras meses de retrasos y de ceder terreno a Anthropic y OpenAI, el gigante tecnológico contraataca con una nueva IA enfocada en flujos de trabajo completos. Ge…
+https://hipertextual.com/inteligencia-artificial/google-lanza-gemini-4-argon-ia-mas-potente/
+🗓️ 2026-10-13 • 🏷️ hipertextual.com
