@@ -7657,3 +7657,9 @@ https://elpais.com/tecnologia/2026-10-14/webs-que-se-caen-y-bots-desactivados-la
 La cuenta regresiva hacia el lanzamiento de GTA 6 le ha dado la posibilidad a Rockstar de reflexionar sobre su extenso desarrollo. El más reciente reporte de Jason Schreier, de Bloomberg, explora en detalle todo lo que sucedió durante el pr…
 https://hipertextual.com/videojuegos/gta-6-rockstar-recuerda-la-demoledora-filtracion-de-2022/
 🗓️ 2026-10-14 • 🏷️ hipertextual.com
+
+### 2026-10-14T22:04:06.324Z
+📰 Netflix despide al 6 % de sus empleados: el mayor recorte de su historia
+Netflix ha concretado hoy el despido del 6 % de su plantilla, lo que representa el mayor recorte de su historia. Si bien la plataforma de streaming no reveló el número puntual de empleados despedidos, Variety reporta que la cifra ronda los …
+https://hipertextual.com/economia-empresas/netflix-despide-6-por-ciento-empleados-mayor-recorte-su-historia/
+🗓️ 2026-10-14 • 🏷️ hipertextual.com
