@@ -6840,3 +6840,19 @@ https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoe
 🗓️ 2026-10-13 • 🏷️ elpais.com
 
 ---
+## 2026-10-14
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Webs que se caen y bots desactivados: la consecuencia inesperada de bombardear centros de datos
+Los ejércitos de Ucrania, Rusia e Irán han lanzado varias oleadas de ataques contra estas infraestructuras, provocando pérdidas milmillonarias y, en algunos casos, la eliminación definitiva de datos
+https://elpais.com/tecnologia/2026-10-14/webs-que-se-caen-y-bots-desactivados-la-consecuencia-inesperada-de-bombardear-centros-de-datos.html
+🗓️ 2026-10-14 • 🏷️ elpais.com
+
+---

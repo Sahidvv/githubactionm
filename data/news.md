@@ -7645,3 +7645,9 @@ https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoe
 Google ha lanzado Gemini 4 Argon, su modelo de frontera más poderoso a la fecha. Tras meses de retrasos y de ceder terreno a Anthropic y OpenAI, el gigante tecnológico contraataca con una nueva IA enfocada en flujos de trabajo completos. Ge…
 https://hipertextual.com/inteligencia-artificial/google-lanza-gemini-4-argon-ia-mas-potente/
 🗓️ 2026-10-13 • 🏷️ hipertextual.com
+
+### 2026-10-14T05:52:27.103Z
+📰 Webs que se caen y bots desactivados: la consecuencia inesperada de bombardear centros de datos
+Los ejércitos de Ucrania, Rusia e Irán han lanzado varias oleadas de ataques contra estas infraestructuras, provocando pérdidas milmillonarias y, en algunos casos, la eliminación definitiva de datos
+https://elpais.com/tecnologia/2026-10-14/webs-que-se-caen-y-bots-desactivados-la-consecuencia-inesperada-de-bombardear-centros-de-datos.html
+🗓️ 2026-10-14 • 🏷️ elpais.com
