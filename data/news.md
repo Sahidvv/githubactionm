@@ -7651,3 +7651,9 @@ https://hipertextual.com/inteligencia-artificial/google-lanza-gemini-4-argon-ia-
 Los ejércitos de Ucrania, Rusia e Irán han lanzado varias oleadas de ataques contra estas infraestructuras, provocando pérdidas milmillonarias y, en algunos casos, la eliminación definitiva de datos
 https://elpais.com/tecnologia/2026-10-14/webs-que-se-caen-y-bots-desactivados-la-consecuencia-inesperada-de-bombardear-centros-de-datos.html
 🗓️ 2026-10-14 • 🏷️ elpais.com
+
+### 2026-10-14T17:48:20.582Z
+📰 Rockstar, sobre la demoledora filtración de &#8216;GTA 6&#8217; en 2022: «Fue como si hurgaran en tu ropa sucia»
+La cuenta regresiva hacia el lanzamiento de GTA 6 le ha dado la posibilidad a Rockstar de reflexionar sobre su extenso desarrollo. El más reciente reporte de Jason Schreier, de Bloomberg, explora en detalle todo lo que sucedió durante el pr…
+https://hipertextual.com/videojuegos/gta-6-rockstar-recuerda-la-demoledora-filtracion-de-2022/
+🗓️ 2026-10-14 • 🏷️ hipertextual.com
