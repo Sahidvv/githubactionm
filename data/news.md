@@ -7669,3 +7669,9 @@ https://hipertextual.com/economia-empresas/netflix-despide-6-por-ciento-empleado
 Xbox podría tomar un camino arriesgado para sus próximos juegos. La compañía estaría considerando volver a la estrategia de juegos exclusivos para su consola, olvidándose para siempre de Sony y Nintendo. Una nueva encuesta interna deja entr…
 https://hipertextual.com/videojuegos/xbox-juegos-exclusivos-microsoft-encuesta/
 🗓️ 2026-10-15 • 🏷️ hipertextual.com
+
+### 2026-10-15T17:37:55.420Z
+📰 Cuando el Macintosh no cumplió las expectativas
+Hoy resulta prácticamente imposible hablar de la historia de la informática personal sin conceder al Macintosh un lugar privilegiado. No fue el primer ordenador con interfaz gráfica ni inventó el ratón, pero sí fue el producto que consiguió…
+https://www.muycomputer.com/2026/10/15/cuando-el-macintosh-no-cumplio-las-expectativas/
+🗓️ 2026-10-15 • 🏷️ muycomputer.com
