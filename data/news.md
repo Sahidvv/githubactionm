@@ -7675,3 +7675,9 @@ https://hipertextual.com/videojuegos/xbox-juegos-exclusivos-microsoft-encuesta/
 Hoy resulta prácticamente imposible hablar de la historia de la informática personal sin conceder al Macintosh un lugar privilegiado. No fue el primer ordenador con interfaz gráfica ni inventó el ratón, pero sí fue el producto que consiguió…
 https://www.muycomputer.com/2026/10/15/cuando-el-macintosh-no-cumplio-las-expectativas/
 🗓️ 2026-10-15 • 🏷️ muycomputer.com
+
+### 2026-10-15T21:57:54.082Z
+📰 El próximo &#8216;Call of Duty&#8217; no será &#8216;Modern Warfare&#8217; ni &#8216;Black Ops&#8217;: Activision confirma que una nueva saga está en marcha
+Modern Warfare 4 posiblemente sea uno de los Call of Duty que menos expectación ha generado en los fanáticos en mucho tiempo, al menos en lo que respecta a esta subfranquicia del shooter bélico. Algo así ya había sucedido en 2025 con Black …
+https://hipertextual.com/videojuegos/activision-confirma-futuro-call-of-duty-no-sera-modern-warfare-o-black-ops/
+🗓️ 2026-10-15 • 🏷️ hipertextual.com
