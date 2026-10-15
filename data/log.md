@@ -6856,3 +6856,19 @@ https://elpais.com/tecnologia/2026-10-14/webs-que-se-caen-y-bots-desactivados-la
 🗓️ 2026-10-14 • 🏷️ elpais.com
 
 ---
+## 2026-10-15
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 PlayStation podría quedarse sin &#8216;Fallout&#8217; y &#8216;Minecraft&#8217;: Xbox estudia hacer exclusivos todos sus juegos
+Xbox podría tomar un camino arriesgado para sus próximos juegos. La compañía estaría considerando volver a la estrategia de juegos exclusivos para su consola, olvidándose para siempre de Sony y Nintendo. Una nueva encuesta interna deja entr…
+https://hipertextual.com/videojuegos/xbox-juegos-exclusivos-microsoft-encuesta/
+🗓️ 2026-10-15 • 🏷️ hipertextual.com
+
+---
