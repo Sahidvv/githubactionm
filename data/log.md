@@ -6872,3 +6872,19 @@ https://hipertextual.com/videojuegos/xbox-juegos-exclusivos-microsoft-encuesta/
 🗓️ 2026-10-15 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-16
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Silicon Valley acapara el crédito para sus centros de datos de IA y ahoga a las empresas europeas
+Amazon, Google, Meta, Mircrosoft y Oracle concentran el 10% de toda la nueva deuda emitida por empresas no financieras de la eurozona, con la que están sufragando las inversiones masivas necesarias para construir y operar centros de datos a…
+https://www.eldiario.es/tecnologia/silicon-valley-acapara-credito-centros-datos-ia-ahoga-empresas-europeas_1_13582669.html
+🗓️ 2026-10-15 • 🏷️ eldiario.es
+
+---

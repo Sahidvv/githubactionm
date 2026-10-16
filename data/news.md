@@ -7681,3 +7681,9 @@ https://www.muycomputer.com/2026/10/15/cuando-el-macintosh-no-cumplio-las-expect
 Modern Warfare 4 posiblemente sea uno de los Call of Duty que menos expectación ha generado en los fanáticos en mucho tiempo, al menos en lo que respecta a esta subfranquicia del shooter bélico. Algo así ya había sucedido en 2025 con Black …
 https://hipertextual.com/videojuegos/activision-confirma-futuro-call-of-duty-no-sera-modern-warfare-o-black-ops/
 🗓️ 2026-10-15 • 🏷️ hipertextual.com
+
+### 2026-10-16T05:30:51.154Z
+📰 Silicon Valley acapara el crédito para sus centros de datos de IA y ahoga a las empresas europeas
+Amazon, Google, Meta, Mircrosoft y Oracle concentran el 10% de toda la nueva deuda emitida por empresas no financieras de la eurozona, con la que están sufragando las inversiones masivas necesarias para construir y operar centros de datos a…
+https://www.eldiario.es/tecnologia/silicon-valley-acapara-credito-centros-datos-ia-ahoga-empresas-europeas_1_13582669.html
+🗓️ 2026-10-15 • 🏷️ eldiario.es
