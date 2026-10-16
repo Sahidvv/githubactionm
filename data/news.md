@@ -7693,3 +7693,9 @@ https://www.eldiario.es/tecnologia/silicon-valley-acapara-credito-centros-datos-
 Hemos tenido la ocasión de asistir a Huawei Connect Europe, que Huawei celebró los días 15 y 16 de octubre en la Fortezza da Basso en la histórica y fascinante ciudad de Florencia. Un entorno monumental renacentista que ha acogido este encu…
 https://www.muycomputerpro.com/2026/10/16/huawei-connect-2026-ia-multicloud-y-soberania
 🗓️ 2026-10-16 • 🏷️ muycomputerpro.com
+
+### 2026-10-16T21:55:45.161Z
+📰 Linux sigue los pasos de Windows y añade un asistente de IA a Ubuntu
+Canonical ha presentado Ubuntu 26.10, la versión estable más reciente del sistema operativo que marca un punto de inflexión en la evolución de Linux. Conocida como Stonking Stingray, esta edición incluye mejoras en rendimiento, seguridad y …
+https://hipertextual.com/inteligencia-artificial/ubuntu-26-10-myna-asistente-ia-local/
+🗓️ 2026-10-16 • 🏷️ hipertextual.com
