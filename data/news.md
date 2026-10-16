@@ -7687,3 +7687,9 @@ https://hipertextual.com/videojuegos/activision-confirma-futuro-call-of-duty-no-
 Amazon, Google, Meta, Mircrosoft y Oracle concentran el 10% de toda la nueva deuda emitida por empresas no financieras de la eurozona, con la que están sufragando las inversiones masivas necesarias para construir y operar centros de datos a…
 https://www.eldiario.es/tecnologia/silicon-valley-acapara-credito-centros-datos-ia-ahoga-empresas-europeas_1_13582669.html
 🗓️ 2026-10-15 • 🏷️ eldiario.es
+
+### 2026-10-16T17:10:38.615Z
+📰 Huawei Connect 2026: IA, multicloud y soberanía
+Hemos tenido la ocasión de asistir a Huawei Connect Europe, que Huawei celebró los días 15 y 16 de octubre en la Fortezza da Basso en la histórica y fascinante ciudad de Florencia. Un entorno monumental renacentista que ha acogido este encu…
+https://www.muycomputerpro.com/2026/10/16/huawei-connect-2026-ia-multicloud-y-soberania
+🗓️ 2026-10-16 • 🏷️ muycomputerpro.com
