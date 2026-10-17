@@ -7711,3 +7711,9 @@ https://hipertextual.com/software/windows-11-actualizacion-explorador-archivos/
 ¿Qué hace de una película de terror inolvidable? Razones sobran, pero la más frecuente es su capacidad para reinventar el género. Ya sea por su premisa, aportes visuales o impacto. Lo cierto es que hay un tipo de cine del género destinado a…
 https://hipertextual.com/cine-television/esta-pelicula-de-terror-te-hara-vomitar-y-esta-en-disney/
 🗓️ 2026-10-17 • 🏷️ hipertextual.com
+
+### 2026-10-17T21:16:11.245Z
+📰 “Puede colapsar las defensas”: dentro de la primera línea de Policía y CNI ante los ataques con IA
+"Los próximos 12 a 18 meses serán decisivos", avisan los especialistas y agentes que se enfrentan a los primeros desafíos que la inteligencia artificial supone para ciudadanos e instituciones del EstadoReclamar facturas, buscar vuelos y anu…
+https://www.eldiario.es/tecnologia/colapsar-defensas-primera-linea-policia-cni-ataques-ia_1_13584501.html
+🗓️ 2026-10-17 • 🏷️ eldiario.es
