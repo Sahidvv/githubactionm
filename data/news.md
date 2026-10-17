@@ -7699,3 +7699,9 @@ https://www.muycomputerpro.com/2026/10/16/huawei-connect-2026-ia-multicloud-y-so
 Canonical ha presentado Ubuntu 26.10, la versión estable más reciente del sistema operativo que marca un punto de inflexión en la evolución de Linux. Conocida como Stonking Stingray, esta edición incluye mejoras en rendimiento, seguridad y …
 https://hipertextual.com/inteligencia-artificial/ubuntu-26-10-myna-asistente-ia-local/
 🗓️ 2026-10-16 • 🏷️ hipertextual.com
+
+### 2026-10-17T05:21:00.670Z
+📰 Windows 11 mejora una función que llevaba años pidiendo la comunidad
+Microsoft ha lanzado una nueva actualización para Windows 11 con mejoras en algunas de las funciones más usadas. La versión más reciente añade cambios enfocados en la experiencia de juego, el acceso sin contraseña y autenticación biométrica…
+https://hipertextual.com/software/windows-11-actualizacion-explorador-archivos/
+🗓️ 2026-10-16 • 🏷️ hipertextual.com

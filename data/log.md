@@ -6888,3 +6888,19 @@ https://www.eldiario.es/tecnologia/silicon-valley-acapara-credito-centros-datos-
 🗓️ 2026-10-15 • 🏷️ eldiario.es
 
 ---
+## 2026-10-17
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Windows 11 mejora una función que llevaba años pidiendo la comunidad
+Microsoft ha lanzado una nueva actualización para Windows 11 con mejoras en algunas de las funciones más usadas. La versión más reciente añade cambios enfocados en la experiencia de juego, el acceso sin contraseña y autenticación biométrica…
+https://hipertextual.com/software/windows-11-actualizacion-explorador-archivos/
+🗓️ 2026-10-16 • 🏷️ hipertextual.com
+
+---
