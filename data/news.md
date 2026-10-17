@@ -7705,3 +7705,9 @@ https://hipertextual.com/inteligencia-artificial/ubuntu-26-10-myna-asistente-ia-
 Microsoft ha lanzado una nueva actualización para Windows 11 con mejoras en algunas de las funciones más usadas. La versión más reciente añade cambios enfocados en la experiencia de juego, el acceso sin contraseña y autenticación biométrica…
 https://hipertextual.com/software/windows-11-actualizacion-explorador-archivos/
 🗓️ 2026-10-16 • 🏷️ hipertextual.com
+
+### 2026-10-17T16:09:03.123Z
+📰 Esta película de terror te hará vomitar y está en Disney+
+¿Qué hace de una película de terror inolvidable? Razones sobran, pero la más frecuente es su capacidad para reinventar el género. Ya sea por su premisa, aportes visuales o impacto. Lo cierto es que hay un tipo de cine del género destinado a…
+https://hipertextual.com/cine-television/esta-pelicula-de-terror-te-hara-vomitar-y-esta-en-disney/
+🗓️ 2026-10-17 • 🏷️ hipertextual.com
