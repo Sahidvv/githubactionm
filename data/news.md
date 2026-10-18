@@ -7717,3 +7717,9 @@ https://hipertextual.com/cine-television/esta-pelicula-de-terror-te-hara-vomitar
 "Los próximos 12 a 18 meses serán decisivos", avisan los especialistas y agentes que se enfrentan a los primeros desafíos que la inteligencia artificial supone para ciudadanos e instituciones del EstadoReclamar facturas, buscar vuelos y anu…
 https://www.eldiario.es/tecnologia/colapsar-defensas-primera-linea-policia-cni-ataques-ia_1_13584501.html
 🗓️ 2026-10-17 • 🏷️ eldiario.es
+
+### 2026-10-18T05:28:25.875Z
+📰 ‘Super Mario Galaxy’ por fin tiene una versión para Android, pero no te emociones todavía
+Super Mario Galaxy es, sin dudas, de los juegos más divertidos de la franquicia del fontanero de Nintendo. Después de todo, ha inspirado hasta su propia película. Pero lo más curioso es que ahora también se puede jugar de forma nativa en mó…
+https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/
+🗓️ 2026-10-17 • 🏷️ hipertextual.com

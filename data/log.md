@@ -6904,3 +6904,19 @@ https://hipertextual.com/software/windows-11-actualizacion-explorador-archivos/
 🗓️ 2026-10-16 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-18
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ‘Super Mario Galaxy’ por fin tiene una versión para Android, pero no te emociones todavía
+Super Mario Galaxy es, sin dudas, de los juegos más divertidos de la franquicia del fontanero de Nintendo. Después de todo, ha inspirado hasta su propia película. Pero lo más curioso es que ahora también se puede jugar de forma nativa en mó…
+https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/
+🗓️ 2026-10-17 • 🏷️ hipertextual.com
+
+---
