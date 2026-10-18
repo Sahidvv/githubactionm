@@ -7729,3 +7729,9 @@ https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/
 El cine de terror explora los grandes miedos de la humanidad. Pero además, lo hace a través de las grandes obsesiones de todas las épocas. Por lo que no es extraño que haya tantos subgéneros como formas de expresar el miedo desde diferentes…
 https://hipertextual.com/cine-television/7-peliculas-de-terror-sobrenatural-que-deberias-ver-ahora-mismo/
 🗓️ 2026-10-18 • 🏷️ hipertextual.com
+
+### 2026-10-18T21:17:09.469Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXLVI)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Ocho novedades sobre PS6 que ya están confirmadas. …
+https://www.muycomputer.com/2026/10/18/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlvi/
+🗓️ 2026-10-18 • 🏷️ muycomputer.com
