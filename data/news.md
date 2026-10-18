@@ -7723,3 +7723,9 @@ https://www.eldiario.es/tecnologia/colapsar-defensas-primera-linea-policia-cni-a
 Super Mario Galaxy es, sin dudas, de los juegos más divertidos de la franquicia del fontanero de Nintendo. Después de todo, ha inspirado hasta su propia película. Pero lo más curioso es que ahora también se puede jugar de forma nativa en mó…
 https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/
 🗓️ 2026-10-17 • 🏷️ hipertextual.com
+
+### 2026-10-18T16:22:41.175Z
+📰 7 películas de terror sobrenatural que deberías ver ahora mismo
+El cine de terror explora los grandes miedos de la humanidad. Pero además, lo hace a través de las grandes obsesiones de todas las épocas. Por lo que no es extraño que haya tantos subgéneros como formas de expresar el miedo desde diferentes…
+https://hipertextual.com/cine-television/7-peliculas-de-terror-sobrenatural-que-deberias-ver-ahora-mismo/
+🗓️ 2026-10-18 • 🏷️ hipertextual.com
