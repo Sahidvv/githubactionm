@@ -7741,3 +7741,9 @@ https://www.muycomputer.com/2026/10/18/los-mejores-contenidos-de-la-semana-en-mu
 kernel32.dll no es precisamente uno de los nombres más elegantes que encontraremos dentro de Windows 11. Tampoco user32.dll, ntoskrnl.exe o hal.dll. Podrían parecer simplemente restos de una época en la que ahorrar unos cuantos caracteres t…
 https://www.muycomputer.com/2026/10/18/ms-dos-todavia-decide-como-se-llaman-algunos-archivos-de-windows-11/
 🗓️ 2026-10-18 • 🏷️ muycomputer.com
+
+### 2026-10-19T19:03:41.416Z
+📰 Gemini 4 logra lo imposible y termina &#8216;Minecraft&#8217; sin ayuda humana
+Google se ha apoyado en los videojuegos para demostrar lo que puede lograr su inteligencia artificial. Hace unos años, AlphaStar se convirtió en la primera IA en derrotar a un jugador profesional de StarCraft II, alcanzando el rango de Gran…
+https://hipertextual.com/inteligencia-artificial/gemini-4-argon-vence-minecraft-sin-ayuda-humana/
+🗓️ 2026-10-19 • 🏷️ hipertextual.com
