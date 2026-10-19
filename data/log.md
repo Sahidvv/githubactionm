@@ -6920,3 +6920,19 @@ https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/
 🗓️ 2026-10-17 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-19
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 MS-DOS todavía decide cómo se llaman algunos archivos de Windows 11
+kernel32.dll no es precisamente uno de los nombres más elegantes que encontraremos dentro de Windows 11. Tampoco user32.dll, ntoskrnl.exe o hal.dll. Podrían parecer simplemente restos de una época en la que ahorrar unos cuantos caracteres t…
+https://www.muycomputer.com/2026/10/18/ms-dos-todavia-decide-como-se-llaman-algunos-archivos-de-windows-11/
+🗓️ 2026-10-18 • 🏷️ muycomputer.com
+
+---

@@ -7735,3 +7735,9 @@ https://hipertextual.com/cine-television/7-peliculas-de-terror-sobrenatural-que-
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Ocho novedades sobre PS6 que ya están confirmadas. …
 https://www.muycomputer.com/2026/10/18/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlvi/
 🗓️ 2026-10-18 • 🏷️ muycomputer.com
+
+### 2026-10-19T05:47:30.755Z
+📰 MS-DOS todavía decide cómo se llaman algunos archivos de Windows 11
+kernel32.dll no es precisamente uno de los nombres más elegantes que encontraremos dentro de Windows 11. Tampoco user32.dll, ntoskrnl.exe o hal.dll. Podrían parecer simplemente restos de una época en la que ahorrar unos cuantos caracteres t…
+https://www.muycomputer.com/2026/10/18/ms-dos-todavia-decide-como-se-llaman-algunos-archivos-de-windows-11/
+🗓️ 2026-10-18 • 🏷️ muycomputer.com
