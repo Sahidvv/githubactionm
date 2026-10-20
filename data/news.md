@@ -7753,3 +7753,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-4-argon-vence-minecraft-
 En los apartados de privacidad de la cuenta puedes consultar y borrar los datos sobre búsquedas, ubicaciones y actividad, y configurar qué sigue almacenando
 https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que-google-sabe-de-mi-vida-y-esto-es-lo-que-guarda.html
 🗓️ 2026-10-20 • 🏷️ elpais.com
+
+### 2026-10-20T17:47:36.177Z
+📰 Motorola desafía a Xiaomi: su próximo móvil tendrá una batería gigante y precio rompedor
+Motorola prepara el lanzamiento de un nuevo móvil de gama media con gran autonomía. A unos meses de presentar el Moto G47, el fabricante tiene todo listo para desvelar el Moto G47 Power, la variante que llega con una batería de mayor capaci…
+https://hipertextual.com/mobile/motorola-moto-g47-power-bateria-7000mah/
+🗓️ 2026-10-20 • 🏷️ hipertextual.com
