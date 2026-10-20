@@ -7759,3 +7759,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que
 Motorola prepara el lanzamiento de un nuevo móvil de gama media con gran autonomía. A unos meses de presentar el Moto G47, el fabricante tiene todo listo para desvelar el Moto G47 Power, la variante que llega con una batería de mayor capaci…
 https://hipertextual.com/mobile/motorola-moto-g47-power-bateria-7000mah/
 🗓️ 2026-10-20 • 🏷️ hipertextual.com
+
+### 2026-10-20T22:08:21.814Z
+📰 La próxima Xbox no será una sola consola y Microsoft ya tiene el plan
+Microsoft tiene planes de lanzar una consola portátil en 2027, antes de dar el salto a Project Helix. En una entrevista con Fortune, la jefa de Xbox, Asha Sharma, confirmó los planes de la compañía para los próximos años. Sharma señaló que …
+https://hipertextual.com/videojuegos/xbox-portatil-2027-consola-2028-project-helix/
+🗓️ 2026-10-20 • 🏷️ hipertextual.com
