@@ -7747,3 +7747,9 @@ https://www.muycomputer.com/2026/10/18/ms-dos-todavia-decide-como-se-llaman-algu
 Google se ha apoyado en los videojuegos para demostrar lo que puede lograr su inteligencia artificial. Hace unos años, AlphaStar se convirtió en la primera IA en derrotar a un jugador profesional de StarCraft II, alcanzando el rango de Gran…
 https://hipertextual.com/inteligencia-artificial/gemini-4-argon-vence-minecraft-sin-ayuda-humana/
 🗓️ 2026-10-19 • 🏷️ hipertextual.com
+
+### 2026-10-20T05:41:50.497Z
+📰 He comprobado todo lo que Google sabe de mi vida y esto es lo que guarda
+En los apartados de privacidad de la cuenta puedes consultar y borrar los datos sobre búsquedas, ubicaciones y actividad, y configurar qué sigue almacenando
+https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que-google-sabe-de-mi-vida-y-esto-es-lo-que-guarda.html
+🗓️ 2026-10-20 • 🏷️ elpais.com

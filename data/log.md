@@ -6936,3 +6936,19 @@ https://www.muycomputer.com/2026/10/18/ms-dos-todavia-decide-como-se-llaman-algu
 🗓️ 2026-10-18 • 🏷️ muycomputer.com
 
 ---
+## 2026-10-20
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 He comprobado todo lo que Google sabe de mi vida y esto es lo que guarda
+En los apartados de privacidad de la cuenta puedes consultar y borrar los datos sobre búsquedas, ubicaciones y actividad, y configurar qué sigue almacenando
+https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que-google-sabe-de-mi-vida-y-esto-es-lo-que-guarda.html
+🗓️ 2026-10-20 • 🏷️ elpais.com
+
+---
