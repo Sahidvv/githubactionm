@@ -1,6 +1,5 @@
 {
   "seenLinks": [
-    "https://www.eldiario.es/tecnologia/liderar-revolucion-ia-ceder-trono-rebeldes-tres-pasos-anthropic-superar-openai_1_13272571.html",
     "https://hipertextual.com/cine-television/5-razones-tras-el-exito-de-obsesion-y-backrooms/",
     "https://hipertextual.com/cine-television/3-razones-para-ver-la-segunda-temporada-de-las-cuatro-estaciones-el-exito-de-netflix-del-que-todo-el-mundo-habla/",
     "https://hipertextual.com/software/windows-11-moderniza-cuadros-dialogo-winui3/",
@@ -399,10 +398,10 @@
     "https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que-google-sabe-de-mi-vida-y-esto-es-lo-que-guarda.html",
     "https://hipertextual.com/mobile/motorola-moto-g47-power-bateria-7000mah/",
     "https://hipertextual.com/videojuegos/xbox-portatil-2027-consola-2028-project-helix/",
-    "https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy-catastrofista-creo-que-hay-un-1-de-posibilidades-de-que-nos-destruya.html"
+    "https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy-catastrofista-creo-que-hay-un-1-de-posibilidades-de-que-nos-destruya.html",
+    "https://hipertextual.com/inteligencia-artificial/openai-ia-desactivo-supervision-seguridad/"
   ],
   "seenTitles": [
-    "de liderar la revolucion de la ia a ceder el trono a los rebeldes los tres pasos de anthropic para superar a openai",
     "5 razones tras el exito de obsesion y backrooms",
     "3 razones para ver la segunda temporada de las cuatro estaciones el exito de netflix del que todo el mundo habla",
     "adios al diseno clasico windows 11 se moderniza y elimina su interfaz antigua",
@@ -801,6 +800,7 @@
     "he comprobado todo lo que google sabe de mi vida y esto es lo que guarda",
     "motorola desafia a xiaomi su proximo movil tendra una bateria gigante y precio rompedor",
     "la proxima xbox no sera una sola consola y microsoft ya tiene el plan",
-    "geoffrey hinton el padrino de la ia no soy catastrofista creo que hay un 1 de posibilidades de que nos destruya"
+    "geoffrey hinton el padrino de la ia no soy catastrofista creo que hay un 1 de posibilidades de que nos destruya",
+    "openai descubre que un agente de chatgpt desactivo su propio sistema de seguridad y mintio"
   ]
 }

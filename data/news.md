@@ -7771,3 +7771,9 @@ https://hipertextual.com/videojuegos/xbox-portatil-2027-consola-2028-project-hel
 El premio Nobel de Física lamenta la deriva fascista de Silicon Valley y avisa de que, si Trump gana las elecciones de medio mandato, será el fin de la democracia estadounidense
 https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy-catastrofista-creo-que-hay-un-1-de-posibilidades-de-que-nos-destruya.html
 🗓️ 2026-10-21 • 🏷️ elpais.com
+
+### 2026-10-21T17:55:05.501Z
+📰 OpenAI descubre que un agente de ChatGPT desactivó su propio sistema de seguridad y mintió
+OpenAI abrió una investigación para encontrar por qué una IA desactivó parte de sus sistemas de supervisión. La compañía publicó un informe en el que describe dos incidentes ocurridos durante pruebas internas de sus modelos de lenguaje, en …
+https://hipertextual.com/inteligencia-artificial/openai-ia-desactivo-supervision-seguridad/
+🗓️ 2026-10-21 • 🏷️ hipertextual.com
