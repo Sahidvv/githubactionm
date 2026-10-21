@@ -7765,3 +7765,9 @@ https://hipertextual.com/mobile/motorola-moto-g47-power-bateria-7000mah/
 Microsoft tiene planes de lanzar una consola portátil en 2027, antes de dar el salto a Project Helix. En una entrevista con Fortune, la jefa de Xbox, Asha Sharma, confirmó los planes de la compañía para los próximos años. Sharma señaló que …
 https://hipertextual.com/videojuegos/xbox-portatil-2027-consola-2028-project-helix/
 🗓️ 2026-10-20 • 🏷️ hipertextual.com
+
+### 2026-10-21T05:45:33.621Z
+📰 Geoffrey Hinton, el padrino de la IA: “No soy catastrofista. Creo que hay un 1% de posibilidades de que nos destruya”
+El premio Nobel de Física lamenta la deriva fascista de Silicon Valley y avisa de que, si Trump gana las elecciones de medio mandato, será el fin de la democracia estadounidense
+https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy-catastrofista-creo-que-hay-un-1-de-posibilidades-de-que-nos-destruya.html
+🗓️ 2026-10-21 • 🏷️ elpais.com

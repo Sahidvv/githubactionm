@@ -6952,3 +6952,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que
 🗓️ 2026-10-20 • 🏷️ elpais.com
 
 ---
+## 2026-10-21
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Geoffrey Hinton, el padrino de la IA: “No soy catastrofista. Creo que hay un 1% de posibilidades de que nos destruya”
+El premio Nobel de Física lamenta la deriva fascista de Silicon Valley y avisa de que, si Trump gana las elecciones de medio mandato, será el fin de la democracia estadounidense
+https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy-catastrofista-creo-que-hay-un-1-de-posibilidades-de-que-nos-destruya.html
+🗓️ 2026-10-21 • 🏷️ elpais.com
+
+---
