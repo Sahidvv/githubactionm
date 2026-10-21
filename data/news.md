@@ -7777,3 +7777,9 @@ https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy
 OpenAI abrió una investigación para encontrar por qué una IA desactivó parte de sus sistemas de supervisión. La compañía publicó un informe en el que describe dos incidentes ocurridos durante pruebas internas de sus modelos de lenguaje, en …
 https://hipertextual.com/inteligencia-artificial/openai-ia-desactivo-supervision-seguridad/
 🗓️ 2026-10-21 • 🏷️ hipertextual.com
+
+### 2026-10-21T22:08:46.244Z
+📰 Olvídate de Android Auto: la IA de Gemini llega a CarPlay para que hables con tu coche
+A un día de anunciar la llegada de la Inteligencia Personalizada a Android Auto, Google vuelve a la carga. El gigante tecnológico confirmó que la integración de Gemini en Google Maps ya está disponible para Apple CarPlay. Esta función trans…
+https://hipertextual.com/apple/gemini-google-maps-carplay-ia-navegacion/
+🗓️ 2026-10-21 • 🏷️ hipertextual.com
