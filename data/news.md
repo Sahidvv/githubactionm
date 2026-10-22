@@ -7789,3 +7789,9 @@ https://hipertextual.com/apple/gemini-google-maps-carplay-ia-navegacion/
 Teléfonos como el iPhone Duo o el Galaxy Z Fold8 prometen una pantalla como la de una tablet sin renunciar a llevar el teléfono en el bolsillo. Analizamos qué hay que sacrificar a cambio
 https://elpais.com/tecnologia/tu-tecnologia/2026-10-22/moviles-plegables-que-ganas-que-pierdes-y-cuanto-duran-de-verdad.html
 🗓️ 2026-10-22 • 🏷️ elpais.com
+
+### 2026-10-22T17:51:23.055Z
+📰 PS5 vuelve a caer ante los hackers: GTA VI para PC, un paso más cerca
+PS5 vuelve a ser protagonista de un importante avance en el terreno del jailbreak, y esta vez el descubrimiento llega en un momento especialmente interesante: a pocas semanas del lanzamiento de GTA VI. La comunidad de desarrolladores lleva …
+https://www.muycomputer.com/2026/10/22/ps5-vuelve-a-caer-ante-los-hackers-gta-vi-para-pc-un-paso-mas-cerca/
+🗓️ 2026-10-22 • 🏷️ muycomputer.com
