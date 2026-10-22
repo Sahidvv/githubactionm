@@ -6968,3 +6968,19 @@ https://elpais.com/ciencia/2026-10-21/geoffrey-hinton-el-padrino-de-la-ia-no-soy
 🗓️ 2026-10-21 • 🏷️ elpais.com
 
 ---
+## 2026-10-22
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Móviles plegables: qué ganas, qué pierdes y cuánto duran de verdad
+Teléfonos como el iPhone Duo o el Galaxy Z Fold8 prometen una pantalla como la de una tablet sin renunciar a llevar el teléfono en el bolsillo. Analizamos qué hay que sacrificar a cambio
+https://elpais.com/tecnologia/tu-tecnologia/2026-10-22/moviles-plegables-que-ganas-que-pierdes-y-cuanto-duran-de-verdad.html
+🗓️ 2026-10-22 • 🏷️ elpais.com
+
+---

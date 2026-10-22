@@ -7783,3 +7783,9 @@ https://hipertextual.com/inteligencia-artificial/openai-ia-desactivo-supervision
 A un día de anunciar la llegada de la Inteligencia Personalizada a Android Auto, Google vuelve a la carga. El gigante tecnológico confirmó que la integración de Gemini en Google Maps ya está disponible para Apple CarPlay. Esta función trans…
 https://hipertextual.com/apple/gemini-google-maps-carplay-ia-navegacion/
 🗓️ 2026-10-21 • 🏷️ hipertextual.com
+
+### 2026-10-22T05:47:34.302Z
+📰 Móviles plegables: qué ganas, qué pierdes y cuánto duran de verdad
+Teléfonos como el iPhone Duo o el Galaxy Z Fold8 prometen una pantalla como la de una tablet sin renunciar a llevar el teléfono en el bolsillo. Analizamos qué hay que sacrificar a cambio
+https://elpais.com/tecnologia/tu-tecnologia/2026-10-22/moviles-plegables-que-ganas-que-pierdes-y-cuanto-duran-de-verdad.html
+🗓️ 2026-10-22 • 🏷️ elpais.com
