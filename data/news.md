@@ -7795,3 +7795,9 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-10-22/moviles-plegables-que-gan
 PS5 vuelve a ser protagonista de un importante avance en el terreno del jailbreak, y esta vez el descubrimiento llega en un momento especialmente interesante: a pocas semanas del lanzamiento de GTA VI. La comunidad de desarrolladores lleva …
 https://www.muycomputer.com/2026/10/22/ps5-vuelve-a-caer-ante-los-hackers-gta-vi-para-pc-un-paso-mas-cerca/
 🗓️ 2026-10-22 • 🏷️ muycomputer.com
+
+### 2026-10-22T22:08:24.632Z
+📰 Tom Skerritt, estrella de &#8216;Alien&#8217; y &#8216;Top Gun&#8217;, ha muerto a los 93 años
+Tom Skerritt, uno de los actores más prolíficos y reconocibles de Hollywood, dueño de una carrera que se extendió por más de 60 años, ha fallecido a los 93 años. El actor es especialmente recordado por sus roles en películas como M*A*S*H (1…
+https://hipertextual.com/cine-television/tom-skerritt-alien-top-gun-ha-muerto-93-anos/
+🗓️ 2026-10-22 • 🏷️ hipertextual.com
