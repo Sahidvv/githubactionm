@@ -7807,3 +7807,9 @@ https://hipertextual.com/cine-television/tom-skerritt-alien-top-gun-ha-muerto-93
 La compañía de Mark Zuckerberg deberá pagar 22.000 millones al Estado de Nuevo México, que se suman a los 18.000 acordados para frenar otra demanda por los efectos de las redes sociales. Y el curso todavía no ha acabado
 https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-mayor-multa-a-una-tecnologica-por-cometer-43-millones-de-infracciones.html
 🗓️ 2026-10-23 • 🏷️ elpais.com
+
+### 2026-10-23T17:44:00.208Z
+📰 Chrome recurre a Gemini para detectar estafas antes de que caigas en ellas
+Chrome continúa reforzando sus herramientas de seguridad para hacer frente a unas estafas online cada vez más sofisticadas. Los ciberdelincuentes ya no se limitan a crear páginas fraudulentas que imitan servicios conocidos, sino que utiliza…
+https://www.muycomputer.com/2026/10/23/chrome-recurre-a-gemini-para-detectar-estafas-antes-de-que-caigas-en-ellas/
+🗓️ 2026-10-23 • 🏷️ muycomputer.com
