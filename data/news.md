@@ -7813,3 +7813,9 @@ https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-m
 Chrome continúa reforzando sus herramientas de seguridad para hacer frente a unas estafas online cada vez más sofisticadas. Los ciberdelincuentes ya no se limitan a crear páginas fraudulentas que imitan servicios conocidos, sino que utiliza…
 https://www.muycomputer.com/2026/10/23/chrome-recurre-a-gemini-para-detectar-estafas-antes-de-que-caigas-en-ellas/
 🗓️ 2026-10-23 • 🏷️ muycomputer.com
+
+### 2026-10-23T21:52:10.077Z
+📰 Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot
+Microsoft continúa ajustando su estrategia de inteligencia artificial en Windows 11. A unos meses de prometer cambios estructurales, el gigante tecnológico confirmó que retirará varias acciones de Copilot integradas en el Explorador de arch…
+https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/
+🗓️ 2026-10-23 • 🏷️ hipertextual.com
