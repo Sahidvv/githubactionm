@@ -6984,3 +6984,19 @@ https://elpais.com/tecnologia/tu-tecnologia/2026-10-22/moviles-plegables-que-gan
 🗓️ 2026-10-22 • 🏷️ elpais.com
 
 ---
+## 2026-10-23
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 El año negro de Meta: las claves de la mayor multa a una tecnológica por cometer 43 millones de infracciones
+La compañía de Mark Zuckerberg deberá pagar 22.000 millones al Estado de Nuevo México, que se suman a los 18.000 acordados para frenar otra demanda por los efectos de las redes sociales. Y el curso todavía no ha acabado
+https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-mayor-multa-a-una-tecnologica-por-cometer-43-millones-de-infracciones.html
+🗓️ 2026-10-23 • 🏷️ elpais.com
+
+---

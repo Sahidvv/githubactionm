@@ -7801,3 +7801,9 @@ https://www.muycomputer.com/2026/10/22/ps5-vuelve-a-caer-ante-los-hackers-gta-vi
 Tom Skerritt, uno de los actores más prolíficos y reconocibles de Hollywood, dueño de una carrera que se extendió por más de 60 años, ha fallecido a los 93 años. El actor es especialmente recordado por sus roles en películas como M*A*S*H (1…
 https://hipertextual.com/cine-television/tom-skerritt-alien-top-gun-ha-muerto-93-anos/
 🗓️ 2026-10-22 • 🏷️ hipertextual.com
+
+### 2026-10-23T05:46:42.499Z
+📰 El año negro de Meta: las claves de la mayor multa a una tecnológica por cometer 43 millones de infracciones
+La compañía de Mark Zuckerberg deberá pagar 22.000 millones al Estado de Nuevo México, que se suman a los 18.000 acordados para frenar otra demanda por los efectos de las redes sociales. Y el curso todavía no ha acabado
+https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-mayor-multa-a-una-tecnologica-por-cometer-43-millones-de-infracciones.html
+🗓️ 2026-10-23 • 🏷️ elpais.com
