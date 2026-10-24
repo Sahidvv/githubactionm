@@ -7831,3 +7831,9 @@ https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-
 Activar y desactivar manualmente el HDR es una de las tareas más tediosas para quienes usan Windows con un monitor compatible, sobre todo si es OLED. Si juegas o ves vídeos en YouTube y luego vuelves al escritorio, es probable que tengas qu…
 https://hipertextual.com/tecnologia/automatizar-hdr-sdr-windows-smart-hdr-manager/
 🗓️ 2026-10-24 • 🏷️ hipertextual.com
+
+### 2026-10-24T21:25:05.118Z
+📰 Las mejores adaptaciones de Jane Austen para ver si te gustó ‘Sentido y sensibilidad’
+Sentido y sensibilidad de Georgia Oakley demuestran algo que cualquier fanático del cine de época ya sabe. Jane Austen nunca pasa de moda. De hecho, la nueva adaptación de una de las novelas más conocidas de la autora es una combinación bri…
+https://hipertextual.com/cine-television/las-mejores-adaptaciones-de-jane-austen-para-ver-si-te-gusto-sentido-y-sensibilidad/
+🗓️ 2026-10-24 • 🏷️ hipertextual.com
