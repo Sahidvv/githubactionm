@@ -7825,3 +7825,9 @@ https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-cop
 Netflix intentó licenciar en exclusiva las propiedades intelectuales de Xbox para desarrollar series y películas originales, pero el acuerdo finalmente no llegó a buen puerto. Según reporta Puck, la plataforma de streaming ofreció 500 millo…
 https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-para-peliculas-y-series/
 🗓️ 2026-10-23 • 🏷️ hipertextual.com
+
+### 2026-10-24T16:26:34.126Z
+📰 Si tienes una pantalla OLED, esta app gratuita corrige uno de los peores problemas de Windows
+Activar y desactivar manualmente el HDR es una de las tareas más tediosas para quienes usan Windows con un monitor compatible, sobre todo si es OLED. Si juegas o ves vídeos en YouTube y luego vuelves al escritorio, es probable que tengas qu…
+https://hipertextual.com/tecnologia/automatizar-hdr-sdr-windows-smart-hdr-manager/
+🗓️ 2026-10-24 • 🏷️ hipertextual.com
