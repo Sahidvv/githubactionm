@@ -7000,3 +7000,19 @@ https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-m
 🗓️ 2026-10-23 • 🏷️ elpais.com
 
 ---
+## 2026-10-24
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Netflix quería pagar una fortuna para hacer series y películas de juegos de Xbox: por qué no prosperó
+Netflix intentó licenciar en exclusiva las propiedades intelectuales de Xbox para desarrollar series y películas originales, pero el acuerdo finalmente no llegó a buen puerto. Según reporta Puck, la plataforma de streaming ofreció 500 millo…
+https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-para-peliculas-y-series/
+🗓️ 2026-10-23 • 🏷️ hipertextual.com
+
+---

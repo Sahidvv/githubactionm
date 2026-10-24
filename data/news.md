@@ -7819,3 +7819,9 @@ https://www.muycomputer.com/2026/10/23/chrome-recurre-a-gemini-para-detectar-est
 Microsoft continúa ajustando su estrategia de inteligencia artificial en Windows 11. A unos meses de prometer cambios estructurales, el gigante tecnológico confirmó que retirará varias acciones de Copilot integradas en el Explorador de arch…
 https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/
 🗓️ 2026-10-23 • 🏷️ hipertextual.com
+
+### 2026-10-24T05:26:32.474Z
+📰 Netflix quería pagar una fortuna para hacer series y películas de juegos de Xbox: por qué no prosperó
+Netflix intentó licenciar en exclusiva las propiedades intelectuales de Xbox para desarrollar series y películas originales, pero el acuerdo finalmente no llegó a buen puerto. Según reporta Puck, la plataforma de streaming ofreció 500 millo…
+https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-para-peliculas-y-series/
+🗓️ 2026-10-23 • 🏷️ hipertextual.com
