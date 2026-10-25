@@ -7843,3 +7843,9 @@ https://hipertextual.com/cine-television/las-mejores-adaptaciones-de-jane-austen
 La multa de 22.000 millones impuesta a la tecnológica por ceder datos de sus usuarios para condicionarles el voto llega entre acusaciones de que sus algoritmos favorecen a Bolsonaro en Brasil y a pocos días de las ‘midterms’ en EE UU
 https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-meta-no-ahuyenta-los-fantasmas-de-la-injerencia-politica.html
 🗓️ 2026-10-25 • 🏷️ elpais.com
+
+### 2026-10-25T16:58:10.026Z
+📰 ‘Wildwood: El bosque salvaje’ es una obra de arte de animación que pasará a la historia
+Wildwood: El bosque salvaje es un cuento de hadas brillante, conmovedor y con un guion lleno de sorpresas. Pero además, es una obra de arte artesanal, de paciencia y minucioso cuidado que deslumbra desde su primera escena. Heredera directa …
+https://hipertextual.com/cine-television/wildwood-el-bosque-salvaje-es-una-obra-de-arte-de-animacion-que-pasara-a-la-historia/
+🗓️ 2026-10-25 • 🏷️ hipertextual.com
