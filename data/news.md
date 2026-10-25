@@ -7849,3 +7849,9 @@ https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-m
 Wildwood: El bosque salvaje es un cuento de hadas brillante, conmovedor y con un guion lleno de sorpresas. Pero además, es una obra de arte artesanal, de paciencia y minucioso cuidado que deslumbra desde su primera escena. Heredera directa …
 https://hipertextual.com/cine-television/wildwood-el-bosque-salvaje-es-una-obra-de-arte-de-animacion-que-pasara-a-la-historia/
 🗓️ 2026-10-25 • 🏷️ hipertextual.com
+
+### 2026-10-25T21:28:51.488Z
+📰 iPhone Duo: aparecen roturas de pantalla tras solo unas horas de uso
+El iPhone Duo acaba de llegar al mercado y ya se enfrenta a las primeras dudas sobre su durabilidad. El estreno de Apple en el segmento de los teléfonos plegables despertó un enorme interés, especialmente por las soluciones de ingeniería de…
+https://www.muycomputer.com/2026/10/25/iphone-duo-aparecen-roturas-de-pantalla-tras-solo-unas-horas-de-uso/
+🗓️ 2026-10-25 • 🏷️ muycomputer.com
