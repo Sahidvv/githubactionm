@@ -7837,3 +7837,9 @@ https://hipertextual.com/tecnologia/automatizar-hdr-sdr-windows-smart-hdr-manage
 Sentido y sensibilidad de Georgia Oakley demuestran algo que cualquier fanático del cine de época ya sabe. Jane Austen nunca pasa de moda. De hecho, la nueva adaptación de una de las novelas más conocidas de la autora es una combinación bri…
 https://hipertextual.com/cine-television/las-mejores-adaptaciones-de-jane-austen-para-ver-si-te-gusto-sentido-y-sensibilidad/
 🗓️ 2026-10-24 • 🏷️ hipertextual.com
+
+### 2026-10-25T05:45:15.550Z
+📰 Cambridge Analytica, diez años después: Meta no ahuyenta los fantasmas de la injerencia política
+La multa de 22.000 millones impuesta a la tecnológica por ceder datos de sus usuarios para condicionarles el voto llega entre acusaciones de que sus algoritmos favorecen a Bolsonaro en Brasil y a pocos días de las ‘midterms’ en EE UU
+https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-meta-no-ahuyenta-los-fantasmas-de-la-injerencia-politica.html
+🗓️ 2026-10-25 • 🏷️ elpais.com

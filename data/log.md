@@ -7016,3 +7016,19 @@ https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-
 🗓️ 2026-10-23 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-25
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Cambridge Analytica, diez años después: Meta no ahuyenta los fantasmas de la injerencia política
+La multa de 22.000 millones impuesta a la tecnológica por ceder datos de sus usuarios para condicionarles el voto llega entre acusaciones de que sus algoritmos favorecen a Bolsonaro en Brasil y a pocos días de las ‘midterms’ en EE UU
+https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-meta-no-ahuyenta-los-fantasmas-de-la-injerencia-politica.html
+🗓️ 2026-10-25 • 🏷️ elpais.com
+
+---
