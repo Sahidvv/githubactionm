@@ -7855,3 +7855,9 @@ https://hipertextual.com/cine-television/wildwood-el-bosque-salvaje-es-una-obra-
 El iPhone Duo acaba de llegar al mercado y ya se enfrenta a las primeras dudas sobre su durabilidad. El estreno de Apple en el segmento de los teléfonos plegables despertó un enorme interés, especialmente por las soluciones de ingeniería de…
 https://www.muycomputer.com/2026/10/25/iphone-duo-aparecen-roturas-de-pantalla-tras-solo-unas-horas-de-uso/
 🗓️ 2026-10-25 • 🏷️ muycomputer.com
+
+### 2026-10-26T05:48:09.608Z
+📰 ¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?
+El cierre de BioWare por parte de Electronic Arts sigue dando que hablar. El estudio detrás de sagas icónicas como Dragon Age, Mass Effect y las primeras dos entregas de Baldur’s Gate dejó de operar tras 31 años de actividad y despidió a to…
+https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tras-el-cierre-de-bioware/
+🗓️ 2026-10-25 • 🏷️ hipertextual.com

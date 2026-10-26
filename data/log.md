@@ -7032,3 +7032,19 @@ https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-m
 🗓️ 2026-10-25 • 🏷️ elpais.com
 
 ---
+## 2026-10-26
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 ¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?
+El cierre de BioWare por parte de Electronic Arts sigue dando que hablar. El estudio detrás de sagas icónicas como Dragon Age, Mass Effect y las primeras dos entregas de Baldur’s Gate dejó de operar tras 31 años de actividad y despidió a to…
+https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tras-el-cierre-de-bioware/
+🗓️ 2026-10-25 • 🏷️ hipertextual.com
+
+---
