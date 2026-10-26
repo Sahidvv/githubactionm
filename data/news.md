@@ -7861,3 +7861,9 @@ https://www.muycomputer.com/2026/10/25/iphone-duo-aparecen-roturas-de-pantalla-t
 El cierre de BioWare por parte de Electronic Arts sigue dando que hablar. El estudio detrás de sagas icónicas como Dragon Age, Mass Effect y las primeras dos entregas de Baldur’s Gate dejó de operar tras 31 años de actividad y despidió a to…
 https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tras-el-cierre-de-bioware/
 🗓️ 2026-10-25 • 🏷️ hipertextual.com
+
+### 2026-10-26T19:02:13.055Z
+📰 Apple reconoce el problema del iPhone Duo y promete reemplazar los móviles afectados
+Tras un fin de semana para el olvido, Apple reconoció el fallo de pantalla del iPhone Duo y prometió resolverlo a la brevedad. La compañía publicó su postura y mencionó que el problema afecta a un número limitado de unidades, las cuales ser…
+https://hipertextual.com/apple/apple-reconoce-fallo-pantalla-iphone-duo/
+🗓️ 2026-10-26 • 🏷️ hipertextual.com
