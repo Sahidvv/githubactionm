@@ -7867,3 +7867,9 @@ https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tra
 Tras un fin de semana para el olvido, Apple reconoció el fallo de pantalla del iPhone Duo y prometió resolverlo a la brevedad. La compañía publicó su postura y mencionó que el problema afecta a un número limitado de unidades, las cuales ser…
 https://hipertextual.com/apple/apple-reconoce-fallo-pantalla-iphone-duo/
 🗓️ 2026-10-26 • 🏷️ hipertextual.com
+
+### 2026-10-27T06:00:40.218Z
+📰 Comprar un Galaxy A será más difícil y caro: Samsung sacrifica su gama más vendida
+La gama media de Samsung podría enfrentar uno de sus mayores ajustes en los últimos años. El gigante surcoreano ha decidido reducir la producción de sus Galaxy A, la familia de dispositivos más vendida en todo el mundo. El aumento en el cos…
+https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-precios/
+🗓️ 2026-10-26 • 🏷️ hipertextual.com

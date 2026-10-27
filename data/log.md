@@ -7048,3 +7048,19 @@ https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tra
 🗓️ 2026-10-25 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-27
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Comprar un Galaxy A será más difícil y caro: Samsung sacrifica su gama más vendida
+La gama media de Samsung podría enfrentar uno de sus mayores ajustes en los últimos años. El gigante surcoreano ha decidido reducir la producción de sus Galaxy A, la familia de dispositivos más vendida en todo el mundo. El aumento en el cos…
+https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-precios/
+🗓️ 2026-10-26 • 🏷️ hipertextual.com
+
+---
