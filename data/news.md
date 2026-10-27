@@ -7873,3 +7873,9 @@ https://hipertextual.com/apple/apple-reconoce-fallo-pantalla-iphone-duo/
 La gama media de Samsung podría enfrentar uno de sus mayores ajustes en los últimos años. El gigante surcoreano ha decidido reducir la producción de sus Galaxy A, la familia de dispositivos más vendida en todo el mundo. El aumento en el cos…
 https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-precios/
 🗓️ 2026-10-26 • 🏷️ hipertextual.com
+
+### 2026-10-27T18:33:24.737Z
+📰 MacBook Pro 14 M6: Apple estrena una nueva generación de potencia e IA
+El MacBook Pro 14 M6 da el siguiente paso en la nueva generación de Apple Silicon, con la que Apple quiere seguir ampliando las posibilidades de sus ordenadores profesionales, especialmente en aquellos escenarios donde el rendimiento tradic…
+https://www.muycomputer.com/2026/10/27/macbook-pro-14-m6-apple-estrena-una-nueva-generacion-de-potencia-e-ia/
+🗓️ 2026-10-27 • 🏷️ muycomputer.com
