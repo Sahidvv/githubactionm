@@ -7879,3 +7879,9 @@ https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-preci
 El MacBook Pro 14 M6 da el siguiente paso en la nueva generación de Apple Silicon, con la que Apple quiere seguir ampliando las posibilidades de sus ordenadores profesionales, especialmente en aquellos escenarios donde el rendimiento tradic…
 https://www.muycomputer.com/2026/10/27/macbook-pro-14-m6-apple-estrena-una-nueva-generacion-de-potencia-e-ia/
 🗓️ 2026-10-27 • 🏷️ muycomputer.com
+
+### 2026-10-27T22:51:26.954Z
+📰 Apple pisa el acelerador con el MacBook Neo 2
+Este año, el MacBook Neo tomó el mercado de portátiles ligeros por asalto. El dispositivo de Apple demostró que un chip de iPhone (y ni siquiera el de última generación) era lo suficientemente potente para ofrecer una experiencia de primera…
+https://hipertextual.com/apple/apple-pisa-el-acelerador-con-el-macbook-neo-2/
+🗓️ 2026-10-27 • 🏷️ hipertextual.com
