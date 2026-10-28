@@ -7897,3 +7897,9 @@ https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantall
 NVIDIA RTX Spark quiere que podamos trabajar con inteligencia artificial en nuestro ordenador sin tener que dejar de utilizarlo para todo lo demás. La idea resulta especialmente interesante cuando pensamos en agentes capaces de analizar doc…
 https://www.muycomputer.com/2026/10/28/nvidia-rtx-spark-tu-decides-cuanta-potencia-reciben-tus-agentes-de-ia/
 🗓️ 2026-10-28 • 🏷️ muycomputer.com
+
+### 2026-10-28T22:57:04.149Z
+📰 Tus mensajes de Discord podrían aparecer en Google si no haces este ajuste
+Discord implementará un cambio que podría poner en riesgo la privacidad de sus usuarios. La plataforma anunció que parte del contenido publicado en sus servidores públicos comenzará a ser visible en los buscadores web, incluyendo tus mensaj…
+https://hipertextual.com/internet/discord-mensajes-google-como-evitar-indexacion/
+🗓️ 2026-10-28 • 🏷️ hipertextual.com
