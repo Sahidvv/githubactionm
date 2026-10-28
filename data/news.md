@@ -7891,3 +7891,9 @@ https://hipertextual.com/apple/apple-pisa-el-acelerador-con-el-macbook-neo-2/
 La IA y el cansancio digital impulsan dispositivos que funcionan sin pantalla, sin iconos y, en algunos casos, sin necesidad de sacar el móvil del bolsillo
 https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantalla-y-por-que-cada-vez-hay-mas.html
 🗓️ 2026-10-28 • 🏷️ elpais.com
+
+### 2026-10-28T18:39:50.739Z
+📰 NVIDIA RTX Spark: tú decides cuánta potencia reciben tus agentes de IA
+NVIDIA RTX Spark quiere que podamos trabajar con inteligencia artificial en nuestro ordenador sin tener que dejar de utilizarlo para todo lo demás. La idea resulta especialmente interesante cuando pensamos en agentes capaces de analizar doc…
+https://www.muycomputer.com/2026/10/28/nvidia-rtx-spark-tu-decides-cuanta-potencia-reciben-tus-agentes-de-ia/
+🗓️ 2026-10-28 • 🏷️ muycomputer.com
