@@ -7885,3 +7885,9 @@ https://www.muycomputer.com/2026/10/27/macbook-pro-14-m6-apple-estrena-una-nueva
 Este año, el MacBook Neo tomó el mercado de portátiles ligeros por asalto. El dispositivo de Apple demostró que un chip de iPhone (y ni siquiera el de última generación) era lo suficientemente potente para ofrecer una experiencia de primera…
 https://hipertextual.com/apple/apple-pisa-el-acelerador-con-el-macbook-neo-2/
 🗓️ 2026-10-27 • 🏷️ hipertextual.com
+
+### 2026-10-28T06:39:24.719Z
+📰 La moda de los dispositivos sin pantalla y por qué cada vez hay más
+La IA y el cansancio digital impulsan dispositivos que funcionan sin pantalla, sin iconos y, en algunos casos, sin necesidad de sacar el móvil del bolsillo
+https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantalla-y-por-que-cada-vez-hay-mas.html
+🗓️ 2026-10-28 • 🏷️ elpais.com

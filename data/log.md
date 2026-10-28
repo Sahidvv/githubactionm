@@ -7064,3 +7064,19 @@ https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-preci
 🗓️ 2026-10-26 • 🏷️ hipertextual.com
 
 ---
+## 2026-10-28
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 La moda de los dispositivos sin pantalla y por qué cada vez hay más
+La IA y el cansancio digital impulsan dispositivos que funcionan sin pantalla, sin iconos y, en algunos casos, sin necesidad de sacar el móvil del bolsillo
+https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantalla-y-por-que-cada-vez-hay-mas.html
+🗓️ 2026-10-28 • 🏷️ elpais.com
+
+---
