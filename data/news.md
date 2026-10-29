@@ -7915,3 +7915,9 @@ https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazar
 EMACS (GNU Emacs), el mítico editor de texto que dio origen al software libre, cumple su 50 aniversario y desde el MIT Technology le han dedicado un merecido homenaje que nos acerca a una época donde el mundo de la computación personal y el…
 https://www.muycomputerpro.com/2026/10/29/50-anos-de-emacs-el-editor-que-dio-origen-al-software-libre
 🗓️ 2026-10-29 • 🏷️ muycomputerpro.com
+
+### 2026-10-29T23:06:00.124Z
+📰 Windows 11 ahora puede reinstalarse desde la nube aunque el PC no arranque
+Windows 11 acaba de recibir una función muy interesante con su más reciente actualización. A partir de la versión KB5127936, el sistema operativo se puede reinstalar de forma completa desde la nube, incluyendo los drivers, aun cuando el ord…
+https://hipertextual.com/software/reinstalar-windows-11-y-drivers-desde-nube-cloud-rebuild/
+🗓️ 2026-10-29 • 🏷️ hipertextual.com
