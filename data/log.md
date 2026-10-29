@@ -7080,3 +7080,19 @@ https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantall
 🗓️ 2026-10-28 • 🏷️ elpais.com
 
 ---
+## 2026-10-29
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Los hackers norcoreanos del grupo Lazarus se blindan con IA y cifrado poscuántico
+El brazo cibernético de Pyongyang empieza a proteger sus ataques contra la potente computación cuántica, llamada a revolucionar la informática
+https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazarus-se-blindan-con-ia-y-cifrado-poscuantico.html
+🗓️ 2026-10-29 • 🏷️ elpais.com
+
+---

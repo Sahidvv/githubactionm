@@ -7903,3 +7903,9 @@ https://www.muycomputer.com/2026/10/28/nvidia-rtx-spark-tu-decides-cuanta-potenc
 Discord implementará un cambio que podría poner en riesgo la privacidad de sus usuarios. La plataforma anunció que parte del contenido publicado en sus servidores públicos comenzará a ser visible en los buscadores web, incluyendo tus mensaj…
 https://hipertextual.com/internet/discord-mensajes-google-como-evitar-indexacion/
 🗓️ 2026-10-28 • 🏷️ hipertextual.com
+
+### 2026-10-29T06:46:50.550Z
+📰 Los hackers norcoreanos del grupo Lazarus se blindan con IA y cifrado poscuántico
+El brazo cibernético de Pyongyang empieza a proteger sus ataques contra la potente computación cuántica, llamada a revolucionar la informática
+https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazarus-se-blindan-con-ia-y-cifrado-poscuantico.html
+🗓️ 2026-10-29 • 🏷️ elpais.com
