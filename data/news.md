@@ -7909,3 +7909,9 @@ https://hipertextual.com/internet/discord-mensajes-google-como-evitar-indexacion
 El brazo cibernético de Pyongyang empieza a proteger sus ataques contra la potente computación cuántica, llamada a revolucionar la informática
 https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazarus-se-blindan-con-ia-y-cifrado-poscuantico.html
 🗓️ 2026-10-29 • 🏷️ elpais.com
+
+### 2026-10-29T18:48:34.268Z
+📰 50 años de EMACS, el editor que dio origen al software libre
+EMACS (GNU Emacs), el mítico editor de texto que dio origen al software libre, cumple su 50 aniversario y desde el MIT Technology le han dedicado un merecido homenaje que nos acerca a una época donde el mundo de la computación personal y el…
+https://www.muycomputerpro.com/2026/10/29/50-anos-de-emacs-el-editor-que-dio-origen-al-software-libre
+🗓️ 2026-10-29 • 🏷️ muycomputerpro.com
