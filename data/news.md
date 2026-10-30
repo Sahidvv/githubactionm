@@ -7933,3 +7933,9 @@ https://elpais.com/tecnologia/2026-10-30/estres-o-emocion-por-que-tu-reloj-intel
 Spotify está pensando en llevar aún más lejos su apuesta por la inteligencia artificial. Un reporte afirma que la plataforma trabaja en una nueva función que permitirá crear remixes personalizados de canciones mediante IA. La nueva función …
 https://hipertextual.com/inteligencia-artificial/spotify-remixes-inteligencia-artificial-suscripcion/
 🗓️ 2026-10-30 • 🏷️ hipertextual.com
+
+### 2026-10-30T22:48:17.915Z
+📰 Estos Galaxy Watch estarían a punto de quedarse sin nuevas funciones de Samsung
+Samsung podría dejar sin actualizaciones a sus Galaxy Watch más antiguos. Una filtración asegura que la surcoreana está considerando no lanzar más actualizaciones de sistema para los relojes inteligentes más viejos, privándolos de nuevas fu…
+https://hipertextual.com/mobile/galaxy-watch-fin-actualizaciones-samsung/
+🗓️ 2026-10-30 • 🏷️ hipertextual.com
