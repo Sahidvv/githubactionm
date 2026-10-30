@@ -7096,3 +7096,19 @@ https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazar
 🗓️ 2026-10-29 • 🏷️ elpais.com
 
 ---
+## 2026-10-30
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 ¿Estrés o emoción? Por qué tu reloj inteligente no distingue la diferencia
+Algunos ‘smartwatches’ son capaces de registrar cambios fisiológicos para vigilar la ansiedad, pero una frecuencia cardíaca alterada no siempre refleja lo que sentimos
+https://elpais.com/tecnologia/2026-10-30/estres-o-emocion-por-que-tu-reloj-inteligente-no-distingue-la-diferencia.html
+🗓️ 2026-10-30 • 🏷️ elpais.com
+
+---

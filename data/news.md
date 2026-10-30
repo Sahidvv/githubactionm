@@ -7921,3 +7921,9 @@ https://www.muycomputerpro.com/2026/10/29/50-anos-de-emacs-el-editor-que-dio-ori
 Windows 11 acaba de recibir una función muy interesante con su más reciente actualización. A partir de la versión KB5127936, el sistema operativo se puede reinstalar de forma completa desde la nube, incluyendo los drivers, aun cuando el ord…
 https://hipertextual.com/software/reinstalar-windows-11-y-drivers-desde-nube-cloud-rebuild/
 🗓️ 2026-10-29 • 🏷️ hipertextual.com
+
+### 2026-10-30T06:49:54.848Z
+📰 ¿Estrés o emoción? Por qué tu reloj inteligente no distingue la diferencia
+Algunos ‘smartwatches’ son capaces de registrar cambios fisiológicos para vigilar la ansiedad, pero una frecuencia cardíaca alterada no siempre refleja lo que sentimos
+https://elpais.com/tecnologia/2026-10-30/estres-o-emocion-por-que-tu-reloj-inteligente-no-distingue-la-diferencia.html
+🗓️ 2026-10-30 • 🏷️ elpais.com
