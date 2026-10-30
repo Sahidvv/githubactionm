@@ -7927,3 +7927,9 @@ https://hipertextual.com/software/reinstalar-windows-11-y-drivers-desde-nube-clo
 Algunos ‘smartwatches’ son capaces de registrar cambios fisiológicos para vigilar la ansiedad, pero una frecuencia cardíaca alterada no siempre refleja lo que sentimos
 https://elpais.com/tecnologia/2026-10-30/estres-o-emocion-por-que-tu-reloj-inteligente-no-distingue-la-diferencia.html
 🗓️ 2026-10-30 • 🏷️ elpais.com
+
+### 2026-10-30T18:25:52.652Z
+📰 Spotify quiere que cambies tus canciones favoritas con IA, pero hay un problema
+Spotify está pensando en llevar aún más lejos su apuesta por la inteligencia artificial. Un reporte afirma que la plataforma trabaja en una nueva función que permitirá crear remixes personalizados de canciones mediante IA. La nueva función …
+https://hipertextual.com/inteligencia-artificial/spotify-remixes-inteligencia-artificial-suscripcion/
+🗓️ 2026-10-30 • 🏷️ hipertextual.com
