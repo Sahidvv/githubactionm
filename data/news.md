@@ -7945,3 +7945,9 @@ https://hipertextual.com/mobile/galaxy-watch-fin-actualizaciones-samsung/
 La industria de los semiconductores atraviesa una de las peores crisis desde la pandemia. La explosión de la IA ha disparado la demanda de memoria a niveles nunca antes vistos, lo cual generó una escasez y aumento de precios que han golpead…
 https://hipertextual.com/inteligencia-artificial/z2ram-memoria-crisis-ia/
 🗓️ 2026-10-30 • 🏷️ hipertextual.com
+
+### 2026-10-31T17:30:49.319Z
+📰 10 películas de terror buenísimas que puedes ver en Netflix en Halloween 2026
+Con la llegada de Halloween 2026, es momento de disfrutar de una buena historia de miedo en el sofá de casa. Las plataformas de streaming, desde Netflix hasta Amazon Prime Video o HBO Max, han ido llenando sus catálogos de infinidad de títu…
+https://hipertextual.com/cine-television/10-peliculas-de-terror-buenisimas-que-puedes-ver-en-netflix-en-halloween-2026/
+🗓️ 2026-10-31 • 🏷️ hipertextual.com
