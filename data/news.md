@@ -7939,3 +7939,9 @@ https://hipertextual.com/inteligencia-artificial/spotify-remixes-inteligencia-ar
 Samsung podría dejar sin actualizaciones a sus Galaxy Watch más antiguos. Una filtración asegura que la surcoreana está considerando no lanzar más actualizaciones de sistema para los relojes inteligentes más viejos, privándolos de nuevas fu…
 https://hipertextual.com/mobile/galaxy-watch-fin-actualizaciones-samsung/
 🗓️ 2026-10-30 • 🏷️ hipertextual.com
+
+### 2026-10-31T06:41:14.603Z
+📰 Esta nueva memoria promete resolver uno de los mayores problemas creados por la IA
+La industria de los semiconductores atraviesa una de las peores crisis desde la pandemia. La explosión de la IA ha disparado la demanda de memoria a niveles nunca antes vistos, lo cual generó una escasez y aumento de precios que han golpead…
+https://hipertextual.com/inteligencia-artificial/z2ram-memoria-crisis-ia/
+🗓️ 2026-10-30 • 🏷️ hipertextual.com
