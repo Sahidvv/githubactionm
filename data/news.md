@@ -7963,3 +7963,9 @@ https://hipertextual.com/cine-television/extraterrestres-disparos-ciencia-ficcio
 El checo Ondrej Surý salvó millones de páginas la semana pasada tras descubrirse unos agujeros de seguridad en PHP. La IA acelera el hallazgo de nuevas vulnerabilidades y voluntarios como él no dan abasto
 https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataques-que-tumbaron-miles-de-webs-hace-falta-querer-hacer-algo-por-los-demas.html
 🗓️ 2026-11-01 • 🏷️ elpais.com
+
+### 2026-11-01T18:16:31.305Z
+📰 Windows 11 por fin te dirá qué aplicaciones pueden verte, escucharte y rastrearte
+La privacidad en Windows 11 recibirá una de sus mejoras más importantes de los últimos años. Microsoft comenzó a probar nuevos controles que permitirán gestionar de forma individual el acceso de las aplicaciones de escritorio a la cámara, m…
+https://hipertextual.com/software/windows-11-apps-camara-microfono-ubicacion-privacidad/
+🗓️ 2026-11-01 • 🏷️ hipertextual.com
