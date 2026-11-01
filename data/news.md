@@ -7969,3 +7969,9 @@ https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataque
 La privacidad en Windows 11 recibirá una de sus mejoras más importantes de los últimos años. Microsoft comenzó a probar nuevos controles que permitirán gestionar de forma individual el acceso de las aplicaciones de escritorio a la cámara, m…
 https://hipertextual.com/software/windows-11-apps-camara-microfono-ubicacion-privacidad/
 🗓️ 2026-11-01 • 🏷️ hipertextual.com
+
+### 2026-11-01T22:35:47.919Z
+📰 Los mejores contenidos de la semana en MuyComputer (DXLVII)
+Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Altavoces Creative XF1 análisis completo. Los Creat…
+https://www.muycomputer.com/2026/11/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlvii/
+🗓️ 2026-11-01 • 🏷️ muycomputer.com
