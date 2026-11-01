@@ -7957,3 +7957,9 @@ https://hipertextual.com/cine-television/10-peliculas-de-terror-buenisimas-que-p
 Hope (2026), escrita y dirigida por el cineasta coreano Na Hong-jin, podría parecer otra película de ciencia ficción sobre el primer encuentro extraterrestre. O quizás, solo un relato escalofriante sobre una amenaza terrorífica que debe ser…
 https://hipertextual.com/cine-television/extraterrestres-disparos-ciencia-ficcion-y-filosofia-esto-es-lo-que-debes-saber-de-hope-la-pelicula-que-causa-sensacion-y-se-estrena-en-espana/
 🗓️ 2026-10-31 • 🏷️ hipertextual.com
+
+### 2026-11-01T07:09:31.031Z
+📰 Un solo hombre frente a los ciberataques que tumbaron miles de webs: “Hace falta querer hacer algo por los demás”
+El checo Ondrej Surý salvó millones de páginas la semana pasada tras descubrirse unos agujeros de seguridad en PHP. La IA acelera el hallazgo de nuevas vulnerabilidades y voluntarios como él no dan abasto
+https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataques-que-tumbaron-miles-de-webs-hace-falta-querer-hacer-algo-por-los-demas.html
+🗓️ 2026-11-01 • 🏷️ elpais.com
