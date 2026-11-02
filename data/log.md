@@ -7144,3 +7144,19 @@ https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataque
 🗓️ 2026-11-01 • 🏷️ elpais.com
 
 ---
+## 2026-11-02
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 FromSoftware cumple 40 años: de crear software empresarial a revolucionar los videojuegos
+FromSoftware cumple hoy, 1 de noviembre, 40 años, aunque su historia empezó muy lejos de los videojuegos que la han convertido en una referencia mundial. Fundada en Japón en 1986 para desarrollar aplicaciones empresariales, tardó ocho años …
+https://www.muycomputer.com/2026/11/01/fromsoftware-cumple-40-anos-de-crear-software-empresarial-a-revolucionar-los-videojuegos/
+🗓️ 2026-11-01 • 🏷️ muycomputer.com
+
+---

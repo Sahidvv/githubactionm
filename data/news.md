@@ -7975,3 +7975,9 @@ https://hipertextual.com/software/windows-11-apps-camara-microfono-ubicacion-pri
 Cerramos domingo con el recopilatorio de los mejores contenidos que hemos publicado en MC a lo largo de la semana y que puedes revisar de un vistazo en esta selección con lo más relevante: Altavoces Creative XF1 análisis completo. Los Creat…
 https://www.muycomputer.com/2026/11/01/los-mejores-contenidos-de-la-semana-en-muycomputer-dxlvii/
 🗓️ 2026-11-01 • 🏷️ muycomputer.com
+
+### 2026-11-02T07:19:23.777Z
+📰 FromSoftware cumple 40 años: de crear software empresarial a revolucionar los videojuegos
+FromSoftware cumple hoy, 1 de noviembre, 40 años, aunque su historia empezó muy lejos de los videojuegos que la han convertido en una referencia mundial. Fundada en Japón en 1986 para desarrollar aplicaciones empresariales, tardó ocho años …
+https://www.muycomputer.com/2026/11/01/fromsoftware-cumple-40-anos-de-crear-software-empresarial-a-revolucionar-los-videojuegos/
+🗓️ 2026-11-01 • 🏷️ muycomputer.com
