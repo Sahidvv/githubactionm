@@ -7981,3 +7981,9 @@ https://www.muycomputer.com/2026/11/01/los-mejores-contenidos-de-la-semana-en-mu
 FromSoftware cumple hoy, 1 de noviembre, 40 años, aunque su historia empezó muy lejos de los videojuegos que la han convertido en una referencia mundial. Fundada en Japón en 1986 para desarrollar aplicaciones empresariales, tardó ocho años …
 https://www.muycomputer.com/2026/11/01/fromsoftware-cumple-40-anos-de-crear-software-empresarial-a-revolucionar-los-videojuegos/
 🗓️ 2026-11-01 • 🏷️ muycomputer.com
+
+### 2026-11-02T22:10:21.247Z
+📰 Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería
+Si pensabas pedirle a Claude Code que te ayude a crear tu propio GTA 6 sin saber programar y sin gastar miles de millones de dólares, ve pensando en una idea mejor. Anthropic ha cambiado las reglas del funcionamiento de su plataforma de pro…
+https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-para-clonar-tus-juegos-favoritos/
+🗓️ 2026-11-02 • 🏷️ hipertextual.com
