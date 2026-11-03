@@ -7160,3 +7160,19 @@ https://www.muycomputer.com/2026/11/01/fromsoftware-cumple-40-anos-de-crear-soft
 🗓️ 2026-11-01 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-03
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Elon Musk predice un futuro sin necesidad de ahorrar, pero Grok no puede permitírselo
+Grok se ha convertido en el último recordatorio de que las predicciones económicas de Elon Musk no siempre encajan demasiado bien con la realidad de sus propias empresas. El 29 de octubre, el empresario aseguró que ahorrar dinero a largo pl…
+https://www.muycomputer.com/2026/11/03/elon-musk-predice-un-futuro-sin-necesidad-de-ahorrar-pero-grok-no-puede-permitirselo/
+🗓️ 2026-11-03 • 🏷️ muycomputer.com
+
+---

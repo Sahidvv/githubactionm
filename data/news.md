@@ -7987,3 +7987,9 @@ https://www.muycomputer.com/2026/11/01/fromsoftware-cumple-40-anos-de-crear-soft
 Si pensabas pedirle a Claude Code que te ayude a crear tu propio GTA 6 sin saber programar y sin gastar miles de millones de dólares, ve pensando en una idea mejor. Anthropic ha cambiado las reglas del funcionamiento de su plataforma de pro…
 https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-para-clonar-tus-juegos-favoritos/
 🗓️ 2026-11-02 • 🏷️ hipertextual.com
+
+### 2026-11-03T07:38:01.814Z
+📰 Elon Musk predice un futuro sin necesidad de ahorrar, pero Grok no puede permitírselo
+Grok se ha convertido en el último recordatorio de que las predicciones económicas de Elon Musk no siempre encajan demasiado bien con la realidad de sus propias empresas. El 29 de octubre, el empresario aseguró que ahorrar dinero a largo pl…
+https://www.muycomputer.com/2026/11/03/elon-musk-predice-un-futuro-sin-necesidad-de-ahorrar-pero-grok-no-puede-permitirselo/
+🗓️ 2026-11-03 • 🏷️ muycomputer.com
