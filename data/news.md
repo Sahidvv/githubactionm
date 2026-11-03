@@ -7993,3 +7993,9 @@ https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-pa
 Grok se ha convertido en el último recordatorio de que las predicciones económicas de Elon Musk no siempre encajan demasiado bien con la realidad de sus propias empresas. El 29 de octubre, el empresario aseguró que ahorrar dinero a largo pl…
 https://www.muycomputer.com/2026/11/03/elon-musk-predice-un-futuro-sin-necesidad-de-ahorrar-pero-grok-no-puede-permitirselo/
 🗓️ 2026-11-03 • 🏷️ muycomputer.com
+
+### 2026-11-03T19:57:49.898Z
+📰 El hackeo a Binance se fraguó durante meses, con entrevistas de trabajo falsas a sus ingenieros incluidas
+La operación, con un impacto de 6.300 millones de dólares, se remonta a junio, cuando un ingeniero descargó una aplicación manipulada, aunque el equipo de seguridad de la compañía supo detectarloLos inversores retiran miles de millones de d…
+https://www.eldiario.es/tecnologia/hackeo-binance-fraguo-durante-meses-entrevistas-trabajo-falsas-ingenieros-incluidas_1_13635652.html
+🗓️ 2026-11-03 • 🏷️ eldiario.es
