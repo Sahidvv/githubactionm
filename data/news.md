@@ -8005,3 +8005,9 @@ https://www.eldiario.es/tecnologia/hackeo-binance-fraguo-durante-meses-entrevist
 Windows 11 necesita oficialmente al menos 4 GB de memoria RAM, pero un desarrollador ha conseguido arrancarlo con apenas 128 MB, una cantidad 32 veces inferior. El responsable es NTDEV, conocido por Tiny11, que ha llevado al extremo su trab…
 https://www.muycomputer.com/2026/11/04/windows-11-funciona-con-solo-128-mb-de-ram-aunque-a-duras-penas/
 🗓️ 2026-11-04 • 🏷️ muycomputer.com
+
+### 2026-11-04T20:17:22.385Z
+📰 Honor prepara un móvil con una batería que podría durar una semana
+La autonomía es una de las características clave para aquellos que quieren comprar un nuevo móvil. Aunque la mayoría de los fabricantes se enfocan en la potencia o en las cámaras, la realidad es que la batería juega un papel crucial en la d…
+https://hipertextual.com/mobile/honor-movil-bateria-15000-mah-semana-autonomia/
+🗓️ 2026-11-04 • 🏷️ hipertextual.com
