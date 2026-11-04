@@ -7176,3 +7176,19 @@ https://www.muycomputer.com/2026/11/03/elon-musk-predice-un-futuro-sin-necesidad
 🗓️ 2026-11-03 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-04
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Windows 11 funciona con solo 128 MB de RAM, aunque a duras penas
+Windows 11 necesita oficialmente al menos 4 GB de memoria RAM, pero un desarrollador ha conseguido arrancarlo con apenas 128 MB, una cantidad 32 veces inferior. El responsable es NTDEV, conocido por Tiny11, que ha llevado al extremo su trab…
+https://www.muycomputer.com/2026/11/04/windows-11-funciona-con-solo-128-mb-de-ram-aunque-a-duras-penas/
+🗓️ 2026-11-04 • 🏷️ muycomputer.com
+
+---

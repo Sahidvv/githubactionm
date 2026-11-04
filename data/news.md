@@ -7999,3 +7999,9 @@ https://www.muycomputer.com/2026/11/03/elon-musk-predice-un-futuro-sin-necesidad
 La operación, con un impacto de 6.300 millones de dólares, se remonta a junio, cuando un ingeniero descargó una aplicación manipulada, aunque el equipo de seguridad de la compañía supo detectarloLos inversores retiran miles de millones de d…
 https://www.eldiario.es/tecnologia/hackeo-binance-fraguo-durante-meses-entrevistas-trabajo-falsas-ingenieros-incluidas_1_13635652.html
 🗓️ 2026-11-03 • 🏷️ eldiario.es
+
+### 2026-11-04T07:16:26.283Z
+📰 Windows 11 funciona con solo 128 MB de RAM, aunque a duras penas
+Windows 11 necesita oficialmente al menos 4 GB de memoria RAM, pero un desarrollador ha conseguido arrancarlo con apenas 128 MB, una cantidad 32 veces inferior. El responsable es NTDEV, conocido por Tiny11, que ha llevado al extremo su trab…
+https://www.muycomputer.com/2026/11/04/windows-11-funciona-con-solo-128-mb-de-ram-aunque-a-duras-penas/
+🗓️ 2026-11-04 • 🏷️ muycomputer.com
