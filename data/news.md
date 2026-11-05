@@ -8017,3 +8017,9 @@ https://hipertextual.com/mobile/honor-movil-bateria-15000-mah-semana-autonomia/
 Google Fotos lleva años convirtiendo nuestras fotografías y vídeos en pequeñas presentaciones automáticas, acompañadas de música que no siempre encaja con lo que estamos viendo. Hasta ahora, quienes preferían disfrutar de sus recuerdos sin …
 https://www.muycomputer.com/2026/11/05/google-fotos-ya-permite-quitar-la-musica-de-sus-recuerdos-sin-silenciar-los-videos/
 🗓️ 2026-11-05 • 🏷️ muycomputer.com
+
+### 2026-11-05T20:28:41.645Z
+📰 Google, Meta y TikTok demandan a California por limitar las funciones adictivas para menores
+La seguridad de los menores se ha convertido en uno de los grandes argumentos públicos de las redes sociales, pero las restricciones que afectan a su funcionamiento parecen despertar bastante menos entusiasmo. Google, Meta y TikTok han pres…
+https://www.muycomputer.com/2026/11/05/google-meta-y-tiktok-demandan-a-california-por-limitar-las-funciones-adictivas-para-menores/
+🗓️ 2026-11-05 • 🏷️ muycomputer.com
