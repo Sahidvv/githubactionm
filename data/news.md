@@ -8011,3 +8011,9 @@ https://www.muycomputer.com/2026/11/04/windows-11-funciona-con-solo-128-mb-de-ra
 La autonomía es una de las características clave para aquellos que quieren comprar un nuevo móvil. Aunque la mayoría de los fabricantes se enfocan en la potencia o en las cámaras, la realidad es que la batería juega un papel crucial en la d…
 https://hipertextual.com/mobile/honor-movil-bateria-15000-mah-semana-autonomia/
 🗓️ 2026-11-04 • 🏷️ hipertextual.com
+
+### 2026-11-05T07:44:11.957Z
+📰 Google Fotos ya permite quitar la música de sus recuerdos sin silenciar los vídeos
+Google Fotos lleva años convirtiendo nuestras fotografías y vídeos en pequeñas presentaciones automáticas, acompañadas de música que no siempre encaja con lo que estamos viendo. Hasta ahora, quienes preferían disfrutar de sus recuerdos sin …
+https://www.muycomputer.com/2026/11/05/google-fotos-ya-permite-quitar-la-musica-de-sus-recuerdos-sin-silenciar-los-videos/
+🗓️ 2026-11-05 • 🏷️ muycomputer.com

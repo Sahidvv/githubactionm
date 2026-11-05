@@ -7192,3 +7192,19 @@ https://www.muycomputer.com/2026/11/04/windows-11-funciona-con-solo-128-mb-de-ra
 🗓️ 2026-11-04 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-05
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Google Fotos ya permite quitar la música de sus recuerdos sin silenciar los vídeos
+Google Fotos lleva años convirtiendo nuestras fotografías y vídeos en pequeñas presentaciones automáticas, acompañadas de música que no siempre encaja con lo que estamos viendo. Hasta ahora, quienes preferían disfrutar de sus recuerdos sin …
+https://www.muycomputer.com/2026/11/05/google-fotos-ya-permite-quitar-la-musica-de-sus-recuerdos-sin-silenciar-los-videos/
+🗓️ 2026-11-05 • 🏷️ muycomputer.com
+
+---
