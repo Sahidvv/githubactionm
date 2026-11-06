@@ -7208,3 +7208,19 @@ https://www.muycomputer.com/2026/11/05/google-fotos-ya-permite-quitar-la-musica-
 🗓️ 2026-11-05 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-06
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 IA soberana: la apuesta de las grandes empresas para ocultar sus datos a los tecnoligarcas estadounidenses
+Compañías europeas como Airbus, TotalEnergies y BMW buscan inteligencias artificiales privadas para esconderse de la vista de las tecnológicas
+https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html
+🗓️ 2026-11-06 • 🏷️ elpais.com
+
+---

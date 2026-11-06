@@ -8023,3 +8023,9 @@ https://www.muycomputer.com/2026/11/05/google-fotos-ya-permite-quitar-la-musica-
 La seguridad de los menores se ha convertido en uno de los grandes argumentos públicos de las redes sociales, pero las restricciones que afectan a su funcionamiento parecen despertar bastante menos entusiasmo. Google, Meta y TikTok han pres…
 https://www.muycomputer.com/2026/11/05/google-meta-y-tiktok-demandan-a-california-por-limitar-las-funciones-adictivas-para-menores/
 🗓️ 2026-11-05 • 🏷️ muycomputer.com
+
+### 2026-11-06T07:42:35.219Z
+📰 IA soberana: la apuesta de las grandes empresas para ocultar sus datos a los tecnoligarcas estadounidenses
+Compañías europeas como Airbus, TotalEnergies y BMW buscan inteligencias artificiales privadas para esconderse de la vista de las tecnológicas
+https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html
+🗓️ 2026-11-06 • 🏷️ elpais.com
