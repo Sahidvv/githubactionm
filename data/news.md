@@ -8029,3 +8029,9 @@ https://www.muycomputer.com/2026/11/05/google-meta-y-tiktok-demandan-a-californi
 Compañías europeas como Airbus, TotalEnergies y BMW buscan inteligencias artificiales privadas para esconderse de la vista de las tecnológicas
 https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html
 🗓️ 2026-11-06 • 🏷️ elpais.com
+
+### 2026-11-06T19:51:34.782Z
+📰 Esta herramienta gratuita te muestra por fin qué está consumiendo la GPU de tu PC
+La GPU es uno de los componentes que casi nunca recibe atención dentro de las herramientas para medir el rendimiento en Windows. Fuera de la temperatura o la carga de trabajo, los usuarios no saben con exactitud qué servicio o aplicación es…
+https://hipertextual.com/hardware/gputaskman-herramienta-muestra-que-usa-tu-gpu/
+🗓️ 2026-11-06 • 🏷️ hipertextual.com
