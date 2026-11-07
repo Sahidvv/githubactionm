@@ -8047,3 +8047,9 @@ https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-c
 El derrumbe de Wall Street ha hecho saltar las alarmas por el temor a que la volatilidad sea el inicio de un colapso masivo de los mercadosCaída masiva global en la burbuja de la IA ante el posible freno a los centros de datos tras las 'mid…
 https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html
 🗓️ 2026-11-07 • 🏷️ eldiario.es
+
+### 2026-11-07T22:29:43.681Z
+📰 Ni Windows ni SteamOS: este Linux es el sistema favorito de los jugadores de Steam
+La encuesta de hardware y software de Steam es uno de los mejores indicadores para conocer los equipos que utilizan la mayoría de los jugadores. Normalmente, el discurso suele centrarse en los procesadores y tarjetas gráficos más potentes, …
+https://hipertextual.com/videojuegos/cachyos-supera-steamos-linux-steam-encuesta-hardware/
+🗓️ 2026-11-07 • 🏷️ hipertextual.com
