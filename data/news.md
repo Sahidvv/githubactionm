@@ -8041,3 +8041,9 @@ https://hipertextual.com/hardware/gputaskman-herramienta-muestra-que-usa-tu-gpu/
 España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras
 https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html
 🗓️ 2026-11-07 • 🏷️ elpais.com
+
+### 2026-11-07T17:56:41.253Z
+📰 ¿Ha empezado ya el estallido de la burbuja de la IA? Esto es lo que nos dice el desplome de las bolsas
+El derrumbe de Wall Street ha hecho saltar las alarmas por el temor a que la volatilidad sea el inicio de un colapso masivo de los mercadosCaída masiva global en la burbuja de la IA ante el posible freno a los centros de datos tras las 'mid…
+https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html
+🗓️ 2026-11-07 • 🏷️ eldiario.es
