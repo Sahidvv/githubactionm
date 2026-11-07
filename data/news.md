@@ -8035,3 +8035,9 @@ https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-e
 La GPU es uno de los componentes que casi nunca recibe atención dentro de las herramientas para medir el rendimiento en Windows. Fuera de la temperatura o la carga de trabajo, los usuarios no saben con exactitud qué servicio o aplicación es…
 https://hipertextual.com/hardware/gputaskman-herramienta-muestra-que-usa-tu-gpu/
 🗓️ 2026-11-06 • 🏷️ hipertextual.com
+
+### 2026-11-07T06:51:12.381Z
+📰 Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”
+España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras
+https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html
+🗓️ 2026-11-07 • 🏷️ elpais.com

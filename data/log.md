@@ -7224,3 +7224,19 @@ https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-e
 🗓️ 2026-11-06 • 🏷️ elpais.com
 
 ---
+## 2026-11-07
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”
+España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras
+https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html
+🗓️ 2026-11-07 • 🏷️ elpais.com
+
+---
