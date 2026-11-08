@@ -8059,3 +8059,9 @@ https://hipertextual.com/videojuegos/cachyos-supera-steamos-linux-steam-encuesta
 La inteligencia artificial dispara la frecuencia, rapidez y efectividad de los incidentes digitales, que cada vez suponen un riesgo mayor para las infraestructuras críticas
 https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html
 🗓️ 2026-11-08 • 🏷️ elpais.com
+
+### 2026-11-08T22:40:21.112Z
+📰 El rastro de Corea del Norte en el mayor robo de la historia: quién es Park Jin Hyok, el hacker más buscado del mundo
+El FBI vincula el desfalco de 6.300 millones en Binance con la red estatal del hacker responsable del virus WannaCry, pieza clave de la maquinaria con la que Kim Jong-un financia su programa armamentísticoEl hackeo a Binance se fraguó duran…
+https://www.eldiario.es/tecnologia/rastro-corea-norte-mayor-robo-historia-park-jin-hyok-hacker-buscado-mundo_1_13636865.html
+🗓️ 2026-11-08 • 🏷️ eldiario.es
