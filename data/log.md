@@ -7240,3 +7240,19 @@ https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-c
 🗓️ 2026-11-07 • 🏷️ elpais.com
 
 ---
+## 2026-11-08
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana
+La inteligencia artificial dispara la frecuencia, rapidez y efectividad de los incidentes digitales, que cada vez suponen un riesgo mayor para las infraestructuras críticas
+https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html
+🗓️ 2026-11-08 • 🏷️ elpais.com
+
+---

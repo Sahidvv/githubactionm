@@ -8053,3 +8053,9 @@ https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-b
 La encuesta de hardware y software de Steam es uno de los mejores indicadores para conocer los equipos que utilizan la mayoría de los jugadores. Normalmente, el discurso suele centrarse en los procesadores y tarjetas gráficos más potentes, …
 https://hipertextual.com/videojuegos/cachyos-supera-steamos-linux-steam-encuesta-hardware/
 🗓️ 2026-11-07 • 🏷️ hipertextual.com
+
+### 2026-11-08T06:56:57.522Z
+📰 De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana
+La inteligencia artificial dispara la frecuencia, rapidez y efectividad de los incidentes digitales, que cada vez suponen un riesgo mayor para las infraestructuras críticas
+https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html
+🗓️ 2026-11-08 • 🏷️ elpais.com
