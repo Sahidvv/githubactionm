@@ -8071,3 +8071,9 @@ https://www.eldiario.es/tecnologia/rastro-corea-norte-mayor-robo-historia-park-j
 La organización ‘Maldita.es’, autora del trabajo, ha denunciado ante la Fiscalía a la red social por su inacción ante las cuentas que crean este contenido con millones de visualizaciones
 https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html
 🗓️ 2026-11-09 • 🏷️ elpais.com
+
+### 2026-11-09T22:53:00.013Z
+📰 Meta lanza Muse Ember: una IA ultrabarata para programar y automatizar tareas con agentes
+Meta ha presentado Muse Ember, su modelo de IA más pequeño y eficiente hasta ahora. El nuevo modelo está pensado para ejecutar procesos complejos como los que realizan los agentes en segundo plano. Ember se une a Spark, Glimmer, Wonder y ot…
+https://hipertextual.com/inteligencia-artificial/muse-ember-ia-programar-meta/
+🗓️ 2026-11-09 • 🏷️ hipertextual.com
