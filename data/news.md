@@ -8065,3 +8065,9 @@ https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz
 El FBI vincula el desfalco de 6.300 millones en Binance con la red estatal del hacker responsable del virus WannaCry, pieza clave de la maquinaria con la que Kim Jong-un financia su programa armamentísticoEl hackeo a Binance se fraguó duran…
 https://www.eldiario.es/tecnologia/rastro-corea-norte-mayor-robo-historia-park-jin-hyok-hacker-buscado-mundo_1_13636865.html
 🗓️ 2026-11-08 • 🏷️ eldiario.es
+
+### 2026-11-09T07:42:06.322Z
+📰 Una investigación española descubre miles de nuevos vídeos y perfiles pedófilos en TikTok
+La organización ‘Maldita.es’, autora del trabajo, ha denunciado ante la Fiscalía a la red social por su inacción ante las cuentas que crean este contenido con millones de visualizaciones
+https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html
+🗓️ 2026-11-09 • 🏷️ elpais.com

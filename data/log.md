@@ -7256,3 +7256,19 @@ https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz
 🗓️ 2026-11-08 • 🏷️ elpais.com
 
 ---
+## 2026-11-09
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Una investigación española descubre miles de nuevos vídeos y perfiles pedófilos en TikTok
+La organización ‘Maldita.es’, autora del trabajo, ha denunciado ante la Fiscalía a la red social por su inacción ante las cuentas que crean este contenido con millones de visualizaciones
+https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html
+🗓️ 2026-11-09 • 🏷️ elpais.com
+
+---
