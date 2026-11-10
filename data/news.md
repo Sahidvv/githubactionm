@@ -8077,3 +8077,9 @@ https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-mil
 Meta ha presentado Muse Ember, su modelo de IA más pequeño y eficiente hasta ahora. El nuevo modelo está pensado para ejecutar procesos complejos como los que realizan los agentes en segundo plano. Ember se une a Spark, Glimmer, Wonder y ot…
 https://hipertextual.com/inteligencia-artificial/muse-ember-ia-programar-meta/
 🗓️ 2026-11-09 • 🏷️ hipertextual.com
+
+### 2026-11-10T08:01:10.309Z
+📰 Así logró China engañar al empresario más poderoso de la IA con una operación de seducción
+Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su mujer con otra que, según la inteligencia estadounidense, es una espía
+https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html
+🗓️ 2026-11-10 • 🏷️ elpais.com

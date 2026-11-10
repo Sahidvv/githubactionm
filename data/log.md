@@ -7272,3 +7272,19 @@ https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-mil
 🗓️ 2026-11-09 • 🏷️ elpais.com
 
 ---
+## 2026-11-10
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Así logró China engañar al empresario más poderoso de la IA con una operación de seducción
+Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su mujer con otra que, según la inteligencia estadounidense, es una espía
+https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html
+🗓️ 2026-11-10 • 🏷️ elpais.com
+
+---
