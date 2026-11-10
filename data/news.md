@@ -8083,3 +8083,9 @@ https://hipertextual.com/inteligencia-artificial/muse-ember-ia-programar-meta/
 Jensen Huang, fundador de Nvidia, ha admitido que le fue infiel a su mujer con otra que, según la inteligencia estadounidense, es una espía
 https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html
 🗓️ 2026-11-10 • 🏷️ elpais.com
+
+### 2026-11-10T20:16:29.804Z
+📰 Anthropic crea su propio Office con Claude y quiere cambiar tu forma de trabajar
+Anthropic está a nada de salir a la bolsa y, como parte de su estrategia para la oferta pública inicial, la empresa ha lanzado su versión de Office impulsada por IA. En un evento para medios, el gigante tecnológico presentó nuevas funciones…
+https://hipertextual.com/inteligencia-artificial/anthropic-claude-office-ia-herramientas-productividad/
+🗓️ 2026-11-10 • 🏷️ hipertextual.com
