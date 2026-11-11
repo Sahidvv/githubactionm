@@ -8095,3 +8095,9 @@ https://hipertextual.com/inteligencia-artificial/anthropic-claude-office-ia-herr
 Antes de dar comienzo a esta review de los auriculares Razer Barracuda V2 Pro, creo que es interesante (por aportar contexto) recordar que, hace tres años por estas fechas, pude probar los Razer Hammerhead Pro Hyperspeed, unos auriculares p…
 https://www.muycomputer.com/2026/11/11/razer-barracuda-v2-pro-grandes-y-muy-grandes/
 🗓️ 2026-11-11 • 🏷️ muycomputer.com
+
+### 2026-11-11T20:00:36.707Z
+📰 IBM presenta un procesador cuántico que puede expandirse mucho más allá de un solo chip
+IBM ha presentado Quantum Nighthawk r3, su nuevo procesador cuántico diseñado para ejecutar cálculos más complejos y acercar esta tecnología a usos prácticos. El nuevo chip es capaz de ejecutar hasta 10.000 operaciones cuánticas sobre 520 q…
+https://hipertextual.com/hardware/ibm-procesador-cuantico-nighthawk-r3/
+🗓️ 2026-11-11 • 🏷️ hipertextual.com
