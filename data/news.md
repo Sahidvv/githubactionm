@@ -8089,3 +8089,9 @@ https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-m
 Anthropic está a nada de salir a la bolsa y, como parte de su estrategia para la oferta pública inicial, la empresa ha lanzado su versión de Office impulsada por IA. En un evento para medios, el gigante tecnológico presentó nuevas funciones…
 https://hipertextual.com/inteligencia-artificial/anthropic-claude-office-ia-herramientas-productividad/
 🗓️ 2026-11-10 • 🏷️ hipertextual.com
+
+### 2026-11-11T07:30:53.551Z
+📰 Razer Barracuda V2 Pro: grandes y muy grandes
+Antes de dar comienzo a esta review de los auriculares Razer Barracuda V2 Pro, creo que es interesante (por aportar contexto) recordar que, hace tres años por estas fechas, pude probar los Razer Hammerhead Pro Hyperspeed, unos auriculares p…
+https://www.muycomputer.com/2026/11/11/razer-barracuda-v2-pro-grandes-y-muy-grandes/
+🗓️ 2026-11-11 • 🏷️ muycomputer.com

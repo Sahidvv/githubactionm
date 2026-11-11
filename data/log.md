@@ -7288,3 +7288,19 @@ https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-m
 🗓️ 2026-11-10 • 🏷️ elpais.com
 
 ---
+## 2026-11-11
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Razer Barracuda V2 Pro: grandes y muy grandes
+Antes de dar comienzo a esta review de los auriculares Razer Barracuda V2 Pro, creo que es interesante (por aportar contexto) recordar que, hace tres años por estas fechas, pude probar los Razer Hammerhead Pro Hyperspeed, unos auriculares p…
+https://www.muycomputer.com/2026/11/11/razer-barracuda-v2-pro-grandes-y-muy-grandes/
+🗓️ 2026-11-11 • 🏷️ muycomputer.com
+
+---
