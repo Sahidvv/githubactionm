@@ -8107,3 +8107,9 @@ https://hipertextual.com/hardware/ibm-procesador-cuantico-nighthawk-r3/
 Nintendo lleva años persiguiendo las herramientas que permiten saltarse las protecciones de sus consolas, desde emuladores hasta dispositivos diseñados para ejecutar copias no autorizadas. Ahora ha puesto el foco en una pieza menos visible,…
 https://www.muycomputer.com/2026/11/12/nintendo-amplia-su-ofensiva-contra-los-modchips-de-switch/
 🗓️ 2026-11-12 • 🏷️ muycomputer.com
+
+### 2026-11-12T20:39:43.656Z
+📰 Microsoft Outlook sufre una caída masiva de servicio
+Microsoft Outlook ha protagonizado este jueves una de esas caídas que recuerdan hasta qué punto dependemos del correo electrónico para trabajar y comunicarnos. Miles de usuarios han encontrado problemas para acceder a sus buzones, enviar me…
+https://www.muycomputer.com/2026/11/12/microsoft-outlook-sufre-una-caida-masiva-de-servicio/
+🗓️ 2026-11-12 • 🏷️ muycomputer.com
