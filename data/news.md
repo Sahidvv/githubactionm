@@ -8101,3 +8101,9 @@ https://www.muycomputer.com/2026/11/11/razer-barracuda-v2-pro-grandes-y-muy-gran
 IBM ha presentado Quantum Nighthawk r3, su nuevo procesador cuántico diseñado para ejecutar cálculos más complejos y acercar esta tecnología a usos prácticos. El nuevo chip es capaz de ejecutar hasta 10.000 operaciones cuánticas sobre 520 q…
 https://hipertextual.com/hardware/ibm-procesador-cuantico-nighthawk-r3/
 🗓️ 2026-11-11 • 🏷️ hipertextual.com
+
+### 2026-11-12T07:58:49.147Z
+📰 Nintendo amplía su ofensiva contra los modchips de Switch
+Nintendo lleva años persiguiendo las herramientas que permiten saltarse las protecciones de sus consolas, desde emuladores hasta dispositivos diseñados para ejecutar copias no autorizadas. Ahora ha puesto el foco en una pieza menos visible,…
+https://www.muycomputer.com/2026/11/12/nintendo-amplia-su-ofensiva-contra-los-modchips-de-switch/
+🗓️ 2026-11-12 • 🏷️ muycomputer.com

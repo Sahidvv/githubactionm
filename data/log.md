@@ -7304,3 +7304,19 @@ https://www.muycomputer.com/2026/11/11/razer-barracuda-v2-pro-grandes-y-muy-gran
 🗓️ 2026-11-11 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-12
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 Nintendo amplía su ofensiva contra los modchips de Switch
+Nintendo lleva años persiguiendo las herramientas que permiten saltarse las protecciones de sus consolas, desde emuladores hasta dispositivos diseñados para ejecutar copias no autorizadas. Ahora ha puesto el foco en una pieza menos visible,…
+https://www.muycomputer.com/2026/11/12/nintendo-amplia-su-ofensiva-contra-los-modchips-de-switch/
+🗓️ 2026-11-12 • 🏷️ muycomputer.com
+
+---
