@@ -8113,3 +8113,9 @@ https://www.muycomputer.com/2026/11/12/nintendo-amplia-su-ofensiva-contra-los-mo
 Microsoft Outlook ha protagonizado este jueves una de esas caídas que recuerdan hasta qué punto dependemos del correo electrónico para trabajar y comunicarnos. Miles de usuarios han encontrado problemas para acceder a sus buzones, enviar me…
 https://www.muycomputer.com/2026/11/12/microsoft-outlook-sufre-una-caida-masiva-de-servicio/
 🗓️ 2026-11-12 • 🏷️ muycomputer.com
+
+### 2026-11-13T07:38:08.156Z
+📰 La caída global de Microsoft 365 cumple 13 horas: alcance real e impacto para las empresas
+La caída global de Microsoft 365 que comenzó el jueves hacia las 19:00 (hora peninsular) sigue abierta este viernes por la mañana, más de trece horas después, sin hora estimada de resolución. Microsoft la sigue bajo los identificadores EX15…
+https://www.muycomputerpro.com/2026/11/13/la-caida-global-de-microsoft-365-cumple-13-horas-alcance-real-y-que-pueden-reclamar-las-empresas
+🗓️ 2026-11-13 • 🏷️ muycomputerpro.com

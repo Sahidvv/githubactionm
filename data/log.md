@@ -7320,3 +7320,19 @@ https://www.muycomputer.com/2026/11/12/nintendo-amplia-su-ofensiva-contra-los-mo
 🗓️ 2026-11-12 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-13
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 La caída global de Microsoft 365 cumple 13 horas: alcance real e impacto para las empresas
+La caída global de Microsoft 365 que comenzó el jueves hacia las 19:00 (hora peninsular) sigue abierta este viernes por la mañana, más de trece horas después, sin hora estimada de resolución. Microsoft la sigue bajo los identificadores EX15…
+https://www.muycomputerpro.com/2026/11/13/la-caida-global-de-microsoft-365-cumple-13-horas-alcance-real-y-que-pueden-reclamar-las-empresas
+🗓️ 2026-11-13 • 🏷️ muycomputerpro.com
+
+---
