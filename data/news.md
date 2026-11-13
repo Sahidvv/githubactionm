@@ -8119,3 +8119,9 @@ https://www.muycomputer.com/2026/11/12/microsoft-outlook-sufre-una-caida-masiva-
 La caída global de Microsoft 365 que comenzó el jueves hacia las 19:00 (hora peninsular) sigue abierta este viernes por la mañana, más de trece horas después, sin hora estimada de resolución. Microsoft la sigue bajo los identificadores EX15…
 https://www.muycomputerpro.com/2026/11/13/la-caida-global-de-microsoft-365-cumple-13-horas-alcance-real-y-que-pueden-reclamar-las-empresas
 🗓️ 2026-11-13 • 🏷️ muycomputerpro.com
+
+### 2026-11-13T20:20:32.119Z
+📰 Gemini 4 Hydrogen: Google estrena su modelo rápido y eficiente para el trabajo diario con IA
+Google acaba de ampliar la familia Gemini 4 con un modelo pensado para el uso de todos los días. Gemini 4 Hydrogen llega desde ya a AI Studio, la API de Gemini, Gemini for business, la aplicación Gemini, el Buscador y Google Antigravity, co…
+https://www.muycomputerpro.com/2026/11/13/gemini-4-hydrogen-google-estrena-su-modelo-rapido-y-eficiente-para-el-trabajo-diario-con-ia
+🗓️ 2026-11-13 • 🏷️ muycomputerpro.com
