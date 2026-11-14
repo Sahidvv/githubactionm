@@ -8137,3 +8137,9 @@ https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracio
 Tal vez no lo sabes, pero si tienes un móvil con Android 12 o superior lo puedes configurar para que funcione como un botón de pánico. Esto no requiere la instalación de ninguna aplicación de terceros, sino que forma parte de las caracterís…
 https://hipertextual.com/mobile/boton-de-panico-android-emergencia-sos/
 🗓️ 2026-11-14 • 🏷️ hipertextual.com
+
+### 2026-11-14T22:52:35.002Z
+📰 Las ‘midterms’ y el escándalo Nvidia desvelan la lucha sin cuartel de EEUU y China por la disputa del trono de la IA
+Los valores con sello IA empiezan a mostrar vestigios de una alarmante crisis de identidad. De una especie de dolencia por exceso de revalorización bursátil. Wall Street se despereza, a duras penas, del sueño de conquistar el cetro tecnológ…
+https://www.eldiario.es/economia/midterms-escandalo-nvidia-desvelan-lucha-cuartel-eeuu-china-disputa-trono-ia_129_13661296.html
+🗓️ 2026-11-14 • 🏷️ eldiario.es
