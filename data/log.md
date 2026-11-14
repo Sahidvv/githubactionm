@@ -7336,3 +7336,19 @@ https://www.muycomputerpro.com/2026/11/13/la-caida-global-de-microsoft-365-cumpl
 🗓️ 2026-11-13 • 🏷️ muycomputerpro.com
 
 ---
+## 2026-11-14
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Gemini ya puede conectarse con Google Wallet para acceder a tus finanzas
+Google ha ampliado las capacidades de su inteligencia artificial para ofrecer respuestas más útiles relacionadas con tus finanzas. El gigante tecnológico integró Gemini con Google Wallet, lo que permitirá a la IA acceder a tu información fi…
+https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracion-finanzas-gastos/
+🗓️ 2026-11-13 • 🏷️ hipertextual.com
+
+---

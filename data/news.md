@@ -8125,3 +8125,9 @@ https://www.muycomputerpro.com/2026/11/13/la-caida-global-de-microsoft-365-cumpl
 Google acaba de ampliar la familia Gemini 4 con un modelo pensado para el uso de todos los días. Gemini 4 Hydrogen llega desde ya a AI Studio, la API de Gemini, Gemini for business, la aplicación Gemini, el Buscador y Google Antigravity, co…
 https://www.muycomputerpro.com/2026/11/13/gemini-4-hydrogen-google-estrena-su-modelo-rapido-y-eficiente-para-el-trabajo-diario-con-ia
 🗓️ 2026-11-13 • 🏷️ muycomputerpro.com
+
+### 2026-11-14T07:24:13.709Z
+📰 Gemini ya puede conectarse con Google Wallet para acceder a tus finanzas
+Google ha ampliado las capacidades de su inteligencia artificial para ofrecer respuestas más útiles relacionadas con tus finanzas. El gigante tecnológico integró Gemini con Google Wallet, lo que permitirá a la IA acceder a tu información fi…
+https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracion-finanzas-gastos/
+🗓️ 2026-11-13 • 🏷️ hipertextual.com
