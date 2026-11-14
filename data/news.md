@@ -8131,3 +8131,9 @@ https://www.muycomputerpro.com/2026/11/13/gemini-4-hydrogen-google-estrena-su-mo
 Google ha ampliado las capacidades de su inteligencia artificial para ofrecer respuestas más útiles relacionadas con tus finanzas. El gigante tecnológico integró Gemini con Google Wallet, lo que permitirá a la IA acceder a tu información fi…
 https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracion-finanzas-gastos/
 🗓️ 2026-11-13 • 🏷️ hipertextual.com
+
+### 2026-11-14T18:39:13.812Z
+📰 Cómo convertir tu móvil Android en un botón de pánico sin instalar ninguna app
+Tal vez no lo sabes, pero si tienes un móvil con Android 12 o superior lo puedes configurar para que funcione como un botón de pánico. Esto no requiere la instalación de ninguna aplicación de terceros, sino que forma parte de las caracterís…
+https://hipertextual.com/mobile/boton-de-panico-android-emergencia-sos/
+🗓️ 2026-11-14 • 🏷️ hipertextual.com
