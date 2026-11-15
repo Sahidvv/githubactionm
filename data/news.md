@@ -8143,3 +8143,9 @@ https://hipertextual.com/mobile/boton-de-panico-android-emergencia-sos/
 Los valores con sello IA empiezan a mostrar vestigios de una alarmante crisis de identidad. De una especie de dolencia por exceso de revalorización bursátil. Wall Street se despereza, a duras penas, del sueño de conquistar el cetro tecnológ…
 https://www.eldiario.es/economia/midterms-escandalo-nvidia-desvelan-lucha-cuartel-eeuu-china-disputa-trono-ia_129_13661296.html
 🗓️ 2026-11-14 • 🏷️ eldiario.es
+
+### 2026-11-15T07:35:53.091Z
+📰 TikTok tiene que cambiar: ante el abuso, no vale el silencio
+Lo que nos preocupa a todos es que nuestra infancia esté expuesta, por la inacción de la compañía, a miles de pederastas de todo el mundo
+https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html
+🗓️ 2026-11-15 • 🏷️ elpais.com

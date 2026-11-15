@@ -7352,3 +7352,19 @@ https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracio
 🗓️ 2026-11-13 • 🏷️ hipertextual.com
 
 ---
+## 2026-11-15
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 TikTok tiene que cambiar: ante el abuso, no vale el silencio
+Lo que nos preocupa a todos es que nuestra infancia esté expuesta, por la inacción de la compañía, a miles de pederastas de todo el mundo
+https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html
+🗓️ 2026-11-15 • 🏷️ elpais.com
+
+---
