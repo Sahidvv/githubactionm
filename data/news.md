@@ -8149,3 +8149,9 @@ https://www.eldiario.es/economia/midterms-escandalo-nvidia-desvelan-lucha-cuarte
 Lo que nos preocupa a todos es que nuestra infancia esté expuesta, por la inacción de la compañía, a miles de pederastas de todo el mundo
 https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html
 🗓️ 2026-11-15 • 🏷️ elpais.com
+
+### 2026-11-15T19:15:30.168Z
+📰 Google estrena Gemini Decisions, una IA que prefiere elegir antes que hablar
+Estamos acostumbrados a medir los avances de la inteligencia artificial por su capacidad para escribir, razonar o generar contenidos cada vez más elaborados. Sin embargo, muchas de las tareas que realizan estos sistemas no necesitan grandes…
+https://www.muycomputer.com/2026/11/15/google-estrena-gemini-decisions-una-ia-que-prefiere-elegir-antes-que-hablar/
+🗓️ 2026-11-15 • 🏷️ muycomputer.com
