@@ -7368,3 +7368,19 @@ https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-
 🗓️ 2026-11-15 • 🏷️ elpais.com
 
 ---
+## 2026-11-16
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Xbox Helix no es un PC, aunque ejecutará juegos de PC
+Microsoft ha compartido más detalles sobre cómo está construyendo su consola de próxima generación, Xbox Helix, en una edición especial del magazine conmemorativa del 25 aniversario de la consola, confirmando detalles clave y los fundamento…
+https://www.muycomputer.com/2026/11/16/xbox-helix-no-es-un-pc-aunque-ejecutara-juegos-de-pc/
+🗓️ 2026-11-16 • 🏷️ muycomputer.com
+
+---

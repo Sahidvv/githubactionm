@@ -8155,3 +8155,9 @@ https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-
 Estamos acostumbrados a medir los avances de la inteligencia artificial por su capacidad para escribir, razonar o generar contenidos cada vez más elaborados. Sin embargo, muchas de las tareas que realizan estos sistemas no necesitan grandes…
 https://www.muycomputer.com/2026/11/15/google-estrena-gemini-decisions-una-ia-que-prefiere-elegir-antes-que-hablar/
 🗓️ 2026-11-15 • 🏷️ muycomputer.com
+
+### 2026-11-16T07:41:28.314Z
+📰 Xbox Helix no es un PC, aunque ejecutará juegos de PC
+Microsoft ha compartido más detalles sobre cómo está construyendo su consola de próxima generación, Xbox Helix, en una edición especial del magazine conmemorativa del 25 aniversario de la consola, confirmando detalles clave y los fundamento…
+https://www.muycomputer.com/2026/11/16/xbox-helix-no-es-un-pc-aunque-ejecutara-juegos-de-pc/
+🗓️ 2026-11-16 • 🏷️ muycomputer.com
