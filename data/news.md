@@ -8161,3 +8161,9 @@ https://www.muycomputer.com/2026/11/15/google-estrena-gemini-decisions-una-ia-qu
 Microsoft ha compartido más detalles sobre cómo está construyendo su consola de próxima generación, Xbox Helix, en una edición especial del magazine conmemorativa del 25 aniversario de la consola, confirmando detalles clave y los fundamento…
 https://www.muycomputer.com/2026/11/16/xbox-helix-no-es-un-pc-aunque-ejecutara-juegos-de-pc/
 🗓️ 2026-11-16 • 🏷️ muycomputer.com
+
+### 2026-11-16T22:44:57.435Z
+📰 Si tienes un iPhone Duo, esta nueva función cambiará por completo la forma de desbloquearlo
+El iPhone Duo se ha convertido en uno de los móviles más exitosos de la historia de Apple. El primer plegable de la compañía tuvo un gran recibimiento, aunque su diseño provocó que no contara con una de las funciones más útiles del iPhone: …
+https://hipertextual.com/apple/iphone-duo-desbloqueo-facial-no-face-id/
+🗓️ 2026-11-16 • 🏷️ hipertextual.com
