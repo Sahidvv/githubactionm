@@ -8167,3 +8167,9 @@ https://www.muycomputer.com/2026/11/16/xbox-helix-no-es-un-pc-aunque-ejecutara-j
 El iPhone Duo se ha convertido en uno de los móviles más exitosos de la historia de Apple. El primer plegable de la compañía tuvo un gran recibimiento, aunque su diseño provocó que no contara con una de las funciones más útiles del iPhone: …
 https://hipertextual.com/apple/iphone-duo-desbloqueo-facial-no-face-id/
 🗓️ 2026-11-16 • 🏷️ hipertextual.com
+
+### 2026-11-17T08:50:45.265Z
+📰 NVIDIA presenta Rubin HPC, su aceleradora más potente para ciencia e ingeniería
+Rubin HPC es la nueva GPU que NVIDIA ha presentado en la conferencia Supercomputing 2026. Basada en la arquitectura general Rubin para sistemas de inteligencia artificial, ha sido diseñada para acelerar la simulación y el procesamiento de d…
+https://www.muycomputerpro.com/2026/11/17/nvidia-presenta-rubin-hpc-su-aceleradora-mas-potente-para-ciencia-e-ingenieria
+🗓️ 2026-11-17 • 🏷️ muycomputerpro.com

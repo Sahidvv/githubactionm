@@ -7384,3 +7384,19 @@ https://www.muycomputer.com/2026/11/16/xbox-helix-no-es-un-pc-aunque-ejecutara-j
 🗓️ 2026-11-16 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-17
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 NVIDIA presenta Rubin HPC, su aceleradora más potente para ciencia e ingeniería
+Rubin HPC es la nueva GPU que NVIDIA ha presentado en la conferencia Supercomputing 2026. Basada en la arquitectura general Rubin para sistemas de inteligencia artificial, ha sido diseñada para acelerar la simulación y el procesamiento de d…
+https://www.muycomputerpro.com/2026/11/17/nvidia-presenta-rubin-hpc-su-aceleradora-mas-potente-para-ciencia-e-ingenieria
+🗓️ 2026-11-17 • 🏷️ muycomputerpro.com
+
+---
