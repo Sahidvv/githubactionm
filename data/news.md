@@ -8173,3 +8173,9 @@ https://hipertextual.com/apple/iphone-duo-desbloqueo-facial-no-face-id/
 Rubin HPC es la nueva GPU que NVIDIA ha presentado en la conferencia Supercomputing 2026. Basada en la arquitectura general Rubin para sistemas de inteligencia artificial, ha sido diseñada para acelerar la simulación y el procesamiento de d…
 https://www.muycomputerpro.com/2026/11/17/nvidia-presenta-rubin-hpc-su-aceleradora-mas-potente-para-ciencia-e-ingenieria
 🗓️ 2026-11-17 • 🏷️ muycomputerpro.com
+
+### 2026-11-17T21:30:52.970Z
+📰 &#8216;GTA 6&#8217; domina las nominaciones a los Game Awards y va por el premio a Juego del Año
+Que GTA 6 tiene todo para ser el gran animador (y tal vez dominador) de la temporada de premios del mundo del gaming, no es novedad. Lo nuevo de Rockstar Games todavía no llega al mercado, pero ya es la gran favorita a quedarse con los gala…
+https://hipertextual.com/videojuegos/gta-6-nominaciones-game-awards-2026/
+🗓️ 2026-11-17 • 🏷️ hipertextual.com
