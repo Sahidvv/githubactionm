@@ -8185,3 +8185,9 @@ https://hipertextual.com/videojuegos/gta-6-nominaciones-game-awards-2026/
 Estamos en el mes del Black Friday, la cita comercial que esperan millones de personas en todo el mundo y que se celebra el 27 de noviembre. Sin embargo, cada vez más marcas adelantan sus ofertas para dar la oportunidad al consumidor de aho…
 https://hipertextual.com/tecnologia/ugreen-black-friday/
 🗓️ 2026-11-18 • 🏷️ hipertextual.com
+
+### 2026-11-18T21:06:49.413Z
+📰 Las Wachowski quieren recuperar los derechos de &#8216;The Matrix&#8217;: ¿Problemas para Skydance?
+Skydance, el imperio que controla David Ellison, podía sufrir su primer gran bofetón. Según un reporte de Puck, las cineastas Lana y Lily Wachowski pretenden recuperar el control sobre los derechos de la saga The Matrix, una de las propieda…
+https://hipertextual.com/cine-television/las-wachowski-quieren-recuperar-derechos-the-matrix/
+🗓️ 2026-11-18 • 🏷️ hipertextual.com
