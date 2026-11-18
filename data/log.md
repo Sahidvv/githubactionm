@@ -7400,3 +7400,19 @@ https://www.muycomputerpro.com/2026/11/17/nvidia-presenta-rubin-hpc-su-acelerado
 🗓️ 2026-11-17 • 🏷️ muycomputerpro.com
 
 ---
+## 2026-11-18
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 UGREEN ya calienta motores para el Black Friday: descuentos de hasta el 40% en baterías, cargadores, NAS, cables y mucho más
+Estamos en el mes del Black Friday, la cita comercial que esperan millones de personas en todo el mundo y que se celebra el 27 de noviembre. Sin embargo, cada vez más marcas adelantan sus ofertas para dar la oportunidad al consumidor de aho…
+https://hipertextual.com/tecnologia/ugreen-black-friday/
+🗓️ 2026-11-18 • 🏷️ hipertextual.com
+
+---

@@ -8179,3 +8179,9 @@ https://www.muycomputerpro.com/2026/11/17/nvidia-presenta-rubin-hpc-su-acelerado
 Que GTA 6 tiene todo para ser el gran animador (y tal vez dominador) de la temporada de premios del mundo del gaming, no es novedad. Lo nuevo de Rockstar Games todavía no llega al mercado, pero ya es la gran favorita a quedarse con los gala…
 https://hipertextual.com/videojuegos/gta-6-nominaciones-game-awards-2026/
 🗓️ 2026-11-17 • 🏷️ hipertextual.com
+
+### 2026-11-18T08:14:06.324Z
+📰 UGREEN ya calienta motores para el Black Friday: descuentos de hasta el 40% en baterías, cargadores, NAS, cables y mucho más
+Estamos en el mes del Black Friday, la cita comercial que esperan millones de personas en todo el mundo y que se celebra el 27 de noviembre. Sin embargo, cada vez más marcas adelantan sus ofertas para dar la oportunidad al consumidor de aho…
+https://hipertextual.com/tecnologia/ugreen-black-friday/
+🗓️ 2026-11-18 • 🏷️ hipertextual.com
