@@ -8197,3 +8197,9 @@ https://hipertextual.com/cine-television/las-wachowski-quieren-recuperar-derecho
 LiberNovo es uno de los grandes referentes del mercado si hablamos de sillas de alta calidad, no solo por diseño, ergonomía y construcción, sino también por el valor añadido que ofrecen en sus diferentes configuraciones y packs. Sus sillas …
 https://www.muycomputer.com/2026/11/19/libernovo-arrasa-en-black-friday-con-descuentos-de-hasta-1-000-euros-un-44-de-ahorro-en-sus-mejores-productos/
 🗓️ 2026-11-19 • 🏷️ muycomputer.com
+
+### 2026-11-19T21:11:46.204Z
+📰 Filtrado el Razr Flex, la respuesta de Motorola al Galaxy Z Fold 8 y el iPhone Duo
+El segmento de plegables con formato wide está pronto a sumar un nuevo contrincante a modelos como el Samsung Galaxy Z Fold 8, el iPhone Duo y el Xiaomi 18 Fold. Se trata del Motorola Razr Flex, cuyas imágenes se han filtrado para revelar l…
+https://hipertextual.com/mobile/filtrado-motorola-razr-flex-imagenes/
+🗓️ 2026-11-19 • 🏷️ hipertextual.com
