@@ -8191,3 +8191,9 @@ https://hipertextual.com/tecnologia/ugreen-black-friday/
 Skydance, el imperio que controla David Ellison, podía sufrir su primer gran bofetón. Según un reporte de Puck, las cineastas Lana y Lily Wachowski pretenden recuperar el control sobre los derechos de la saga The Matrix, una de las propieda…
 https://hipertextual.com/cine-television/las-wachowski-quieren-recuperar-derechos-the-matrix/
 🗓️ 2026-11-18 • 🏷️ hipertextual.com
+
+### 2026-11-19T08:26:10.461Z
+📰 LiberNovo arrasa en Black Friday con descuentos de hasta 1.000 euros (un 44% de ahorro) en sus mejores productos
+LiberNovo es uno de los grandes referentes del mercado si hablamos de sillas de alta calidad, no solo por diseño, ergonomía y construcción, sino también por el valor añadido que ofrecen en sus diferentes configuraciones y packs. Sus sillas …
+https://www.muycomputer.com/2026/11/19/libernovo-arrasa-en-black-friday-con-descuentos-de-hasta-1-000-euros-un-44-de-ahorro-en-sus-mejores-productos/
+🗓️ 2026-11-19 • 🏷️ muycomputer.com

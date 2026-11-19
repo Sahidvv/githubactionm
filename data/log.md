@@ -7416,3 +7416,19 @@ https://hipertextual.com/tecnologia/ugreen-black-friday/
 🗓️ 2026-11-18 • 🏷️ hipertextual.com
 
 ---
+## 2026-11-19
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 LiberNovo arrasa en Black Friday con descuentos de hasta 1.000 euros (un 44% de ahorro) en sus mejores productos
+LiberNovo es uno de los grandes referentes del mercado si hablamos de sillas de alta calidad, no solo por diseño, ergonomía y construcción, sino también por el valor añadido que ofrecen en sus diferentes configuraciones y packs. Sus sillas …
+https://www.muycomputer.com/2026/11/19/libernovo-arrasa-en-black-friday-con-descuentos-de-hasta-1-000-euros-un-44-de-ahorro-en-sus-mejores-productos/
+🗓️ 2026-11-19 • 🏷️ muycomputer.com
+
+---
