@@ -8209,3 +8209,9 @@ https://hipertextual.com/mobile/filtrado-motorola-razr-flex-imagenes/
 JEDEC ha presentado una vista previa de las memorias DDR6, el estándar de memoria principal de próxima generación diseñado para satisfacer las crecientes demandas de la IA, la nube, los centros de datos, los servidores y también la computac…
 https://www.muycomputer.com/2026/11/20/ddr6-sera-mas-rapida-y-pequena-pero-superara-la-crisis-de-las-memorias/
 🗓️ 2026-11-20 • 🏷️ muycomputer.com
+
+### 2026-11-20T20:56:14.967Z
+📰 &#8216;GTA 6&#8217; rompe todos los récords con ventas por 3.790 millones de dólares en su primer día
+El lanzamiento de GTA 6 ha sido incluso más exitoso de lo que se pensaba. Take-Two Interactive, la casa matriz de Rockstar Games, anunció que el juego generó ingresos por 3.790 millones de dólares al cierre de su primer día a disposición. U…
+https://hipertextual.com/videojuegos/cifras-oficiales-ventas-gta-6/
+🗓️ 2026-11-20 • 🏷️ hipertextual.com
