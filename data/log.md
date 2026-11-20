@@ -7432,3 +7432,19 @@ https://www.muycomputer.com/2026/11/19/libernovo-arrasa-en-black-friday-con-desc
 🗓️ 2026-11-19 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-20
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 DDR6 será más rápida y pequeña, pero ¿superará la crisis de las memorias?
+JEDEC ha presentado una vista previa de las memorias DDR6, el estándar de memoria principal de próxima generación diseñado para satisfacer las crecientes demandas de la IA, la nube, los centros de datos, los servidores y también la computac…
+https://www.muycomputer.com/2026/11/20/ddr6-sera-mas-rapida-y-pequena-pero-superara-la-crisis-de-las-memorias/
+🗓️ 2026-11-20 • 🏷️ muycomputer.com
+
+---

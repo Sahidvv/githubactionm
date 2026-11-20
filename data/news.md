@@ -8203,3 +8203,9 @@ https://www.muycomputer.com/2026/11/19/libernovo-arrasa-en-black-friday-con-desc
 El segmento de plegables con formato wide está pronto a sumar un nuevo contrincante a modelos como el Samsung Galaxy Z Fold 8, el iPhone Duo y el Xiaomi 18 Fold. Se trata del Motorola Razr Flex, cuyas imágenes se han filtrado para revelar l…
 https://hipertextual.com/mobile/filtrado-motorola-razr-flex-imagenes/
 🗓️ 2026-11-19 • 🏷️ hipertextual.com
+
+### 2026-11-20T08:07:13.841Z
+📰 DDR6 será más rápida y pequeña, pero ¿superará la crisis de las memorias?
+JEDEC ha presentado una vista previa de las memorias DDR6, el estándar de memoria principal de próxima generación diseñado para satisfacer las crecientes demandas de la IA, la nube, los centros de datos, los servidores y también la computac…
+https://www.muycomputer.com/2026/11/20/ddr6-sera-mas-rapida-y-pequena-pero-superara-la-crisis-de-las-memorias/
+🗓️ 2026-11-20 • 🏷️ muycomputer.com
