@@ -7448,3 +7448,19 @@ https://www.muycomputer.com/2026/11/20/ddr6-sera-mas-rapida-y-pequena-pero-super
 🗓️ 2026-11-20 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-21
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Esta alternativa a NotebookLM funciona en tu PC en modo local y con la IA que tú elijas
+NotebookLM, rebautizada como Gemini Notebook, es una de las aplicaciones más acertadas de Google en los últimos años. A diferencia de Gemini, Notebook está pensado para utilizar tus propias fuentes para entrenar a la IA. Así, cuando le pide…
+https://hipertextual.com/guias/surfsense-alternativa-modelos-ia-gemini-notebook-notebooklm/
+🗓️ 2026-11-21 • 🏷️ hipertextual.com
+
+---

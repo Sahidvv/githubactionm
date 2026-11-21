@@ -8215,3 +8215,9 @@ https://www.muycomputer.com/2026/11/20/ddr6-sera-mas-rapida-y-pequena-pero-super
 El lanzamiento de GTA 6 ha sido incluso más exitoso de lo que se pensaba. Take-Two Interactive, la casa matriz de Rockstar Games, anunció que el juego generó ingresos por 3.790 millones de dólares al cierre de su primer día a disposición. U…
 https://hipertextual.com/videojuegos/cifras-oficiales-ventas-gta-6/
 🗓️ 2026-11-20 • 🏷️ hipertextual.com
+
+### 2026-11-21T08:01:06.927Z
+📰 Esta alternativa a NotebookLM funciona en tu PC en modo local y con la IA que tú elijas
+NotebookLM, rebautizada como Gemini Notebook, es una de las aplicaciones más acertadas de Google en los últimos años. A diferencia de Gemini, Notebook está pensado para utilizar tus propias fuentes para entrenar a la IA. Así, cuando le pide…
+https://hipertextual.com/guias/surfsense-alternativa-modelos-ia-gemini-notebook-notebooklm/
+🗓️ 2026-11-21 • 🏷️ hipertextual.com
