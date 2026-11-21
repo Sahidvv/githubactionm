@@ -8221,3 +8221,9 @@ https://hipertextual.com/videojuegos/cifras-oficiales-ventas-gta-6/
 NotebookLM, rebautizada como Gemini Notebook, es una de las aplicaciones más acertadas de Google en los últimos años. A diferencia de Gemini, Notebook está pensado para utilizar tus propias fuentes para entrenar a la IA. Así, cuando le pide…
 https://hipertextual.com/guias/surfsense-alternativa-modelos-ia-gemini-notebook-notebooklm/
 🗓️ 2026-11-21 • 🏷️ hipertextual.com
+
+### 2026-11-21T19:57:18.012Z
+📰 Las películas y libros de la saga ‘Los Juegos del Hambre’, ordenados de peor a mejor
+Los Juegos del Hambre: Amanecer en la cosecha, precuela de la franquicia Los Juegos del Hambre, deja algo claro. La saga marcó un antes y un después en el cine juvenil. En especial, porque se apartó de la mayor parte de los clichés sobre hé…
+https://hipertextual.com/cine-television/las-peliculas-y-libros-de-la-saga-los-juegos-del-hambre-ordenados-de-peor-a-mejor/
+🗓️ 2026-11-21 • 🏷️ hipertextual.com
