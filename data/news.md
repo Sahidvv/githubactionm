@@ -8233,3 +8233,9 @@ https://hipertextual.com/cine-television/las-peliculas-y-libros-de-la-saga-los-j
 Los Juegos del Hambre: Amanecer en la cosecha se estrena para expandir el universo de la saga original hacia nuevas regiones. En especial, al explorar una nueva faceta de la competencia mortal. La manera en que, además de ser una forma de a…
 https://hipertextual.com/cine-television/5-peliculas-que-ver-si-te-gusto-los-juegos-del-hambre-amanecer-en-la-cosecha/
 🗓️ 2026-11-21 • 🏷️ hipertextual.com
+
+### 2026-11-22T20:09:30.493Z
+📰 ChatGPT sin historial: así funciona el Chat temporal
+No todas las conversaciones que mantenemos con una inteligencia artificial necesitan quedarse guardadas. A veces solo queremos resolver una duda, explorar una idea o consultar algo sin volver a encontrarlo después entre nuestros chats. Para…
+https://www.muycomputer.com/2026/11/22/chatgpt-sin-historial-asi-funciona-el-chat-temporal/
+🗓️ 2026-11-22 • 🏷️ muycomputer.com
