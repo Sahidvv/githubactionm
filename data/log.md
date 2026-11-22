@@ -7464,3 +7464,19 @@ https://hipertextual.com/guias/surfsense-alternativa-modelos-ia-gemini-notebook-
 🗓️ 2026-11-21 • 🏷️ hipertextual.com
 
 ---
+## 2026-11-22
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 5 películas que ver si te gustó ‘Los Juegos del Hambre: Amanecer en la cosecha’
+Los Juegos del Hambre: Amanecer en la cosecha se estrena para expandir el universo de la saga original hacia nuevas regiones. En especial, al explorar una nueva faceta de la competencia mortal. La manera en que, además de ser una forma de a…
+https://hipertextual.com/cine-television/5-peliculas-que-ver-si-te-gusto-los-juegos-del-hambre-amanecer-en-la-cosecha/
+🗓️ 2026-11-21 • 🏷️ hipertextual.com
+
+---
