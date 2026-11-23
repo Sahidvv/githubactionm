@@ -8239,3 +8239,9 @@ https://hipertextual.com/cine-television/5-peliculas-que-ver-si-te-gusto-los-jue
 No todas las conversaciones que mantenemos con una inteligencia artificial necesitan quedarse guardadas. A veces solo queremos resolver una duda, explorar una idea o consultar algo sin volver a encontrarlo después entre nuestros chats. Para…
 https://www.muycomputer.com/2026/11/22/chatgpt-sin-historial-asi-funciona-el-chat-temporal/
 🗓️ 2026-11-22 • 🏷️ muycomputer.com
+
+### 2026-11-23T08:37:22.363Z
+📰 Black Friday 2026 en Plaud: 20 % de descuento en sus grabadoras de notas con IA
+Plaud ya tiene en marcha su Black Friday. Del 19 al 30 de noviembre aplica un 20 % de descuento a sus dos modelos más recientes, el Plaud Note Pro y el Plaud NotePin S, que se quedan en 149 y 142,90 euros respectivamente. También los puedes…
+https://www.muycomputer.com/2026/11/23/black-friday-2026-en-plaud-20-de-descuento-en-sus-grabadoras-de-notas-con-ia/
+🗓️ 2026-11-23 • 🏷️ muycomputer.com

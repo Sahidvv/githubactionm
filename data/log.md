@@ -7480,3 +7480,19 @@ https://hipertextual.com/cine-television/5-peliculas-que-ver-si-te-gusto-los-jue
 🗓️ 2026-11-21 • 🏷️ hipertextual.com
 
 ---
+## 2026-11-23
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 Black Friday 2026 en Plaud: 20 % de descuento en sus grabadoras de notas con IA
+Plaud ya tiene en marcha su Black Friday. Del 19 al 30 de noviembre aplica un 20 % de descuento a sus dos modelos más recientes, el Plaud Note Pro y el Plaud NotePin S, que se quedan en 149 y 142,90 euros respectivamente. También los puedes…
+https://www.muycomputer.com/2026/11/23/black-friday-2026-en-plaud-20-de-descuento-en-sus-grabadoras-de-notas-con-ia/
+🗓️ 2026-11-23 • 🏷️ muycomputer.com
+
+---
