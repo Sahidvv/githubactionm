@@ -8245,3 +8245,9 @@ https://www.muycomputer.com/2026/11/22/chatgpt-sin-historial-asi-funciona-el-cha
 Plaud ya tiene en marcha su Black Friday. Del 19 al 30 de noviembre aplica un 20 % de descuento a sus dos modelos más recientes, el Plaud Note Pro y el Plaud NotePin S, que se quedan en 149 y 142,90 euros respectivamente. También los puedes…
 https://www.muycomputer.com/2026/11/23/black-friday-2026-en-plaud-20-de-descuento-en-sus-grabadoras-de-notas-con-ia/
 🗓️ 2026-11-23 • 🏷️ muycomputer.com
+
+### 2026-11-24T00:36:19.255Z
+📰 Google teme que los agentes de IA se descontrolen y planea restringirlos en Chrome
+Google quiere limitar el poder de los agentes de IA dentro de Chrome. La compañía propone un sistema de permisos a nivel de navegador para controlar qué webs pueden visitar y qué acciones pueden realizar. La iniciativa surge tras la oleada …
+https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chrome-permisos-seguridad/
+🗓️ 2026-11-24 • 🏷️ hipertextual.com

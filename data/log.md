@@ -7496,3 +7496,19 @@ https://www.muycomputer.com/2026/11/23/black-friday-2026-en-plaud-20-de-descuent
 🗓️ 2026-11-23 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-24
+
+**English word:** *leverage* — use something to maximum advantage  
+_Eg:_ I leveraged past code to ship faster.
+
+**AI tip:** Empieza tus prompts con el **objetivo**, luego los **datos** y finalmente las **restricciones**.
+
+**Coding prompt:** Escribe una función que aplane arrays anidados arbitrariamente.
+
+**Tech news:**
+📰 Google teme que los agentes de IA se descontrolen y planea restringirlos en Chrome
+Google quiere limitar el poder de los agentes de IA dentro de Chrome. La compañía propone un sistema de permisos a nivel de navegador para controlar qué webs pueden visitar y qué acciones pueden realizar. La iniciativa surge tras la oleada …
+https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chrome-permisos-seguridad/
+🗓️ 2026-11-24 • 🏷️ hipertextual.com
+
+---
