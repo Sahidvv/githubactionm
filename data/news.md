@@ -8251,3 +8251,9 @@ https://www.muycomputer.com/2026/11/23/black-friday-2026-en-plaud-20-de-descuent
 Google quiere limitar el poder de los agentes de IA dentro de Chrome. La compañía propone un sistema de permisos a nivel de navegador para controlar qué webs pueden visitar y qué acciones pueden realizar. La iniciativa surge tras la oleada …
 https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chrome-permisos-seguridad/
 🗓️ 2026-11-24 • 🏷️ hipertextual.com
+
+### 2026-11-24T10:41:46.008Z
+📰 ¡Ya es oficial! &#8216;Ted Lasso&#8217; tendrá temporada 5 en Apple TV
+Tan solo unos pocos meses después del final de su temporada 4, Apple ha renovado oficialmente Ted Lasso para una temporada 5. Su exitosa serie regresará una vez más, curiosamente, después de que llegase a su presunto final en la tercera ent…
+https://hipertextual.com/cine-television/ya-es-oficial-ted-lasso-tendra-temporada-5-en-apple-tv/
+🗓️ 2026-11-24 • 🏷️ hipertextual.com
