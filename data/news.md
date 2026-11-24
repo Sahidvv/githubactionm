@@ -8257,3 +8257,9 @@ https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chro
 Tan solo unos pocos meses después del final de su temporada 4, Apple ha renovado oficialmente Ted Lasso para una temporada 5. Su exitosa serie regresará una vez más, curiosamente, después de que llegase a su presunto final en la tercera ent…
 https://hipertextual.com/cine-television/ya-es-oficial-ted-lasso-tendra-temporada-5-en-apple-tv/
 🗓️ 2026-11-24 • 🏷️ hipertextual.com
+
+### 2026-11-24T22:55:23.751Z
+📰 ¿Tu PC va más lento? Este ajuste de Chrome podría estar consumiendo RAM sin que lo sepas
+El consumo de memoria ha sido el talón de Aquiles de Chrome durante muchos años y las cosas no parecen mejorar. El navegador de Google nuevamente vuelve al centro de la polémica luego de que se descubriera que consume una cantidad grosera d…
+https://hipertextual.com/internet/chrome-consume-ram-cerrado-culpa-gemini/
+🗓️ 2026-11-24 • 🏷️ hipertextual.com
