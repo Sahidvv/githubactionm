@@ -8263,3 +8263,9 @@ https://hipertextual.com/cine-television/ya-es-oficial-ted-lasso-tendra-temporad
 El consumo de memoria ha sido el talón de Aquiles de Chrome durante muchos años y las cosas no parecen mejorar. El navegador de Google nuevamente vuelve al centro de la polémica luego de que se descubriera que consume una cantidad grosera d…
 https://hipertextual.com/internet/chrome-consume-ram-cerrado-culpa-gemini/
 🗓️ 2026-11-24 • 🏷️ hipertextual.com
+
+### 2026-11-25T09:35:49.023Z
+📰 Almacenamiento que crece sumando nodos
+Una organización acumula archivos y material audiovisual durante años. Una biblioteca audiovisual en crecimiento sirve como ejemplo hipotético: los usuarios siguen abriendo la misma carpeta compartida, aunque lo que hay detrás ya no admite …
+https://www.muycomputerpro.com/2026/11/25/almacenamiento-que-crece-sumando-nodos
+🗓️ 2026-11-25 • 🏷️ muycomputerpro.com

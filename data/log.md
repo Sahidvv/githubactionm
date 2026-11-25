@@ -7512,3 +7512,19 @@ https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chro
 🗓️ 2026-11-24 • 🏷️ hipertextual.com
 
 ---
+## 2026-11-25
+
+**English word:** *trade-off* — a balance between two desirable but incompatible features  
+_Eg:_ We chose speed over accuracy as a trade-off.
+
+**AI tip:** Guarda ejemplos buenos en un archivo y reutilízalos como *few-shots* para tareas similares.
+
+**Coding prompt:** Implementa un *debounce* y *throttle* puros en JavaScript.
+
+**Tech news:**
+📰 Almacenamiento que crece sumando nodos
+Una organización acumula archivos y material audiovisual durante años. Una biblioteca audiovisual en crecimiento sirve como ejemplo hipotético: los usuarios siguen abriendo la misma carpeta compartida, aunque lo que hay detrás ya no admite …
+https://www.muycomputerpro.com/2026/11/25/almacenamiento-que-crece-sumando-nodos
+🗓️ 2026-11-25 • 🏷️ muycomputerpro.com
+
+---
