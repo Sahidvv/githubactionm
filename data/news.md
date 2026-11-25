@@ -8269,3 +8269,9 @@ https://hipertextual.com/internet/chrome-consume-ram-cerrado-culpa-gemini/
 Una organización acumula archivos y material audiovisual durante años. Una biblioteca audiovisual en crecimiento sirve como ejemplo hipotético: los usuarios siguen abriendo la misma carpeta compartida, aunque lo que hay detrás ya no admite …
 https://www.muycomputerpro.com/2026/11/25/almacenamiento-que-crece-sumando-nodos
 🗓️ 2026-11-25 • 🏷️ muycomputerpro.com
+
+### 2026-11-25T22:08:56.343Z
+📰 La forma más inesperada de usar Windows XP en 2026 está dentro de Linux
+Windows XP fue una de las versiones más emblemáticas del sistema operativo de Microsoft. A más de dos décadas de su lanzamiento, la nostalgia sigue muy viva y alguien ya la llevó al siguiente nivel. Un desarrollador consiguió ejecutar el es…
+https://hipertextual.com/tecnologia/windows-xp-linux-win4wine-proyecto/
+🗓️ 2026-11-25 • 🏷️ hipertextual.com
