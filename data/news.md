@@ -8275,3 +8275,9 @@ https://www.muycomputerpro.com/2026/11/25/almacenamiento-que-crece-sumando-nodos
 Windows XP fue una de las versiones más emblemáticas del sistema operativo de Microsoft. A más de dos décadas de su lanzamiento, la nostalgia sigue muy viva y alguien ya la llevó al siguiente nivel. Un desarrollador consiguió ejecutar el es…
 https://hipertextual.com/tecnologia/windows-xp-linux-win4wine-proyecto/
 🗓️ 2026-11-25 • 🏷️ hipertextual.com
+
+### 2026-11-26T09:11:28.458Z
+📰 Sandisk defiende los SSD de gran capacidad como «baterías de tokens» para la IA
+Sandisk calcula que los sistemas de IA del mundo generan hoy unos 5.000 millones de tokens por segundo y que podrían llegar a 317.000 millones por segundo en 2030. Son más de 60 veces la cifra actual, en torno a 10 trillones de tokens al añ…
+https://www.muycomputerpro.com/2026/11/26/sandisk-tokenomics-2030-ssd-gran-capacidad-baterias-tokens-ia
+🗓️ 2026-11-26 • 🏷️ muycomputerpro.com

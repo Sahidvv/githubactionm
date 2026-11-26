@@ -7528,3 +7528,19 @@ https://www.muycomputerpro.com/2026/11/25/almacenamiento-que-crece-sumando-nodos
 🗓️ 2026-11-25 • 🏷️ muycomputerpro.com
 
 ---
+## 2026-11-26
+
+**English word:** *scalable* — able to grow without losing performance  
+_Eg:_ We designed a scalable API from day one.
+
+**AI tip:** Divide tareas grandes en pasos y valida cada salida antes de seguir (*chain-of-thought externo*).
+
+**Coding prompt:** Crea una mini API REST con Node que exponga `/health` y `/time`.
+
+**Tech news:**
+📰 Sandisk defiende los SSD de gran capacidad como «baterías de tokens» para la IA
+Sandisk calcula que los sistemas de IA del mundo generan hoy unos 5.000 millones de tokens por segundo y que podrían llegar a 317.000 millones por segundo en 2030. Son más de 60 veces la cifra actual, en torno a 10 trillones de tokens al añ…
+https://www.muycomputerpro.com/2026/11/26/sandisk-tokenomics-2030-ssd-gran-capacidad-baterias-tokens-ia
+🗓️ 2026-11-26 • 🏷️ muycomputerpro.com
+
+---
