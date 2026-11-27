@@ -7544,3 +7544,19 @@ https://www.muycomputerpro.com/2026/11/26/sandisk-tokenomics-2030-ssd-gran-capac
 🗓️ 2026-11-26 • 🏷️ muycomputerpro.com
 
 ---
+## 2026-11-27
+
+**English word:** *insight* — an accurate and deep understanding  
+_Eg:_ User interviews gave us key insights.
+
+**AI tip:** Usa *schemas* JSON para obtener respuestas estructuradas y fáciles de parsear.
+
+**Coding prompt:** Convierte texto a *slug* cuidando acentos y caracteres especiales.
+
+**Tech news:**
+📰 ¿PC nuevo este Black Friday? Windows 11 desde 15 €: ¿qué edición te conviene?
+Cuando encuentras un PC que encaja con lo que buscas este Black Friday, es fácil fijarse en el procesador, la memoria o el almacenamiento y pasar por alto una línea de la ficha: la del sistema operativo. Puede que el equipo ya incluya Windo…
+https://www.muycomputer.com/2026/11/27/pc-nuevo-este-black-friday-windows-11-desde-15-e-que-edicion-te-conviene/
+🗓️ 2026-11-27 • 🏷️ muycomputer.com
+
+---
