@@ -8293,3 +8293,9 @@ https://hipertextual.com/videojuegos/gta-6-rob-nelson-mayor-secreto-a-salvo-rock
 Cuando encuentras un PC que encaja con lo que buscas este Black Friday, es fácil fijarse en el procesador, la memoria o el almacenamiento y pasar por alto una línea de la ficha: la del sistema operativo. Puede que el equipo ya incluya Windo…
 https://www.muycomputer.com/2026/11/27/pc-nuevo-este-black-friday-windows-11-desde-15-e-que-edicion-te-conviene/
 🗓️ 2026-11-27 • 🏷️ muycomputer.com
+
+### 2026-11-27T21:49:21.286Z
+📰 Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física
+Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing
+https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html
+🗓️ 2026-11-27 • 🏷️ elpais.com
