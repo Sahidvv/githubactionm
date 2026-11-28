@@ -7560,3 +7560,19 @@ https://www.muycomputer.com/2026/11/27/pc-nuevo-este-black-friday-windows-11-des
 🗓️ 2026-11-27 • 🏷️ muycomputer.com
 
 ---
+## 2026-11-28
+
+**English word:** *resilient* — able to recover quickly from difficulties  
+_Eg:_ The system is resilient to network failures.
+
+**AI tip:** Evalúa tus prompts con casos reales y mide precisión, cobertura y tiempo.
+
+**Coding prompt:** Escribe tests para una función `sum` usando solo `assert` nativo.
+
+**Tech news:**
+📰 El CEO de ARM amplía contrato y responsabilidades tras el descarte como CEO de NVIDIA
+El CEO de ARM, René Haas, ha ampliado su contrato hasta 2033. Además, cuando la prórroga entre en vigor el 1 de diciembre, se convertirá en vicepresidente de SoftBank Group, escalando en responsabilidades en el gigante de inversión japonés …
+https://www.muycomputerpro.com/2026/11/28/el-ceo-de-arm-amplia-contrato-y-responsabilidades-tras-el-descarte-como-ceo-de-nvidia
+🗓️ 2026-11-28 • 🏷️ muycomputerpro.com
+
+---

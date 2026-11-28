@@ -8299,3 +8299,9 @@ https://www.muycomputer.com/2026/11/27/pc-nuevo-este-black-friday-windows-11-des
 Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing
 https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html
 🗓️ 2026-11-27 • 🏷️ elpais.com
+
+### 2026-11-28T08:41:47.911Z
+📰 El CEO de ARM amplía contrato y responsabilidades tras el descarte como CEO de NVIDIA
+El CEO de ARM, René Haas, ha ampliado su contrato hasta 2033. Además, cuando la prórroga entre en vigor el 1 de diciembre, se convertirá en vicepresidente de SoftBank Group, escalando en responsabilidades en el gigante de inversión japonés …
+https://www.muycomputerpro.com/2026/11/28/el-ceo-de-arm-amplia-contrato-y-responsabilidades-tras-el-descarte-como-ceo-de-nvidia
+🗓️ 2026-11-28 • 🏷️ muycomputerpro.com
